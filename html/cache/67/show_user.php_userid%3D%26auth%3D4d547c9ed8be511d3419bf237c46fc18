@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2580</id>
+    <cpid>3491ddeff188ba5ca04bc36f1889ae1e</cpid>
+    <create_time>1283273975</create_time>
+    <name>xBeezleBugx</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1283273975</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5266</id>
+        <create_time>1283274160</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>5b6ae5c618277f712c6306d99798cc68</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283274160</expavg_time>
+        <domain_name>SRV2008HPC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2656454150.7481</p_fpops>
+        <p_iops>7820316753.8763</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Cluster Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5290</id>
+        <create_time>1283517354</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>62fb22f2c55fe37804949826e153f7df</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283517354</expavg_time>
+        <domain_name>lars-tonnes-macbook-pro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8700 @ 2.53GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2938875659.97732</p_fpops>
+        <p_iops>6694470401.42502</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5267</id>
+        <create_time>1283274282</create_time>
+        <rpc_seqno>39</rpc_seqno>
+        <host_cpid>4500d67503a650159bc2f683002b0278</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283274282</expavg_time>
+        <domain_name>WKS01</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3106070056.94253</p_fpops>
+        <p_iops>9651443151.88376</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

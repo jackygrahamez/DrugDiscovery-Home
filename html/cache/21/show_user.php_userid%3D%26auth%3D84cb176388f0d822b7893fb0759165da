@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2273</id>
+    <cpid>1e149f8a4946c6c22ed5b814724d5429</cpid>
+    <create_time>1278399632</create_time>
+    <name>PLGrigorij</name>
+    <country>Poland</country>
+    <total_credit>1269.904587</total_credit>
+    <expavg_credit>0.097658</expavg_credit>
+    <expavg_time>1295123103.1316</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4575</id>
+        <create_time>1278435856</create_time>
+        <rpc_seqno>110</rpc_seqno>
+        <host_cpid>29f1cf0e0cfc413a5cae94fd61960111</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278435856</expavg_time>
+        <domain_name>GLIG</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M CPU        430  @ 1.73GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1543199984.23562</p_fpops>
+        <p_iops>3022742511.73531</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4568</id>
+        <create_time>1278399798</create_time>
+        <rpc_seqno>646</rpc_seqno>
+        <host_cpid>08f9250b3b7929b00b7cd49e4b87c623</host_cpid>
+        <total_credit>1269.904587</total_credit>
+        <expavg_credit>0.097657</expavg_credit>
+        <expavg_time>1295123103.6273</expavg_time>
+        <domain_name>grzegorzg_win7</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2649892298.7836</p_fpops>
+        <p_iops>7803043219.61907</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

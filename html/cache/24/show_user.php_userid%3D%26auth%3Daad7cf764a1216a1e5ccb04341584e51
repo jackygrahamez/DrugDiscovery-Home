@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1386</id>
+    <cpid>bd851966f5f26f60175b95baa82d837c</cpid>
+    <create_time>1266473109</create_time>
+    <name>cebi</name>
+    <country>Poland</country>
+    <total_credit>167.861571</total_credit>
+    <expavg_credit>0.05515</expavg_credit>
+    <expavg_time>1315247103.28431</expavg_time>
+    <teamid>803</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2418</id>
+        <create_time>1266473251</create_time>
+        <rpc_seqno>58</rpc_seqno>
+        <host_cpid>b60a4a3b7f26eedb25af9087b839dd8f</host_cpid>
+        <total_credit>122.986454</total_credit>
+        <expavg_credit>0.090265</expavg_credit>
+        <expavg_time>1271476803.37722</expavg_time>
+        <domain_name>cougar</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2500+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1582339955.84989</p_fpops>
+        <p_iops>2609604227.01518</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8151</id>
+        <create_time>1300703681</create_time>
+        <rpc_seqno>210</rpc_seqno>
+        <host_cpid>a65a19d13b9e5628a45567e0ece3b3d5</host_cpid>
+        <total_credit>44.875117</total_credit>
+        <expavg_credit>0.055208</expavg_credit>
+        <expavg_time>1315247104.79328</expavg_time>
+        <domain_name>Rafal-Dell</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6670  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2266526910.01392</p_fpops>
+        <p_iops>4654759628.81096</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

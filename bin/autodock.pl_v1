@@ -1,0 +1,343 @@
+#!/usr/bin/perl
+# Sets the projec directory
+$PROJECT="/home/boincadm/projects/DrugDiscovery/";
+$autodock_prep=$PROJECT."autodock_prep/";
+
+print $wu_name."\n";
+#use the Cwd methods
+        use Cwd;
+#save the original directory path
+        my $orig_dir = Cwd::abs_path;
+print "my directory: " . $orig_dir."\n";
+
+# Sets the ligand file index of ligands we have
+$ligand_file_name="/home/boincadm/projects/DrugDiscovery/bin/concord_index.txt";
+
+# opens the ligand file index
+open (LIGAND_FILE,$ligand_file_name) or die ("Error trying to open the ligand file.\n");
+# Skipping all receptors yet processed for this ligand
+
+$ga=$ARGV[0];
+chomp($ga);
+
+$target=$ARGV[1];
+chomp($target);
+
+#Set Variables
+#Project Directory
+$rsc_fpops_est = ($ga * 1955928030229 * 0.1);
+$rsc_fpops_bound = ($rsc_fpops_est * 1000);
+$delay_bound = ($rsc_fpops_est * 10);
+$weight = $ga * 10;
+
+$job="<job_desc>
+    <task>
+        <application>unzip</application>
+        <command_line> -qq -o \"./MGLTools*.zip\" -d \".\"</command_line>
+	<weight>1</weight>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <command_line> e ligand.mol2.7z</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>make_sitecustomize.py \".\"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/Support/sitecustomize.py\"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py\" -l ligand.mol2 -o ligand.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py\" -U nphs_lps_waters -r receptor.pdb -o receptor.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>        
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_gpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p custom_parameter_file=1 -p parameter_file=AD4_parameters.dat</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autogrid</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p receptor.gpf -l out.glg </command_line>
+        <weight>1</weight>
+    </task>    
+    <task>
+        <application>autodock</application>        
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out.dlg</command_line>
+        <weight>".$weight."</weight>
+	<fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> a out.7z out.dlg out.glg receptor.gpf ligand_receptor.dpf job.xml</command_line>
+        <weight>1</weight>
+    </task>
+</job_desc>";
+
+
+# Sets the ligand file index of ligands we have
+$ligand_file_name="/home/boincadm/projects/DrugDiscovery/bin/concord_index.txt";
+
+# opens the ligand file index
+open (LIGAND_FILE,$ligand_file_name) or die ("Error trying to open the ligand file.\n");
+# Skipping all receptors yet processed for this ligand
+
+# Reads the substring of the job file takes off the last 4 characters
+#$job=substr($job_file, 0, length($job_file)-4);
+
+# prints the output so we can debug
+$old_ligand="";
+
+# go through the list of ligands from that ligand index
+ do {$new_ligand = <LIGAND_FILE>; 
+	chomp ($new_ligand);
+
+$ARG1="rm -rf ".$autodock_prep;
+print $ARG1 . "\n";
+system($ARG1);
+
+$ARG1="mkdir ".$autodock_prep; 
+print $ARG1 . "\n";
+system($ARG1);
+
+$ARG1="cp ".$target." ".$autodock_prep."ProteinAmber.pdb";
+print $ARG1 . "\n";
+system($ARG1);
+
+sleep(1);
+
+#use the Cwd methods
+        use Cwd;
+#save the original directory path
+        my $orig_dir = Cwd::abs_path;
+#clean the path string
+        chomp($autodock_prep);
+#change to new directory
+        chdir($autodock_prep);
+
+sleep(5);
+
+#Prep the Protein2.pb useing pdb2gmx
+        $ARG8="pdb2gmx -ff amber99sb -f ProteinAmber.pdb -o Protein2.pdb -p Protein.top -water spce -ignh";
+        print $ARG8 . "\n";
+        system($ARG8);
+
+sleep(1);
+
+#Extract the ATOM Residues from Protein2.pdb and Ligand_NEW.pdb and redirect to Complex.pdb
+#        $ARG9="grep -h ATOM Protein2.pdb Ligand.acpypi/Ligand_NEW.pdb >| Complex.pdb";
+#        print $ARG9 . "\n";
+#        system($ARG9);
+
+#sleep(1);
+
+#Copy the Ligand_GMX.itp to Ligand.itp
+#        $ARG10="cp Ligand.acpypi/Ligand_GMX.itp Ligand.itp";
+#        print $ARG10 . "\n";
+#        system($ARG10);
+
+#sleep(1);
+
+#Copy the Protein topology file to Complex.top
+#        $ARG11="cp Protein.top Complex.top";
+#        print $ARG11 . "\n";
+#        system($ARG11);
+
+sleep(1);
+
+#Copy the Complex.top and insert #include "Ligand.itp" into new file Complex2.top
+#        $ARG12="cat Complex.top | sed '/#include\ \\\"ffamber99sb.itp\\\"/a \#include \"Ligand.itp\"' >| Complex2.top";
+#        print $ARG12 . "\n";
+#        system($ARG12);
+
+#sleep(1);
+
+#append Ligand   1 to Complex2.top
+#        $ARG13="echo \"Ligand   1\" >> Complex2.top";
+#        print $ARG13 . "\n";
+#        system($ARG13);
+
+#sleep(1);
+
+#Rename the Complex2.top to Complex.top
+#        $ARG14="mv Complex2.top Complex.top";
+#        print $ARG14 . "\n";
+#        system($ARG14);
+
+#sleep(1);
+
+#Copy the em.mdp parameter file to current working directory
+        $ARG15="cp ".$PROJECT."/bin/em.mdp .";
+        print $ARG15 . "\n";
+        system($ARG15);
+
+sleep(1);
+
+#Run editconf on the Complex.pdb
+        $ARG15="editconf -bt triclinic -f Protein2.pdb -o Protein2.pdb -d 1.0";
+        print $ARG15 . "\n";
+        system($ARG15);
+
+sleep(1);
+
+#Run genbox on Complex.pdb
+        $ARG16="genbox -cp Complex.pdb -cs ffamber_tip3p.gro -o Complex_b4ion.pdb -p Complex.top";
+        print $ARG16 . "\n";
+        system($ARG16);
+
+sleep(1);
+
+#Run grompp
+        $ARG17="grompp -f em.mdp -c Complex_b4ion.pdb -p Complex.top -o Complex_b4ion.tpr";
+        print $ARG17 . "\n";
+        system($ARG17);
+
+sleep(1);
+
+#copy the Complex.top to Complex_ion.top
+        $ARG18="cp Complex.top Complex_ion.top";
+        print $ARG18 . "\n";
+        system($ARG18);
+
+sleep(1);
+
+#Run genion
+        $ARG19="echo 13| genion -s Complex_b4ion.tpr -o Complex_b4em.pdb -neutral -conc 0.15 -p Complex_ion.top -norandom";
+        print $ARG19 . "\n";
+        system($ARG19);
+
+sleep(1);
+
+#rename the Complex_ion.top Complex.top
+        $ARG20="mv Complex_ion.top Complex.top";
+        print $ARG20 . "\n";
+        system($ARG20);
+
+sleep(1);
+
+#Run the grompp
+        $ARG21="grompp -f em.mdp -c Complex_b4em.pdb -p Complex.top -o em.tpr";
+        print $ARG21 . "\n";
+        system($ARG21);
+
+my $timeout = 180;
+my $pid = fork;
+
+if ( defined $pid ) {
+  if ( $pid ) {
+      # this is the parent process
+      local $SIG{ALRM} = sub { die "TIMEOUT" };
+      alarm 300;
+      # wait until child returns or timeout occurs
+      eval {
+          waitpid( $pid, 0 );
+      };
+      alarm 0;
+
+      if ( $@ && $@ =~ m/TIMEOUT/ ) {
+          # timeout, kill the child process
+          kill 9, $pid;
+      }
+  }
+  else {
+      # this is the child process
+      # this call will never return. Note the use of exec instead of system
+      exec "mdrun -v -deffnm em -maxh 0.08 -c p_refined.pdb";
+  }
+}
+else {
+  die "Could not fork.";
+}
+
+$df=`df | head -n 3 | tail -n 1 | awk \'{ print substr( \$0, length(\$0) - 4, 2 ) }\'`;
+chomp($df);
+$df=$df-1;
+print $df."% full\n";
+if ($df >50) {
+print "over 50% full \n";
+sleep(3600);
+}
+
+
+#change to new directory
+        chdir($PROJECT);
+
+# error check to make sure the ligand file has data
+if (length($new_ligand) > 1) {
+
+#print $job ."\n";
+
+        open (MYFILE, ">>".$PROJECT."/job_".$ga.".xml");
+        print MYFILE $job."\n";
+        close (MYFILE);
+
+chdir($orig_dir);
+
+# create a time stamp
+$time=`date '+%s%N'`;
+chomp ($time);
+
+# copy the ligand file from our ligand directory and place in download. Note simply copy and paste wont work
+# BOINC requires you place input in a special directory that is specified by dir_hier_path
+$ARG1="cp ".$PROJECT."chemdiv/nodelete_".$new_ligand.".7z \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path ".$new_ligand."_".$time.".7z\`";
+print $ARG1 ."\n";
+
+# Use system because other methods of running system commands will not wait until termination.
+# For example if you run backtick with these copies, files will not be in the download directory when expected
+system($ARG1);
+
+# Copy the job file
+$ARG2="mv ".$PROJECT."job_".$ga.".xml \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path job_".$ga."_".$time."\`";
+print $ARG2 ."\n";
+system($ARG2);
+
+# copy the protein!
+$ARG3="cp ".$autodock_prep."p_refined.pdb \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path p_refined_".$target.".pdb".$time."\`";
+print $ARG3 ."\n";
+system($ARG3);
+
+# Now we create the workunit!!!! we give it a name specific to the job file_ligand_timestamp
+$ARG3=$PROJECT."bin/create_work -appname autodock_mgl -wu_name autodock_ga_run_".$ga."_".$new_ligand."_".$time." -wu_template /home/boincadm/projects/DrugDiscovery/templates/ad_wu_mgl -result_template ../templates/ad_mgl_result --rsc_fpops_est ".$rsc_fpops_est." --rsc_fpops_bound ".$rsc_fpops_bound." --delay_bound ".$delay_bound." ".$new_ligand."_".$time.".7z fzd8min_renum_SS.pdb".$time." job_".$ga."_".$time;
+#sleep(60);
+# summary_job4.txt";
+# pal_wnt_bind.txt";
+
+	print $ARG3 . "\n";
+
+	# runs the create project script
+	system($ARG3) == 0
+        or die "system @ARG3 failed: $?";
+	sleep(10);
+}
+
+    } while ($new_ligand ne $old_ligand);
+
+close (LIGAND_FILE);
+
+chdir($orig_dir);
+

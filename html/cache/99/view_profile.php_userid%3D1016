@@ -1,0 +1,90 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1016";s:11:"create_time";s:10:"1258101266";s:10:"email_addr";s:15:"test1001@sms.at";s:4:"name";s:32:"twister@austria-national-team.at";s:13:"authenticator";s:32:"a506a473f22190d9cfd2bd21a973e155";s:7:"country";s:7:"Austria";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"791.93722560476";s:13:"expavg_credit";s:8:"0.071994";s:11:"expavg_time";s:16:"1265904303.38638";s:12:"global_prefs";s:3154:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1261494295</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>180</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>10</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>1.5</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+<venue name="home">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>7</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>10</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"682";s:5:"venue";s:0:"";s:3:"url";s:28:"www.austria-national-team.at";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"b9160adbddac17d476a095ae878e003e";s:11:"passwd_hash";s:32:"1928bdc0e773a31a0338f5c1f9afc997";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"682";s:11:"create_time";s:10:"1258105838";s:6:"userid";s:4:"1016";s:4:"name";s:29:"AUSTRIA  -  NATIONAL  -  TEAM";s:7:"name_lc";s:29:"austria  -  national  -  team";s:3:"url";s:28:"www.austria-national-team.at";s:4:"type";s:1:"9";s:9:"name_html";s:0:"";s:11:"description";s:305:"++++NEU++++NEU++++NEU++++NEU++++NEU++++NEU++++<br>
+<br>
+Unser Team ist nun bei fast allen Projekten dabei!!!<br>
+<br>
+Jeder ist herzlich eingeladen seine Rechenleistung unserem Team beizusteuern, und sei Sie auch noch so klein.<br>
+<br><br>
+Ein Danke an alle Mitglieder die bei uns sind.
+<br>
+<br>";s:6:"nusers";s:1:"1";s:7:"country";s:7:"Austria";s:12:"total_credit";s:15:"791.93722560476";s:13:"expavg_credit";s:8:"0.071994";s:11:"expavg_time";s:16:"1265904303.67918";s:7:"seti_id";s:3:"168";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

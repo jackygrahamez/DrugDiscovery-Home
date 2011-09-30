@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2865</id>
+    <cpid>536adf47e0e72409e2f8b9f4f41432e0</cpid>
+    <create_time>1287886842</create_time>
+    <name>digi_joei</name>
+    <country>United States</country>
+    <total_credit>132.852667</total_credit>
+    <expavg_credit>0.077635</expavg_credit>
+    <expavg_time>1312143302.53567</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5944</id>
+        <create_time>1287888180</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>7cb6b8472a2ee06cf7300586e9b811a8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287888180</expavg_time>
+        <domain_name>my-shizzle</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-58 [AMD64 Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>1792712103.66941</p_fpops>
+        <p_iops>2862383339.54017</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Editon, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6536</id>
+        <create_time>1290755475</create_time>
+        <rpc_seqno>542</rpc_seqno>
+        <host_cpid>71392fa0ed8d70bb574f21e910f86b40</host_cpid>
+        <total_credit>132.852667</total_credit>
+        <expavg_credit>0.077635</expavg_credit>
+        <expavg_time>1312143302.82575</expavg_time>
+        <domain_name>ups</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1348431006.56374</p_fpops>
+        <p_iops>2500570522.31341</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

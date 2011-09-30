@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4483</id>
+    <cpid>765d62853a1e43e041249083c62b9af5</cpid>
+    <create_time>1303638774</create_time>
+    <name>McCavity</name>
+    <country>Germany</country>
+    <total_credit>57.569541</total_credit>
+    <expavg_credit>0.054767</expavg_credit>
+    <expavg_time>1312748102.62511</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8587</id>
+        <create_time>1303991834</create_time>
+        <rpc_seqno>298</rpc_seqno>
+        <host_cpid>25e993d97ad83e6df646280d0cc8a665</host_cpid>
+        <total_credit>36.282767</total_credit>
+        <expavg_credit>0.081242</expavg_credit>
+        <expavg_time>1312143302.84701</expavg_time>
+        <domain_name>henning-halfpaps-macbook-pro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T9600 @ 2.80GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3267371579.38149</p_fpops>
+        <p_iops>6712193904.57796</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8589</id>
+        <create_time>1304001639</create_time>
+        <rpc_seqno>139</rpc_seqno>
+        <host_cpid>ec8e3d3f3c215a6f2db54ef464eb559a</host_cpid>
+        <total_credit>21.286774</total_credit>
+        <expavg_credit>0.085852</expavg_credit>
+        <expavg_time>1310933703.10507</expavg_time>
+        <domain_name>sende-pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3069812809.29499</p_fpops>
+        <p_iops>6059096628.29808</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8797</id>
+        <create_time>1305552549</create_time>
+        <rpc_seqno>1014</rpc_seqno>
+        <host_cpid>6755ed2aca14b134dde8f54dac197be1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305552549</expavg_time>
+        <domain_name>Macintosh-9.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook5,8] [AltiVec]</p_model>
+        <p_fpops>1057180659.36037</p_fpops>
+        <p_iops>3305633723.93198</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>9.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

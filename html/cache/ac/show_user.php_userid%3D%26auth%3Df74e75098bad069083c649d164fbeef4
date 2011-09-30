@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1788</id>
+    <cpid>87e194c1646b0312c38218fe0c093e12</cpid>
+    <create_time>1270676238</create_time>
+    <name>fellie</name>
+    <country>United Kingdom</country>
+    <total_credit>19079.905477196</total_credit>
+    <expavg_credit>7.078957</expavg_credit>
+    <expavg_time>1315852265.23087</expavg_time>
+    <teamid>551</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3361</id>
+        <create_time>1270676495</create_time>
+        <rpc_seqno>3928</rpc_seqno>
+        <host_cpid>d3358d1e0447a6c085984b5ad5e2c2dc</host_cpid>
+        <total_credit>7111.4201561935</total_credit>
+        <expavg_credit>7.078957</expavg_credit>
+        <expavg_time>1315852265.23114</expavg_time>
+        <domain_name>fellie-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2451028506.41195</p_fpops>
+        <p_iops>5070919919.87058</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3362</id>
+        <create_time>1270677440</create_time>
+        <rpc_seqno>2247</rpc_seqno>
+        <host_cpid>8ca9000870168f4b6d318eb374947907</host_cpid>
+        <total_credit>8764.847917</total_credit>
+        <expavg_credit>0.071189</expavg_credit>
+        <expavg_time>1287865502.90666</expavg_time>
+        <domain_name>Laptop-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual-Core Processor TK-57 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1856599029.85585</p_fpops>
+        <p_iops>3322981609.86032</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3449</id>
+        <create_time>1271191838</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>78639ab3785d502f5728275a2b2cfa06</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271191838</expavg_time>
+        <domain_name>lynn-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>717966059.796564</p_fpops>
+        <p_iops>1546870113.97453</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5297</id>
+        <create_time>1283604070</create_time>
+        <rpc_seqno>998</rpc_seqno>
+        <host_cpid>c6d62fcb45e61c476e396412c59152a7</host_cpid>
+        <total_credit>1431.389158</total_credit>
+        <expavg_credit>0.0629</expavg_credit>
+        <expavg_time>1304885404.82411</expavg_time>
+        <domain_name>laptop-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual-Core Processor TK-57 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1865909677.41935</p_fpops>
+        <p_iops>3371702069.95603</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6016</id>
+        <create_time>1288469024</create_time>
+        <rpc_seqno>1209</rpc_seqno>
+        <host_cpid>c8fff7e761092c909d20032030507a0e</host_cpid>
+        <total_credit>1772.248246</total_credit>
+        <expavg_credit>0.056694</expavg_credit>
+        <expavg_time>1298837103.74808</expavg_time>
+        <domain_name>Hayley-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6400  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2085577139.92389</p_fpops>
+        <p_iops>4164388982.4417</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,65 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"551";s:11:"create_time";s:10:"1242163222";s:6:"userid";s:4:"1167";s:4:"name";s:13:"UK BOINC Team";s:7:"name_lc";s:13:"uk boinc team";s:3:"url";s:41:"www.ukboincteam.org.uk/uk-boinc-team.html";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:166:"<img src='http://www.ukboincteam.org.uk/ubt-600.gif'><br />
+<br />
+<a href='http://www.ukboincteam.org.uk/uk-boinc-team-forum.html'>Our Team forum</a><br />
+<br />";s:6:"nusers";s:2:"23";s:7:"country";s:14:"United Kingdom";s:12:"total_credit";s:15:"99791.121560106";s:13:"expavg_credit";s:9:"13.795393";s:11:"expavg_time";s:16:"1317294964.26788";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:2:"22";s:13:"nusers_active";s:1:"7";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"1167";s:11:"create_time";s:10:"1263836393";s:10:"email_addr";s:23:"darren@icandothis.co.uk";s:4:"name";s:6:"Darren";s:13:"authenticator";s:32:"9f95385ad02dbfd05e4aa2f6aa80d6f5";s:7:"country";s:14:"United Kingdom";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"7391.4898917137";s:13:"expavg_credit";s:8:"0.068095";s:11:"expavg_time";s:16:"1275105603.08682";s:12:"global_prefs";s:1930:"<global_preferences>
+    <source_project>http://www.chess960athome.org/alpha/</source_project>
+    <source_scheduler>http://www.chess960athome.org/alpha_cgi/cgi</source_scheduler>
+<mod_time>1259090728</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed/>
+<work_buf_min_days>2</work_buf_min_days>
+<max_cpus>16</max_cpus>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+<venue name="work">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>10</work_buf_min_days>
+<max_cpus>16</max_cpus>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>95</vm_max_used_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+<venue name="school">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>45</idle_time_to_run>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed/>
+<work_buf_min_days>10</work_buf_min_days>
+<max_cpus>16</max_cpus>
+<disk_interval>120</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>95</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>85</vm_max_used_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"551";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"8553df508fd9e56813d6030aa6feb0df";s:11:"passwd_hash";s:32:"917c6c4e3cc4df49b2aec3cd5ae22cc4";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

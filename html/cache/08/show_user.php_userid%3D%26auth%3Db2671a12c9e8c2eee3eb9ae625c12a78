@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1963</id>
+    <cpid>90e03ed6095781001e5b772532fecb8a</cpid>
+    <create_time>1273089021</create_time>
+    <name>arnsan</name>
+    <country>France</country>
+    <total_credit>2101.997429</total_credit>
+    <expavg_credit>0.063965</expavg_credit>
+    <expavg_time>1315851902.48163</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3793</id>
+        <create_time>1273301210</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>d9bd089f5ed34d8492236e9d63c2c852</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273301210</expavg_time>
+        <domain_name>SERVEUR.pcc.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Intel64 Family 6 Model 15 Stepping 6] [fpu tsc pae nx sse sse2 sse3 mmx]</p_model>
+        <p_fpops>2174202923.77986</p_fpops>
+        <p_iops>5300549858.25937</p_iops>
+        <os_name>Microsoft Windows Server "Longhorn"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3784</id>
+        <create_time>1273213205</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>f4469a2f8ecbc1b4513a762a714b901c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273213205</expavg_time>
+        <domain_name>pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2697358271.79435</p_fpops>
+        <p_iops>8068828707.36195</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3794</id>
+        <create_time>1273302648</create_time>
+        <rpc_seqno>108</rpc_seqno>
+        <host_cpid>e01d3ad9e1ea60ff88ab2202cf4aafd3</host_cpid>
+        <total_credit>197.061492</total_credit>
+        <expavg_credit>0.07465</expavg_credit>
+        <expavg_time>1305277335.85993</expavg_time>
+        <domain_name>REDSHUTTLE</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU        E1400  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2213466774.59138</p_fpops>
+        <p_iops>4814601355.23278</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3796</id>
+        <create_time>1273304629</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>c0459e7049fdc9393ae6b35f6417ff6f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273304629</expavg_time>
+        <domain_name>SHUTTLE</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [x86 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>3157108934.97979</p_fpops>
+        <p_iops>5681631935.21452</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3806</id>
+        <create_time>1273386883</create_time>
+        <rpc_seqno>250</rpc_seqno>
+        <host_cpid>2a31e7b3967d5e41f143c53837641cae</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273386883</expavg_time>
+        <domain_name>acer7540-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M300 [AMD64 Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1553135098.82274</p_fpops>
+        <p_iops>4244198348.07362</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3834</id>
+        <create_time>1273561341</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>a90666ff7f7082d5fb38c8226dbb4647</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273561341</expavg_time>
+        <domain_name>ATELIER7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [AMD64 Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2906720977.59674</p_fpops>
+        <p_iops>6623525663.74216</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Editon, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3836</id>
+        <create_time>1273569116</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>54a635ab236244a9d15829277243693b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273569116</expavg_time>
+        <domain_name>ATELIERXP</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [x86 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2839843346.45118</p_fpops>
+        <p_iops>6553030054.41168</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3967</id>
+        <create_time>1274559730</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>70cd15fb4606314c54f97d6a921f6d32</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274559730</expavg_time>
+        <domain_name>aspireone</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU Z520   @ 1.33GHz [x86 Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>561250617.432283</p_fpops>
+        <p_iops>1192788169.35647</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4067</id>
+        <create_time>1275211279</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f23876f8bddc4f389ac3831ed9fa6b00</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1275211279</expavg_time>
+        <domain_name>PRO79I</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6570  @ 2.10GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2102433351.47629</p_fpops>
+        <p_iops>5671434509.66039</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4199</id>
+        <create_time>1276239826</create_time>
+        <rpc_seqno>203</rpc_seqno>
+        <host_cpid>2ad44030eb0480688e20082f64684202</host_cpid>
+        <total_credit>0.467014</total_credit>
+        <expavg_credit>0.040538</expavg_credit>
+        <expavg_time>1289240708.60404</expavg_time>
+        <domain_name>shuttle-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2220  @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2217671539.17426</p_fpops>
+        <p_iops>6438544641.06649</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4080</id>
+        <create_time>1275342887</create_time>
+        <rpc_seqno>326</rpc_seqno>
+        <host_cpid>3cb70a185079c0998731939193c5d0a9</host_cpid>
+        <total_credit>62.180423</total_credit>
+        <expavg_credit>0.071153</expavg_credit>
+        <expavg_time>1279339802.49809</expavg_time>
+        <domain_name>SERVEUR.pcc.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Intel64 Family 6 Model 15 Stepping 6] [fpu tsc pae nx sse sse2 sse3 mmx]</p_model>
+        <p_fpops>1747442534.68627</p_fpops>
+        <p_iops>3647758277.23689</p_iops>
+        <os_name>Microsoft Windows Server "Longhorn"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4198</id>
+        <create_time>1276205571</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>92ce1b1be7dbe473f07d842cbb772cc0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276205571</expavg_time>
+        <domain_name>TVISTA</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2083771043.77104</p_fpops>
+        <p_iops>5145776733.55371</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4213</id>
+        <create_time>1276345703</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>ef594e71748f34c6f8c38bcfdb4f53e1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276345703</expavg_time>
+        <domain_name>TERRA7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2163828247.66196</p_fpops>
+        <p_iops>4038578828.57616</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4285</id>
+        <create_time>1276887017</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>7005c1f1e0312ae218146f4b7930b8be</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276887017</expavg_time>
+        <domain_name>TERRAXP</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1194498844.7574</p_fpops>
+        <p_iops>2354676055.29068</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4212</id>
+        <create_time>1276336348</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>53c39842bd9f98a36d962d8e13a0488c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276336348</expavg_time>
+        <domain_name>ATELIERVSTA</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [AMD64 Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2882860485.26089</p_fpops>
+        <p_iops>6411941303.11054</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Editon, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4531</id>
+        <create_time>1278103740</create_time>
+        <rpc_seqno>331</rpc_seqno>
+        <host_cpid>eaacb2b534cad96e99794607d38ad4a5</host_cpid>
+        <total_credit>234.90664</total_credit>
+        <expavg_credit>0.054282</expavg_credit>
+        <expavg_time>1310328902.61805</expavg_time>
+        <domain_name>ATELIER7</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 965 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>3500009711.88216</p_fpops>
+        <p_iops>8515249420.62379</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4558</id>
+        <create_time>1278335435</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>debc4075e45876d7e345f9bb4c960e26</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278335435</expavg_time>
+        <domain_name>ATELIERVSTA</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [AMD64 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4616</id>
+        <create_time>1278699067</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>8b5135235df545f95d0cb1a576697343</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278699067</expavg_time>
+        <domain_name>acer7530g</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-65 [AMD64 Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1846275375.27297</p_fpops>
+        <p_iops>4489967047.14764</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4617</id>
+        <create_time>1278707859</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0659476e66b909f9f108c2254404113e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278707859</expavg_time>
+        <domain_name>acer4810</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           U4100  @ 1.30GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1186948405.31049</p_fpops>
+        <p_iops>3746880183.15972</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5427</id>
+        <create_time>1284477648</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c8fbb18d9f2bd51ad0cda3c967aa76fb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284477648</expavg_time>
+        <domain_name>compaq</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 3600+ [x86 Family 15 Model 79 Stepping 2]</p_model>
+        <p_fpops>1784286738.31525</p_fpops>
+        <p_iops>3199335630.7932</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5454</id>
+        <create_time>1284659947</create_time>
+        <rpc_seqno>2225</rpc_seqno>
+        <host_cpid>ee3025d56e995cf64575cdeb89bce971</host_cpid>
+        <total_credit>106.500727</total_credit>
+        <expavg_credit>0.08516</expavg_credit>
+        <expavg_time>1297022703.83608</expavg_time>
+        <domain_name>serveur</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1690160062.9756</p_fpops>
+        <p_iops>3549341449.08652</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5462</id>
+        <create_time>1284702257</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>5f27744f4a971d11a60cd20d5b8fc80c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284702257</expavg_time>
+        <domain_name>terra7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2015334538.43335</p_fpops>
+        <p_iops>4045701092.6511</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, v.178, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5695</id>
+        <create_time>1286003930</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>5e8ec66b58ad5abfaf817967768743d1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286003930</expavg_time>
+        <domain_name>black</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 2600+ [x86 Family 15 Model 44 Stepping 2]</p_model>
+        <p_fpops>1766666666.66667</p_fpops>
+        <p_iops>3164749389.97095</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5737</id>
+        <create_time>1286348577</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>5147b7b6171d75e0d11e7b6dca5a361a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286348577</expavg_time>
+        <domain_name>asusx7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Celeron(R) Dual-Core CPU       T3300  @ 2.00GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1771828364.16027</p_fpops>
+        <p_iops>4774393963.84124</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5925</id>
+        <create_time>1287752078</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>fba7ea27ed239991e6a61c8fc6407c8c</host_cpid>
+        <total_credit>23.064381</total_credit>
+        <expavg_credit>0.08012</expavg_credit>
+        <expavg_time>1294518303.11549</expavg_time>
+        <domain_name>travelmate</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           U7300  @ 1.30GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1273117275.06369</p_fpops>
+        <p_iops>2671253519.44254</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6340</id>
+        <create_time>1289905219</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>4370d548736e6e57f708a4abe1ae86e9</host_cpid>
+        <total_credit>22.634453</total_credit>
+        <expavg_credit>0.085472</expavg_credit>
+        <expavg_time>1293913503.52467</expavg_time>
+        <domain_name>black</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [x86 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2683346046.27511</p_fpops>
+        <p_iops>4850771311.7844</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7162</id>
+        <create_time>1294071993</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>62ef0a029a4e1e8f0586ce8bfbe3c5ad</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294071993</expavg_time>
+        <domain_name>serveur</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Intel64 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1721740787.55963</p_fpops>
+        <p_iops>5462912727.56839</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7184</id>
+        <create_time>1294219237</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>4a6b52f4e74b5594c9bf732ab1133482</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294219237</expavg_time>
+        <domain_name>red</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 260 Processor [AMD64 Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>2433816974.10627</p_fpops>
+        <p_iops>8091209461.5858</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7487</id>
+        <create_time>1295882787</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>4c942c694e0b60f378669fb90a9d0628</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295882787</expavg_time>
+        <domain_name>serveur</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 255 Processor [AMD64 Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>2537528680.68368</p_fpops>
+        <p_iops>7078444622.56381</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7514</id>
+        <create_time>1296061677</create_time>
+        <rpc_seqno>248</rpc_seqno>
+        <host_cpid>70bbcaafd2a7e356b5668762caea8fba</host_cpid>
+        <total_credit>63.950643</total_credit>
+        <expavg_credit>0.083159</expavg_credit>
+        <expavg_time>1306095003.85552</expavg_time>
+        <domain_name>ATELIER</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X4 640 Processor [AMD64 Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2204142232.49649</p_fpops>
+        <p_iops>6584170587.44022</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8446</id>
+        <create_time>1302958395</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>10d92b1e2d65f26a3943a4383f57655d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302958395</expavg_time>
+        <domain_name>black</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 250 Processor [Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>2307978834.79365</p_fpops>
+        <p_iops>7270062953.50395</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8489</id>
+        <create_time>1303308513</create_time>
+        <rpc_seqno>10395</rpc_seqno>
+        <host_cpid>e43d06463a9a8ef0e49d5aff1bf16c7b</host_cpid>
+        <total_credit>1341.870661</total_credit>
+        <expavg_credit>0.057641</expavg_credit>
+        <expavg_time>1315851902.69561</expavg_time>
+        <domain_name>SERVEUR.pcc.local</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X4 640 Processor [AMD64 Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2446266369.24851</p_fpops>
+        <p_iops>7695135635.9151</p_iops>
+        <os_name>Microsoft Windows Server "Longhorn"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8716</id>
+        <create_time>1304772167</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>c6e6de35853ad6de2ee0c09b33d19a20</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1304772167</expavg_time>
+        <domain_name>e-machine</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M320 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1727523385.57176</p_fpops>
+        <p_iops>5229850557.1402</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8717</id>
+        <create_time>1304783210</create_time>
+        <rpc_seqno>55</rpc_seqno>
+        <host_cpid>ebddfffe0a23a37ba5c8b47e80cf9e6f</host_cpid>
+        <total_credit>10.508967</total_credit>
+        <expavg_credit>0.092693</expavg_credit>
+        <expavg_time>1311538503.47479</expavg_time>
+        <domain_name>TIMELINE</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2527680194.75353</p_fpops>
+        <p_iops>6553487814.25555</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8732</id>
+        <create_time>1304948875</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>f8cc7aeeb614000985a7a56862cbeff3</host_cpid>
+        <total_credit>8.992193</total_credit>
+        <expavg_credit>0.062622</expavg_credit>
+        <expavg_time>1307304603.18056</expavg_time>
+        <domain_name>5742g</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 370  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2147625695.44222</p_fpops>
+        <p_iops>6931475691.49661</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8831</id>
+        <create_time>1305728393</create_time>
+        <rpc_seqno>394</rpc_seqno>
+        <host_cpid>b11a046304365d188c8c21e13581fa8c</host_cpid>
+        <total_credit>6.140424</total_credit>
+        <expavg_credit>0.072704</expavg_credit>
+        <expavg_time>1310933702.92939</expavg_time>
+        <domain_name>tous-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M320 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1413978309.62921</p_fpops>
+        <p_iops>4422379444.63156</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9074</id>
+        <create_time>1307534708</create_time>
+        <rpc_seqno>251</rpc_seqno>
+        <host_cpid>38eb4120aadf6674bfb5c5498499c449</host_cpid>
+        <total_credit>5.565542</total_credit>
+        <expavg_credit>0.064045</expavg_credit>
+        <expavg_time>1310933703.14895</expavg_time>
+        <domain_name>black</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 260 Processor [Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>3207062295.23948</p_fpops>
+        <p_iops>7181849092.60812</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9099</id>
+        <create_time>1307701174</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>8103d6a1aafa0293b2ea14db985cb066</host_cpid>
+        <total_credit>18.153869</total_credit>
+        <expavg_credit>0.072265</expavg_credit>
+        <expavg_time>1310933703.06255</expavg_time>
+        <domain_name>terra1511</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Dual-Core Mobile RM-76 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>2103916863.15406</p_fpops>
+        <p_iops>4034496335.87453</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9100</id>
+        <create_time>1307701450</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>6527fcb28a78c76480e2e13b87d4d723</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307701450</expavg_time>
+        <domain_name>asusk52f</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) CPU        P6100  @ 2.00GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2076537516.64322</p_fpops>
+        <p_iops>4502109108.59965</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9101</id>
+        <create_time>1307701782</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>0ba37cbb867a46cc3b1919f9db90f237</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307701782</expavg_time>
+        <domain_name>msiCR720</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) CPU        P6100  @ 2.00GHz [Intel64 Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2028689754.20123</p_fpops>
+        <p_iops>5774841489.73156</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9102</id>
+        <create_time>1307702063</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>53bf5084b4ffde961686d454e93d84c1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307702063</expavg_time>
+        <domain_name>allinone</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU D525   @ 1.80GHz [Family 6 Model 28 Stepping 10]</p_model>
+        <p_fpops>750382831.472854</p_fpops>
+        <p_iops>1473975276.09605</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9103</id>
+        <create_time>1307702288</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>36e08188f50bcc3be0f34a25eaea9bc9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307702288</expavg_time>
+        <domain_name>terranetbook</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N570   @ 1.66GHz [Family 6 Model 28 Stepping 10]</p_model>
+        <p_fpops>714760649.171486</p_fpops>
+        <p_iops>1780412678.27928</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Starter x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

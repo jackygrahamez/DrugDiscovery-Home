@@ -1,0 +1,39 @@
+define = -DPOSRES
+constraints = all-bonds
+integrator = md
+dt = 0.002 ; ps !
+nsteps = 500 ; total 2.0 ps.
+nstcomm = 1
+nstxout = 250 ; output coordinates every 0.5 ps
+nstvout = 1000 ; output velocities every 2.0 ps
+nstfout = 0
+nstlog = 10
+nstenergy = 10
+nstlist = 10
+ns_type = grid
+rlist = 0.9
+coulombtype = PME
+rcoulomb = 0.9
+rvdw = 1.0
+fourierspacing = 0.12
+fourier_nx = 0
+fourier_ny = 0
+fourier_nz = 0
+pme_order = 6
+ewald_rtol = 1e-5
+optimize_fft = yes
+; Berendsen temperature coupling is on in four groups
+Tcoupl = v-rescale
+tau_t = 0.1 0.1
+tc_grps = protein other
+ref_t = 300 300
+; Pressure coupling is on
+Pcoupl = berendsen  
+pcoupltype = isotropic
+tau_p = 0.5
+compressibility = 4.5e-5
+ref_p = 1.0
+; Generate velocites is on at 300 K.
+gen_vel = yes
+gen_temp = 300.0
+gen_seed = 173529 

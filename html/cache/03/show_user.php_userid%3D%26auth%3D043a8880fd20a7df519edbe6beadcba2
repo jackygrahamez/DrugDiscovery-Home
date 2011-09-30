@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4882</id>
+    <cpid>64e232dcf2613c274da1cfeea7cb93d1</cpid>
+    <create_time>1313235555</create_time>
+    <name>tmk8991</name>
+    <country>United States</country>
+    <total_credit>15.355939</total_credit>
+    <expavg_credit>0.280692</expavg_credit>
+    <expavg_time>1315851902.5632</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9885</id>
+        <create_time>1314232520</create_time>
+        <rpc_seqno>69</rpc_seqno>
+        <host_cpid>09c43bf8443707257e70a3e8fa8febfa</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314232520</expavg_time>
+        <domain_name>Mom-Office-SX270</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>754155127.321379</p_fpops>
+        <p_iops>1914565719.11244</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9884</id>
+        <create_time>1314231979</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>1f9763fc1a5057fec1af22892d48df4e</host_cpid>
+        <total_credit>7.019806</total_credit>
+        <expavg_credit>0.122943</expavg_credit>
+        <expavg_time>1315851902.8354</expavg_time>
+        <domain_name>Ampex---Mark-I</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 4000+ [Family 15 Model 39 Stepping 1]</p_model>
+        <p_fpops>2196969696.9697</p_fpops>
+        <p_iops>9924975422.98339</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9883</id>
+        <create_time>1314226319</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>0c96e7a8aa7613d02ef305eca3021999</host_cpid>
+        <total_credit>8.336133</total_credit>
+        <expavg_credit>0.183666</expavg_credit>
+        <expavg_time>1315851902.84152</expavg_time>
+        <domain_name>TK-Dell</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1241335453.10016</p_fpops>
+        <p_iops>2056107309.2002</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9972</id>
+        <create_time>1315021096</create_time>
+        <rpc_seqno>50</rpc_seqno>
+        <host_cpid>52034e83cecd370fa577fb547e74b316</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315021096</expavg_time>
+        <domain_name>Linus-3</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>672336082.940293</p_fpops>
+        <p_iops>1820850490.14132</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

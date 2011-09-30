@@ -1,0 +1,122 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2094";s:11:"create_time";s:10:"1275161935";s:10:"email_addr";s:17:"an2403@freenet.de";s:4:"name";s:6:"user69";s:13:"authenticator";s:32:"56c6ec6a33500852021c030d6695aa42";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"994.951709";s:13:"expavg_credit";s:8:"0.078587";s:11:"expavg_time";s:16:"1298837103.19825";s:12:"global_prefs";s:3957:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1286378099</mod_time>
+    <run_if_user_active/>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+    <leave_apps_in_memory/>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <hangup_if_dialed/>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>0.25</work_buf_additional_days>
+    <max_cpus>4</max_cpus>
+    <max_ncpus_pct>100</max_ncpus_pct>
+    <cpu_usage_limit>100</cpu_usage_limit>
+    <disk_interval>60</disk_interval>
+    <disk_max_used_gb>100</disk_max_used_gb>
+    <disk_max_used_pct>50</disk_max_used_pct>
+    <disk_min_free_gb>0.001</disk_min_free_gb>
+    <vm_max_used_pct>75</vm_max_used_pct>
+    <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0</max_bytes_sec_down>
+    <max_bytes_sec_up>0</max_bytes_sec_up>
+    <dont_verify_images/>
+    <venue name="home">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <leave_apps_in_memory/>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.2</work_buf_min_days>
+        <work_buf_additional_days>0.4</work_buf_additional_days>
+        <max_cpus>7</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images/>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <suspend_cpu_usage>0.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+    <venue name="work">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <leave_apps_in_memory/>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>2.0</work_buf_additional_days>
+        <max_cpus>4</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>80.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>95.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images/>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <suspend_cpu_usage>0.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:340:"<project_preferences>
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+<venue name="home">
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+</project_preferences>
+";s:6:"teamid";s:3:"566";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"79ce8c77339eea7b65d71376d8fe3244";s:11:"passwd_hash";s:32:"b125928e038ba8bf470f18d6a04e7b57";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2094";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:11:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:6:"103627";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"112778";s:11:"create_time";s:10:"1158351731";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"750";s:9:"team_name";s:13:"Planet 3DNow!";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3915437";s:13:"expavg_credit";s:4:"7561";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"469097";s:11:"create_time";s:10:"1204836504";s:7:"country";s:7:"Germany";s:7:"team_id";s:4:"6268";s:9:"team_name";s:13:"Planet 3DNow!";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:8:"11954604";s:13:"expavg_credit";s:4:"2759";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"14673";s:11:"create_time";s:10:"1156333761";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"783";s:9:"team_name";s:13:"Planet 3DNow!";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:7:"2458739";s:13:"expavg_credit";s:2:"81";s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"15981";s:11:"create_time";s:10:"1163520051";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"632";s:9:"team_name";s:13:"Planet 3DNow!";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:3:"512";s:13:"expavg_credit";d:0;s:4:"name";s:19:"Chess960@Home Alpha";s:3:"url";s:36:"http://www.chess960athome.org/alpha/";s:2:"id";s:4:"6902";s:11:"create_time";s:10:"1170781630";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"217";s:9:"team_name";s:13:"Planet 3DNow!";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:6:"325986";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"19466";s:11:"create_time";s:10:"1174337995";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"246";s:9:"team_name";s:13:"Planet 3DNow!";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:7:"2386609";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:3:"434";s:11:"create_time";s:10:"1192912448";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"172";s:9:"team_name";s:13:"Planet 3DNow!";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"425714";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:5:"63823";s:11:"create_time";s:10:"1253992628";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"58";s:9:"team_name";s:13:"Planet 3DNow!";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:7:"7720577";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:4:"9346";s:11:"create_time";s:10:"1226267953";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"598";s:9:"team_name";s:13:"Planet 3DNow!";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:3:"994";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2094";s:11:"create_time";s:10:"1275161935";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"566";s:9:"team_name";s:13:"Planet 3DNow!";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:7:"6639912";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:4:"1178";s:11:"create_time";s:10:"1249218773";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"567";s:9:"team_name";s:13:"Planet 3DNow!";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"566";s:11:"create_time";s:10:"1251305198";s:6:"userid";s:3:"738";s:4:"name";s:13:"Planet 3DNow!";s:7:"name_lc";s:13:"planet 3dnow!";s:3:"url";s:18:"www.planet3dnow.de";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:2869:"<p>Von seinen Mitgliedern nur liebevoll „der Grüne Planet“ genannt, gehört das Distributed-Computing-Team der Hardware-Community Planet 3DNow! zu den größten weltweit und leistet damit einen maßgeblichen Beitrag zur Förderung wissenschaftlicher Arbeit durch unentgeltliche Bereitstellung von Rechenleistung im Sinne der Allgemeinheit.</p>
+
+<p>Wir fördern Projekte im medizinischen und bioinformatischen Bereich, Quantenchemie und Nanotechnik, bis hin zur Astrophysik und Mathematik. Unser Ziel ist es, die Möglichkeiten des verteilten Rechnens aufzuzeigen, seine Verbreitung voranzutreiben und den Bekanntheitsgrad zu steigern. Distributed Computing ist schließlich mehr als nur ein Konzept, denn es bringt Menschen zusammen, die sich gemeinsam für eine gute Sache engagieren.</p>
+
+<p>Wir, das Team von Planet 3DNow!, sind als lebendiger Teil dieser Kultur bekannt, und bieten unseren Mitgliedern eine umfassende Diskussionsplattform zur Entfaltung ihrer Interessen. Dass der Spaß dabei nicht zu kurz kommt, zeigen zum Beispiel unsere freundschaftlichen Wettkämpfe mit den Teams von SETI.USA oder der Electronic Sports League. Schaut doch einfach mal bei uns vorbei, und überzeugt euch selbst.</p>
+<p>In diesem Sinne: Herzlich Willkommen auf dem Grünen Planeten!</p>
+
+<strong>Links:</strong>
+<p><a href="http://dc.planet3dnow.de/wiki/index.php?title=DrugDiscovery%40Home" target="b">DrugDiscovery@Home Wikieintrag bei Planet 3DNow!</a>
+<br />
+<a href="http://www.planet3dnow.de/vbulletin/forumdisplay.php?f=87" target="b">Forum Planet 3DNow!</a>
+<br />
+<a href="http://www.planet3dnow.de" target="b">Planet 3DNow!</a></p>
+
+<strong>English</strong>
+
+<p>Lovingly called „The Green Planet“ by its supporters and team members, Planet 3DNow!’s distributed computing division is one of the biggest teams worldwide, and it invests a great deal of computing power in order to support scientific projects for the public good.</p>
+<p>From medicine to bioinformatics, from quantum chemistry to nanotechnology, and from astrophysics to math, we support all projects equally. Our self-defined mission is to highlight the possibilities that distributed computing can offer and to promote distributed computing in order to enhance its public level of awareness. After all, distributed computing is more than simply a theoretically constructed concept – it teams people in good cause.</p>
+<p>We are a vital part of this culture, and we offer our members an extensive community platform to discuss and unfold distributed computing interests. And since having fun is also part of our understanding of distributed computing, we regularly arrange amicable competitions with teams like SETI.USA or the Electronic Sports League.  Just stop by and have a look, you might like it.</p>
+The Green Planet puts forth a warm welcome to all our visitors.";s:6:"nusers";s:2:"16";s:7:"country";s:7:"Germany";s:12:"total_credit";s:16:"867805.256583212";s:13:"expavg_credit";s:10:"254.930737";s:11:"expavg_time";s:16:"1317320698.63432";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

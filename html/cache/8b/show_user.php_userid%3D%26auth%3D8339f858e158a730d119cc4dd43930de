@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3558</id>
+    <cpid>145dcf235c12099a7c440f29b5d61508</cpid>
+    <create_time>1292787986</create_time>
+    <name>Alan T.</name>
+    <country>United Kingdom</country>
+    <total_credit>120.371154</total_credit>
+    <expavg_credit>2.66699</expavg_credit>
+    <expavg_time>1315670920.8332</expavg_time>
+    <teamid>551</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8566</id>
+        <create_time>1303857849</create_time>
+        <rpc_seqno>170</rpc_seqno>
+        <host_cpid>b605c1521ec5ca966bd67a05847f0b0a</host_cpid>
+        <total_credit>5.643603</total_credit>
+        <expavg_credit>0.094383</expavg_credit>
+        <expavg_time>1307304603.29406</expavg_time>
+        <domain_name>HP-Netbook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>570936243.139157</p_fpops>
+        <p_iops>1424256251.24852</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8583</id>
+        <create_time>1303933091</create_time>
+        <rpc_seqno>964</rpc_seqno>
+        <host_cpid>8fccbb26d02059692ce8645c485e587e</host_cpid>
+        <total_credit>40.082947</total_credit>
+        <expavg_credit>0.077121</expavg_credit>
+        <expavg_time>1310933703.06649</expavg_time>
+        <domain_name>d820</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1922598425.19685</p_fpops>
+        <p_iops>4362367851.42893</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8646</id>
+        <create_time>1304464848</create_time>
+        <rpc_seqno>166</rpc_seqno>
+        <host_cpid>f62be8759f1d07ed1d73696e18d35977</host_cpid>
+        <total_credit>28.108497</total_credit>
+        <expavg_credit>0.070776</expavg_credit>
+        <expavg_time>1311538503.47454</expavg_time>
+        <domain_name>2x1GHz-2048Gb</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 8 Stepping 6]</p_model>
+        <p_fpops>930702230.568719</p_fpops>
+        <p_iops>1525890179.50109</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Enterprise Server x86 Edition, Service Pack 1, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9442</id>
+        <create_time>1310079798</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>5580d2ffab573c9f983e25fc6e3f3a80</host_cpid>
+        <total_credit>39.020893</total_credit>
+        <expavg_credit>2.152609</expavg_credit>
+        <expavg_time>1315670920.83335</expavg_time>
+        <domain_name>HAL9000-2</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) MP CPU 3.00GHz [Family 15 Model 2 Stepping 6]</p_model>
+        <p_fpops>1407578350.16423</p_fpops>
+        <p_iops>1868668408.48081</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9826</id>
+        <create_time>1313707465</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>9bcc222cf4086a000d015ddd75806d3d</host_cpid>
+        <total_credit>7.515214</total_credit>
+        <expavg_credit>0.064238</expavg_credit>
+        <expavg_time>1315851902.70737</expavg_time>
+        <domain_name>HAL9000-3</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) MP CPU 3.00GHz [Family 15 Model 2 Stepping 6]</p_model>
+        <p_fpops>1413723622.10604</p_fpops>
+        <p_iops>1933206336.43883</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

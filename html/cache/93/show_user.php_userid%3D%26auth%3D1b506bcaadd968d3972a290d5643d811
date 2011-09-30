@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1287</id>
+    <cpid>1b28dd0ba825b6399dd4336788bd4758</cpid>
+    <create_time>1265552872</create_time>
+    <name>Vale</name>
+    <country>Germany</country>
+    <total_credit>1146.503617</total_credit>
+    <expavg_credit>0.735037</expavg_credit>
+    <expavg_time>1315514138.36265</expavg_time>
+    <teamid>30</teamid>
+    <url>www.boinc-team.de</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2107</id>
+        <create_time>1265553438</create_time>
+        <rpc_seqno>242</rpc_seqno>
+        <host_cpid>8237ef7d83fec6243ec528c53194036f</host_cpid>
+        <total_credit>367.803253</total_credit>
+        <expavg_credit>0.096565</expavg_credit>
+        <expavg_time>1275710403.17072</expavg_time>
+        <domain_name>pcxxx</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1296886050.7433</p_fpops>
+        <p_iops>2788013478.96396</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3383</id>
+        <create_time>1270788286</create_time>
+        <rpc_seqno>61</rpc_seqno>
+        <host_cpid>1282ab66ca897032669cf1f6497e567b</host_cpid>
+        <total_credit>755.710477</total_credit>
+        <expavg_credit>0.063913</expavg_credit>
+        <expavg_time>1277524804.54938</expavg_time>
+        <domain_name>Barebone</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1478954424.4832</p_fpops>
+        <p_iops>2583931761.81796</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9763</id>
+        <create_time>1313222943</create_time>
+        <rpc_seqno>319</rpc_seqno>
+        <host_cpid>d25431d1a2e91f164f59d3b0c1a67c3d</host_cpid>
+        <total_credit>22.989887</total_credit>
+        <expavg_credit>0.903808</expavg_credit>
+        <expavg_time>1315514138.36283</expavg_time>
+        <domain_name>Kleener</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2001285106.27007</p_fpops>
+        <p_iops>6118751037.32699</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

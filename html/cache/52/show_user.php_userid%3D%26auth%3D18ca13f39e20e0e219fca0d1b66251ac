@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>561</id>
+    <cpid>e24a61e63a72cc80e7b5ddd2fb345ab0</cpid>
+    <create_time>1241136000</create_time>
+    <name>Crystal Pellet</name>
+    <country>Netherlands</country>
+    <total_credit>8060.5639409588</total_credit>
+    <expavg_credit>0.059567</expavg_credit>
+    <expavg_time>1296417902.60285</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>371</id>
+        <create_time>1249901267</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>98ab3cfd65bdb08ce94997ecf455745f</host_cpid>
+        <total_credit>650.49297395883</total_credit>
+        <expavg_credit>0.059563</expavg_credit>
+        <expavg_time>1296417902.83844</expavg_time>
+        <domain_name></domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9350e Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1919179348.30107</p_fpops>
+        <p_iops>5769513031.26543</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>491</id>
+        <create_time>1250968469</create_time>
+        <rpc_seqno>38</rpc_seqno>
+        <host_cpid>dc4c59ce3bd6cf8b42a0cf4fe53c602c</host_cpid>
+        <total_credit>167.509048</total_credit>
+        <expavg_credit>0.072723</expavg_credit>
+        <expavg_time>1255877403.56363</expavg_time>
+        <domain_name></domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2257697603.33809</p_fpops>
+        <p_iops>4760603350.55593</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1725</id>
+        <create_time>1261069023</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>998806ef9f9cf82be959d70efb8cef87</host_cpid>
+        <total_credit>28.19967</total_credit>
+        <expavg_credit>0.08715</expavg_credit>
+        <expavg_time>1264103702.43234</expavg_time>
+        <domain_name></domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9350e Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1958998935.03727</p_fpops>
+        <p_iops>5866466480.79984</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-14-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1789</id>
+        <create_time>1261858876</create_time>
+        <rpc_seqno>1117</rpc_seqno>
+        <host_cpid>45a4b3efaf1a5d5cb4956482886b918f</host_cpid>
+        <total_credit>806.362249</total_credit>
+        <expavg_credit>0.078134</expavg_credit>
+        <expavg_time>1267995003.14178</expavg_time>
+        <domain_name></domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2543672097.62836</p_fpops>
+        <p_iops>7313413062.76431</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

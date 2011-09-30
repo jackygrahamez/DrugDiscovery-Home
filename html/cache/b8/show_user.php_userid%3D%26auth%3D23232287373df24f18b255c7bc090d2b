@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>344</id>
+    <cpid>741c288a6c14bf2272bcd20651085a75</cpid>
+    <create_time>1240405918</create_time>
+    <name>Cori</name>
+    <country>Germany</country>
+    <total_credit>13407.170543</total_credit>
+    <expavg_credit>0.069612</expavg_credit>
+    <expavg_time>1264814103.26939</expavg_time>
+    <teamid>30</teamid>
+    <url>www.boinc-team.de</url>
+    <has_profile>1</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>45</id>
+        <create_time>1240416033</create_time>
+        <rpc_seqno>48</rpc_seqno>
+        <host_cpid>2e1c40b2d6dc4e138d970e3f353fd304</host_cpid>
+        <total_credit>184.301093</total_credit>
+        <expavg_credit>0.063226</expavg_credit>
+        <expavg_time>1262006702.96559</expavg_time>
+        <domain_name>precision-xp64</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7700  @ 2.40GHz [EM64T Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2225327956.51449</p_fpops>
+        <p_iops>7140364401.34579</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>46</id>
+        <create_time>1240417553</create_time>
+        <rpc_seqno>606</rpc_seqno>
+        <host_cpid>a29daac17f3cee3ef0490b4fd077bab7</host_cpid>
+        <total_credit>63.021234</total_credit>
+        <expavg_credit>0.000331</expavg_credit>
+        <expavg_time>1250104203.21813</expavg_time>
+        <domain_name>CrunchPack-Xubuntu64</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2227543557.39383</p_fpops>
+        <p_iops>10512753399.5475</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-15-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>431</id>
+        <create_time>1250151485</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>b9263f5c408f9bbb78b1ca3a416f3b8a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1250151485</expavg_time>
+        <domain_name>CrunchPack</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2292818790.83132</p_fpops>
+        <p_iops>7357504179.6115</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Editon, (06.01.7100.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1712</id>
+        <create_time>1260991199</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>5574078848062a4b0b5ec4b04e81ea2f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1260994366</expavg_time>
+        <domain_name>CrunchMaster</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2529100166.43755</p_fpops>
+        <p_iops>8622544365.12869</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1818</id>
+        <create_time>1262108293</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>fd4cf04368e9cd760fee410434aa7f57</host_cpid>
+        <total_credit>15.767541</total_credit>
+        <expavg_credit>0.071045</expavg_credit>
+        <expavg_time>1264814103.44297</expavg_time>
+        <domain_name>CrunchPack-Xubuntu64</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1482064974.98264</p_fpops>
+        <p_iops>6742453132.92366</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-17-generic</os_version>
+        <venue>home</venue>
+    </host>
+</user>

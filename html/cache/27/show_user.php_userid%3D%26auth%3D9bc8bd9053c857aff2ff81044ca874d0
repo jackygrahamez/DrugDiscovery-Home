@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1233</id>
+    <cpid>0b8a15db2bb5e40ab774efdebda547a1</cpid>
+    <create_time>1265056766</create_time>
+    <name>ZoeP</name>
+    <country>United Kingdom</country>
+    <total_credit>432.478102</total_credit>
+    <expavg_credit>0.097324</expavg_credit>
+    <expavg_time>1287260703.26685</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2033</id>
+        <create_time>1265139246</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>abbbb095dff5e3976dc396873ce44d45</host_cpid>
+        <total_credit>30.056691</total_credit>
+        <expavg_credit>0.07288</expavg_credit>
+        <expavg_time>1269379502.68811</expavg_time>
+        <domain_name>little</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5600  @ 1.83GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1724708255.29463</p_fpops>
+        <p_iops>3860424173.76887</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2014</id>
+        <create_time>1265057345</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>c6f977f1c419120082491325e612f0b2</host_cpid>
+        <total_credit>188.973361</total_credit>
+        <expavg_credit>0.064299</expavg_credit>
+        <expavg_time>1270267203.4837</expavg_time>
+        <domain_name>new</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1446440074.77519</p_fpops>
+        <p_iops>5543754634.35695</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-686</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2032</id>
+        <create_time>1265128628</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>22c80c9f8ce695c708da08d67788c872</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265128628</expavg_time>
+        <domain_name>rockhopper</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3800+ [Family 15 Model 79 Stepping 2]</p_model>
+        <p_fpops>1926043346.2074</p_fpops>
+        <p_iops>6786616454.54543</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-trunk-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2481</id>
+        <create_time>1266787534</create_time>
+        <rpc_seqno>331</rpc_seqno>
+        <host_cpid>34da2dc7f5591ef648e9faae8f117242</host_cpid>
+        <total_credit>213.44805</total_credit>
+        <expavg_credit>0.097325</expavg_credit>
+        <expavg_time>1287260703.38455</expavg_time>
+        <domain_name>blue</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4600+ [Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>2381379097.96192</p_fpops>
+        <p_iops>4346875203.22428</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3881</id>
+        <create_time>1273861493</create_time>
+        <rpc_seqno>385</rpc_seqno>
+        <host_cpid>0968469eed2ea93cc201fa57821ebf1b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273861493</expavg_time>
+        <domain_name>macaroni</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 3000+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1313911110.67125</p_fpops>
+        <p_iops>4571570839.09791</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-trunk-686</os_version>
+        <venue></venue>
+    </host>
+</user>

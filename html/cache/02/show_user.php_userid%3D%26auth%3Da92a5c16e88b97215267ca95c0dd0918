@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3731</id>
+    <cpid>3eaa49e9d089ac8b54fd6844211bee18</cpid>
+    <create_time>1296045641</create_time>
+    <name>Carlos Rincon</name>
+    <country>Spain</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1296045641</expavg_time>
+    <teamid>1163</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7561</id>
+        <create_time>1296483667</create_time>
+        <rpc_seqno>42</rpc_seqno>
+        <host_cpid>0147cbf70c1cd7ace200ddfe914bc77f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296483667</expavg_time>
+        <domain_name>Sauron</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2496703641.11255</p_fpops>
+        <p_iops>5268501945.7174</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7627</id>
+        <create_time>1296822165</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>4619b31dd7d9a6c379b41b31393b06d9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296822165</expavg_time>
+        <domain_name>BUEZO</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2051258486.30623</p_fpops>
+        <p_iops>4251457328.58041</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7691</id>
+        <create_time>1297451178</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1d882c5de551f773107b2bb2546e0250</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297451178</expavg_time>
+        <domain_name>Arwen</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5550  @ 1.83GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1088010569.05342</p_fpops>
+        <p_iops>2919644792.40733</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3187</id>
+    <cpid>c9027b6908dfb9aa0918f4241ce49de9</cpid>
+    <create_time>1289633569</create_time>
+    <name>PatHawks</name>
+    <country>United States</country>
+    <total_credit>289.341292</total_credit>
+    <expavg_credit>0.093081</expavg_credit>
+    <expavg_time>1295727903.00067</expavg_time>
+    <teamid>29</teamid>
+    <url>www.pathawks.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6283</id>
+        <create_time>1289684301</create_time>
+        <rpc_seqno>281</rpc_seqno>
+        <host_cpid>02565d3f183622c38e3c1aafe1897069</host_cpid>
+        <total_credit>289.341292</total_credit>
+        <expavg_credit>0.0931</expavg_credit>
+        <expavg_time>1295727903.55229</expavg_time>
+        <domain_name>robert-warners-imac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU E8235 @ 2.80GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3282615447.92282</p_fpops>
+        <p_iops>7521956977.38961</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.5.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6263</id>
+        <create_time>1289633747</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>b392f9a01fd2debbb954e9c0f35ab413</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289633747</expavg_time>
+        <domain_name>PatsMBP-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9500  @ 2.60GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2599495834.41524</p_fpops>
+        <p_iops>7547981069.71873</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

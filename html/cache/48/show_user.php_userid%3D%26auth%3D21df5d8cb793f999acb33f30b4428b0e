@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2246</id>
+    <cpid>4982c8f693c39f80d17dc1aaf74f2fec</cpid>
+    <create_time>1277892415</create_time>
+    <name>Andrew Templeman</name>
+    <country>United States</country>
+    <total_credit>14.616579</total_credit>
+    <expavg_credit>0.037866</expavg_credit>
+    <expavg_time>1298492589.44529</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4504</id>
+        <create_time>1277893267</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>4559849db3b00df6e8caafe52bd47e19</host_cpid>
+        <total_credit>6.487711</total_credit>
+        <expavg_credit>0.088699</expavg_credit>
+        <expavg_time>1279944603.29199</expavg_time>
+        <domain_name>Frankenstein</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2257235241.59564</p_fpops>
+        <p_iops>4464561370.3857</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7560</id>
+        <create_time>1296439472</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>acc6dee6b999ac483d427719ece0253f</host_cpid>
+        <total_credit>8.128868</total_credit>
+        <expavg_credit>0.052144</expavg_credit>
+        <expavg_time>1300046703.58156</expavg_time>
+        <domain_name>Frankenstein</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2266532821.1385</p_fpops>
+        <p_iops>4631203206.33908</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

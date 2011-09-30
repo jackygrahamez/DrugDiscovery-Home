@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1899</id>
+    <cpid>754ffb7edf75ca4a55b702b9a75a03b7</cpid>
+    <create_time>1272235464</create_time>
+    <name>Ariel</name>
+    <country>International</country>
+    <total_credit>131.434932</total_credit>
+    <expavg_credit>1.241246</expavg_credit>
+    <expavg_time>1315786435.21071</expavg_time>
+    <teamid>866</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3612</id>
+        <create_time>1272237980</create_time>
+        <rpc_seqno>694</rpc_seqno>
+        <host_cpid>89c5b7a1a41285f2e752984e37595344</host_cpid>
+        <total_credit>131.434932</total_credit>
+        <expavg_credit>1.241246</expavg_credit>
+        <expavg_time>1315786435.21085</expavg_time>
+        <domain_name>David-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [x86 Family 15 Model 67 Stepping 2]</p_model>
+        <p_fpops>2438053349.25047</p_fpops>
+        <p_iops>4173463410.11602</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3728</id>
+        <create_time>1272791050</create_time>
+        <rpc_seqno>104</rpc_seqno>
+        <host_cpid>22b4c95c07e042b11b828cf57496edb3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272791050</expavg_time>
+        <domain_name>Ariel-Kindersys-Computer.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook6,3] [AltiVec]</p_model>
+        <p_fpops>497967479.674797</p_fpops>
+        <p_iops>1579251802.79754</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>7.9.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6284</id>
+        <create_time>1289696894</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>04d29875332ae63713b65cf4b64f891a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289696894</expavg_time>
+        <domain_name>Brian-Rices-Computer.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook6,3] [AltiVec]</p_model>
+        <p_fpops>500000000</p_fpops>
+        <p_iops>1598352880.43766</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>7.9.0</os_version>
+        <venue></venue>
+    </host>
+</user>

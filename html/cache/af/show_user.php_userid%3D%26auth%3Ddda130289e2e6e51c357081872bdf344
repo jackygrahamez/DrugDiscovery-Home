@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2868</id>
+    <cpid>bdb5f3adf5d61530b38326185bcb2f55</cpid>
+    <create_time>1288015160</create_time>
+    <name>Pika74</name>
+    <country>Switzerland</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1288015160</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7022</id>
+        <create_time>1293097644</create_time>
+        <rpc_seqno>467</rpc_seqno>
+        <host_cpid>1945a600368be1416720243d595e8622</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293097644</expavg_time>
+        <domain_name>ubuntu-d530</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1148338207.39106</p_fpops>
+        <p_iops>3252604410.06231</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9610</id>
+        <create_time>1311841509</create_time>
+        <rpc_seqno>59</rpc_seqno>
+        <host_cpid>5cecdb8c546d63e20baaa8edf44d5820</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311841509</expavg_time>
+        <domain_name>wssupport</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2555609112.87451</p_fpops>
+        <p_iops>8319004534.96392</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

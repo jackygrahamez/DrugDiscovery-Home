@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1229</id>
+    <cpid>2725d45e9c7861747a3a77dc122ebc1c</cpid>
+    <create_time>1265043928</create_time>
+    <name>slg1</name>
+    <country>Austria</country>
+    <total_credit>8629.963133</total_credit>
+    <expavg_credit>0.060649</expavg_credit>
+    <expavg_time>1312748102.62702</expavg_time>
+    <teamid>1</teamid>
+    <url>edv-schlager.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2009</id>
+        <create_time>1265044757</create_time>
+        <rpc_seqno>588</rpc_seqno>
+        <host_cpid>98777f04b1a85eb73abc321128946270</host_cpid>
+        <total_credit>1907.77651</total_credit>
+        <expavg_credit>0.074797</expavg_credit>
+        <expavg_time>1312143302.81049</expavg_time>
+        <domain_name>Win7Pro64-VPC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2983050847.45763</p_fpops>
+        <p_iops>9184799459.49578</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2010</id>
+        <create_time>1265046203</create_time>
+        <rpc_seqno>1533</rpc_seqno>
+        <host_cpid>40dab71195514034f3b881366a9e2d9a</host_cpid>
+        <total_credit>1740.034119</total_credit>
+        <expavg_credit>0.07714</expavg_credit>
+        <expavg_time>1303071004.20449</expavg_time>
+        <domain_name>SLG-I7-920</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>1809959977.5051</p_fpops>
+        <p_iops>5619536740.45776</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2011</id>
+        <create_time>1265046639</create_time>
+        <rpc_seqno>1451</rpc_seqno>
+        <host_cpid>e93fcc5936b45814a1f24602bc515348</host_cpid>
+        <total_credit>1644.506386</total_credit>
+        <expavg_credit>0.07882</expavg_credit>
+        <expavg_time>1306095003.85305</expavg_time>
+        <domain_name>EDVS-NB-5730</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2186153751.93072</p_fpops>
+        <p_iops>6759360129.09047</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2012</id>
+        <create_time>1265047558</create_time>
+        <rpc_seqno>353</rpc_seqno>
+        <host_cpid>92437cf5502111ba476363e516286a03</host_cpid>
+        <total_credit>3337.646118</total_credit>
+        <expavg_credit>0.066423</expavg_credit>
+        <expavg_time>1279944603.18405</expavg_time>
+        <domain_name>Webcam-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>1874992298.009</p_fpops>
+        <p_iops>6538898244.37219</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

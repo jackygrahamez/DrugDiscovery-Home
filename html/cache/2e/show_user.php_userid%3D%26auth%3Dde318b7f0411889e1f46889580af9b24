@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>801</id>
+    <cpid>08462825ba979c9960617fece63c1aff</cpid>
+    <create_time>1251368108</create_time>
+    <name>RuxX</name>
+    <country>Germany</country>
+    <total_credit>1.5707360579178</total_credit>
+    <expavg_credit>0.068778</expavg_credit>
+    <expavg_time>1258564502.48393</expavg_time>
+    <teamid>266</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>884</id>
+        <create_time>1254228705</create_time>
+        <rpc_seqno>44</rpc_seqno>
+        <host_cpid>c2945f66108e0f32e7f0a3d167c02833</host_cpid>
+        <total_credit>1.5707360579178</total_credit>
+        <expavg_credit>0.070781</expavg_credit>
+        <expavg_time>1258564502.56432</expavg_time>
+        <domain_name>HöllenmaschineV</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2845092826.84433</p_fpops>
+        <p_iops>8128276952.49425</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5038</id>
+        <create_time>1281793063</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>8ae0ee0167da0359754ea5f07bb993e5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281793063</expavg_time>
+        <domain_name>Robin-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2799270925.30761</p_fpops>
+        <p_iops>8149512166.82951</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1797</id>
+    <cpid>25f8f69284685991ccb2ded6ea37fa5e</cpid>
+    <create_time>1270886007</create_time>
+    <name>MasterPtu</name>
+    <country>Austria</country>
+    <total_credit>11943.019397113</total_credit>
+    <expavg_credit>2.332292</expavg_credit>
+    <expavg_time>1315728141.5257</expavg_time>
+    <teamid>75</teamid>
+    <url>boinc.radax.net</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4836</id>
+        <create_time>1280351885</create_time>
+        <rpc_seqno>105</rpc_seqno>
+        <host_cpid>77fc9c3664b2e992aababc3ec5284680</host_cpid>
+        <total_credit>179.499858</total_credit>
+        <expavg_credit>0.055959</expavg_credit>
+        <expavg_time>1285876803.19784</expavg_time>
+        <domain_name>pgsrv001</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3200+ [Family 15 Model 95 Stepping 2]</p_model>
+        <p_fpops>1969230769.23077</p_fpops>
+        <p_iops>3473641665.22317</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4837</id>
+        <create_time>1280351887</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>77738818159b7c71df53a69bf567403e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280351887</expavg_time>
+        <domain_name>MPTU-UBUNTU-DT</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2500+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1138245010.88957</p_fpops>
+        <p_iops>2622562374.02966</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4838</id>
+        <create_time>1280351982</create_time>
+        <rpc_seqno>188</rpc_seqno>
+        <host_cpid>8a865e16ce90469aebdf85d563d5b377</host_cpid>
+        <total_credit>166.482965</total_credit>
+        <expavg_credit>0.079433</expavg_credit>
+        <expavg_time>1285876803.19798</expavg_time>
+        <domain_name>mptu_master</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2648980696.94927</p_fpops>
+        <p_iops>5358681031.50101</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4840</id>
+        <create_time>1280352509</create_time>
+        <rpc_seqno>855</rpc_seqno>
+        <host_cpid>8cf351c053a9fa6b751967344b41274e</host_cpid>
+        <total_credit>1097.973873</total_credit>
+        <expavg_credit>0.087382</expavg_credit>
+        <expavg_time>1290889503.26978</expavg_time>
+        <domain_name>masterptu-ubuntu1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1689113593.2801</p_fpops>
+        <p_iops>4519026922.57676</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5238</id>
+        <create_time>1283173373</create_time>
+        <rpc_seqno>4231</rpc_seqno>
+        <host_cpid>2a1df2f30b35e1d86920617ca128917d</host_cpid>
+        <total_credit>9627.0910731134</total_credit>
+        <expavg_credit>0.012211443144542</expavg_credit>
+        <expavg_time>1314642001</expavg_time>
+        <domain_name>MPTU_Master</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2453239445.54175</p_fpops>
+        <p_iops>7089711823.00077</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5395</id>
+        <create_time>1284201684</create_time>
+        <rpc_seqno>931</rpc_seqno>
+        <host_cpid>7b6ba1df64d1a36fd2685a0a38c067d8</host_cpid>
+        <total_credit>871.971628</total_credit>
+        <expavg_credit>2.282308</expavg_credit>
+        <expavg_time>1315728141.5259</expavg_time>
+        <domain_name>PGSRV002</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3200+ [Family 15 Model 95 Stepping 2]</p_model>
+        <p_fpops>2037355256.46849</p_fpops>
+        <p_iops>3708477709.81991</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

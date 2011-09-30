@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4702</id>
+    <cpid>4cf2251be9cc0b19012ae5474e7df5ae</cpid>
+    <create_time>1308713792</create_time>
+    <name>jgowdy</name>
+    <country>United States</country>
+    <total_credit>20.303379</total_credit>
+    <expavg_credit>0.071192</expavg_credit>
+    <expavg_time>1312143302.52756</expavg_time>
+    <teamid>0</teamid>
+    <url>basharteg.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9286</id>
+        <create_time>1308714107</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>d3a0f31ba0da2670290e611b83ba12fb</host_cpid>
+        <total_credit>7.761221</total_credit>
+        <expavg_credit>0.091888</expavg_credit>
+        <expavg_time>1310933703.15037</expavg_time>
+        <domain_name>Jeremiah-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2960847704.27723</p_fpops>
+        <p_iops>9323579317.13465</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9292</id>
+        <create_time>1308763528</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>939e6b80733fc231563d315330b5c4a0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308763528</expavg_time>
+        <domain_name>jeremiah-gowdys-imac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Extreme CPU X7900 @ 2.80GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>3069176101.66156</p_fpops>
+        <p_iops>7267249696.55216</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9287</id>
+        <create_time>1308714116</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>a4fc441b0c52d4cfece89f7e168a0949</host_cpid>
+        <total_credit>4.139165</total_credit>
+        <expavg_credit>0.07649</expavg_credit>
+        <expavg_time>1310933703.1549</expavg_time>
+        <domain_name>Jeremiah-Gowdys-Mac-mini.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2721057389.77756</p_fpops>
+        <p_iops>6259412449.6831</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9288</id>
+        <create_time>1308714140</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>40aaec4ea32e437420688bcbc2a09a95</host_cpid>
+        <total_credit>8.402993</total_credit>
+        <expavg_credit>0.065921</expavg_credit>
+        <expavg_time>1310933703.01397</expavg_time>
+        <domain_name>JEREMIAH</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W5590  @ 3.33GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3207299283.21638</p_fpops>
+        <p_iops>9556036695.86681</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

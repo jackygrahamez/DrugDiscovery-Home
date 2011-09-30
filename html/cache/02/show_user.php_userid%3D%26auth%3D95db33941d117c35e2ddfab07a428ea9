@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>677</id>
+    <cpid>fbb97724ddb1c050a4529586be0d98ba</cpid>
+    <create_time>1241136000</create_time>
+    <name>[TiDC] Chulma</name>
+    <country>Spain</country>
+    <total_credit>5951.164166025</total_credit>
+    <expavg_credit>0.083897</expavg_credit>
+    <expavg_time>1262829602.35755</expavg_time>
+    <teamid>501</teamid>
+    <url>boincysumundo.blogspot.com/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>673</id>
+        <create_time>1252083529</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>3c6478125b0dc2735140bd64e2620a27</host_cpid>
+        <total_credit>931.01132958988</total_credit>
+        <expavg_credit>0.078504</expavg_credit>
+        <expavg_time>1262829602.44249</expavg_time>
+        <domain_name>i7920-2666-04</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 0 Model 0 Stepping 0]</p_model>
+        <p_fpops>2496886033.43194</p_fpops>
+        <p_iops>8540067626.49184</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>674</id>
+        <create_time>1252083671</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>83ce5f8d51e33c1d4d3e6a5267de8534</host_cpid>
+        <total_credit>73.152836435384</total_credit>
+        <expavg_credit>0.074336</expavg_credit>
+        <expavg_time>1260499802.78065</expavg_time>
+        <domain_name>PHII940-3000-01</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2397792362.56297</p_fpops>
+        <p_iops>6377155323.30954</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,625 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to marekt</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to marekt</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=0&userid=772>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=0&show_all=1&userid=772>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=1&show_all=1&userid=772>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=0&show_all=1&userid=772>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=0&show_all=1&userid=772>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=0&show_all=1&userid=772>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=0&show_all=1&userid=772>Last contact</a></th>
+<tr class=row1><td>ID: 580
+        <br><a href=show_host_detail.php?hostid=580>Details</a> |
+        <a href=results.php?hostid=580>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=029b417d122884cb49b4d580ca59b950><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=029b417d122884cb49b4d580ca59b950><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.10</td>
+            <td align=right>85</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM) Duo CPU      T2350  @ 1.86GHz [x86 Family 6 Model 14 Stepping 12]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Home x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>24 Nov 2009 4:16:52 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 565
+        <br><a href=show_host_detail.php?hostid=565>Details</a> |
+        <a href=results.php?hostid=565>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=2234a7dc6ca3a8c773326088ccbeec57><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=2234a7dc6ca3a8c773326088ccbeec57><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.10</td>
+            <td align=right>4,020</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>24 Dec 2010 4:31:30 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 618
+        <br><a href=show_host_detail.php?hostid=618>Details</a> |
+        <a href=results.php?hostid=618>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e59e5562df29770f726cab32354033ad><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e59e5562df29770f726cab32354033ad><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.09</td>
+            <td align=right>895</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>27 Mar 2010 14:18:34 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 564
+        <br><a href=show_host_detail.php?hostid=564>Details</a> |
+        <a href=results.php?hostid=564>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=9bfabbf74040761154942b601063145c><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=9bfabbf74040761154942b601063145c><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.09</td>
+            <td align=right>3,593</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>22 Dec 2010 4:56:47 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 528
+        <br><a href=show_host_detail.php?hostid=528>Details</a> |
+        <a href=results.php?hostid=528>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=885abf28b6d727ee04d8c504984160e4><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=885abf28b6d727ee04d8c504984160e4><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.09</td>
+            <td align=right>4,520</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>22 Dec 2010 13:51:07 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 1061
+        <br><a href=show_host_detail.php?hostid=1061>Details</a> |
+        <a href=results.php?hostid=1061>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=5106b6a545be7e8defc874786e7ae867><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=5106b6a545be7e8defc874786e7ae867><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>6</td>
+
+            <td align=right>0.08</td>
+            <td align=right>121</td>
+            <td>6.6.37</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]<br>(4 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.30.9-96.fc11.x86_64</span></td>
+            <td>18 Nov 2009 2:50:32 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 650
+        <br><a href=show_host_detail.php?hostid=650>Details</a> |
+        <a href=results.php?hostid=650>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a1b892d6ea42654e2a49ac285c725eb3><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a1b892d6ea42654e2a49ac285c725eb3><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>7</td>
+
+            <td align=right>0.08</td>
+            <td align=right>1,039</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 16:48:57 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 571
+        <br><a href=show_host_detail.php?hostid=571>Details</a> |
+        <a href=results.php?hostid=571>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=02312584e76bbe2f307978dbe90a8975><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=02312584e76bbe2f307978dbe90a8975><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>8</td>
+
+            <td align=right>0.08</td>
+            <td align=right>3,416</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>2 Nov 2010 16:27:18 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 622
+        <br><a href=show_host_detail.php?hostid=622>Details</a> |
+        <a href=results.php?hostid=622>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4c9f151f055fad7ecb9feafb1e2cd260><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4c9f151f055fad7ecb9feafb1e2cd260><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>9</td>
+
+            <td align=right>0.08</td>
+            <td align=right>876</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 15:19:48 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5223
+        <br><a href=show_host_detail.php?hostid=5223>Details</a> |
+        <a href=results.php?hostid=5223>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=c737d02727acabd6d36be6ee40ad1aa3><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=c737d02727acabd6d36be6ee40ad1aa3><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>10</td>
+
+            <td align=right>0.07</td>
+            <td align=right>68</td>
+            <td>6.10.56</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>23 Nov 2010 16:38:36 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 629
+        <br><a href=show_host_detail.php?hostid=629>Details</a> |
+        <a href=results.php?hostid=629>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=d35857403111ec12da7da4e322199693><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=d35857403111ec12da7da4e322199693><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>11</td>
+
+            <td align=right>0.07</td>
+            <td align=right>825</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 13:58:52 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 572
+        <br><a href=show_host_detail.php?hostid=572>Details</a> |
+        <a href=results.php?hostid=572>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=62f66d32223b704f296ee82b7246bf96><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=62f66d32223b704f296ee82b7246bf96><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>12</td>
+
+            <td align=right>0.07</td>
+            <td align=right>3,581</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 17531</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>23 Mar 2010 4:50:27 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 2157
+        <br><a href=show_host_detail.php?hostid=2157>Details</a> |
+        <a href=results.php?hostid=2157>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=d16b01b959477e323e3b62618ccbf97d><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=d16b01b959477e323e3b62618ccbf97d><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>13</td>
+
+            <td align=right>0.07</td>
+            <td align=right>1,250</td>
+            <td>6.10.25</td>
+            <td>GenuineIntel<br>Pentium(R) Dual-Core CPU       T4300  @ 2.10GHz [Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.31.12-174.2.22.fc12.x86_64</span></td>
+            <td>23 Feb 2010 8:47:53 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 566
+        <br><a href=show_host_detail.php?hostid=566>Details</a> |
+        <a href=results.php?hostid=566>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=9cdb649cb82be7ed89682f9d926b970a><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=9cdb649cb82be7ed89682f9d926b970a><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>14</td>
+
+            <td align=right>0.07</td>
+            <td align=right>2,222</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>22 Dec 2010 2:54:14 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 525
+        <br><a href=show_host_detail.php?hostid=525>Details</a> |
+        <a href=results.php?hostid=525>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=967b3c3c3b217f33ee2f87f3b750d19f><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=967b3c3c3b217f33ee2f87f3b750d19f><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>15</td>
+
+            <td align=right>0.06</td>
+            <td align=right>653</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 17:32:09 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 563
+        <br><a href=show_host_detail.php?hostid=563>Details</a> |
+        <a href=results.php?hostid=563>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=b3597dac86568457a779dc7be8a5f1af><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=b3597dac86568457a779dc7be8a5f1af><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>16</td>
+
+            <td align=right>0.06</td>
+            <td align=right>3,693</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 19745</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>22 Dec 2010 14:01:02 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5222
+        <br><a href=show_host_detail.php?hostid=5222>Details</a> |
+        <a href=results.php?hostid=5222>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=6370576185bfcc6bdbaab2e9b08690ab><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=6370576185bfcc6bdbaab2e9b08690ab><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>17</td>
+
+            <td align=right>0.06</td>
+            <td align=right>63</td>
+            <td>6.10.56</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>24 Nov 2010 18:08:29 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 649
+        <br><a href=show_host_detail.php?hostid=649>Details</a> |
+        <a href=results.php?hostid=649>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=6671a332a1972e30c60f1570deac7ad2><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=6671a332a1972e30c60f1570deac7ad2><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>18</td>
+
+            <td align=right>0.06</td>
+            <td align=right>483</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 14:34:27 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 529
+        <br><a href=show_host_detail.php?hostid=529>Details</a> |
+        <a href=results.php?hostid=529>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=5e25290b3be2c0b8a800829ef85ec6c6><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=5e25290b3be2c0b8a800829ef85ec6c6><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>19</td>
+
+            <td align=right>0.06</td>
+            <td align=right>497</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 15:02:52 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 570
+        <br><a href=show_host_detail.php?hostid=570>Details</a> |
+        <a href=results.php?hostid=570>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=21e9c92b9c8aafbe7e55f9dae92d0b02><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=21e9c92b9c8aafbe7e55f9dae92d0b02><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>20</td>
+
+            <td align=right>0.06</td>
+            <td align=right>4,211</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>19 Oct 2010 18:14:20 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 619
+        <br><a href=show_host_detail.php?hostid=619>Details</a> |
+        <a href=results.php?hostid=619>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=bf5d8b2321c28d7e035b9d514642041e><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=bf5d8b2321c28d7e035b9d514642041e><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>21</td>
+
+            <td align=right>0.06</td>
+            <td align=right>1,079</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 16:48:53 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 569
+        <br><a href=show_host_detail.php?hostid=569>Details</a> |
+        <a href=results.php?hostid=569>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=be0d36d90b7956842a2cadc5265fcbba><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=be0d36d90b7956842a2cadc5265fcbba><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>22</td>
+
+            <td align=right>0.05</td>
+            <td align=right>1,892</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 17531</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>24 Jun 2010 3:51:37 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 567
+        <br><a href=show_host_detail.php?hostid=567>Details</a> |
+        <a href=results.php?hostid=567>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=7b70c08ca406f58f971b5fbcaa10eff7><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=7b70c08ca406f58f971b5fbcaa10eff7><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>23</td>
+
+            <td align=right>0.05</td>
+            <td align=right>3,099</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 25896</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>22 Dec 2010 0:36:14 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 1995
+        <br><a href=show_host_detail.php?hostid=1995>Details</a> |
+        <a href=results.php?hostid=1995>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e33be3982e270587f6255300dd801483><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e33be3982e270587f6255300dd801483><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>24</td>
+
+            <td align=right>0.05</td>
+            <td align=right>10,916</td>
+            <td>6.10.33</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]<br>(4 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.32.9-70.fc12.x86_64</span></td>
+            <td>21 Mar 2010 19:01:39 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 530
+        <br><a href=show_host_detail.php?hostid=530>Details</a> |
+        <a href=results.php?hostid=530>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=0c03c140a8928a15d27de571611c35b8><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=0c03c140a8928a15d27de571611c35b8><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>25</td>
+
+            <td align=right>0.04</td>
+            <td align=right>431</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 17824</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 12:49:41 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 533
+        <br><a href=show_host_detail.php?hostid=533>Details</a> |
+        <a href=results.php?hostid=533>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=eee261d7284dd15e4e68b3a0d7c5f2f3><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=eee261d7284dd15e4e68b3a0d7c5f2f3><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>26</td>
+
+            <td align=right>0.02</td>
+            <td align=right>517</td>
+            <td>6.6.36</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [x86 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9400 GT (511MB) driver: 18048</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</span></td>
+            <td>16 Sep 2011 16:42:01 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 2073
+        <br><a href=show_host_detail.php?hostid=2073>Details</a> |
+        <a href=results.php?hostid=2073>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4cb19368462210e61d5688450cfb7336><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4cb19368462210e61d5688450cfb7336><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>27</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.33</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) XP 2000+ [Family 6 Model 10 Stepping 0]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.31.12-174.2.22.fc12.i686.PAE</span></td>
+            <td>10 Mar 2010 19:29:04 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 2236
+        <br><a href=show_host_detail.php?hostid=2236>Details</a> |
+        <a href=results.php?hostid=2236>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=ce243ab34754a66b463e8a636b7e0eaf><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=ce243ab34754a66b463e8a636b7e0eaf><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>28</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.2.14</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 4 Stepping 9]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.26-2-686</span></td>
+            <td>17 Mar 2010 20:39:13 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 2466
+        <br><a href=show_host_detail.php?hostid=2466>Details</a> |
+        <a href=results.php?hostid=2466>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=8245ae032e247b1b4234000b56c930ef><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=8245ae032e247b1b4234000b56c930ef><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>29</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM) Duo CPU      T2350  @ 1.86GHz [x86 Family 6 Model 14 Stepping 12]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Home x86 Edition, Dodatek Service Pack 2, (05.01.2600.00)</span></td>
+            <td>21 Feb 2010 5:39:16 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4449
+        <br><a href=show_host_detail.php?hostid=4449>Details</a> |
+        <a href=results.php?hostid=4449>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=c42cb12116e5ead44c0db7a7543e9b6a><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=c42cb12116e5ead44c0db7a7543e9b6a><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>30</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.45</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]<br>(4 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.34.6-54.fc13.x86_64</span></td>
+            <td>12 Sep 2010 0:11:44 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5711
+        <br><a href=show_host_detail.php?hostid=5711>Details</a> |
+        <a href=results.php?hostid=5711>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=fc5c798ef239057c2c95902cbd771553><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=fc5c798ef239057c2c95902cbd771553><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>31</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz [Intel64 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows 7<br><span class=note>x64 Edition, (06.01.7600.00)</span></td>
+            <td>9 Nov 2010 8:31:37 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=0&userid=772>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 22 Sep 2011 13:50:41 UTC</span>
+</body>
+        </html>
+    

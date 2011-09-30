@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1301</id>
+    <cpid>4c8db15e0f572591dcd862d658a8b5f6</cpid>
+    <create_time>1265676316</create_time>
+    <name>desktop64</name>
+    <country>Germany</country>
+    <total_credit>1160.724245</total_credit>
+    <expavg_credit>0.068718</expavg_credit>
+    <expavg_time>1302388404.82071</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3992</id>
+        <create_time>1274733838</create_time>
+        <rpc_seqno>221</rpc_seqno>
+        <host_cpid>d17c961ca288bf07668c121ab1169dae</host_cpid>
+        <total_credit>86.435538</total_credit>
+        <expavg_credit>0.096275</expavg_credit>
+        <expavg_time>1292703903.33413</expavg_time>
+        <domain_name>PC2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2792903543.4332</p_fpops>
+        <p_iops>8781626790.43866</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>3710</id>
+        <create_time>1272636669</create_time>
+        <rpc_seqno>398</rpc_seqno>
+        <host_cpid>159894e9f3a9ca9a4e590cfd99be0943</host_cpid>
+        <total_credit>1074.288707</total_credit>
+        <expavg_credit>0.030473</expavg_credit>
+        <expavg_time>1302388404.86028</expavg_time>
+        <domain_name>PC1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 965 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2978008224.9118</p_fpops>
+        <p_iops>9321880824.31304</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>4224</id>
+        <create_time>1276465290</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>cefff89e0adf1c7b92a8e3126e459022</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276465290</expavg_time>
+        <domain_name>PC4-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2420663163.38967</p_fpops>
+        <p_iops>9724274240.00924</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic</os_version>
+        <venue>home</venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1255</id>
+    <cpid>0fb89bb08406430219d6a0572795fc14</cpid>
+    <create_time>1265277596</create_time>
+    <name>FlyingfocRS of the Scottish Boinc Team</name>
+    <country>United Kingdom</country>
+    <total_credit>1530.235325</total_credit>
+    <expavg_credit>0.055943</expavg_credit>
+    <expavg_time>1273291202.22612</expavg_time>
+    <teamid>369</teamid>
+    <url>www.thescottishboincteam.co.uk</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2064</id>
+        <create_time>1265277717</create_time>
+        <rpc_seqno>561</rpc_seqno>
+        <host_cpid>15e364cb1b92cc1a827f2dbf57cbc852</host_cpid>
+        <total_credit>1530.235325</total_credit>
+        <expavg_credit>0.055943</expavg_credit>
+        <expavg_time>1273291202.39072</expavg_time>
+        <domain_name>D5BBQN2J</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2320719054.90666</p_fpops>
+        <p_iops>5137664966.02285</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6081</id>
+        <create_time>1288883139</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>9067c8acef6928f413a815910061f2eb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288883139</expavg_time>
+        <domain_name>Mike-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 635 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2404622879.3963</p_fpops>
+        <p_iops>7502799811.07083</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3322</id>
+    <cpid>8b4646cb0d98ac8ca29e96a48aabfde8</cpid>
+    <create_time>1290001548</create_time>
+    <name>Gennady Fedonin</name>
+    <country>International</country>
+    <total_credit>596.645962</total_credit>
+    <expavg_credit>0.075912</expavg_credit>
+    <expavg_time>1307909403.1676</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6382</id>
+        <create_time>1290001915</create_time>
+        <rpc_seqno>3037</rpc_seqno>
+        <host_cpid>a02c78d5e393a4b0233a7007db1aabf2</host_cpid>
+        <total_credit>533.900772</total_credit>
+        <expavg_credit>0.086017</expavg_credit>
+        <expavg_time>1297627502.90364</expavg_time>
+        <domain_name>Researcher</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [x86 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2393449811.81841</p_fpops>
+        <p_iops>5130023078.7994</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7178</id>
+        <create_time>1294181783</create_time>
+        <rpc_seqno>224</rpc_seqno>
+        <host_cpid>5c1c987f4ee43dc13f58c6181cdd4699</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294181783</expavg_time>
+        <domain_name>researcher</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1815364805.21051</p_fpops>
+        <p_iops>11455379489.6213</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7359</id>
+        <create_time>1295190155</create_time>
+        <rpc_seqno>10106</rpc_seqno>
+        <host_cpid>1fb260774d95db11f09cb887dc7d95b8</host_cpid>
+        <total_credit>62.74519</total_credit>
+        <expavg_credit>0.075885</expavg_credit>
+        <expavg_time>1307909403.58442</expavg_time>
+        <domain_name>researcher</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1978798116.32</p_fpops>
+        <p_iops>6152615316.11275</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

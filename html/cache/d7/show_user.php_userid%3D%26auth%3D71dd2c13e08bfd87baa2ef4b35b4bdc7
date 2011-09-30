@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1104</id>
+    <cpid>4e2292deadfd276889eb00c09c163a35</cpid>
+    <create_time>1258462149</create_time>
+    <name>nunyx</name>
+    <country>Portugal</country>
+    <total_credit>1187.4954648775</total_credit>
+    <expavg_credit>0.077438</expavg_credit>
+    <expavg_time>1268940302.80077</expavg_time>
+    <teamid>496</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>1398</id>
+        <create_time>1258462428</create_time>
+        <rpc_seqno>6291</rpc_seqno>
+        <host_cpid>3fa42b756fe1a4361f6a8fd91613765c</host_cpid>
+        <total_credit>1155.7011148775</total_credit>
+        <expavg_credit>0.07733</expavg_credit>
+        <expavg_time>1268940303.77883</expavg_time>
+        <domain_name>Nemesis</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T2310  @ 1.46GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1399420500.33347</p_fpops>
+        <p_iops>3023529828.71769</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Editon, (06.00.6000.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1507</id>
+        <create_time>1258862567</create_time>
+        <rpc_seqno>57</rpc_seqno>
+        <host_cpid>de9b71397f15a476c09b5ea74548dbcc</host_cpid>
+        <total_credit>31.79435</total_credit>
+        <expavg_credit>0.061024</expavg_credit>
+        <expavg_time>1263329703.35455</expavg_time>
+        <domain_name>Susana-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1850361623.50949</p_fpops>
+        <p_iops>4343262182.67197</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Edition, (06.00.6000.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

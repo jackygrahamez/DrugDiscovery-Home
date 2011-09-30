@@ -1,0 +1,59 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"1";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1884";s:11:"create_time";s:10:"1272011452";s:10:"email_addr";s:19:"power_unit@yahoo.ca";s:4:"name";s:9:"RedMenace";s:13:"authenticator";s:32:"962d78f22ea03a27f562abfff7bedeb7";s:7:"country";s:6:"Canada";s:11:"postal_code";s:7:"E2S 1A2";s:12:"total_credit";s:11:"18052.07217";s:13:"expavg_credit";s:9:"11.814731";s:11:"expavg_time";s:14:"1315738376.132";s:12:"global_prefs";s:2383:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1312315324</mod_time>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>20</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>2.0</work_buf_additional_days>
+    <max_cpus>16</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>10.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>5.0</disk_min_free_gb>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <end_hour>0</end_hour>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <suspend_cpu_usage>25.0</suspend_cpu_usage>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>5.0</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>16</max_cpus>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>60.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>50.0</vm_max_used_pct>
+        <work_buf_min_days>0.2</work_buf_min_days>
+        <work_buf_additional_days>1.0</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:122:"<project_preferences>
+
+
+<resource_share>10000</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:2:"18";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"eed41bceca30caa17ef5add7f36934b5";s:11:"passwd_hash";s:32:"3c41d8033c21d03419b300d601298fa8";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"18";s:11:"create_time";s:10:"1240319441";s:6:"userid";s:2:"29";s:4:"name";s:6:"Canada";s:7:"name_lc";s:6:"canada";s:3:"url";s:26:"teamcanada.freeforums.org/";s:4:"type";s:1:"9";s:9:"name_html";s:185:"<a href='http://teamcanada.freeforums.org/portal.php' target='_blank'><img src='http://i176.photobucket.com/albums/w177/Grizz_/canadalogo-2small.jpg' border='0' alt='Canada Forums'></a>";s:11:"description";s:472:"<p><a href="http://teamcanada.freeforums.org/portal.php" target="_blank"><img src="http://i145.photobucket.com/albums/r206/pawly2099/be381747.png" border="0" alt="Oh! Canada Forum"></a></p>
+<p><a href="http://teamcanada.freeforums.org/portal.php" target="_blank"><img src="http://i176.photobucket.com/albums/w177/Grizz_/ocanada2.gif" border="0" alt="Oh Canada Forum"></a></p>
+<B>NEWS:</B> We need help with the project of the month, visit the website and cast your vote.";s:6:"nusers";s:2:"20";s:7:"country";s:6:"Canada";s:12:"total_credit";s:15:"114913.70490053";s:13:"expavg_credit";s:8:"29.92475";s:11:"expavg_time";s:16:"1315843031.21045";s:7:"seti_id";s:3:"171";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

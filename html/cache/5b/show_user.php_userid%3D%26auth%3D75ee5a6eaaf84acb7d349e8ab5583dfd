@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2870</id>
+    <cpid>95d77f49f3f1344ce482e9d5703ec710</cpid>
+    <create_time>1288065651</create_time>
+    <name>Matt Draper</name>
+    <country>United States</country>
+    <total_credit>141.12089</total_credit>
+    <expavg_credit>0.568023</expavg_credit>
+    <expavg_time>1315601469.48214</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6735</id>
+        <create_time>1291502779</create_time>
+        <rpc_seqno>552</rpc_seqno>
+        <host_cpid>91e83d52111066f2c54e143dff99441b</host_cpid>
+        <total_credit>116.623481</total_credit>
+        <expavg_credit>0.08095</expavg_credit>
+        <expavg_time>1311538503.52685</expavg_time>
+        <domain_name>Alexis-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-58 [Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>1753593761.17784</p_fpops>
+        <p_iops>4495394137.84802</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7093</id>
+        <create_time>1293576308</create_time>
+        <rpc_seqno>87</rpc_seqno>
+        <host_cpid>f3ee608308589dc0815f137a2c9b61eb</host_cpid>
+        <total_credit>9.736585</total_credit>
+        <expavg_credit>0.091244</expavg_credit>
+        <expavg_time>1297627502.9301</expavg_time>
+        <domain_name>Matt-Netbook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N280   @ 1.66GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>706219448.406999</p_fpops>
+        <p_iops>1792015000.99691</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8654</id>
+        <create_time>1304555335</create_time>
+        <rpc_seqno>228</rpc_seqno>
+        <host_cpid>d34b04fb8c34b7aa7d0eb57e012167f0</host_cpid>
+        <total_credit>14.760824</total_credit>
+        <expavg_credit>0.361347</expavg_credit>
+        <expavg_time>1315601469.4823</expavg_time>
+        <domain_name>Littlebox7</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 3000+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1955555555.55556</p_fpops>
+        <p_iops>3130731561.09273</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9344</id>
+        <create_time>1309276383</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c9b9665f540b90b998f6cfd117ad7a75</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309276383</expavg_time>
+        <domain_name>Netbook-Ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N280   @ 1.66GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>537700425.554045</p_fpops>
+        <p_iops>1568944231.7834</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3634</id>
+    <cpid>c03c231e13c9c194ca9c51c5fde21777</cpid>
+    <create_time>1294246839</create_time>
+    <name>anchedo</name>
+    <country>Germany</country>
+    <total_credit>175.857761</total_credit>
+    <expavg_credit>3.136357</expavg_credit>
+    <expavg_time>1315851902.57249</expavg_time>
+    <teamid>6</teamid>
+    <url>anchedo.net/boinc.html</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>7198</id>
+        <create_time>1294255070</create_time>
+        <rpc_seqno>472</rpc_seqno>
+        <host_cpid>a77786438ed04428ceb5b15341fb0d0d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294255070</expavg_time>
+        <domain_name>shark</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6850  @ 3.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2656391670.6406</p_fpops>
+        <p_iops>6088722924.79328</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7192</id>
+        <create_time>1294247606</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>8c9afb21bd9e5afdfa5c8f19984a299e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294247606</expavg_time>
+        <domain_name>w4de3csy0000031</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1894365380.90025</p_fpops>
+        <p_iops>3840183734.7009</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7303</id>
+        <create_time>1294773274</create_time>
+        <rpc_seqno>4400</rpc_seqno>
+        <host_cpid>f45f29dedfb257892d100adeff10c3e8</host_cpid>
+        <total_credit>161.147145</total_credit>
+        <expavg_credit>3.0675</expavg_credit>
+        <expavg_time>1315851902.86109</expavg_time>
+        <domain_name>w4de3csy0031</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1893761140.81996</p_fpops>
+        <p_iops>3752285111.12069</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9047</id>
+        <create_time>1307282664</create_time>
+        <rpc_seqno>3688</rpc_seqno>
+        <host_cpid>e0983d3eba8cf5bbf0aac341cacb474e</host_cpid>
+        <total_credit>14.710616</total_credit>
+        <expavg_credit>0.061414</expavg_credit>
+        <expavg_time>1315247104.85501</expavg_time>
+        <domain_name>tigershark</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3197674167.14355</p_fpops>
+        <p_iops>11430598018.1648</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9382</id>
+        <create_time>1309653541</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>4a43ad459ccdca71bea439007faf1aac</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309653541</expavg_time>
+        <domain_name>Papi-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6850  @ 3.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2920139090.55033</p_fpops>
+        <p_iops>6400061738.51808</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

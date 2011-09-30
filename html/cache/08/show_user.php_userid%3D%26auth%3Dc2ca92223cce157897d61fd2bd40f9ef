@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1586</id>
+    <cpid>09e69f27578fe714d77e84d1277e45fd</cpid>
+    <create_time>1268589728</create_time>
+    <name>ueliw</name>
+    <country>Switzerland</country>
+    <total_credit>306.744601</total_credit>
+    <expavg_credit>0.068741</expavg_credit>
+    <expavg_time>1276920002.40391</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2988</id>
+        <create_time>1268592318</create_time>
+        <rpc_seqno>816</rpc_seqno>
+        <host_cpid>4124d360d65f0a58454fe5138ab58721</host_cpid>
+        <total_credit>306.744601</total_credit>
+        <expavg_credit>0.068741</expavg_credit>
+        <expavg_time>1276920003.40216</expavg_time>
+        <domain_name>ueliw_notebook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2451657953.87605</p_fpops>
+        <p_iops>7085259210.97756</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5783</id>
+        <create_time>1286743189</create_time>
+        <rpc_seqno>117</rpc_seqno>
+        <host_cpid>3f1d77ccdab25db0b44af5a9232c3634</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286743189</expavg_time>
+        <domain_name>ueliw-w500</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2446699797.69671</p_fpops>
+        <p_iops>13060824581.3054</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

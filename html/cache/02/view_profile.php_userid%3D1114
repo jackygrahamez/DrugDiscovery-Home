@@ -1,0 +1,140 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1114";s:11:"create_time";s:10:"1258474515";s:10:"email_addr";s:20:"boinc@mariettapa.com";s:4:"name";s:29:"Jesse Charles Wagner II [USA]";s:13:"authenticator";s:32:"c763ac9d8124860a8c1740934cbe518d";s:7:"country";s:13:"United States";s:11:"postal_code";s:10:"17547-0507";s:12:"total_credit";s:16:"1329.79193187702";s:13:"expavg_credit";s:7:"0.07188";s:11:"expavg_time";s:16:"1272686402.88099";s:12:"global_prefs";s:4189:"<global_preferences>
+    <source_project>http://cah.tcm.phy.cam.ac.uk/</source_project>
+    <source_scheduler>http://cah.tcm.phy.cam.ac.uk/cah_cgi/cgi</source_scheduler>
+<mod_time>1271144477</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>11776000</max_bytes_sec_down>
+<max_bytes_sec_up>1024000</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>11776000</max_bytes_sec_down>
+<max_bytes_sec_up>1024000</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>11776000</max_bytes_sec_down>
+<max_bytes_sec_up>1024000</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>11776000</max_bytes_sec_down>
+<max_bytes_sec_up>1024000</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:590:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+<venue name="home">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+<venue name="work">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+<venue name="school">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+</project_preferences>
+";s:6:"teamid";s:3:"153";s:5:"venue";s:4:"home";s:3:"url";s:19:"www.MariettaPA.com/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"5259c7bbc4645c2561d0ba69179a8d9f";s:11:"passwd_hash";s:32:"5cf1e30aca50d266a6aa55e849fee582";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"153";s:11:"create_time";s:10:"1240319898";s:6:"userid";s:3:"164";s:4:"name";s:3:"USA";s:7:"name_lc";s:3:"usa";s:3:"url";s:14:"usa.lanex.com/";s:4:"type";s:1:"9";s:9:"name_html";s:10:"<B>USA</B>";s:11:"description";s:1235:"<p align="center">team U.S.A. for Citizens, Friends and Patriots of the United States of America</p>
+<p align="center"><img src="http://usa.lanex.com/wp-content/uploads/2011/03/banner_background-374x143-1.jpg" border="0"></a></p>
+<p align="center">Our flag: Stars and Strips or "Old Glory" - U.S.A. founded July 4th 1776</p>
+<p align="center">One of the long-standing traditions of distributed computing projects is the formation of teams. <br />
+Not just a tradition, <br />
+a little healthy competition encourages active participation, <br />
+to the general gain of the project. </p>
+<p align="center">Team USA was created to show we have American pride and that good ol' American know-how is still a reality. <br />
+If you're a patriotic American, this is the team to join. Embrace our motto of "United we stand". <br />
+If you're not an American at all, you're still welcome. <br />
+This has always been a country with open arms. </p>
+
+<p align="center">---------------------------------------<br />
+Spring 2011<br />
+With the help of teammate Herb, we have created a new combined website and forum. <br />
+See link below. </p>
+<p align="center">----------------------------------------<br /><small>20110310</small>";s:6:"nusers";s:1:"9";s:7:"country";s:13:"United States";s:12:"total_credit";s:15:"50312.930171395";s:13:"expavg_credit";s:8:"0.353026";s:11:"expavg_time";s:16:"1316998502.73885";s:7:"seti_id";s:3:"322";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:10:"1252765665";s:8:"joinable";s:1:"1";}}

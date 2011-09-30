@@ -1,0 +1,5 @@
+23:47:39 (5854): Can't open init data file - running in standalone mode
+wrapper: starting
+23:47:39 (5854): wrapper: running unzip (-qq -o "*.zip" -d ".")
+app exit status: 0x6c00
+23:47:40 (5854): called boinc_finish

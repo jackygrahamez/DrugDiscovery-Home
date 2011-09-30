@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3123</id>
+    <cpid>6e2e0f0971ba4db8bf693af6b7214822</cpid>
+    <create_time>1289471186</create_time>
+    <name>petnek</name>
+    <country>Czech Republic</country>
+    <total_credit>1484.204693</total_credit>
+    <expavg_credit>33.47189</expavg_credit>
+    <expavg_time>1315687572.1775</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9715</id>
+        <create_time>1312914920</create_time>
+        <rpc_seqno>8908</rpc_seqno>
+        <host_cpid>9e73298477e04ef08e77a1e764da2a36</host_cpid>
+        <total_credit>989.487677</total_credit>
+        <expavg_credit>14.130392</expavg_credit>
+        <expavg_time>1315851902.86346</expavg_time>
+        <domain_name>Petnek-ThinkPad</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2480437626.7978</p_fpops>
+        <p_iops>7968932060.307</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9716</id>
+        <create_time>1312916311</create_time>
+        <rpc_seqno>5555</rpc_seqno>
+        <host_cpid>591a37e535f2fa74cc148c4145931c96</host_cpid>
+        <total_credit>494.717016</total_credit>
+        <expavg_credit>16.350485</expavg_credit>
+        <expavg_time>1315687572.17767</expavg_time>
+        <domain_name>Petnek-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2000532536.06814</p_fpops>
+        <p_iops>6182191154.39393</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

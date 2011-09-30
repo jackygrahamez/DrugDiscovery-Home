@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1585</id>
+    <cpid>37628015bc9663e8e75ea3086db47674</cpid>
+    <create_time>1268582702</create_time>
+    <name>bluehunt</name>
+    <country>Romania</country>
+    <total_credit>4526.6421228108</total_credit>
+    <expavg_credit>0.075648</expavg_credit>
+    <expavg_time>1289679902.79105</expavg_time>
+    <teamid>0</teamid>
+    <url>none</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2985</id>
+        <create_time>1268582985</create_time>
+        <rpc_seqno>358</rpc_seqno>
+        <host_cpid>768416236f60ba5316d364768677b1d6</host_cpid>
+        <total_credit>2716.1469568108</total_credit>
+        <expavg_credit>0.053735</expavg_credit>
+        <expavg_time>1281154205.18381</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2536492485.5508</p_fpops>
+        <p_iops>7834741108.7965</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3002</id>
+        <create_time>1268640528</create_time>
+        <rpc_seqno>1245</rpc_seqno>
+        <host_cpid>aa4033323cd2601b66b557daf3ae1fd6</host_cpid>
+        <total_credit>1810.495166</total_credit>
+        <expavg_credit>0.075645</expavg_credit>
+        <expavg_time>1289679902.89934</expavg_time>
+        <domain_name>Nicoleta-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1572107765.45166</p_fpops>
+        <p_iops>3407981729.86401</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

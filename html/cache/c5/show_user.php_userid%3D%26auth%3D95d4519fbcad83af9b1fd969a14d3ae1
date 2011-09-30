@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1245</id>
+    <cpid>d6a6e3e5e5be4dc67deb62c1722e625c</cpid>
+    <create_time>1265157912</create_time>
+    <name>apondarz</name>
+    <country>Poland</country>
+    <total_credit>3570.011353</total_credit>
+    <expavg_credit>0.093068</expavg_credit>
+    <expavg_time>1310328902.51107</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2071</id>
+        <create_time>1265314702</create_time>
+        <rpc_seqno>895</rpc_seqno>
+        <host_cpid>4e9c10fbb8ce226c47f2e5dd2e8ea4eb</host_cpid>
+        <total_credit>184.065334</total_credit>
+        <expavg_credit>0.068414</expavg_credit>
+        <expavg_time>1310328902.71788</expavg_time>
+        <domain_name>Komputer-Filipa</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [x86 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2442267774.20837</p_fpops>
+        <p_iops>4471775031.08579</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2036</id>
+        <create_time>1265158198</create_time>
+        <rpc_seqno>1488</rpc_seqno>
+        <host_cpid>dd49a855087a090ac01994fe79508799</host_cpid>
+        <total_credit>3385.946019</total_credit>
+        <expavg_credit>0.064872</expavg_credit>
+        <expavg_time>1307304603.25816</expavg_time>
+        <domain_name>telepoka</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 945 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>598557015.414196</p_fpops>
+        <p_iops>2419830074.50632</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.36.2-desktop-2mnb</os_version>
+        <venue></venue>
+    </host>
+</user>

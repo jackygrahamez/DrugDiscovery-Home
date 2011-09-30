@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2967</id>
+    <cpid>6457692330cc5fb9569a86a0ee40dcfd</cpid>
+    <create_time>1289113335</create_time>
+    <name>Stefan Christiansen</name>
+    <country>Germany</country>
+    <total_credit>2223.354892</total_credit>
+    <expavg_credit>0.522216</expavg_credit>
+    <expavg_time>1315774392.57444</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6197</id>
+        <create_time>1289420170</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>ad0363d4653346d4459a0946d7212bb0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289420170</expavg_time>
+        <domain_name>boinc</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 965 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>1958940922.28413</p_fpops>
+        <p_iops>7072949198.53651</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6121</id>
+        <create_time>1289160926</create_time>
+        <rpc_seqno>1250</rpc_seqno>
+        <host_cpid>55c7f8bd6dfd83469398b737f36d700b</host_cpid>
+        <total_credit>2176.746449</total_credit>
+        <expavg_credit>0.094503</expavg_credit>
+        <expavg_time>1314562503.80188</expavg_time>
+        <domain_name>ich</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.40GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1053224866.37358</p_fpops>
+        <p_iops>3121398288.24793</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6172</id>
+        <create_time>1289324947</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>3bc0f23d532ff1a46ba04dd2bcb640b0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289324947</expavg_time>
+        <domain_name>brunz</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7570  @ 2.26GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1579931873.48589</p_fpops>
+        <p_iops>5741056260.99582</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-26-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6435</id>
+        <create_time>1290245879</create_time>
+        <rpc_seqno>444</rpc_seqno>
+        <host_cpid>75afc3219dff3a73b2afcbbae79676b5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290245879</expavg_time>
+        <domain_name>xboinc</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 965 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>1890603818.44459</p_fpops>
+        <p_iops>7157084811.45578</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8591</id>
+        <create_time>1304009446</create_time>
+        <rpc_seqno>270</rpc_seqno>
+        <host_cpid>bc19f6463e51359e91119f116e7ba750</host_cpid>
+        <total_credit>46.608443</total_credit>
+        <expavg_credit>0.156979</expavg_credit>
+        <expavg_time>1315774392.57459</expavg_time>
+        <domain_name>Monster</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2391476040.15396</p_fpops>
+        <p_iops>7366046435.60763</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

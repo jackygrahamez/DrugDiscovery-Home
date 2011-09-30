@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2200</id>
+    <cpid>0c99c1b399dc935978e2ad69b7f076da</cpid>
+    <create_time>1277188294</create_time>
+    <name>charbo187</name>
+    <country>United States</country>
+    <total_credit>986.800221</total_credit>
+    <expavg_credit>0.05893</expavg_credit>
+    <expavg_time>1309724102.63419</expavg_time>
+    <teamid>5</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>5746</id>
+        <create_time>1286409438</create_time>
+        <rpc_seqno>160</rpc_seqno>
+        <host_cpid>7f86be3958a07d4de1cd100e85243aee</host_cpid>
+        <total_credit>179.474949</total_credit>
+        <expavg_credit>0.058982</expavg_credit>
+        <expavg_time>1304885404.75687</expavg_time>
+        <domain_name>Venus</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU        E3400  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2529406079.67866</p_fpops>
+        <p_iops>7466068458.73047</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>7897</id>
+        <create_time>1298698592</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>0d037d995eae9d31a4239b1a810aef68</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298698592</expavg_time>
+        <domain_name>Mars</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2499217626.8193</p_fpops>
+        <p_iops>7255064534.48877</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8571</id>
+        <create_time>1303895219</create_time>
+        <rpc_seqno>738</rpc_seqno>
+        <host_cpid>1fbba05329d7c4ab26a0829a73ed3775</host_cpid>
+        <total_credit>74.933776</total_credit>
+        <expavg_credit>0.05593</expavg_credit>
+        <expavg_time>1309724102.80635</expavg_time>
+        <domain_name>Neptune</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1701109253.5998</p_fpops>
+        <p_iops>3814338767.96099</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9872</id>
+        <create_time>1314165223</create_time>
+        <rpc_seqno>60</rpc_seqno>
+        <host_cpid>13bf961d6a0383908d1f9e29c84944c6</host_cpid>
+        <total_credit>732.391496</total_credit>
+        <expavg_credit>4.2301067702671e-09</expavg_credit>
+        <expavg_time>1314329266</expavg_time>
+        <domain_name>SOL</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>3005850897.64557</p_fpops>
+        <p_iops>8793073613.41499</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional N x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

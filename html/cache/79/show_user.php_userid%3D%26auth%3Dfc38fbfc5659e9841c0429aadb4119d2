@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3374</id>
+    <cpid>ccb6386bfc41ef554417cf70bb38b80d</cpid>
+    <create_time>1290153723</create_time>
+    <name>Rezboun</name>
+    <country>Czech Republic</country>
+    <total_credit>64.836571</total_credit>
+    <expavg_credit>0.054391</expavg_credit>
+    <expavg_time>1294518302.62855</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6417</id>
+        <create_time>1290153882</create_time>
+        <rpc_seqno>150</rpc_seqno>
+        <host_cpid>e4554e6f93ba235dac985a86f90771ac</host_cpid>
+        <total_credit>64.836571</total_credit>
+        <expavg_credit>0.054391</expavg_credit>
+        <expavg_time>1294518303.14061</expavg_time>
+        <domain_name>dx74-092</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2336048265.46003</p_fpops>
+        <p_iops>4675527011.07937</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>6421</id>
+        <create_time>1290182245</create_time>
+        <rpc_seqno>2432</rpc_seqno>
+        <host_cpid>34cd73b87a2faf048d279a72f20a2c7c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290182245</expavg_time>
+        <domain_name>Pol-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2889529337.52242</p_fpops>
+        <p_iops>8393914000.96877</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8527</id>
+        <create_time>1303567985</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>fb137f54c80819fdfc66318f84777be6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303567985</expavg_time>
+        <domain_name>pol-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3014415988.70318</p_fpops>
+        <p_iops>8814602931.11116</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

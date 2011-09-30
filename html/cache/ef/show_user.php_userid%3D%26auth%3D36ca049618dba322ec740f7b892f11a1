@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1758</id>
+    <cpid>3d142962ae786e81e8206ffc3e3da567</cpid>
+    <create_time>1270322349</create_time>
+    <name>Jean-Pierre Ossard</name>
+    <country>France</country>
+    <total_credit>79.974672</total_credit>
+    <expavg_credit>0.072206</expavg_credit>
+    <expavg_time>1275710402.71862</expavg_time>
+    <teamid>856</teamid>
+    <url>www.prodline.fr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3306</id>
+        <create_time>1270323650</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>ee7111e95e9d37cfd35e7b5d66dad1d2</host_cpid>
+        <total_credit>79.974672</total_credit>
+        <expavg_credit>0.072214</expavg_credit>
+        <expavg_time>1275710403.20965</expavg_time>
+        <domain_name>xps-630i</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2718773949.71598</p_fpops>
+        <p_iops>7806976448.12577</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9499</id>
+        <create_time>1310606969</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>164a3a194a8f6b4ef87ca65e53d7ee9c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310606969</expavg_time>
+        <domain_name>XPS-630i</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2664419702.01518</p_fpops>
+        <p_iops>7699081852.01851</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

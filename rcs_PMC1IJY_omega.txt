@@ -1,0 +1,78 @@
+"my" variable $orig_dir masks earlier declaration in same scope at bin/rcs_mdrun.pl line 211.
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 519.
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 551.
+Name "main::make_ndx" used only once: possible typo at bin/rcs_mdrun.pl line 60.
+Name "main::rsc_memory_bound" used only once: possible typo at bin/rcs_mdrun.pl line 35.
+Name "main::g_energy" used only once: possible typo at bin/rcs_mdrun.pl line 62.
+Name "main::protein_lig" used only once: possible typo at bin/rcs_mdrun.pl line 61.
+Use of uninitialized value in scalar chomp at bin/rcs_mdrun.pl line 9.
+date
+Thu Apr 22 03:47:03 BST 2010
+3
+Checking if script is running
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip
+mv /home/boincadm/projects/DrugDiscovery/sample_results/rcs_*PMC1IJY.zip*omega*.7z /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip
+/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000.7z
+date
+Thu Apr 22 03:47:17 BST 2010
+3
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000 /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000.7z
+
+Extracting  out_1.dlg
+Extracting  out_10.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  out_8.dlg
+Extracting  out_9.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_10.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  summary_8.txt
+Extracting  summary_9.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_10.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+Extracting  ligand_receptor_8.dpf
+Extracting  ligand_receptor_9.dpf
+
+Everything is Ok
+
+Files: 32
+Size:       2530038
+Compressed: 127421
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega142_ts_1270323666627125000
+/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega69_ts_1270323666627125000.7z
+date
+Thu Apr 22 03:47:25 BST 2010
+3
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega69_ts_1270323666627125000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/PMC1IJY.zip/rcs_ga_run_10_bt_PMC1IJY.zip_lig_omega69_ts_1270323666627125000

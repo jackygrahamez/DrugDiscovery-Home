@@ -1,0 +1,39 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1747";s:11:"create_time";s:10:"1270217989";s:10:"email_addr";s:18:"zglloo@hotmail.com";s:4:"name";s:6:"zglloo";s:13:"authenticator";s:32:"aa8cd902b7e7c1e746c66e372330abce";s:7:"country";s:5:"China";s:11:"postal_code";s:6:"841700";s:12:"total_credit";s:10:"809.312535";s:13:"expavg_credit";s:8:"0.063985";s:11:"expavg_time";s:16:"1276920002.40769";s:12:"global_prefs";s:1411:"<global_preferences>
+    <source_project>http://boinc.bakerlab.org/rosetta/</source_project>
+    <source_scheduler>http://srv4.bakerlab.org/rosetta_cgi/cgi</source_scheduler>
+  <mod_time>1268555653</mod_time>
+  <cpu_scheduling_period_minutes>30</cpu_scheduling_period_minutes>
+  <run_if_user_active>0</run_if_user_active>
+  <idle_time_to_run>3</idle_time_to_run>
+  <run_gpu_if_user_active>0</run_gpu_if_user_active>
+  <run_on_batteries>0</run_on_batteries>
+  <cpu_usage_limit>100</cpu_usage_limit>
+  <max_cpus>1</max_cpus>
+  <max_ncpus_pct>100</max_ncpus_pct>
+  <disk_max_used_gb>0</disk_max_used_gb>
+  <disk_max_used_pct>50</disk_max_used_pct>
+  <disk_min_free_gb>0.1</disk_min_free_gb>
+  <disk_interval>60</disk_interval>
+  <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+  <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+  <vm_max_used_pct>75</vm_max_used_pct>
+  <work_buf_min_days>0.1</work_buf_min_days>
+  <work_buf_additional_days>0.25</work_buf_additional_days>
+  <confirm_before_connecting>0</confirm_before_connecting>
+  <hangup_if_dialed>0</hangup_if_dialed>
+  <max_bytes_sec_down>0</max_bytes_sec_down>
+  <max_bytes_sec_up>0</max_bytes_sec_up>
+  <dont_verify_images>0</dont_verify_images>
+  <start_hour>0</start_hour>
+  <end_hour>0</end_hour>
+  <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+  <net_start_hour>0</net_start_hour>
+  <net_end_hour>0</net_end_hour>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:2:"41";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"09b7b0ebc3c7f1888aac69bc90685712";s:11:"passwd_hash";s:32:"3cdcea0e34ca1bd5a608c8a0153e2cf7";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"41";s:11:"create_time";s:10:"1240319533";s:6:"userid";s:2:"52";s:4:"name";s:10:"Team China";s:7:"name_lc";s:10:"team china";s:3:"url";s:18:"www.equn.com/forum";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:323:"Welcome all from China mainland, TaiWan, HongKong, Macau.
+</br></br>
+Welcome all Chinese all over the world.
+</br></br>
+Welcome all BOINC users!
+</br></br></br>
+欢迎所有 BOINC 用户加入 Team China 团队 (<a href='http://www.boincstats.com/signature/team_banner_bam42.gif' target="new">团队签名图片</a>)!";s:6:"nusers";s:2:"26";s:7:"country";s:5:"China";s:12:"total_credit";s:16:"11447.7728017906";s:13:"expavg_credit";s:7:"0.05134";s:11:"expavg_time";s:16:"1307304603.39516";s:7:"seti_id";s:3:"200";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:10:"1268790561";s:8:"joinable";s:1:"1";}}

@@ -1,0 +1,170 @@
+div.wlby_movie
+{
+	background-color: #999999;
+	overflow: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 900px;
+	height: 100px;
+}
+.wlby_text p { padding: 0; margin: 0; }
+
+a.wlby_classic-link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:hover { color: inherit; text-decoration: none; }
+a.wlby_classic-link:active { color: inherit; text-decoration: none; }
+a.wlby_classic-link:visited { color: inherit; text-decoration: none; }
+
+a.wlby_tlf-link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:hover { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:active { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:visited { color: inherit; text-decoration: none; }
+
+.wlby_button > * { visibility: hidden; }
+.wlby_button > .wlby_button_normal { visibility: visible; }
+.wlby_button:hover > .wlby_button_normal { visibility: hidden; }
+.wlby_button:hover > .wlby_button_hover { visibility: visible; }
+.wlby_button:active > .wlby_button_normal { visibility: hidden; }
+.wlby_button:active > .wlby_button_hover { visibility: hidden; }
+.wlby_button:active > .wlby_button_active { visibility: visible; }
+
+@-webkit-keyframes wlby_frameset-animation {
+	from { }
+	to { }
+}
+
+.wlby_fs, .wlby_graphic 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+}
+
+.wlby_graphic 
+{
+	-webkit-animation-duration: 1s;
+}
+
+.wlby_masked 
+{
+	height: inherit;
+	position: inherit;
+	width: inherit;
+}
+
+.wlby_sprite 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+	-webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes wlby_KF_8 {
+from, to {
+	-webkit-transform: matrix(1, 0, 0, 1, 57.419, 14.536) scale(1.6624, 1.6847);
+	opacity: 1;
+}
+}
+@-webkit-keyframes wlby_KF_7 {
+from {
+	-webkit-transform: matrix(1, 0, 0, 1, 245.25, 0) scale(1, 1);
+	opacity: 1;
+}
+to {
+	-webkit-transform: matrix(1, 0, 0, 1, 148.719, 12.511) scale(1.6624, 1.6847);
+	opacity: 1;
+}
+}
+@-webkit-keyframes wlby_KF_3 {
+from {
+	-webkit-transform: matrix(1, 0, 0, 1, -81.6, 52.05);
+	opacity: 1;
+}
+98.9% {
+	-webkit-transform: matrix(1, 0, 0, 1, 989.35, 52.05);
+	opacity: 1;
+}
+98.91%, to {
+	-webkit-transform: matrix(1, 0, 0, 1, 989.35, 52.05);
+}
+}
+@-webkit-keyframes wlby_KF_6 {
+from {
+	-webkit-transform: matrix(1, 0, 0, 1, 221.3, 15.8);
+	opacity: 1;
+}
+97.56% {
+	-webkit-transform: matrix(1, 0, 0, 1, 487.2, 47.6);
+	opacity: 1;
+}
+97.57%, to {
+	-webkit-transform: matrix(1, 0, 0, 1, 487.2, 47.6);
+}
+}
+.wlby_2
+{
+	position: absolute;
+	-webkit-transform: matrix(1, 0, 0, 1, -1000, -61.986);
+}
+
+.wlby_6
+{
+	position: absolute;
+	-webkit-transform: matrix(1, 0, 0, 1, -206.65, -29.1);
+}
+
+.wlby_8
+{
+	position: absolute;
+}
+
+.wlby_4
+{
+	-webkit-animation-duration: 0.75s;
+}
+
+.wlby_3
+{
+	-webkit-animation-duration: 7.58333s;
+}
+
+.wlby_9
+{
+	-webkit-animation-duration: 3.5s;
+	-webkit-animation-name: wlby_KF_8;
+	display: none;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-transform: matrix(1, 0, 0, 1, 57.419, 14.536) scale(1.6624, 1.6847);
+	-webkit-transform-origin: 325.95px 27.1px;
+	-webkit-animation-timing-function: linear;
+}
+
+.wlby_7
+{
+	-webkit-animation-duration: 3.33333s;
+	-webkit-animation-name: wlby_KF_7;
+	display: none;
+	-webkit-transform: matrix(1, 0, 0, 1, 148.719, 12.511) scale(1.6624, 1.6847);
+	-webkit-transform-origin: 234.65px 29.125px;
+	-webkit-animation-timing-function: linear;
+}
+
+.wlby_5
+{
+	-webkit-animation-duration: 3.41667s;
+	-webkit-animation-name: wlby_KF_6;
+	display: none;
+	-webkit-transform: matrix(1, 0, 0, 1, 487.2, 47.6);
+	-webkit-transform-origin: 0px 0px;
+	-webkit-animation-timing-function: linear;
+}
+
+.wlby_1
+{
+	-webkit-animation-duration: 7.58333s;
+	-webkit-animation-name: wlby_KF_3;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-transform: matrix(1, 0, 0, 1, 989.35, 52.05);
+	-webkit-transform-origin: 0px 0px;
+	-webkit-animation-timing-function: linear;
+}
+

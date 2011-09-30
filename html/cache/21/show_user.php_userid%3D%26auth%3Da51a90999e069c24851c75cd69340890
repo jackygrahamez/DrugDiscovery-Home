@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1261</id>
+    <cpid>db5fd5a235395be415d388997dd8b742</cpid>
+    <create_time>1265308251</create_time>
+    <name>[B^S] Paul@home</name>
+    <country>Ireland</country>
+    <total_credit>8600.29595</total_credit>
+    <expavg_credit>0.053136</expavg_credit>
+    <expavg_time>1279944602.7021</expavg_time>
+    <teamid>8</teamid>
+    <url>www.boincsynergy.com</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>3153</id>
+        <create_time>1269709485</create_time>
+        <rpc_seqno>341</rpc_seqno>
+        <host_cpid>bcad4ada6ca1b7bc2dc8646f11d1b232</host_cpid>
+        <total_credit>4440.482124</total_credit>
+        <expavg_credit>0.056252</expavg_credit>
+        <expavg_time>1278735003.53641</expavg_time>
+        <domain_name>QCorePC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.66GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>1479166737.18737</p_fpops>
+        <p_iops>4577000866.10904</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3347</id>
+        <create_time>1270579818</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d3d0d4c9437791b1611d4c32fc25b615</host_cpid>
+        <total_credit>4159.813826</total_credit>
+        <expavg_credit>0.07794</expavg_credit>
+        <expavg_time>1279339802.465</expavg_time>
+        <domain_name>ddtl4q2j</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6700  @ 2.66GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2561352112.67606</p_fpops>
+        <p_iops>4942990452.24754</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Media Center x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

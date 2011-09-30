@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>541</id>
+    <cpid>b8e3fef87c85afa894e538643851fcfe</cpid>
+    <create_time>1241474110</create_time>
+    <name>Mixer[SG]</name>
+    <country>Germany</country>
+    <total_credit>12902.013117038</total_credit>
+    <expavg_credit>0.066417</expavg_credit>
+    <expavg_time>1262006702.6291</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>179</id>
+        <create_time>1241474352</create_time>
+        <rpc_seqno>1980</rpc_seqno>
+        <host_cpid>c9ab813be47e31bf00c92e6245f7c314</host_cpid>
+        <total_credit>24.41329</total_credit>
+        <expavg_credit>0.000125</expavg_credit>
+        <expavg_time>1250104203.6353</expavg_time>
+        <domain_name>PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.06GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1406598744.11879</p_fpops>
+        <p_iops>2729241812.74454</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>181</id>
+        <create_time>1241475328</create_time>
+        <rpc_seqno>2124</rpc_seqno>
+        <host_cpid>d7e3b81de80f668c18cd899570408f4c</host_cpid>
+        <total_credit>88.355834035638</total_credit>
+        <expavg_credit>0.066417</expavg_credit>
+        <expavg_time>1262006702.96891</expavg_time>
+        <domain_name>NB-XPS</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2093211273.57242</p_fpops>
+        <p_iops>4780372543.36395</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

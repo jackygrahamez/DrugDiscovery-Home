@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4537</id>
+    <cpid>baaad82a1cc6067790cc90ac1ade89ad</cpid>
+    <create_time>1305113983</create_time>
+    <name>kei1-lab</name>
+    <country>Japan</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1305113983</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8743</id>
+        <create_time>1305114049</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>9e368a1c3825aa766b8efb3c19843973</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305114049</expavg_time>
+        <domain_name>Backoff</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X3430  @ 2.40GHz [Intel64 Family 6 Model 30 Stepping 5] [fpu tsc pae nx sse sse2 sse3 mmx]</p_model>
+        <p_fpops>2556223089.45333</p_fpops>
+        <p_iops>3937274170.06468</p_iops>
+        <os_name></os_name>
+        <os_version>, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8754</id>
+        <create_time>1305136383</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>ef734f44651c6d9ea18719d8f03ea9f0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305136383</expavg_time>
+        <domain_name>Backoff</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X3430  @ 2.40GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2584554358.79912</p_fpops>
+        <p_iops>8108029430.40839</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

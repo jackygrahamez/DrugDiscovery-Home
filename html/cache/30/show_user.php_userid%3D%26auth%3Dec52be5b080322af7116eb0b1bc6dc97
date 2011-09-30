@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4471</id>
+    <cpid>309d652612328a395b1673a8aa9a6d10</cpid>
+    <create_time>1303289380</create_time>
+    <name>mhomscheidt</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1303289380</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8485</id>
+        <create_time>1303303151</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>91e40c1c8124bc4e4b72f5c83c9a6e92</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303303151</expavg_time>
+        <domain_name>Celeborn</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7350 @ 2.00GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2329033724.09916</p_fpops>
+        <p_iops>5091179997.45338</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8492</id>
+        <create_time>1303322528</create_time>
+        <rpc_seqno>76</rpc_seqno>
+        <host_cpid>f1c7eca18f628ef65966a6c162586406</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303322528</expavg_time>
+        <domain_name>Curunir</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU T5600 @ 1.83GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1966965803.85749</p_fpops>
+        <p_iops>4587937026.62795</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

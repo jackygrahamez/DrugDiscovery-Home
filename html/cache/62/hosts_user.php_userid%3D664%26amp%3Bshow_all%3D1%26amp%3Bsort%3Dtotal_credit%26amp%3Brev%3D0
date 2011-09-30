@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to Plejaden</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to Plejaden</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=total_credit&rev=0&show_all=0&userid=664>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=0&show_all=1&userid=664>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=1&userid=664>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=1&show_all=1&userid=664>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=0&show_all=1&userid=664>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=0&show_all=1&userid=664>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=0&show_all=1&userid=664>Last contact</a></th>
+<tr class=row1><td>ID: 635
+        <br><a href=show_host_detail.php?hostid=635>Details</a> |
+        <a href=results.php?hostid=635>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4d224c2af8145fe4d761531570ac2635><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4d224c2af8145fe4d761531570ac2635><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.06</td>
+            <td align=right>1,833</td>
+            <td>6.10.24</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [x86 Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (1023MB) driver: 19562</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>27 Dec 2009 17:40:04 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 1904
+        <br><a href=show_host_detail.php?hostid=1904>Details</a> |
+        <a href=results.php?hostid=1904>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=0f38c9956a43f53854b86e11d460a175><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=0f38c9956a43f53854b86e11d460a175><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.05</td>
+            <td align=right>715</td>
+            <td>6.10.18</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [AMD64 Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (1023MB) driver: 19581</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>5 Mar 2010 21:59:27 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 412
+        <br><a href=show_host_detail.php?hostid=412>Details</a> |
+        <a href=results.php?hostid=412>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e6154e2430fe3a04974ff60b3e75fcd1><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e6154e2430fe3a04974ff60b3e75fcd1><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.08</td>
+            <td align=right>696</td>
+            <td></td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [x86 Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (1023MB) driver: 19038</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>25 Aug 2009 19:15:25 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4061
+        <br><a href=show_host_detail.php?hostid=4061>Details</a> |
+        <a href=results.php?hostid=4061>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4babef96600941b56354dc081e16950b><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4babef96600941b56354dc081e16950b><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.07</td>
+            <td align=right>80</td>
+            <td>6.10.57</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (1005MB) driver: 25715</td>
+            <td>Microsoft Windows Vista<br><span class=note>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</span></td>
+            <td>30 May 2010 19:53:00 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 8177
+        <br><a href=show_host_detail.php?hostid=8177>Details</a> |
+        <a href=results.php?hostid=8177>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=7d591954ab164a3cef715a5bfa29c58e><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=7d591954ab164a3cef715a5bfa29c58e><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.13.3</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce GTX 280 (999MB) driver: 28026</td>
+            <td>Microsoft Windows 7<br><span class=note>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</span></td>
+            <td>9 Sep 2011 19:49:20 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 6947
+        <br><a href=show_host_detail.php?hostid=6947>Details</a> |
+        <a href=results.php?hostid=6947>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=8d97f8cac54682eb5969cb703eabbc00><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=8d97f8cac54682eb5969cb703eabbc00><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>6</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.12.7</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (999MB) driver: 26099</td>
+            <td>Microsoft Windows 7<br><span class=note>Ultimate x64 Edition, (06.01.7600.00)</span></td>
+            <td>19 Dec 2010 10:22:46 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=total_credit&rev=0&show_all=0&userid=664>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 25 Sep 2011 14:57:53 UTC</span>
+</body>
+        </html>
+    

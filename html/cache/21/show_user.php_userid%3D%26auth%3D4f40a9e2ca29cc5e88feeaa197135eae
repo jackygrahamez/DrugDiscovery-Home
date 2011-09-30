@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4820</id>
+    <cpid>b3ed5a963635da551d876b39c7f54271</cpid>
+    <create_time>1311710800</create_time>
+    <name>borgirk</name>
+    <country>International</country>
+    <total_credit>22.9713</total_credit>
+    <expavg_credit>0.776488</expavg_credit>
+    <expavg_time>1315607057.13087</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9785</id>
+        <create_time>1313353580</create_time>
+        <rpc_seqno>174</rpc_seqno>
+        <host_cpid>12b7fa8456e0c8c9ff79cd8eb8dd5970</host_cpid>
+        <total_credit>22.9713</total_credit>
+        <expavg_credit>0.811357</expavg_credit>
+        <expavg_time>1315607057.13102</expavg_time>
+        <domain_name>MSI</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2050908743.87547</p_fpops>
+        <p_iops>7122911883.80604</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10083</id>
+        <create_time>1315941804</create_time>
+        <rpc_seqno>48</rpc_seqno>
+        <host_cpid>6b662a1f3818fe31650ac52d0455b404</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315941804</expavg_time>
+        <domain_name>ThinkEdge</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Neo K125 Processor [Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>1511627906.97674</p_fpops>
+        <p_iops>7537265342.40841</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

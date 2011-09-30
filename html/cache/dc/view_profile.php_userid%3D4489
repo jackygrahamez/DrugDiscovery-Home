@@ -1,0 +1,65 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"4489";s:11:"create_time";s:10:"1303676183";s:10:"email_addr";s:19:"rad_sz@klub.chip.pl";s:4:"name";s:10:"RAD-Poland";s:13:"authenticator";s:32:"9ebb9af9f4a308869257b7c10df79f4a";s:7:"country";s:6:"Poland";s:11:"postal_code";s:5:"59220";s:12:"total_credit";s:12:"13073.922033";s:13:"expavg_credit";s:9:"57.785477";s:11:"expavg_time";s:16:"1317140340.64263";s:12:"global_prefs";s:2389:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1314294513</mod_time>
+    <run_on_batteries/>
+    <run_if_user_active/>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+    <leave_apps_in_memory/>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0</work_buf_min_days>
+    <work_buf_additional_days>0.25</work_buf_additional_days>
+    <max_cpus>2</max_cpus>
+    <cpu_usage_limit>100</cpu_usage_limit>
+    <disk_interval>60</disk_interval>
+    <disk_max_used_gb>100</disk_max_used_gb>
+    <disk_max_used_pct>50</disk_max_used_pct>
+    <disk_min_free_gb>0.001</disk_min_free_gb>
+    <vm_max_used_pct>75</vm_max_used_pct>
+    <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0</max_bytes_sec_down>
+    <max_bytes_sec_up>0</max_bytes_sec_up>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <leave_apps_in_memory/>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_cpus>2</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>25.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <run_on_batteries/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"103";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"0cdc2b4fea19c74c505597b3955a2786";s:11:"passwd_hash";s:32:"271e216da91f78dec12c7b0e3a3e1bfe";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"103";s:11:"create_time";s:10:"1240319745";s:6:"userid";s:3:"114";s:4:"name";s:12:"BOINC@Poland";s:7:"name_lc";s:12:"boinc@poland";s:3:"url";s:21:"www.boincatpoland.org";s:4:"type";s:1:"9";s:9:"name_html";s:117:"<a href='http://www.boincatpoland.org'><img src='http://www.boincatpoland.org/images/3/38/BAPlogoOryginalne.gif'></a>";s:11:"description";s:851:"BOINC@Poland jest pierwszym prawdziwie wieloprojektowym Polskim zespołem. Umożliwiamy liczenie pod jedną nazwą we wszystkich aktywnych projektach BOINC, a także w większości projektów będących w fazie przygotowań. W niektórych jesteśmy wręcz jedynymi reprezentantami Polski.<br>
+Na naszej <a href="http://www.boincatpoland.org">stronie</a> znajdziesz dużo ciekawych materiałów o BOINC i poszczególnych projektach, <a href="http://www.boincatpoland.org/news.xml">najnowsze wiadomości</a> ze świata obliczeń rozproszonych oraz bardzo dynamiczne <a href="http://www.boincatpoland.org/smf">forum</a>, na którym żadne pytanie nie zostaje bez odpowiedzi.<br>
+<img src="http://www.boincatpoland.org/images/8/81/Userbar.png">
+
+<br>
+BOINC@Poland - W kwestii liczenia mamy najwięcej do powiedzenia<br>
+Dołącz, a nie pożałujesz.";s:6:"nusers";s:2:"88";s:7:"country";s:6:"Poland";s:12:"total_credit";s:15:"203468.26619645";s:13:"expavg_credit";s:9:"66.031795";s:11:"expavg_time";s:16:"1317140340.64304";s:7:"seti_id";s:3:"268";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

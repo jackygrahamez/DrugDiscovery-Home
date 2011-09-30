@@ -1,0 +1,72 @@
+#!/usr/bin/perl
+# Sets the projec directory
+$PROJECT="/home/boincadm/projects/DrugDiscovery/";
+
+# Sets the ligand file index of ligands we have
+$ligand_file_name="/home/boincadm/projects/DrugDiscovery/bin/concord_index.txt";
+
+# opens the ligand file index
+open (LIGAND_FILE,$ligand_file_name) or die ("Error trying to open the ligand file.\n");
+# Skipping all receptors yet processed for this ligand
+
+# job file parameter is set at run time
+$job_file = $ARGV[0];
+#chomp($job_file);
+
+# Reads the substring of the job file takes off the last 4 characters
+$job=substr($job_file, 0, length($job_file)-4);
+
+# prints the output so we can debug
+print $job_file ."\n";
+print $job ."\n";
+$old_ligand="";
+
+# go through the list of ligands from that ligand index
+ do {$new_ligand = <LIGAND_FILE>; 
+	chomp ($new_ligand);
+
+# error check to make sure the ligand file has data
+if (length($new_ligand) > 1) {
+
+# create a time stamp
+$time=`date '+%s%N'`;
+chomp ($time);
+
+# copy the ligand file from our ligand directory and place in download. Note simply copy and paste wont work
+# BOINC requires you place input in a special directory that is specified by dir_hier_path
+$ARG1="cp ".$PROJECT."chemdiv/nodelete_".$new_ligand.".7z \`bin/dir_hier_path ".$new_ligand."_".$time.".7z\`";
+print $ARG1 ."\n";
+
+# Use system because other methods of running system commands will not wait until termination.
+# For example if you run backtick with these copies, files will not be in the download directory when expected
+system($ARG1);
+
+# Copy the job file
+$ARG2="cp ".$PROJECT.$job_file." \`bin/dir_hier_path ".$job_file.$time."\`";
+print $ARG2 ."\n";
+system($ARG2);
+
+# copy the protein!
+$ARG3="cp ".$PROJECT."bin/fzd8min_renum_SS.pdb \`bin/dir_hier_path fzd8min_renum_SS.pdb".$time."\`";
+print $ARG3 ."\n";
+system($ARG3);
+
+# Now we create the workunit!!!! we give it a name specific to the job file_ligand_timestamp
+$ARG3=$PROJECT."bin/create_work -appname autodock_mgl -wu_name ".$job."_".$new_ligand."_".$time." -wu_template templates/ad_wu_mgl -result_template templates/ad_mgl_result ".$new_ligand."_".$time.".7z fzd8min_renum_SS.pdb".$time." ".$job_file.$time;
+sleep(1);
+# summary_job4.txt";
+# pal_wnt_bind.txt";
+
+	print $ARG3 . "\n";
+
+	# runs the create project script
+	system($ARG3) == 0
+        or die "system @ARG3 failed: $?";
+	sleep(1);
+}
+
+    } while ($new_ligand ne $old_ligand);
+
+close (LIGAND_FILE);
+
+

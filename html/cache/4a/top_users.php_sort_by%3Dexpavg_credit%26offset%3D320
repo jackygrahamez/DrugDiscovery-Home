@@ -1,0 +1,807 @@
+a:20:{i:0;O:9:"BoincUser":28:{s:2:"id";s:4:"2820";s:11:"create_time";s:10:"1286910007";s:10:"email_addr";s:18:"darkoin@rambler.ru";s:4:"name";s:10:"Дамир";s:13:"authenticator";s:32:"8c7f61c6ebdb758ecf1935468badd4a8";s:7:"country";s:6:"Russia";s:11:"postal_code";s:6:"129346";s:12:"total_credit";s:11:"1356.413751";s:13:"expavg_credit";s:8:"0.187502";s:11:"expavg_time";s:16:"1315851902.55919";s:12:"global_prefs";s:1031:"<global_preferences>
+<mod_time>1286910068</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:2:"51";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"e8aa312844c70731daf5814f464fddd3";s:11:"passwd_hash";s:32:"dd545a9c4f70e0435cc0ab1453d2eb4a";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:1;O:9:"BoincUser":28:{s:2:"id";s:4:"4924";s:11:"create_time";s:10:"1314465900";s:10:"email_addr";s:23:"trader_jimm@hotmail.com";s:4:"name";s:11:"Trader Jimm";s:13:"authenticator";s:32:"65017f0fd229d462cfcbbaad8f9d4dd8";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"60089";s:12:"total_credit";s:8:"6.346969";s:13:"expavg_credit";s:8:"0.187188";s:11:"expavg_time";s:16:"1315851902.56099";s:12:"global_prefs";s:3730:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1315072544</mod_time>
+    <leave_apps_in_memory>0</leave_apps_in_memory>
+    <suspend_while_on_batteries>0</suspend_while_on_batteries>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>3.0</work_buf_additional_days>
+    <max_cpus>4</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.0010</disk_min_free_gb>
+    <vm_max_used_pct>75.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <suspend_cpu_usage>0.0</suspend_cpu_usage>
+    <end_hour>0</end_hour>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <run_if_user_active/>
+    <run_on_batteries/>
+    <start_hour>0</start_hour>
+    <venue name="work">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <leave_apps_in_memory/>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>4</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <leave_apps_in_memory/>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>1</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"153";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"b4a2705257d4375f84de7e9ce570c638";s:11:"passwd_hash";s:32:"61ab64b7241b119a5661ad23984b748f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:2;O:9:"BoincUser":28:{s:2:"id";s:4:"4927";s:11:"create_time";s:10:"1314484826";s:10:"email_addr";s:21:"rjallen57@hotmail.com";s:4:"name";s:9:"rjallen57";s:13:"authenticator";s:32:"b38d67952913e2859f8c432f6609a711";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"84107";s:12:"total_credit";s:8:"8.920284";s:13:"expavg_credit";s:8:"0.185999";s:11:"expavg_time";s:16:"1315851902.55907";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1314484827</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"ac1019a1615dc034c791771b4b6c0a68";s:11:"passwd_hash";s:32:"a01ee56b6cbdf540876ff9955b77b577";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:3;O:9:"BoincUser":28:{s:2:"id";s:4:"4892";s:11:"create_time";s:10:"1313337555";s:10:"email_addr";s:23:"kim.sandrehav@gmail.com";s:4:"name";s:9:"violtomte";s:13:"authenticator";s:32:"abb83651f3398e573647565b6342a7d5";s:7:"country";s:6:"Sweden";s:11:"postal_code";s:5:"65221";s:12:"total_credit";s:9:"10.212401";s:13:"expavg_credit";s:8:"0.185838";s:11:"expavg_time";s:16:"1315851902.56061";s:12:"global_prefs";s:1076:"<global_preferences>
+    <source_project>http://qcn.stanford.edu/sensor/</source_project>
+    <source_scheduler>http://qcn.stanford.edu/sensor_cgi/cgi</source_scheduler>
+<mod_time>1313339123</mod_time>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<suspend_while_on_batteries>0</suspend_while_on_batteries>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>1</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:4:"1065";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"ffb5e9c831cbed6aa37961686e3d6919";s:11:"passwd_hash";s:32:"c7206836f6c3edd63f271f7fc57b5b22";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:4;O:9:"BoincUser":28:{s:2:"id";s:4:"4516";s:11:"create_time";s:10:"1304209417";s:10:"email_addr";s:20:"benspchelp@gmail.com";s:4:"name";s:6:"sticky";s:13:"authenticator";s:32:"6db07569cb73f9b191f773e9a95a80b8";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"76201";s:12:"total_credit";s:8:"43.29537";s:13:"expavg_credit";s:8:"0.185786";s:11:"expavg_time";s:16:"1315851902.55893";s:12:"global_prefs";N;s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"5";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"06b11f34c8b4bdbbfd6bbf2810cb76ad";s:11:"passwd_hash";s:32:"9d8967e25c49fd8b2a848fc1a9732001";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:5;O:9:"BoincUser":28:{s:2:"id";s:4:"1032";s:11:"create_time";s:10:"1258141795";s:10:"email_addr";s:29:"christian.gunnesch@freenet.de";s:4:"name";s:5:"snicK";s:13:"authenticator";s:32:"0dacb5167b8b5c1739f7d47da8ba0534";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:16:"24536.5947754981";s:13:"expavg_credit";s:7:"0.18304";s:11:"expavg_time";s:16:"1315670245.53404";s:12:"global_prefs";s:1029:"<global_preferences>
+<mod_time>1310121956</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0.2</work_buf_min_days>
+<work_buf_additional_days>0.3</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>60</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>10</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>75</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:160:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>100</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"566";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"1f54be9a045655fb4728820acecb2114";s:11:"passwd_hash";s:32:"b7e773a773716cccefe76d46e9a31da8";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:6;O:9:"BoincUser":28:{s:2:"id";s:4:"4917";s:11:"create_time";s:10:"1314286340";s:10:"email_addr";s:24:"artemfinance@hotmail.com";s:4:"name";s:5:"Artem";s:13:"authenticator";s:32:"43d4e35499ab4025d911813328796271";s:7:"country";s:6:"Russia";s:11:"postal_code";s:0:"";s:12:"total_credit";s:8:"8.600139";s:13:"expavg_credit";s:8:"0.179617";s:11:"expavg_time";s:15:"1315851902.5588";s:12:"global_prefs";s:1414:"<global_preferences>
+    <source_project>http://milkyway.cs.rpi.edu/milkyway/</source_project>
+    <source_scheduler>http://milkyway.rpi.edu/cgi/cgi</source_scheduler>
+<mod_time>1313522772</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>50</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>80</max_ncpus_pct>
+<cpu_usage_limit>80</cpu_usage_limit>
+<disk_max_used_gb>3</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>3</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>30</vm_max_used_pct>
+<ram_max_used_busy_pct>40</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>80</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.05</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"4";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"f44eab2a0b55dadb16496fb6c3f454ec";s:11:"passwd_hash";s:32:"d6520a16e6fd0d8a42a5a7db7d5a18ba";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:7;O:9:"BoincUser":28:{s:2:"id";s:4:"1532";s:11:"create_time";s:10:"1267919787";s:10:"email_addr";s:22:"krzychup02@autograf.pl";s:4:"name";s:10:"Krzychu P.";s:13:"authenticator";s:32:"860ad519ecb7f4edfde6b64694f91d39";s:7:"country";s:6:"Poland";s:11:"postal_code";s:6:"53-033";s:12:"total_credit";s:11:"1024.974668";s:13:"expavg_credit";s:8:"0.174752";s:11:"expavg_time";s:16:"1315851902.55862";s:12:"global_prefs";s:4315:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1288079417</mod_time>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0020000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>6</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>85</disk_max_used_pct>
+<disk_min_free_gb>1.0</disk_min_free_gb>
+<vm_max_used_pct>70</vm_max_used_pct>
+<ram_max_used_busy_pct>85</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>97</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<hangup_if_dialed/>
+<venue name="home">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0020000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>6</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<vm_max_used_pct>70</vm_max_used_pct>
+<ram_max_used_busy_pct>85</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>97</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<hangup_if_dialed/>
+</venue>
+<venue name="school">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0100000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>6</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<vm_max_used_pct>70</vm_max_used_pct>
+<ram_max_used_busy_pct>85</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>97</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<hangup_if_dialed/>
+</venue>
+<venue name="work">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0020000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>6</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>1.5</disk_min_free_gb>
+<vm_max_used_pct>70</vm_max_used_pct>
+<ram_max_used_busy_pct>85</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>97</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<hangup_if_dialed/>
+</venue>
+</global_preferences>";s:13:"project_prefs";s:160:"<project_preferences>
+<resource_share>1000</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"103";s:5:"venue";s:0:"";s:3:"url";s:21:"www.boincatpoland.org";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"bb42b5155ea679c4120f5060cc0e9152";s:11:"passwd_hash";s:32:"b77e43503a0259706a6698ed41a932ea";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:8;O:9:"BoincUser":28:{s:2:"id";s:4:"4482";s:11:"create_time";s:10:"1303615042";s:10:"email_addr";s:20:"1fast6@jabilello.com";s:4:"name";s:6:"1fast6";s:13:"authenticator";s:32:"40b0bf579319339fa27434cb2d12925c";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"32224";s:12:"total_credit";s:9:"73.442343";s:13:"expavg_credit";s:8:"0.173101";s:11:"expavg_time";s:16:"1315851902.55845";s:12:"global_prefs";s:5083:"<global_preferences>
+    <source_project>http://eon.ices.utexas.edu/eon2/</source_project>
+    <source_scheduler>http://eon.ices.utexas.edu/eon2_cgi/cgi</source_scheduler>
+<mod_time>1299946073</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_min_free_gb>0.2</disk_min_free_gb>
+<disk_max_used_pct>95</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>75</ram_max_used_idle_pct>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>5</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+<venue name="home">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>1</max_cpus>
+<max_ncpus_pct>25</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_min_free_gb>0.2</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_min_free_gb>0.2</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"789";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"8bb11c0c7657cf12b50708636b6747b4";s:11:"passwd_hash";s:32:"8868818de63f9905e95486685fa2dc8c";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:9;O:9:"BoincUser":28:{s:2:"id";s:4:"4435";s:11:"create_time";s:10:"1302431031";s:10:"email_addr";s:19:"renyxadarox@ukr.net";s:4:"name";s:5:"x3mEn";s:13:"authenticator";s:32:"61f33e1277e802f295de2776aa1ba818";s:7:"country";s:7:"Ukraine";s:11:"postal_code";s:0:"";s:12:"total_credit";s:9:"87.603279";s:13:"expavg_credit";s:8:"0.172863";s:11:"expavg_time";s:16:"1315851902.55831";s:12:"global_prefs";s:1071:"<global_preferences>
+    <source_project>http://qcn.stanford.edu/sensor/</source_project>
+    <source_scheduler>http://qcn.stanford.edu/sensor_cgi/cgi</source_scheduler>
+<mod_time>1306249406</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0.01</work_buf_min_days>
+<work_buf_additional_days>0</work_buf_additional_days>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>100</resource_share>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"494";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"6f1e727fe76540800d5b87459950435b";s:11:"passwd_hash";s:32:"2b68628f8a89086c114ac03f22397094";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:10;O:9:"BoincUser":28:{s:2:"id";s:4:"4522";s:11:"create_time";s:10:"1304441155";s:10:"email_addr";s:22:"oscarmorejon@gmail.com";s:4:"name";s:6:"Oskiee";s:13:"authenticator";s:32:"437842d5705b61fe899b780e3139a80c";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"33173";s:12:"total_credit";s:9:"75.311566";s:13:"expavg_credit";s:8:"0.162264";s:11:"expavg_time";s:16:"1315851902.55817";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1304441155</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"c558272e84217d732189472fc7b35de9";s:11:"passwd_hash";s:32:"1dcc52ea181564636d4566b6af449f70";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:11;O:9:"BoincUser":28:{s:2:"id";s:3:"453";s:11:"create_time";s:10:"1240406074";s:10:"email_addr";s:27:"albedo-zr0@entropizados.com";s:4:"name";s:6:"Nvgnte";s:13:"authenticator";s:32:"9a388d0e8c6c272da7729c005c274222";s:7:"country";s:5:"Spain";s:11:"postal_code";s:0:"";s:12:"total_credit";s:14:"1853.577868258";s:13:"expavg_credit";s:8:"0.155595";s:11:"expavg_time";s:16:"1315851902.55802";s:12:"global_prefs";N;s:13:"project_prefs";s:196:"<project_preferences>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"438";s:5:"venue";s:0:"";s:3:"url";s:22:"foros.entropizados.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"be82b467ac75fcfe812fc2b13137586e";s:11:"passwd_hash";s:32:"77c3e75fd2cb08e0c104c7117e201dac";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:12;O:9:"BoincUser":28:{s:2:"id";s:4:"2576";s:11:"create_time";s:10:"1283238336";s:10:"email_addr";s:32:"martinwischnowski@googlemail.com";s:4:"name";s:18:"Martin Wischnowski";s:13:"authenticator";s:32:"911c648cf0758d4c01af48919b7f65d6";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"13347";s:12:"total_credit";s:10:"205.292702";s:13:"expavg_credit";s:7:"0.15447";s:11:"expavg_time";s:16:"1315851902.55933";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1283238336</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"06d272f0e4de23273365c74f8992f777";s:11:"passwd_hash";s:32:"5010f708c41924fa0592ff9874a23bcc";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:13;O:9:"BoincUser":28:{s:2:"id";s:4:"1437";s:11:"create_time";s:10:"1266868234";s:10:"email_addr";s:17:"link304@gmail.com";s:4:"name";s:7:"link304";s:13:"authenticator";s:32:"2d6fa121ce629d88f355f43fae2971c4";s:7:"country";s:6:"France";s:11:"postal_code";s:0:"";s:12:"total_credit";s:16:"7306.21162227115";s:13:"expavg_credit";s:8:"0.153789";s:11:"expavg_time";s:16:"1315851902.55788";s:12:"global_prefs";s:1035:"<global_preferences>
+    <source_project>http://qcn.stanford.edu/sensor/</source_project>
+    <source_scheduler>http://qcn.stanford.edu/sensor_cgi/cgi</source_scheduler>
+<mod_time>1264104015</mod_time>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<suspend_while_on_batteries>0</suspend_while_on_batteries>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>1</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:197:"<project_preferences>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+
+<resource_share>1000</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"7";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"7fd8eda9cc51174a11fa26b65972d5bc";s:11:"passwd_hash";s:32:"91e591feab0742562585b0d8cc25c03d";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:14;O:9:"BoincUser":28:{s:2:"id";s:4:"3364";s:11:"create_time";s:10:"1290096159";s:10:"email_addr";s:21:"mariodesousa7@sapo.pt";s:4:"name";s:8:"ChibiMAS";s:13:"authenticator";s:32:"93ee3f1526549233175963e0e3e24b93";s:7:"country";s:8:"Portugal";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"172.54260936287";s:13:"expavg_credit";s:7:"0.15178";s:11:"expavg_time";s:16:"1315851902.55774";s:12:"global_prefs";s:1266:"<global_preferences>
+<source_project>http://gerasim.boinc.ru/</source_project>
+<source_scheduler>http://gerasim.boinc.ru/sched</source_scheduler>
+<mod_time>1290095362</mod_time>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>1.0000000</work_buf_min_days>
+<work_buf_additional_days>3.0000000</work_buf_additional_days>
+<max_cpus>64</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>600</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>2</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_veryfy_images>0</dont_veryfy_images>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active/>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<run_on_batteries/>
+<hangup_if_dialed/>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"496";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"e78ec0b534a30f0014b01920877139c6";s:11:"passwd_hash";s:32:"d55c343d40951d048ffee2c0996b6e7f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:15;O:9:"BoincUser":28:{s:2:"id";s:4:"4860";s:11:"create_time";s:10:"1312886603";s:10:"email_addr";s:19:"alfei@hotmail.co.uk";s:4:"name";s:10:"jamesalfei";s:13:"authenticator";s:32:"19330183be20df0a339e9d7ce6bfba12";s:7:"country";s:14:"United Kingdom";s:11:"postal_code";s:7:"SA4 3AY";s:12:"total_credit";s:9:"33.508798";s:13:"expavg_credit";s:8:"0.151426";s:11:"expavg_time";s:16:"1315851902.55761";s:12:"global_prefs";s:1106:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1312886604</mod_time>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>2</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.1000000</work_buf_min_days>
+<work_buf_additional_days>0.0000000</work_buf_additional_days>
+<max_cpus>6</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>40</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>1.5</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<hangup_if_dialed/>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:2:"29";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"d8429672f665751d7cf22f9435b35dec";s:11:"passwd_hash";s:32:"02764a3fa1fee376a9a73465735ffbde";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:16;O:9:"BoincUser":28:{s:2:"id";s:4:"1254";s:11:"create_time";s:10:"1265261895";s:10:"email_addr";s:25:"andy.garcia.216@gmail.com";s:4:"name";s:8:"Soulmech";s:13:"authenticator";s:32:"62bb6a5669a98e3608de1f3fcdb6ed1c";s:7:"country";s:13:"United States";s:11:"postal_code";s:0:"";s:12:"total_credit";s:11:"4502.812877";s:13:"expavg_credit";s:8:"0.149158";s:11:"expavg_time";s:16:"1315851902.55746";s:12:"global_prefs";s:2635:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1285689644</mod_time>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <start_hour>0</start_hour>
+    <end_hour>0</end_hour>
+    <run_if_user_active>1</run_if_user_active>
+    <idle_time_to_run>5</idle_time_to_run>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_usage_limit>60.0</cpu_usage_limit>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <disk_max_used_gb>8.0</disk_max_used_gb>
+    <disk_max_used_pct>10.0</disk_max_used_pct>
+    <disk_min_free_gb>1.0</disk_min_free_gb>
+    <disk_interval>180.0</disk_interval>
+    <ram_max_used_busy_pct>40.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>0.0</vm_max_used_pct>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>1.0</work_buf_additional_days>
+    <net_start_hour>0</net_start_hour>
+    <net_end_hour>0</net_end_hour>
+    <hangup_if_dialed>0</hangup_if_dialed>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <dont_verify_images>0</dont_verify_images>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <suspend_cpu_usage>60.0</suspend_cpu_usage>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>90.0</disk_interval>
+        <disk_max_used_gb>8.0</disk_max_used_gb>
+        <disk_max_used_pct>10.0</disk_max_used_pct>
+        <disk_min_free_gb>1.0</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <idle_time_to_run>5.0</idle_time_to_run>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>16</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>60.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>30.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>60.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>35.0</vm_max_used_pct>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <work_buf_additional_days>0.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>200</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:2:"29";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"6f2f5b350b7241e3301d3165a1d7b80c";s:11:"passwd_hash";s:32:"76cdb883b30be7c7c1ac8cc118f809b2";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:17;O:9:"BoincUser":28:{s:2:"id";s:4:"1630";s:11:"create_time";s:10:"1269079141";s:10:"email_addr";s:16:"boinc@phitar.org";s:4:"name";s:6:"Phitar";s:13:"authenticator";s:32:"e3d7dd516e7eaede1799ed3b64310e2d";s:7:"country";s:13:"International";s:11:"postal_code";s:0:"";s:12:"total_credit";s:16:"21680.9281335539";s:13:"expavg_credit";s:7:"0.14813";s:11:"expavg_time";s:16:"1315851902.55732";s:12:"global_prefs";s:1212:"<global_preferences>
+    <source_project>http://www.malariacontrol.net/</source_project>
+    <source_scheduler>http://www.malariacontrol.net/malariacontrol_cgi/cgi</source_scheduler>
+<mod_time>1258576650</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>98</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>4</disk_max_used_gb>
+<disk_max_used_pct>80</disk_max_used_pct>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<vm_max_used_pct>85</vm_max_used_pct>
+<ram_max_used_busy_pct>80</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>98</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"5c4c118c744fafca4db7f4372a43ea09";s:11:"passwd_hash";s:32:"d53b8e94d1e5b352ba91e5032efce29a";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:18;O:9:"BoincUser":28:{s:2:"id";s:4:"1132";s:11:"create_time";s:10:"1258578564";s:10:"email_addr";s:16:"padamek@tenzo.cz";s:4:"name";s:7:"padamek";s:13:"authenticator";s:32:"26ce60979680c48fe17fc2fcdc07f7a2";s:7:"country";s:14:"Czech Republic";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"6976.4279395306";s:13:"expavg_credit";s:8:"0.147862";s:11:"expavg_time";s:16:"1315851902.55717";s:12:"global_prefs";s:1420:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1300700799</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_interval>0</disk_interval>
+<vm_max_used_pct>0</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"9";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"4108679fad3b89669cbb932f832beddc";s:11:"passwd_hash";s:32:"52cc82013e04d8421c613f9106037c67";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:19;O:9:"BoincUser":28:{s:2:"id";s:4:"2831";s:11:"create_time";s:10:"1287191469";s:10:"email_addr";s:19:"a.louis11@gmail.com";s:4:"name";s:9:"a.louis11";s:13:"authenticator";s:32:"c75fe5c10b86d6523e03f86db9377199";s:7:"country";s:13:"United States";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"671.196089";s:13:"expavg_credit";s:8:"0.143949";s:11:"expavg_time";s:16:"1315851902.55703";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1287191470</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"d045b23c0dc4040dcc712624a56bdb9e";s:11:"passwd_hash";s:32:"c94bff1cdc05be8e1d23a32b8a9b1e54";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

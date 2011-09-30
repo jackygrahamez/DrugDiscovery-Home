@@ -1,0 +1,32 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2007";s:11:"create_time";s:10:"1273782621";s:10:"email_addr";s:16:"iskocher@aol.com";s:4:"name";s:8:"iskocher";s:13:"authenticator";s:32:"5e0cfb31a50fed4fde3856852a47cff2";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"44240";s:12:"total_credit";s:9:"838.38182";s:13:"expavg_credit";s:6:"0.0517";s:11:"expavg_time";s:16:"1283457602.60773";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1273782621</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"904";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"112954e051d9cfca9e35df136628ab50";s:11:"passwd_hash";s:32:"1f1d1d2d0bab278ab8407b29413c9b0f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2007";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:9:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:5:"21241";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"447436";s:11:"create_time";s:10:"1237347737";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"11014";s:9:"team_name";s:10:"Eurovagens";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:2:"63";s:13:"expavg_credit";d:0;s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:6:"147584";s:11:"create_time";s:10:"1236093199";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"5647";s:9:"team_name";s:10:"Eurovagens";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1119";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"380517";s:11:"create_time";s:10:"1273782352";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"10073";s:9:"team_name";s:10:"Eurovagens";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"18308";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"79292";s:11:"create_time";s:10:"1273782638";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"2389";s:9:"team_name";s:10:"Eurovagens";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:4:"5024";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"74758";s:11:"create_time";s:10:"1273782639";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"2252";s:9:"team_name";s:10:"Eurovagens";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4549";s:13:"expavg_credit";d:0;s:4:"name";s:11:"Enigma@Home";s:3:"url";s:28:"http://www.enigmaathome.net/";s:2:"id";s:5:"11758";s:11:"create_time";s:10:"1273782658";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"1301";s:9:"team_name";s:10:"Eurovagens";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"21108";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"18779";s:11:"create_time";s:10:"1237345585";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"1837";s:9:"team_name";s:10:"Eurovagens";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:3:"838";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2007";s:11:"create_time";s:10:"1273782621";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"904";s:9:"team_name";s:10:"Eurovagens";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10764";s:13:"expavg_credit";d:0;s:4:"name";s:17:"QuantumFIRE alpha";s:3:"url";s:29:"http://cah.tcm.phy.cam.ac.uk/";s:2:"id";s:4:"2134";s:11:"create_time";s:10:"1273782132";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"875";s:9:"team_name";s:10:"Eurovagens";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"904";s:11:"create_time";s:10:"1273784220";s:6:"userid";s:4:"2007";s:4:"name";s:10:"Eurovagens";s:7:"name_lc";s:10:"eurovagens";s:3:"url";s:14:"eurovagens.com";s:4:"type";s:1:"0";s:9:"name_html";s:0:"";s:11:"description";s:28:"Ohio based European Car Club";s:6:"nusers";s:1:"1";s:7:"country";s:13:"United States";s:12:"total_credit";s:9:"838.38182";s:13:"expavg_credit";s:6:"0.0517";s:11:"expavg_time";s:16:"1283457603.29972";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

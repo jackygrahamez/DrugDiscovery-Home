@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1252</id>
+    <cpid>f533c896fef6a1934c0b0220f949b5b9</cpid>
+    <create_time>1265223856</create_time>
+    <name>micha9791</name>
+    <country>Germany</country>
+    <total_credit>727.748243</total_credit>
+    <expavg_credit>0.056424</expavg_credit>
+    <expavg_time>1303493313.81774</expavg_time>
+    <teamid>6</teamid>
+    <url>boinc.mdv-net.de</url>
+    <has_profile>1</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>2060</id>
+        <create_time>1265224458</create_time>
+        <rpc_seqno>1066</rpc_seqno>
+        <host_cpid>a776f61d4d808e3465a09553ae45a410</host_cpid>
+        <total_credit>727.748243</total_credit>
+        <expavg_credit>0.056424</expavg_credit>
+        <expavg_time>1303493313.81789</expavg_time>
+        <domain_name>MICHAEL2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T2390  @ 1.86GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1466666666.66667</p_fpops>
+        <p_iops>2841927903.66117</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>2068</id>
+        <create_time>1265293361</create_time>
+        <rpc_seqno>436</rpc_seqno>
+        <host_cpid>1cb0542964b0710221321ceab889765a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265293361</expavg_time>
+        <domain_name>michael1</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(TM) XP 2600+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1486868686.86869</p_fpops>
+        <p_iops>2578388075.1857</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>3808</id>
+        <create_time>1273412124</create_time>
+        <rpc_seqno>214</rpc_seqno>
+        <host_cpid>7375da94bd7baf6f01cd5774b35b5ad1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273412124</expavg_time>
+        <domain_name>angelika1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1104079797.23653</p_fpops>
+        <p_iops>2444544251.79958</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

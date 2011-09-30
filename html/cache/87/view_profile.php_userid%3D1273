@@ -1,0 +1,29 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"1";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1273";s:11:"create_time";s:10:"1265444158";s:10:"email_addr";s:16:"ppcfhk@gmail.com";s:4:"name";s:18:"philip-in-hongkong";s:13:"authenticator";s:32:"b02f5ae96eb45ee19b129ade560fc00a";s:7:"country";s:9:"Hong Kong";s:11:"postal_code";s:0:"";s:12:"total_credit";s:11:"3682.885401";s:13:"expavg_credit";s:8:"0.420063";s:11:"expavg_time";s:16:"1316998502.42179";s:12:"global_prefs";s:1227:"<global_preferences>
+    <source_project>http://boinc.thesonntags.com/collatz/</source_project>
+    <source_scheduler>http://debian.thesonntags.com/collatz_cgi/cgi</source_scheduler>
+<mod_time>1293209160</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>5</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>90</cpu_usage_limit>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>8</disk_max_used_gb>
+<disk_max_used_pct>10</disk_max_used_pct>
+<disk_min_free_gb>1</disk_min_free_gb>
+<vm_max_used_pct>0</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";s:19:"ppi.no-ip.biz:8080/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"d6b9164b0e9e9dd74bfc9ee11af71c3b";s:11:"passwd_hash";s:32:"7bdc71b584b67545458f6908df8232dc";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";b:0;}

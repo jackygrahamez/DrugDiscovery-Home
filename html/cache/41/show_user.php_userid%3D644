@@ -1,0 +1,505 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:3:"644";s:11:"create_time";s:10:"1241136000";s:10:"email_addr";s:24:"news4bob@frontiernet.net";s:4:"name";s:5:"DrBob";s:13:"authenticator";s:32:"f5f69950d60a9066190e047e58292f2d";s:7:"country";s:13:"United States";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"29789.750876734";s:13:"expavg_credit";s:8:"7.790489";s:11:"expavg_time";s:16:"1317215157.91505";s:12:"global_prefs";s:4123:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1260666844</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0.5</work_buf_min_days>
+<work_buf_additional_days>4</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0.5</work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>180</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:180:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"5";s:5:"venue";s:4:"work";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"3c0049329fb63a8bea29ff4c09d9a25d";s:11:"passwd_hash";s:32:"be77e1ecc689ccc1f764d5c01fcae61e";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:3:"644";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:80:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:7:"2270562";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"7812401";s:11:"create_time";s:9:"938443996";s:7:"country";s:13:"United States";s:7:"team_id";s:6:"115396";s:9:"team_name";s:8:"SETI.USA";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:6:"293899";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:5:"17424";s:11:"create_time";s:10:"1108442982";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"3737";s:9:"team_name";s:8:"SETI.USA";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1017053";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"478448";s:11:"create_time";s:10:"1193067823";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"3025";s:9:"team_name";s:8:"SETI.USA";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"63923";s:13:"expavg_credit";d:0;s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:5:"47789";s:11:"create_time";s:10:"1144735574";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"1164";s:9:"team_name";s:8:"SETI.USA";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:6:"150872";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:5:"37388";s:11:"create_time";s:10:"1134576053";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"6";s:9:"team_name";s:8:"SETI.USA";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12414";s:13:"expavg_credit";d:0;s:4:"name";s:4:"BURP";s:3:"url";s:21:"http://burp.boinc.dk/";s:2:"id";s:4:"5920";s:11:"create_time";s:10:"1172783935";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"352";s:9:"team_name";s:8:"SETI.USA";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:6:"151448";s:13:"expavg_credit";d:0;s:4:"name";s:8:"NFS@Home";s:3:"url";s:36:"http://escatter11.fullerton.edu/nfs/";s:2:"id";s:3:"754";s:11:"create_time";s:10:"1252684957";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"4";s:9:"team_name";s:8:"SETI.USA";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:8:"62864624";s:13:"expavg_credit";s:4:"1166";s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:4:"3676";s:11:"create_time";s:10:"1160623306";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"189";s:9:"team_name";s:8:"SETI.USA";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:5:"57052";s:13:"expavg_credit";d:0;s:4:"name";s:19:"SZTAKI Desktop Grid";s:3:"url";s:32:"http://szdg.lpds.sztaki.hu/szdg/";s:2:"id";s:5:"16812";s:11:"create_time";s:10:"1176314469";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"173";s:9:"team_name";s:8:"SETI.USA";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:6:"144892";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"264682";s:11:"create_time";s:10:"1157759093";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"7049";s:9:"team_name";s:8:"SETI.USA";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25659";s:13:"expavg_credit";s:3:"332";s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:4:"9391";s:11:"create_time";s:10:"1176313651";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"86";s:9:"team_name";s:8:"SETI.USA";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:6:"145823";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:4:"2927";s:11:"create_time";s:10:"1167924160";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"60";s:9:"team_name";s:8:"SETI.USA";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:5:"56122";s:13:"expavg_credit";s:3:"319";s:4:"name";s:15:"Lattice Project";s:3:"url";s:28:"http://boinc.umiacs.umd.edu/";s:2:"id";s:4:"1353";s:11:"create_time";s:10:"1181016876";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"143";s:9:"team_name";s:8:"SETI.USA";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:6:"103453";s:13:"expavg_credit";d:0;s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:4:"5403";s:11:"create_time";s:10:"1141338121";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"90";s:9:"team_name";s:8:"SETI.USA";}i:14;O:8:"stdClass":9:{s:12:"total_credit";s:5:"11059";s:13:"expavg_credit";s:1:"1";s:4:"name";s:12:"Pirates@Home";s:3:"url";s:28:"http://pirates.spy-hill.net/";s:2:"id";s:4:"5855";s:11:"create_time";s:10:"1174353153";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"424";s:9:"team_name";s:8:"SETI.USA";}i:15;O:8:"stdClass":9:{s:12:"total_credit";s:5:"15466";s:13:"expavg_credit";d:0;s:4:"name";s:14:"SETI@home Beta";s:3:"url";s:37:"http://setiweb.ssl.berkeley.edu/beta/";s:2:"id";s:4:"1551";s:11:"create_time";s:10:"1137357963";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"121";s:9:"team_name";s:8:"SETI.USA";}i:16;O:8:"stdClass":9:{s:12:"total_credit";s:6:"108919";s:13:"expavg_credit";d:0;s:4:"name";s:16:"Leiden Classical";s:3:"url";s:26:"http://boinc.gorlaeus.net/";s:2:"id";s:4:"5681";s:11:"create_time";s:10:"1176922273";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"40";s:9:"team_name";s:8:"SETI.USA";}i:17;O:8:"stdClass":9:{s:12:"total_credit";s:5:"26524";s:13:"expavg_credit";d:0;s:4:"name";s:10:"RALPH@Home";s:3:"url";s:26:"http://ralph.bakerlab.org/";s:2:"id";s:4:"2946";s:11:"create_time";s:10:"1176921176";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"117";s:9:"team_name";s:8:"SETI.USA";}i:18;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1013139";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"21952";s:11:"create_time";s:10:"1174074421";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"103";s:9:"team_name";s:8:"SETI.USA";}i:19;O:8:"stdClass":9:{s:12:"total_credit";s:6:"172471";s:13:"expavg_credit";s:3:"300";s:4:"name";s:19:"Chess960@Home Alpha";s:3:"url";s:36:"http://www.chess960athome.org/alpha/";s:2:"id";s:4:"1128";s:11:"create_time";s:10:"1154583135";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"95";s:9:"team_name";s:8:"SETI.USA";}i:20;O:8:"stdClass":9:{s:12:"total_credit";s:5:"11028";s:13:"expavg_credit";d:0;s:4:"name";s:8:"vtu@home";s:3:"url";s:30:"http://boinc.vtu.lt/vtuathome/";s:2:"id";s:4:"1318";s:11:"create_time";s:10:"1176925044";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"63";s:9:"team_name";s:8:"SETI.USA";}i:21;O:8:"stdClass":9:{s:12:"total_credit";s:6:"104257";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:4:"3115";s:11:"create_time";s:10:"1158435370";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"109";s:9:"team_name";s:8:"SETI.USA";}i:22;O:8:"stdClass":9:{s:12:"total_credit";s:6:"101418";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:3:"573";s:11:"create_time";s:10:"1220462734";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"38";s:9:"team_name";s:8:"SETI.USA";}i:23;O:8:"stdClass":9:{s:12:"total_credit";s:6:"136198";s:13:"expavg_credit";d:0;s:4:"name";s:13:"proteins@home";s:3:"url";s:44:"http://bioc.polytechnique.fr/proteinsathome/";s:2:"id";s:5:"11348";s:11:"create_time";s:10:"1176924835";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"51";s:9:"team_name";s:8:"SETI.USA";}i:24;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1021722";s:13:"expavg_credit";d:0;s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:3:"181";s:11:"create_time";s:10:"1164151384";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"38";s:9:"team_name";s:8:"SETI.USA";}i:25;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12508";s:13:"expavg_credit";d:0;s:4:"name";s:7:"WEP-M+2";s:3:"url";s:38:"http://bearnol.is-a-geek.com/wanless2/";s:2:"id";s:3:"745";s:11:"create_time";s:10:"1176921972";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"34";s:9:"team_name";s:8:"SETI.USA";}i:26;O:8:"stdClass":9:{s:12:"total_credit";s:5:"51330";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Gerasim@Home";s:3:"url";s:24:"http://gerasim.boinc.ru/";s:2:"id";s:3:"937";s:11:"create_time";s:10:"1231083955";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"29";s:9:"team_name";s:8:"SETI.USA";}i:27;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25128";s:13:"expavg_credit";d:0;s:4:"name";s:10:"orbit@home";s:3:"url";s:25:"http://orbit.psi.edu/oah/";s:2:"id";s:2:"70";s:11:"create_time";s:10:"1204606275";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"2";s:9:"team_name";s:8:"SETI.USA";}i:28;O:8:"stdClass":9:{s:12:"total_credit";s:6:"277160";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Cosmology@Home";s:3:"url";s:31:"http://www.cosmologyathome.org/";s:2:"id";s:3:"285";s:11:"create_time";s:10:"1183877634";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"29";s:9:"team_name";s:8:"SETI.USA";}i:29;O:8:"stdClass":9:{s:12:"total_credit";s:5:"22779";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Hydrogen@Home";s:3:"url";s:26:"http://hydrogenathome.org/";s:2:"id";s:3:"417";s:11:"create_time";s:10:"1201371444";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"27";s:9:"team_name";s:8:"SETI.USA";}i:30;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1060549";s:13:"expavg_credit";s:3:"884";s:4:"name";s:35:"Distributed Rainbow Table Generator";s:3:"url";s:46:"http://boinc.freerainbowtables.com/distrrtgen/";s:2:"id";s:5:"12402";s:11:"create_time";s:10:"1293425492";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"45";s:9:"team_name";s:8:"SETI.USA";}i:31;O:8:"stdClass":9:{s:12:"total_credit";s:5:"75202";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:4:"1618";s:11:"create_time";s:10:"1191565323";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"42";s:9:"team_name";s:8:"SETI.USA";}i:32;O:8:"stdClass":9:{s:12:"total_credit";s:6:"116879";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:3:"804";s:11:"create_time";s:10:"1194056023";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"2";s:9:"team_name";s:8:"SETI.USA";}i:33;O:8:"stdClass":9:{s:12:"total_credit";s:6:"147941";s:13:"expavg_credit";d:0;s:4:"name";s:11:"Enigma@Home";s:3:"url";s:28:"http://www.enigmaathome.net/";s:2:"id";s:3:"995";s:11:"create_time";s:10:"1193175963";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"38";s:9:"team_name";s:8:"SETI.USA";}i:34;O:8:"stdClass":9:{s:12:"total_credit";s:6:"252574";s:13:"expavg_credit";d:0;s:4:"name";s:9:"yoyo@home";s:3:"url";s:32:"http://www.rechenkraft.net/yoyo/";s:2:"id";s:3:"985";s:11:"create_time";s:10:"1191564831";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"64";s:9:"team_name";s:8:"SETI.USA";}i:35;O:8:"stdClass":9:{s:12:"total_credit";s:5:"28380";s:13:"expavg_credit";d:0;s:4:"name";s:27:"SHA-1 Collision Search Graz";s:3:"url";s:45:"http://boinc.iaik.tugraz.at/sha1_coll_search/";s:2:"id";s:4:"3349";s:11:"create_time";s:10:"1191565775";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"31";s:9:"team_name";s:8:"SETI.USA";}i:36;O:8:"stdClass":9:{s:12:"total_credit";s:8:"25190129";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:3:"445";s:11:"create_time";s:10:"1191563871";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"53";s:9:"team_name";s:8:"SETI.USA";}i:37;O:8:"stdClass":9:{s:12:"total_credit";s:4:"7218";s:13:"expavg_credit";s:1:"9";s:4:"name";s:17:"MindModeling@Home";s:3:"url";s:29:"http://mindmodeling.org/beta/";s:2:"id";s:3:"540";s:11:"create_time";s:10:"1202674889";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"15";s:9:"team_name";s:8:"SETI.USA";}i:38;O:8:"stdClass":9:{s:12:"total_credit";s:6:"243910";s:13:"expavg_credit";d:0;s:4:"name";s:21:"Quake Catcher Network";s:3:"url";s:33:"http://qcn.stanford.edu/qcnalpha/";s:2:"id";s:5:"20064";s:11:"create_time";s:10:"1231082711";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"13";s:9:"team_name";s:8:"SETI.USA";}i:39;O:8:"stdClass":9:{s:12:"total_credit";s:5:"59979";s:13:"expavg_credit";d:0;s:4:"name";s:9:"Cels@Home";s:3:"url";s:40:"http://cels-at-home-dev.dyndns.org/cels/";s:2:"id";s:3:"401";s:11:"create_time";s:10:"1204173564";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:40;O:8:"stdClass":9:{s:12:"total_credit";s:5:"34646";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Virtual Prairie";s:3:"url";s:38:"http://vcsc.cs.uh.edu/virtual-prairie/";s:2:"id";s:4:"1054";s:11:"create_time";s:10:"1212789199";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"18";s:9:"team_name";s:8:"SETI.USA";}i:41;O:8:"stdClass":9:{s:12:"total_credit";s:2:"58";s:13:"expavg_credit";d:0;s:4:"name";s:19:"UH Second Computing";s:3:"url";s:39:"http://vcsc.cs.uh.edu/second-computing/";s:2:"id";s:3:"726";s:11:"create_time";s:10:"1216657938";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"19";s:9:"team_name";s:8:"SETI.USA";}i:42;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12813";s:13:"expavg_credit";s:3:"576";s:4:"name";s:28:"Malaria Control Test Project";s:3:"url";s:34:"http://boinc.cs.uct.ac.za/malaria/";s:2:"id";s:3:"780";s:11:"create_time";s:10:"1212789698";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"4";s:9:"team_name";s:8:"SETI.USA";}i:43;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10907";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Magnetism@home";s:3:"url";s:38:"http://kinetic.dnsalias.org/magnetism/";s:2:"id";s:2:"84";s:11:"create_time";s:10:"1213241350";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"21";s:9:"team_name";s:8:"SETI.USA";}i:44;O:8:"stdClass":9:{s:12:"total_credit";s:5:"30402";s:13:"expavg_credit";d:0;s:4:"name";s:9:"IBERCIVIS";s:3:"url";s:29:"http://registro.ibercivis.es/";s:2:"id";s:5:"20761";s:11:"create_time";s:10:"1230988366";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"53";s:9:"team_name";s:8:"SETI.USA";}i:45;O:8:"stdClass":9:{s:12:"total_credit";s:5:"11131";s:13:"expavg_credit";d:0;s:4:"name";s:21:"AlmereGrid Boinc Grid";s:3:"url";s:27:"http://boinc.almeregrid.nl/";s:2:"id";s:4:"9791";s:11:"create_time";s:10:"1278207278";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:46;O:8:"stdClass":9:{s:12:"total_credit";s:5:"64667";s:13:"expavg_credit";s:2:"17";s:4:"name";s:13:"Renderfarm.fi";s:3:"url";s:25:"http://www.renderfarm.fi/";s:2:"id";s:3:"285";s:11:"create_time";s:10:"1233833199";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:47;O:8:"stdClass":9:{s:12:"total_credit";s:6:"192917";s:13:"expavg_credit";s:3:"346";s:4:"name";s:11:"WUProp@Home";s:3:"url";s:27:"http://wuprop.boinc-af.org/";s:2:"id";s:4:"1132";s:11:"create_time";s:10:"1270914500";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:48;O:8:"stdClass":9:{s:12:"total_credit";s:7:"5064364";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:4:"5771";s:11:"create_time";s:10:"1220309361";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"38";s:9:"team_name";s:8:"SETI.USA";}i:49;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1962989";s:13:"expavg_credit";s:4:"3284";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:2:"67";s:11:"create_time";s:10:"1220575701";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"19";s:9:"team_name";s:8:"SETI.USA";}i:50;O:8:"stdClass":9:{s:12:"total_credit";s:5:"29699";s:13:"expavg_credit";s:1:"2";s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:3:"644";s:11:"create_time";s:10:"1241136000";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"5";s:9:"team_name";s:8:"SETI.USA";}i:51;O:8:"stdClass":9:{s:12:"total_credit";s:5:"29224";s:13:"expavg_credit";d:0;s:4:"name";s:23:"Distributed Data Mining";s:3:"url";s:59:"http://www.distributedDataMining.org/DistributedDataMining/";s:2:"id";s:3:"767";s:11:"create_time";s:10:"1267462929";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"5";s:9:"team_name";s:8:"SETI.USA";}i:52;O:8:"stdClass":9:{s:12:"total_credit";s:8:"25394243";s:13:"expavg_credit";s:4:"1131";s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:3:"562";s:11:"create_time";s:10:"1245315432";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:53;O:8:"stdClass":9:{s:12:"total_credit";s:5:"50422";s:13:"expavg_credit";d:0;s:4:"name";s:18:"RSA Lattice Siever";s:3:"url";s:30:"http://boinc.unsads.com/rsals/";s:2:"id";s:3:"276";s:11:"create_time";s:10:"1251477458";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"6";s:9:"team_name";s:8:"SETI.USA";}i:54;O:8:"stdClass":9:{s:12:"total_credit";s:6:"103628";s:13:"expavg_credit";d:0;s:4:"name";s:10:"EDGeS@Home";s:3:"url";s:31:"http://home.edges-grid.eu/home/";s:2:"id";s:4:"1898";s:11:"create_time";s:10:"1259971770";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"2";s:9:"team_name";s:8:"SETI.USA";}i:55;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10004";s:13:"expavg_credit";d:0;s:4:"name";s:21:"Goldbach's Conjecture";s:3:"url";s:23:"http://www.goldbach.pl/";s:2:"id";s:3:"195";s:11:"create_time";s:10:"1257356571";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"21";s:9:"team_name";s:8:"SETI.USA";}i:56;O:8:"stdClass":9:{s:12:"total_credit";s:5:"26955";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:3:"865";s:11:"create_time";s:10:"1265476586";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:8:"SETI.USA";}i:57;O:8:"stdClass":9:{s:12:"total_credit";s:5:"51916";s:13:"expavg_credit";d:0;s:4:"name";s:8:"CAS@home";s:3:"url";s:28:"http://casathome.ihep.ac.cn/";s:2:"id";s:4:"2973";s:11:"create_time";s:10:"1289109924";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"11";s:9:"team_name";s:8:"SETI.USA";}i:58;O:8:"stdClass":9:{s:12:"total_credit";s:6:"104116";s:13:"expavg_credit";s:1:"6";s:4:"name";s:17:"QuantumFIRE alpha";s:3:"url";s:29:"http://cah.tcm.phy.cam.ac.uk/";s:2:"id";s:3:"749";s:11:"create_time";s:10:"1267815745";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:59;O:8:"stdClass":9:{s:12:"total_credit";s:7:"8473111";s:13:"expavg_credit";s:6:"115522";s:4:"name";s:10:"DNETC@Home";s:3:"url";s:17:"http://dnetc.net/";s:2:"id";s:3:"101";s:11:"create_time";s:10:"1269892898";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"8";s:9:"team_name";s:8:"SETI.USA";}i:60;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1008826";s:13:"expavg_credit";d:0;s:4:"name";s:11:"primaboinca";s:3:"url";s:27:"http://www.primaboinca.com/";s:2:"id";s:3:"134";s:11:"create_time";s:10:"1280375409";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"23";s:9:"team_name";s:8:"SETI.USA";}i:61;O:8:"stdClass":9:{s:12:"total_credit";s:6:"109791";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Constellation";s:3:"url";s:43:"http://aerospaceresearch.net/constellation/";s:2:"id";s:2:"61";s:11:"create_time";s:10:"1292977037";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"8";s:9:"team_name";s:8:"SETI.USA";}i:62;O:8:"stdClass":9:{s:12:"total_credit";s:5:"34720";s:13:"expavg_credit";d:0;s:4:"name";s:17:"Linux Render Farm";s:3:"url";s:36:"http://www.luxrenderfarm.de/luxfarm/";s:2:"id";s:2:"77";s:11:"create_time";s:10:"1287287418";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"13";s:9:"team_name";s:8:"SETI.USA";}i:63;O:8:"stdClass":9:{s:12:"total_credit";s:5:"27345";s:13:"expavg_credit";d:0;s:4:"name";s:3:"eOn";s:3:"url";s:32:"http://eon.ices.utexas.edu/eon2/";s:2:"id";s:3:"971";s:11:"create_time";s:10:"1283622232";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:64;O:8:"stdClass":9:{s:12:"total_credit";s:5:"17537";s:13:"expavg_credit";d:0;s:4:"name";s:19:"Biochemical Library";s:3:"url";s:32:"http://boinc.vanderbilt.edu/bcl/";s:2:"id";s:2:"69";s:11:"create_time";s:10:"1277812012";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"20";s:9:"team_name";s:8:"SETI.USA";}i:65;O:8:"stdClass":9:{s:12:"total_credit";s:7:"6421381";s:13:"expavg_credit";d:0;s:4:"name";s:8:"AndrOINC";s:3:"url";s:20:"http://androinc.net/";s:2:"id";s:3:"101";s:11:"create_time";s:10:"1269892898";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"8";s:9:"team_name";s:8:"SETI.USA";}i:66;O:8:"stdClass":9:{s:12:"total_credit";s:3:"183";s:13:"expavg_credit";d:0;s:4:"name";s:8:"Evo@home";s:3:"url";s:42:"http://boinc.run.montefiore.ulg.ac.be/evo/";s:2:"id";s:4:"1610";s:11:"create_time";s:10:"1296169234";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:67;O:8:"stdClass":9:{s:12:"total_credit";s:5:"28315";s:13:"expavg_credit";d:0;s:4:"name";s:11:"SLinCA@Home";s:3:"url";s:29:"http://dg.imp.kiev.ua/slinca/";s:2:"id";s:4:"1426";s:11:"create_time";s:10:"1297362840";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:8:"SETI.USA";}i:68;O:8:"stdClass":9:{s:12:"total_credit";s:6:"114393";s:13:"expavg_credit";s:1:"3";s:4:"name";s:13:"Mersenne@home";s:3:"url";s:26:"http://mersenneathome.net/";s:2:"id";s:4:"1011";s:11:"create_time";s:10:"1293335611";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:69;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2186";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Neurona@Home";s:3:"url";s:42:"http://falua.cesfelipesegundo.com/Neurona/";s:2:"id";s:2:"27";s:11:"create_time";s:10:"1308105635";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"8";s:9:"team_name";s:8:"SETI.USA";}i:70;O:8:"stdClass":9:{s:12:"total_credit";s:5:"11492";s:13:"expavg_credit";d:0;s:4:"name";s:14:"sudoku@vtaiwan";s:3:"url";s:26:"http://sudoku.nctu.edu.tw/";s:2:"id";s:3:"133";s:11:"create_time";s:10:"1295206469";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:8:"SETI.USA";}i:71;O:8:"stdClass":9:{s:12:"total_credit";s:5:"42202";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Ideologias@Home";s:3:"url";s:45:"http://falua.cesfelipesegundo.com/Ideologias/";s:2:"id";s:4:"1542";s:11:"create_time";s:10:"1307204176";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"2";s:9:"team_name";s:8:"SETI.USA";}i:72;O:8:"stdClass":9:{s:12:"total_credit";s:6:"144005";s:13:"expavg_credit";s:3:"115";s:4:"name";s:8:"DNA@Home";s:3:"url";s:30:"http://dnahome.cs.rpi.edu/dna/";s:2:"id";s:2:"11";s:11:"create_time";s:10:"1272207605";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"1";s:9:"team_name";s:8:"SETI.USA";}i:73;O:8:"stdClass":9:{s:12:"total_credit";s:8:"10037961";s:13:"expavg_credit";s:5:"41508";s:4:"name";s:12:"Moo! Wrapper";s:3:"url";s:19:"http://moowrap.net/";s:2:"id";s:4:"1439";s:11:"create_time";s:10:"1304356734";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"3";s:9:"team_name";s:8:"SETI.USA";}i:74;O:8:"stdClass":9:{s:12:"total_credit";s:5:"16395";s:13:"expavg_credit";s:3:"115";s:4:"name";s:13:"Surveill@Home";s:3:"url";s:35:"http://surveill.dei.uc.pt/surveill/";s:2:"id";s:3:"904";s:11:"create_time";s:10:"1311651761";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"12";s:9:"team_name";s:8:"SETI.USA";}i:75;O:8:"stdClass":9:{s:12:"total_credit";s:5:"55621";s:13:"expavg_credit";s:3:"169";s:4:"name";s:10:"Correlizer";s:3:"url";s:55:"http://svahesrv2.bioquant.uni-heidelberg.de/correlizer/";s:2:"id";s:2:"76";s:11:"create_time";s:10:"1312388464";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"2";s:9:"team_name";s:8:"SETI.USA";}i:76;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12041";s:13:"expavg_credit";s:3:"337";s:4:"name";s:11:"Test4Theory";s:3:"url";s:35:"http://boinc01.cern.ch/test4theory/";s:2:"id";s:4:"1698";s:11:"create_time";s:10:"1312389475";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"9";s:9:"team_name";s:8:"SETI.USA";}i:77;O:8:"stdClass":9:{s:12:"total_credit";s:5:"52976";s:13:"expavg_credit";s:2:"12";s:4:"name";s:15:"AlmereGrid Test";s:3:"url";s:38:"http://server1.almeregrid.nl/testgrid/";s:2:"id";s:4:"2268";s:11:"create_time";s:10:"1304627794";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"27";s:9:"team_name";s:8:"SETI.USA";}i:78;O:8:"stdClass":9:{s:12:"total_credit";s:5:"81661";s:13:"expavg_credit";s:4:"1933";s:4:"name";s:17:"NumberFields@home";s:3:"url";s:36:"http://stat.la.asu.edu/NumberFields/";s:2:"id";s:2:"66";s:11:"create_time";s:10:"1313762918";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"4";s:9:"team_name";s:8:"SETI.USA";}i:79;O:8:"stdClass":9:{s:12:"total_credit";s:5:"32119";s:13:"expavg_credit";s:3:"458";s:4:"name";s:4:"YAFU";s:3:"url";s:28:"http://yafu.dyndns.org/yafu/";s:2:"id";s:3:"122";s:11:"create_time";s:10:"1315071561";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"4";s:9:"team_name";s:8:"SETI.USA";}}}s:3:"clo";O:8:"stdClass":4:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"5";s:11:"create_time";s:10:"1240319405";s:6:"userid";s:2:"16";s:4:"name";s:8:"SETI.USA";s:7:"name_lc";s:8:"seti.usa";s:3:"url";s:15:"www.setiusa.net";s:4:"type";s:1:"1";s:9:"name_html";s:50:"<img SRC='http://www.setiusa.net/images/logo.png'>";s:11:"description";s:1850:"<b>Welcome to Team SETI.USA!</b><br><br>
+<b>Our Motto</b>:<i>Together we will accomplish something amazing!</i><br><br>
+On March 24, 2005 Team SETI.USA was created to consolidate United States users and become the #1 SETI Team in the world.<br><br>This goal was achieved within 24 months of inception thanks to the extraordinary efforts of our dedicated membership.<br><br>To parlay that effort, and for the benefit of all BOINC distributed computing projects, Team SETI.USA’s commitment to extend beyond a single project has begun.<br><br><b> SETI.USA is now BOINCing the world!</b> Join with us as we boldly go where no team has gone before!<br><br>
+
+Be sure to visit <a title="SETI.USA Homepage" href="http://www.setiusa.net">setiusa.net</a> and join our community! You'll find team news and team graphics. If you need help setting up BOINC or joining our team, we have a friendly, active <a title="SETI.USA Message board" href="http://setiusa.net/forums/">Message Board</a> where our members are waiting to help.<br><br>
+
+Also, join us in our weekly evening of <a title="SETI.USA IRC Chat" href="http://setiusa.net/chat.html">chat!</a> Every Monday night at 8 PM CST.<br>(server/channel info: irc.icq.net #team_seti.usa)
+<br><br>
+<a title="SETI.USA follow us on twitter" href="http://twitter.com/setiusa"><img title="SETI.USA follow us on twitter" src="http://www.mpits.net/twitter_aqu_32.png" alt="Twitter">Twitter</a><br><a title="SETI.USA Facebook" href="http://www.facebook.com/group.php?gid=39475935417"><img title="SETI.USA Facebook" src="http://www.mpits.net/facebook_aqu_32.png" alt="Facebook">Facebook</a>
+<br><br>
+<a title="SETI.USA Stats" href="http://de.boincstats.com/stats/boinc_team_graph.php?pr=bo&id=15755"><img title="SETI.USA Stats" src="http://www.boincstats.com/signature/team_15755_project-1.gif" alt="Stats"></a";s:6:"nusers";s:2:"51";s:7:"country";s:13:"United States";s:12:"total_credit";s:15:"1035181.6614454";s:13:"expavg_credit";s:10:"101.882501";s:11:"expavg_time";s:16:"1317410057.50979";s:7:"seti_id";s:3:"147";s:9:"ping_user";s:4:"2457";s:9:"ping_time";s:10:"1317296302";s:8:"joinable";s:1:"1";}s:7:"friends";a:6:{i:0;O:9:"BoincUser":28:{s:2:"id";s:3:"523";s:11:"create_time";s:10:"1240670670";s:10:"email_addr";s:16:"zombie67@mac.com";s:4:"name";s:13:"zombie67 [MM]";s:13:"authenticator";s:32:"bbe0a2949682c2c5a595491b5dfc410b";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"94568";s:12:"total_credit";s:15:"431394.21645319";s:13:"expavg_credit";s:16:"0.08363648552926";s:11:"expavg_time";s:10:"1314641989";s:12:"global_prefs";s:1220:"<global_preferences>
+    <source_project>http://lhcathomeclassic.cern.ch/sixtrack/</source_project>
+    <source_scheduler>http://lhcathomeclassic.cern.ch/sixtrack_cgi/cgi</source_scheduler>
+<mod_time>1316706429</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>30</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>32</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>900</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>99</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>99</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>99</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>200</resource_share>
+<no_cpu>1</no_cpu>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"5";s:5:"venue";s:4:"home";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"9";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"2c341c67c347c8f24814f544145fe257";s:11:"passwd_hash";s:32:"be41f70a528cd3639424e6c39f22f777";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:1;O:9:"BoincUser":28:{s:2:"id";s:3:"534";s:11:"create_time";s:10:"1241296620";s:10:"email_addr";s:16:"kevint@email.com";s:4:"name";s:6:"kevint";s:13:"authenticator";s:32:"013d5585ce8df5cacd0821098af1f1ce";s:7:"country";s:13:"United States";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"243871.23808215";s:13:"expavg_credit";s:8:"2.428818";s:11:"expavg_time";s:16:"1316998502.43619";s:12:"global_prefs";s:1168:"<global_preferences>
+    <source_project>http://milkyway.cs.rpi.edu/milkyway/</source_project>
+    <source_scheduler>http://milkyway.rpi.edu/cgi/cgi</source_scheduler>
+<mod_time>1261521644</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.5</work_buf_additional_days>
+<max_cpus>1</max_cpus>
+<max_ncpus_pct>50</max_ncpus_pct>
+<cpu_usage_limit>50</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>5</disk_min_free_gb>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>50</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"844";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"e38dc221c69258b5cfebc143f6446cb3";s:11:"passwd_hash";s:32:"cccbca4642789405e7c482d76bbe47d7";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:2;O:9:"BoincUser":28:{s:2:"id";s:3:"536";s:11:"create_time";s:10:"1241320915";s:10:"email_addr";s:17:"trigggl@yahoo.com";s:4:"name";s:12:"7ri9991 [MM]";s:13:"authenticator";s:32:"009beee5234929292b3dd5f590031b2d";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"72076";s:12:"total_credit";s:14:"11074.52686928";s:13:"expavg_credit";s:8:"0.080545";s:11:"expavg_time";s:16:"1306095003.10704";s:12:"global_prefs";s:4228:"<global_preferences>
+    <source_project>http://vbridge.twgrid.org/asgcdg/</source_project>
+    <source_scheduler>http://vbridge.twgrid.org/asgcdg_cgi/cgi</source_scheduler>
+<mod_time>1309862706</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>100</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>100</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.5</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>95</max_ncpus_pct>
+<cpu_usage_limit>95</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>95</vm_max_used_pct>
+<ram_max_used_busy_pct>98</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>98</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>95</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>3</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>100</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:376:"<project_preferences>
+<resource_share>100</resource_share>
+<allow_beta_work>1</allow_beta_work>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+<venue name="work">
+<resource_share>100</resource_share>
+<allow_beta_work>1</allow_beta_work>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+</project_preferences>
+";s:6:"teamid";s:1:"5";s:5:"venue";s:4:"work";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"fdca8591e60a66a255a2e2bdfcc05ff0";s:11:"passwd_hash";s:32:"9d53cd7b68e3e1558d9885ef9343c6cd";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:3;O:9:"BoincUser":28:{s:2:"id";s:3:"537";s:11:"create_time";s:10:"1241350321";s:10:"email_addr";s:19:"woswoisdenni@gmx.de";s:4:"name";s:10:"aendgraend";s:13:"authenticator";s:32:"a33790c259ac04560c37252727932e24";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"92353";s:12:"total_credit";s:16:"13566.1744652163";s:13:"expavg_credit";s:8:"0.097343";s:11:"expavg_time";s:16:"1315247103.46134";s:12:"global_prefs";s:1719:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1288907595</mod_time>
+    <run_on_batteries>1</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <suspend_cpu_usage>0.0</suspend_cpu_usage>
+    <leave_apps_in_memory>1</leave_apps_in_memory>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <max_cpus>8</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_min_free_gb>1.5</disk_min_free_gb>
+    <disk_max_used_pct>95.0</disk_max_used_pct>
+    <disk_interval>60.0</disk_interval>
+    <vm_max_used_pct>75.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <work_buf_min_days>0.5</work_buf_min_days>
+    <work_buf_additional_days>1.5</work_buf_additional_days>
+    <confirm_before_connecting>0</confirm_before_connecting>
+    <hangup_if_dialed>0</hangup_if_dialed>
+    <max_bytes_sec_down>2048000.0</max_bytes_sec_down>
+    <max_bytes_sec_up>256000.0</max_bytes_sec_up>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <dont_verify_images>1</dont_verify_images>
+    <end_hour>0</end_hour>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+</global_preferences>
+";s:13:"project_prefs";s:200:"<project_preferences>
+<resource_share>75</resource_share>
+<no_cuda>1</no_cuda>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:19:"www.seti-germany.de";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"f6ea15282f776af988febaef541bec48";s:11:"passwd_hash";s:32:"da313a667eef6bfa143dcf90b1478822";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:4;O:9:"BoincUser":28:{s:2:"id";s:3:"648";s:11:"create_time";s:10:"1241136000";s:10:"email_addr";s:12:"p51d@usa.com";s:4:"name";s:4:"Fish";s:13:"authenticator";s:32:"a27d807e82e0a1a30e37ab6107f13a3c";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"60544";s:12:"total_credit";s:15:"11577.842192836";s:13:"expavg_credit";s:8:"0.078482";s:11:"expavg_time";s:16:"1270872002.26638";s:12:"global_prefs";s:2242:"<global_preferences>
+    <source_project>http://milkyway.cs.rpi.edu/milkyway/</source_project>
+    <source_scheduler>http://milkyway.rpi.edu/cgi/cgi</source_scheduler>
+<mod_time>1253061379</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<confirm_before_connecting/>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.5</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>100</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>100</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+<venue name="home">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>1</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>100</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>1</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:2:"14";s:5:"venue";s:0:"";s:3:"url";s:13:"www.tswb.org/";s:10:"send_email";s:1:"0";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"b0039970b1530aa74a8547d8cf748ea7";s:11:"passwd_hash";s:32:"46254982333d4eacfe35dd0c2b0ebf67";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:5;O:9:"BoincUser":28:{s:2:"id";s:3:"800";s:11:"create_time";s:10:"1251367475";s:10:"email_addr";s:16:"borne030@umn.edu";s:4:"name";s:12:"Maxwell [MM]";s:13:"authenticator";s:32:"048cff911c7058e5fa866c79d6169e70";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"62918";s:12:"total_credit";s:15:"110924.30985228";s:13:"expavg_credit";s:8:"1.809759";s:11:"expavg_time";s:16:"1316998502.43437";s:12:"global_prefs";s:3877:"<global_preferences>
+    <source_project>http://wuprop.boinc-af.org/</source_project>
+    <source_scheduler>http://wuprop.boinc-af.org/wuproj_cgi/cgi</source_scheduler>
+<mod_time>1295930728</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>300</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>1</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>300</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>300</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>300</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:342:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+<venue name="home">
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<no_cuda>1</no_cuda>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+</project_preferences>
+";s:6:"teamid";s:1:"5";s:5:"venue";s:0:"";s:3:"url";s:19:"twitter.com/SETIUSA";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"344be4408180fafcd6434a225da8de0e";s:11:"passwd_hash";s:32:"0fe284213d1fc586a8a9d2fc8e0eabfd";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}}}

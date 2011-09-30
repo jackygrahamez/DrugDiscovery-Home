@@ -1,0 +1,14 @@
+<job_desc>
+    <task>
+        <application>mdrun.exe</application>
+        <command_line> -v -x -c -o -e -cpi md.cpt -cpt 1 -deffnm md</command_line>
+        <weight>100</weight>
+        <fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <weight>1</weight>
+        <command_line> a -y out.7z Ligand.acpypi.7z *.log *.tpr *.gro *.mdp *.edr *.cpt job.xml *.xtc *.top *.itp</command_line>
+    </task>
+</job_desc>
+

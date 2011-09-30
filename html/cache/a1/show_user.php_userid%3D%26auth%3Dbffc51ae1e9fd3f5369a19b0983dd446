@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4234</id>
+    <cpid>e0e0a9942c8a88a51ee4ea932b0bc735</cpid>
+    <create_time>1298476439</create_time>
+    <name>anarchy1024</name>
+    <country>Canada</country>
+    <total_credit>1950.440387</total_credit>
+    <expavg_credit>3.722865</expavg_credit>
+    <expavg_time>1315843031.20996</expavg_time>
+    <teamid>18</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7860</id>
+        <create_time>1298478006</create_time>
+        <rpc_seqno>844</rpc_seqno>
+        <host_cpid>e41241d8ecbc953eeb6b4b0bae9bce64</host_cpid>
+        <total_credit>102.012308</total_credit>
+        <expavg_credit>0.876521</expavg_credit>
+        <expavg_time>1315843031.21013</expavg_time>
+        <domain_name>MEDIAPC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6700  @ 2.66GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2453208908.32226</p_fpops>
+        <p_iops>7691712589.00329</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7870</id>
+        <create_time>1298500523</create_time>
+        <rpc_seqno>122</rpc_seqno>
+        <host_cpid>779249b786b5080d578c14ff3a4362b4</host_cpid>
+        <total_credit>59.035381</total_credit>
+        <expavg_credit>0.058019</expavg_credit>
+        <expavg_time>1304280603.61383</expavg_time>
+        <domain_name>owner-e1a98acd9</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1422222222.22222</p_fpops>
+        <p_iops>2792519343.22293</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7858</id>
+        <create_time>1298477527</create_time>
+        <rpc_seqno>994</rpc_seqno>
+        <host_cpid>b3f64f7f685f9e79b4e24d131b920c13</host_cpid>
+        <total_credit>190.922953</total_credit>
+        <expavg_credit>3.045477</expavg_credit>
+        <expavg_time>1315642448.35066</expavg_time>
+        <domain_name>daedalus</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2614866136.48973</p_fpops>
+        <p_iops>5723813872.11861</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7859</id>
+        <create_time>1298477666</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>30fedb8b6093ebf5dd3c77861dca3e45</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298477666</expavg_time>
+        <domain_name>a250n</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1332203581.3139</p_fpops>
+        <p_iops>2870370420.80028</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7861</id>
+        <create_time>1298478376</create_time>
+        <rpc_seqno>3866</rpc_seqno>
+        <host_cpid>5c182c4ab5b36fd1bcc6fc8000a405c4</host_cpid>
+        <total_credit>627.620125</total_credit>
+        <expavg_credit>0.052648</expavg_credit>
+        <expavg_time>1314562503.56075</expavg_time>
+        <domain_name>DAEDALUSMK2</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2682190628.65259</p_fpops>
+        <p_iops>10869363968.0438</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7862</id>
+        <create_time>1298478766</create_time>
+        <rpc_seqno>538</rpc_seqno>
+        <host_cpid>62d23a7718850bc96121e66e75141ce3</host_cpid>
+        <total_credit>517.281964</total_credit>
+        <expavg_credit>0.087143</expavg_credit>
+        <expavg_time>1306095003.85809</expavg_time>
+        <domain_name>CHRIS-MAIN</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2755097933.71654</p_fpops>
+        <p_iops>9476076222.09846</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7871</id>
+        <create_time>1298504600</create_time>
+        <rpc_seqno>404</rpc_seqno>
+        <host_cpid>725a74ddc629ee8b28378d41ece3d144</host_cpid>
+        <total_credit>135.326242</total_credit>
+        <expavg_credit>0.062356</expavg_credit>
+        <expavg_time>1310933703.01331</expavg_time>
+        <domain_name>MEDIASHUTTLE</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9550 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1807534684.9253</p_fpops>
+        <p_iops>5522537115.13062</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7872</id>
+        <create_time>1298504664</create_time>
+        <rpc_seqno>479</rpc_seqno>
+        <host_cpid>cf9f80ff8aa5ec015b3aebcc25464844</host_cpid>
+        <total_credit>129.852974</total_credit>
+        <expavg_credit>0.054211</expavg_credit>
+        <expavg_time>1309119003.47492</expavg_time>
+        <domain_name>win2k8server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2281071767.00784</p_fpops>
+        <p_iops>6805395628.53379</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7888</id>
+        <create_time>1298657180</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>23b1419031eec94989ddf0ee58a063ca</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298657180</expavg_time>
+        <domain_name>test3</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 Mobile Technology ML-34 [Family 15 Model 36 Stepping 2]</p_model>
+        <p_fpops>1490537429.59517</p_fpops>
+        <p_iops>3610798393.62033</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7889</id>
+        <create_time>1298657840</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>8579dae8d392494cd3dad5854f04479f</host_cpid>
+        <total_credit>9.274629</total_credit>
+        <expavg_credit>0.095575</expavg_credit>
+        <expavg_time>1300651503.48909</expavg_time>
+        <domain_name>boincserver</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.93GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1207991593.17718</p_fpops>
+        <p_iops>3549092291.7791</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-19-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7890</id>
+        <create_time>1298658902</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>565ade8514fe54bb78cefa195f53d8c3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298658902</expavg_time>
+        <domain_name>ux-dv5</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-60 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1029541927.78247</p_fpops>
+        <p_iops>2419749264.6818</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7891</id>
+        <create_time>1298663504</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>f9faa5f871a2dbbe51f1495353742584</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298663504</expavg_time>
+        <domain_name>ux-galego</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>717944811.183506</p_fpops>
+        <p_iops>2272411191.25633</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7894</id>
+        <create_time>1298664675</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>9cb1904e845c6c85cd7633b1c05007c0</host_cpid>
+        <total_credit>41.521706</total_credit>
+        <expavg_credit>0.053366</expavg_credit>
+        <expavg_time>1303071003.94345</expavg_time>
+        <domain_name>ux-m2n58</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2219642063.01177</p_fpops>
+        <p_iops>5574804106.40069</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7895</id>
+        <create_time>1298666765</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>80d85d41afd9f587a6fe60601543333c</host_cpid>
+        <total_credit>58.905171</total_credit>
+        <expavg_credit>0.066902</expavg_credit>
+        <expavg_time>1303675803.64205</expavg_time>
+        <domain_name>ux-m2r32</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>2082776196.64475</p_fpops>
+        <p_iops>6120280147.7274</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7915</id>
+        <create_time>1298862682</create_time>
+        <rpc_seqno>227</rpc_seqno>
+        <host_cpid>22331175529ad4c3be14015997c1dd7a</host_cpid>
+        <total_credit>78.686934</total_credit>
+        <expavg_credit>0.091572</expavg_credit>
+        <expavg_time>1305490203.80262</expavg_time>
+        <domain_name>CHRISBED-WIN7</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2332803224.82046</p_fpops>
+        <p_iops>6692521560.70953</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8250</id>
+        <create_time>1301363053</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>5f84de835111fff68f30c5ea751f24e6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301363053</expavg_time>
+        <domain_name>ux-m2avm</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9550 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1644869184.77584</p_fpops>
+        <p_iops>6647457454.89171</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8014</id>
+        <create_time>1299483310</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>a2fea2257285054154067bc1a19a7361</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299483310</expavg_time>
+        <domain_name>ux-zd8000</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>663886874.391437</p_fpops>
+        <p_iops>1290072195.74193</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8097</id>
+        <create_time>1300088210</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>54fa836b9974da560c17350d1dd9e2b3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300088210</expavg_time>
+        <domain_name>ux-m2avm</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9550 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1623119098.91307</p_fpops>
+        <p_iops>5017276069.25696</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8251</id>
+        <create_time>1301364718</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>e31420301f0d833891c09e58529d68c5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301364718</expavg_time>
+        <domain_name>ux-galego</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>783681178.656493</p_fpops>
+        <p_iops>1938108766.90423</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8252</id>
+        <create_time>1301365853</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>9fb1a4d1e0222cbf32cf80ffb73d94da</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301365853</expavg_time>
+        <domain_name>ux-m2n68</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2202112170.5105</p_fpops>
+        <p_iops>7034011107.01768</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8255</id>
+        <create_time>1301374096</create_time>
+        <rpc_seqno>28</rpc_seqno>
+        <host_cpid>038df2e70b2c5ef9e1c082bc82c036a9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301374096</expavg_time>
+        <domain_name>ux-dv6000</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) Duo CPU      T2450  @ 2.00GHz [Family 6 Model 14 Stepping 12]</p_model>
+        <p_fpops>1344487617.53201</p_fpops>
+        <p_iops>3274771884.11538</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8253</id>
+        <create_time>1301371674</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>077bb6dc376e0fc763e768b8153ee0ad</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301371674</expavg_time>
+        <domain_name>ux-m2r32</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>2068442882.87631</p_fpops>
+        <p_iops>8287200318.92503</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8254</id>
+        <create_time>1301372175</create_time>
+        <rpc_seqno>28</rpc_seqno>
+        <host_cpid>3330db0bc76642ce77401bc9adc58b1e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301372175</expavg_time>
+        <domain_name>ux-zd8000</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>658776179.41009</p_fpops>
+        <p_iops>1303352450.45512</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8256</id>
+        <create_time>1301374173</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>8f49bc40e378f5435ec2042b5d652a4b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301374173</expavg_time>
+        <domain_name>ux-dv5</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-60 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1506676557.8635</p_fpops>
+        <p_iops>4739309556.48143</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8278</id>
+        <create_time>1301547231</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>e2aaeb51b456f0e12708be62de205aa6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301547231</expavg_time>
+        <domain_name>ux-d915gag</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.93GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1218781218.78122</p_fpops>
+        <p_iops>4177495810.96195</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8288</id>
+        <create_time>1301634004</create_time>
+        <rpc_seqno>92</rpc_seqno>
+        <host_cpid>5dd12ea67773b1cde051fa60ba2422be</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301634004</expavg_time>
+        <domain_name>ux-d630</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1799503313.58782</p_fpops>
+        <p_iops>5223563006.15614</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-server</os_version>
+        <venue></venue>
+    </host>
+</user>

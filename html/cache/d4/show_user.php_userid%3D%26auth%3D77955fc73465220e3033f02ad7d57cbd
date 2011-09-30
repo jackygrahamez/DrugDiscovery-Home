@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1398</id>
+    <cpid>7ab3494af3f9a13c225526ee23222934</cpid>
+    <create_time>1266597468</create_time>
+    <name>Gary</name>
+    <country>Australia</country>
+    <total_credit>84.394862</total_credit>
+    <expavg_credit>0.08349</expavg_credit>
+    <expavg_time>1272081602.70539</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5468</id>
+        <create_time>1284731093</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>f5cbe058cccaa7b9c59ffe4492ddbcb4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284731093</expavg_time>
+        <domain_name>PC-Akira</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2577110432.12571</p_fpops>
+        <p_iops>5062162386.22783</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>Work</venue>
+    </host>
+    <host>
+        <id>5750</id>
+        <create_time>1286466723</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>2e2be88e4d6a1d8883294af906402cd6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286466723</expavg_time>
+        <domain_name>PC-Gary</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3042876009.49091</p_fpops>
+        <p_iops>6139354063.032</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5881</id>
+        <create_time>1287538678</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>6ad809cd3b82a61cef2fa9dde1399250</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287538678</expavg_time>
+        <domain_name>DarthMaul</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2497813868.51188</p_fpops>
+        <p_iops>4761771316.94058</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6844</id>
+        <create_time>1292032985</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>8a5f47cb814adfad25ed2c291d5cf5bd</host_cpid>
+        <total_credit>84.394862</total_credit>
+        <expavg_credit>5.932492619391e-12</expavg_credit>
+        <expavg_time>1292471365</expavg_time>
+        <domain_name>DarthSidius</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2296722546.2906</p_fpops>
+        <p_iops>4529068484.80071</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

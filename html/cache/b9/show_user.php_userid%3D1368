@@ -1,0 +1,54 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1368";s:11:"create_time";s:10:"1266345308";s:10:"email_addr";s:21:"olegafren2001@mail.ru";s:4:"name";s:4:"Oleg";s:13:"authenticator";s:32:"be074dfc236751d10856cb76b3ac36c1";s:7:"country";s:6:"Russia";s:11:"postal_code";s:0:"";s:12:"total_credit";s:16:"24990.7234244416";s:13:"expavg_credit";s:8:"0.075108";s:11:"expavg_time";s:16:"1315851902.50392";s:12:"global_prefs";s:1510:"<global_preferences>
+<source_project>http://gerasim.boinc.ru/</source_project>
+<source_scheduler>http://gerasim.boinc.ru//sched</source_scheduler>
+<mod_time>1301374797</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>2</disk_max_used_gb>
+<disk_min_free_gb>0.00</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+</global_preferences>
+";s:13:"project_prefs";s:179:"<project_preferences>
+<resource_share>100</resource_share>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>100</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"4";s:5:"venue";s:4:"home";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"6fc71803b75fd8a8e4cec0701d0c42c2";s:11:"passwd_hash";s:32:"fc49717873d0713f3ece07af9126a0cc";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1368";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:16:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:5:"96419";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"9253632";s:11:"create_time";s:10:"1272313073";s:7:"country";s:6:"Russia";s:7:"team_id";s:6:"114859";s:9:"team_name";s:11:"TSC! Russia";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:3:"198";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"622863";s:11:"create_time";s:10:"1273433275";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"94";s:9:"team_name";s:6:"Russia";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:6:"203750";s:13:"expavg_credit";s:3:"153";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"684430";s:11:"create_time";s:10:"1272398044";s:7:"country";s:18:"Russian Federation";s:7:"team_id";s:2:"99";s:9:"team_name";s:6:"Russia";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:4:"6475";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Lattice Project";s:3:"url";s:28:"http://boinc.umiacs.umd.edu/";s:2:"id";s:5:"36687";s:11:"create_time";s:10:"1289340814";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"121";s:9:"team_name";s:6:"Russia";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:4:"2021";s:13:"expavg_credit";d:0;s:4:"name";s:16:"Leiden Classical";s:3:"url";s:26:"http://boinc.gorlaeus.net/";s:2:"id";s:5:"27710";s:11:"create_time";s:10:"1295538803";s:7:"country";s:6:"Russia";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:5:"13715";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"83481";s:11:"create_time";s:10:"1293746118";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"40";s:9:"team_name";s:6:"Russia";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"18664";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"77491";s:11:"create_time";s:10:"1293745599";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"36";s:9:"team_name";s:11:"Russia Team";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:4:"7943";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"25982";s:11:"create_time";s:10:"1266608120";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"45";s:9:"team_name";s:11:"Russia Team";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:6:"412072";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Gerasim@Home";s:3:"url";s:24:"http://gerasim.boinc.ru/";s:2:"id";s:4:"1250";s:11:"create_time";s:10:"1283541441";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"102";s:9:"team_name";s:6:"Russia";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3780";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Cosmology@Home";s:3:"url";s:31:"http://www.cosmologyathome.org/";s:2:"id";s:5:"71577";s:11:"create_time";s:10:"1306943394";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"172";s:9:"team_name";s:11:"Russia Team";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:3:"163";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:5:"30176";s:11:"create_time";s:10:"1293742466";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"247";s:9:"team_name";s:6:"Russia";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:6:"154661";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:6:"144357";s:11:"create_time";s:10:"1294326150";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"82";s:9:"team_name";s:6:"Russia";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:7:"8505668";s:13:"expavg_credit";s:3:"670";s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"57371";s:11:"create_time";s:10:"1267118804";s:7:"country";s:6:"Russia";s:7:"team_id";s:4:"1069";s:9:"team_name";s:11:"TSC! Russia";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:6:"115427";s:13:"expavg_credit";s:2:"24";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:5:"17636";s:11:"create_time";s:10:"1283539506";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"76";s:9:"team_name";s:6:"Russia";}i:14;O:8:"stdClass":9:{s:12:"total_credit";s:5:"24990";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1368";s:11:"create_time";s:10:"1266345308";s:7:"country";s:6:"Russia";s:7:"team_id";s:1:"4";s:9:"team_name";s:6:"Russia";}i:15;O:8:"stdClass":9:{s:12:"total_credit";s:3:"605";s:13:"expavg_credit";d:0;s:4:"name";s:8:"Evo@home";s:3:"url";s:42:"http://boinc.run.montefiore.ulg.ac.be/evo/";s:2:"id";s:4:"1761";s:11:"create_time";s:10:"1297352200";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"77";s:9:"team_name";s:6:"Russia";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"4";s:11:"create_time";s:10:"1240252392";s:6:"userid";s:2:"11";s:4:"name";s:6:"Russia";s:7:"name_lc";s:6:"russia";s:3:"url";s:0:"";s:4:"type";s:1:"9";s:9:"name_html";s:0:"";s:11:"description";s:389:"<p align='center'>
+The Team for all from Russia and ex-USSR.
+</p>
+<p align='center'>
+<a href='http://www.almodi.org/phpbb/viewforum.php?f=37'>
+<img border='0' src='http://www.almodi.org/phpbb/styles/subsilver2/imageset/site_logo.gif'>
+</a></p>
+<p align='center'>
+<a href='http://distributed.ru/'>
+<img border='0' src='http://distributed.ru/pics/logo/distributed-ru.png'>
+</a></p>";s:6:"nusers";s:2:"99";s:7:"country";s:6:"Russia";s:12:"total_credit";s:15:"1795155.2293871";s:13:"expavg_credit";s:10:"118.263749";s:11:"expavg_time";s:15:"1317341296.0219";s:7:"seti_id";s:3:"242";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4227</id>
+    <cpid>fd075ea04aaee7eae130a5d05eed70d4</cpid>
+    <create_time>1298278214</create_time>
+    <name>michalwy</name>
+    <country>Poland</country>
+    <total_credit>78.580827</total_credit>
+    <expavg_credit>0.050345</expavg_credit>
+    <expavg_time>1309119003.28584</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7831</id>
+        <create_time>1298278843</create_time>
+        <rpc_seqno>307</rpc_seqno>
+        <host_cpid>b942d2510cc94e3cc2c653b641bcfa66</host_cpid>
+        <total_credit>57.011271</total_credit>
+        <expavg_credit>0.099658</expavg_credit>
+        <expavg_time>1308514202.71456</expavg_time>
+        <domain_name>pro_3</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4600  @ 2.40GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2348338008.18906</p_fpops>
+        <p_iops>4764530880.53375</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7832</id>
+        <create_time>1298279276</create_time>
+        <rpc_seqno>132</rpc_seqno>
+        <host_cpid>8f8e72031bb87d13c93676c6f1e3bfcc</host_cpid>
+        <total_credit>21.569556</total_credit>
+        <expavg_credit>0.094102</expavg_credit>
+        <expavg_time>1301256304.05226</expavg_time>
+        <domain_name>kompilacje</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.00GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1364632219.61829</p_fpops>
+        <p_iops>2666967416.70579</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Enterprise Server x86 Edition, Dodatek Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7838</id>
+        <create_time>1298303108</create_time>
+        <rpc_seqno>36</rpc_seqno>
+        <host_cpid>93d307ef1affe0ec4a7dbd28dbc47a11</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298303108</expavg_time>
+        <domain_name>asus</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4500  @ 2.30GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2301451450.76107</p_fpops>
+        <p_iops>4471462660.85878</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

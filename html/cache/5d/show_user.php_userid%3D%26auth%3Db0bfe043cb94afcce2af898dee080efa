@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2789</id>
+    <cpid>44495676521fa22317144a3ecb186545</cpid>
+    <create_time>1286291311</create_time>
+    <name>SchighSchagh</name>
+    <country>International</country>
+    <total_credit>4.587638</total_credit>
+    <expavg_credit>0.022985</expavg_credit>
+    <expavg_time>1303535820.82391</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5728</id>
+        <create_time>1286291558</create_time>
+        <rpc_seqno>38</rpc_seqno>
+        <host_cpid>d72345653cae7dcb13bcd754287918dd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286291558</expavg_time>
+        <domain_name>schlin64</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9850 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1904439476.72804</p_fpops>
+        <p_iops>11681781122.3171</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8522</id>
+        <create_time>1303534523</create_time>
+        <rpc_seqno>31750</rpc_seqno>
+        <host_cpid>ea92ac347b54ac4b783f06efd1ed9ae4</host_cpid>
+        <total_credit>4.587638</total_credit>
+        <expavg_credit>0.096663</expavg_credit>
+        <expavg_time>1304885405.03978</expavg_time>
+        <domain_name>schlin64</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9850 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2227330054.20484</p_fpops>
+        <p_iops>10904841781.4945</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>697</id>
+    <cpid>13771f38841e3098c9f7777f898bb3df</cpid>
+    <create_time>1241136000</create_time>
+    <name>Liuqyn</name>
+    <country>United States</country>
+    <total_credit>10754.257465159</total_credit>
+    <expavg_credit>0.064952</expavg_credit>
+    <expavg_time>1274500802.47986</expavg_time>
+    <teamid>69</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3747</id>
+        <create_time>1272971172</create_time>
+        <rpc_seqno>45</rpc_seqno>
+        <host_cpid>0b1bbf81e2982aa364f0a6cd696947da</host_cpid>
+        <total_credit>6095.1501318232</total_credit>
+        <expavg_credit>4.9373567977935e-13</expavg_credit>
+        <expavg_time>1296398427</expavg_time>
+        <domain_name>Optimus</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Dual-Core Mobile RM-72 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1932116397.40598</p_fpops>
+        <p_iops>4458736363.12788</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8325</id>
+        <create_time>1302071215</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>7cc4fff0956ea0e98890ffc4b2daa734</host_cpid>
+        <total_credit>3659.1073333354</total_credit>
+        <expavg_credit>1.3176310657451e-17</expavg_credit>
+        <expavg_time>1302103102</expavg_time>
+        <domain_name>Goliath</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2950540806.04182</p_fpops>
+        <p_iops>10159283829.6274</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

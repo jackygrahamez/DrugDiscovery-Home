@@ -1,0 +1,24 @@
+#!/bin/bash
+PROJECT=/home/boincadm/projects/DrugDiscovery/
+cd ${PROJECT}
+${PROJECT}bin/stop
+pushd ${PROJECT}log_vps
+BACKUP_DIR=`date --utc +backup_%Y_%m_%d`
+mkdir ${PROJECT}log_vps/${BACKUP_DIR}
+mv *.log *.out ${PROJECT}${BACKUP_DIR}
+pushd ..
+./bin/start&
+popd
+#tar cjvf ${PROJECT}archives/${BACKUP_DIR}.tar.bz2 ${PROJECT}log_vps/${BACKUP_DIR}
+#mysqldump -uboincadm -hlocalhost -ptdsuvm05 --single-transaction --flush-logs --all-databases | bzip2 -c -9 > ${PROJECT}archives/${BACKUP_DIR}.sql.bz2
+mysqldump --single-transaction --flush-logs --all-databases | bzip2 -c -9 > ${PROJECT}archives/${BACKUP_DIR}.sql.bz2
+#scp -rf -i ${project}keys/mirror.hydrogenathome.org-key ${project}archives/* root@mirror.hydrogenathome.org:/usr02/hydrogen/archives/
+find ${project}sample_results/ -daystart -mtime +30 -exec rm {} \;
+find ${project}sample_results/ -name "nsteps*.7z" -daystart -mtime +2 -exec rm {} \;
+find ${project}upload/ -daystart -mtime +14 -exec rm {} \;
+
+#rm -rf ${PROJECT}log_vps/*
+mv ${PROJECT}log_vps/$BACKUP_DIR.tar.bz2 ${PROJECT}archives
+mv ${PROJECT}html/stats_* ${PROJECT}archives/
+popd
+

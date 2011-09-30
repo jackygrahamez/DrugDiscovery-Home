@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1481</id>
+    <cpid>a37020426d0c4ffba16f6469512ae935</cpid>
+    <create_time>1267209720</create_time>
+    <name>msirois</name>
+    <country>United States</country>
+    <total_credit>337.727522</total_credit>
+    <expavg_credit>0.092991</expavg_credit>
+    <expavg_time>1298837103.26877</expavg_time>
+    <teamid>18</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3945</id>
+        <create_time>1274409854</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>a6f734174f6ef735f35474a26a7542bc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274409854</expavg_time>
+        <domain_name>D44SC231</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.60GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1375796178.34395</p_fpops>
+        <p_iops>2595479359.54849</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6286</id>
+        <create_time>1289706944</create_time>
+        <rpc_seqno>500</rpc_seqno>
+        <host_cpid>309ac50696717da704b4c2c67c15614d</host_cpid>
+        <total_credit>337.727522</total_credit>
+        <expavg_credit>0.093119</expavg_credit>
+        <expavg_time>1298837104.22688</expavg_time>
+        <domain_name>Josie-HP</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 635 Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2364127234.98962</p_fpops>
+        <p_iops>7089331568.05083</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9563</id>
+        <create_time>1311351958</create_time>
+        <rpc_seqno>44</rpc_seqno>
+        <host_cpid>c75e612242accb4c04b4581c9ce8ac2b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311351958</expavg_time>
+        <domain_name>Josie-HP</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 635 Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2367947255.99415</p_fpops>
+        <p_iops>6828315852.81786</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

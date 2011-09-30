@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4654</id>
+    <cpid>390a90e8f2da286be58e441d8959e6e3</cpid>
+    <create_time>1307376493</create_time>
+    <name>Dubravko Garbin</name>
+    <country>Croatia</country>
+    <total_credit>10.541586</total_credit>
+    <expavg_credit>0.079935</expavg_credit>
+    <expavg_time>1310328902.49302</expavg_time>
+    <teamid>0</teamid>
+    <url>www.infoplanet.hr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9066</id>
+        <create_time>1307445062</create_time>
+        <rpc_seqno>644</rpc_seqno>
+        <host_cpid>46a4106d62e8c777f5719640ef119a81</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307445062</expavg_time>
+        <domain_name>renata</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1682200469.54407</p_fpops>
+        <p_iops>3808196693.12756</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9065</id>
+        <create_time>1307427755</create_time>
+        <rpc_seqno>50</rpc_seqno>
+        <host_cpid>3214f348dae11fc3f3ef92fe01be61fe</host_cpid>
+        <total_credit>10.541586</total_credit>
+        <expavg_credit>0.081764</expavg_credit>
+        <expavg_time>1310328902.76603</expavg_time>
+        <domain_name>dubo</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 9]</p_model>
+        <p_fpops>1305099455.69017</p_fpops>
+        <p_iops>2310587076.00302</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9059</id>
+        <create_time>1307376625</create_time>
+        <rpc_seqno>145</rpc_seqno>
+        <host_cpid>538057b91f7ea195d5a18b35333b5e99</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307376625</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2131728395.06173</p_fpops>
+        <p_iops>4319608452.17597</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9391</id>
+        <create_time>1309744919</create_time>
+        <rpc_seqno>173</rpc_seqno>
+        <host_cpid>635789bbad4580c77a9ac50c07056253</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309744919</expavg_time>
+        <domain_name>dubravko</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2520725609.65204</p_fpops>
+        <p_iops>5092602764.23936</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

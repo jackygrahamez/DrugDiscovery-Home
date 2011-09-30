@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2567</id>
+    <cpid>bc26a0c96bba0bf3dfd0ffa52a4836b7</cpid>
+    <create_time>1283130705</create_time>
+    <name>Timothy Dickey</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1283130705</expavg_time>
+    <teamid>999</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5228</id>
+        <create_time>1283130725</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>76a80e82720d9b4ffd036f22e2fffb30</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283130725</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1228516849.21433</p_fpops>
+        <p_iops>4060267094.00038</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8013</id>
+        <create_time>1299469102</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>6228e65d706b3204a0d1528d9370c7ea</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299469102</expavg_time>
+        <domain_name>hilda-GatewayLaptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3200  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1846422506.3283</p_fpops>
+        <p_iops>8866046835.98326</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-29-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8011</id>
+        <create_time>1299441852</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>220226bb64c84534c9f8abc24302a786</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299441852</expavg_time>
+        <domain_name>Hildi</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3200  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1820719060.74651</p_fpops>
+        <p_iops>3927974838.49459</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8064</id>
+        <create_time>1299809558</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>1f6091c118cfb11010db3fff9ab68bfd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299809558</expavg_time>
+        <domain_name>timothy-ubuntu-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1627243404.18493</p_fpops>
+        <p_iops>8418398896.90389</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-29-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

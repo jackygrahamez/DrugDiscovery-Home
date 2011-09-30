@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>362</id>
+    <cpid>77cd252e5babc552a4d08e1f72c8a43c</cpid>
+    <create_time>1240405954</create_time>
+    <name>Bob Bowen</name>
+    <country></country>
+    <total_credit>2230.384459</total_credit>
+    <expavg_credit>0.082631</expavg_credit>
+    <expavg_time>1277524803.61072</expavg_time>
+    <teamid>347</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1356</id>
+        <create_time>1258378368</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>2fe160dd1de0e20c27c7ef7d1b4187b3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258378368</expavg_time>
+        <domain_name>BOWEN-DELL830</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7800  @ 2.60GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2517064331.01782</p_fpops>
+        <p_iops>5105488579.59217</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1523</id>
+        <create_time>1259043735</create_time>
+        <rpc_seqno>132</rpc_seqno>
+        <host_cpid>3b7b562a7cb53c79d25e3dd842489d43</host_cpid>
+        <total_credit>523.269361</total_credit>
+        <expavg_credit>0.088289</expavg_credit>
+        <expavg_time>1264814103.42701</expavg_time>
+        <domain_name>bowenb-quad</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2323756586.01851</p_fpops>
+        <p_iops>5039278735.83011</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1514</id>
+        <create_time>1258942600</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>4a4c31098a013778432d7e29addbc834</host_cpid>
+        <total_credit>1707.115098</total_credit>
+        <expavg_credit>0.082477</expavg_credit>
+        <expavg_time>1277524804.47212</expavg_time>
+        <domain_name>Bob-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2204841241.32876</p_fpops>
+        <p_iops>6960285128.40934</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

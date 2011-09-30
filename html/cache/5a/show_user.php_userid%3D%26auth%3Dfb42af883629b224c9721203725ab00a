@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4665</id>
+    <cpid>c4b44e7263dc6ad7aaef54ac660b23c7</cpid>
+    <create_time>1307815749</create_time>
+    <name>mdanish</name>
+    <country>United States</country>
+    <total_credit>6.323569</total_credit>
+    <expavg_credit>0.050408</expavg_credit>
+    <expavg_time>1311538503.11655</expavg_time>
+    <teamid>467</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9304</id>
+        <create_time>1308942347</create_time>
+        <rpc_seqno>49</rpc_seqno>
+        <host_cpid>ab35d6131ce7b7bd717bfce763161f19</host_cpid>
+        <total_credit>6.323569</total_credit>
+        <expavg_credit>0.077203</expavg_credit>
+        <expavg_time>1311538503.5091</expavg_time>
+        <domain_name>Fuzzbucket</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2252377417.95485</p_fpops>
+        <p_iops>12166911202.6367</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9548</id>
+        <create_time>1311170402</create_time>
+        <rpc_seqno>91</rpc_seqno>
+        <host_cpid>3a5e1af90c0e9d7675e53c4ef1841d48</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311170402</expavg_time>
+        <domain_name>Buttercup</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2245641301.65981</p_fpops>
+        <p_iops>7641930446.71132</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2390</id>
+    <cpid>0975998f12c78923116cec9faa781165</cpid>
+    <create_time>1280630886</create_time>
+    <name>Haz-Mat</name>
+    <country>United States</country>
+    <total_credit>110.825273</total_credit>
+    <expavg_credit>0.018338</expavg_credit>
+    <expavg_time>1314377777.26629</expavg_time>
+    <teamid>0</teamid>
+    <url>https://plus.google.com/100817014207356322996</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4862</id>
+        <create_time>1280637479</create_time>
+        <rpc_seqno>278</rpc_seqno>
+        <host_cpid>0f56b41f57111382f2dc27833031f611</host_cpid>
+        <total_credit>4.856851</total_credit>
+        <expavg_credit>0.012437</expavg_credit>
+        <expavg_time>1314377777.28189</expavg_time>
+        <domain_name>d-172-25-89-81.bootp.virginia.edu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2946272053.75685</p_fpops>
+        <p_iops>6870777009.81384</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4889</id>
+        <create_time>1280839932</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1de8fc39ee4274a16b03144c10ecfacf</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280839932</expavg_time>
+        <domain_name>nh-ts-mgr3</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2801912584.56838</p_fpops>
+        <p_iops>5840985764.01918</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4885</id>
+        <create_time>1280831900</create_time>
+        <rpc_seqno>1369</rpc_seqno>
+        <host_cpid>870ca553a9a9bfd1015a9bcbf0083489</host_cpid>
+        <total_credit>105.968422</total_credit>
+        <expavg_credit>0.08143</expavg_credit>
+        <expavg_time>1291494302.90152</expavg_time>
+        <domain_name>EclekTech-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2759730683.20216</p_fpops>
+        <p_iops>6638905459.20949</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

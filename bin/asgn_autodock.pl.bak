@@ -1,0 +1,560 @@
+#!/usr/bin/perl
+# Sets the projec directory
+$PROJECT="/home/boincadm/projects/DrugDiscovery/";
+#$df_command="df | head -n 3 | tail -n 1 | awk \'{ print substr( \$0, length(\$0) - 6, 4 ) }\'";
+#print $df_command ."\n";
+#$df=system($df_command);
+
+#print $wu_name."\n";
+#use the Cwd methods
+        use Cwd;
+#save the original directory path
+        my $orig_dir = Cwd::abs_path;
+print "my directory: " . $orig_dir."\n";
+chdir($PROJECT);
+$ga=$ARGV[0];
+chomp($ga);
+$ga_step=$ga * 0.1;
+$ga_num_evals = 2500; 
+
+$target=$ARGV[1];
+chomp($target);
+$bt=substr($target, 10);
+
+$target_psf=$ARGV[2];
+chomp($target);
+$bt_psf=substr($target, 10);
+
+# Sets the ligand file index of ligands we have
+$ligand_index=$ARGV[3];
+chomp($ligand_index);
+#$ligand_index=$PROJECT.$ligand_index;
+print $ligand_index."\n";
+
+$ligand_dir=$ARGV[4];
+chomp($ligand_dir);
+#$ligand_dir=$PROJECT.$ligand_dir;
+print $ligand_dir."\n";
+
+# opens the ligand file index
+open (LIGAND_FILE,$ligand_index) or die ("Error trying to open the ligand file.\n");
+# Skipping all receptors yet processed for this ligand
+
+
+#Set Variables
+#Project Directory
+$rsc_fpops_est = ($ga * 1955928030229 * 0.1);
+$rsc_fpops_bound = ($rsc_fpops_est * 1000);
+$delay_bound = ($rsc_fpops_est * 5);
+$weight = $ga * 0.10;
+$tmp=$PROJECT."tmp_vps";
+
+#sleep(10);
+
+# Sets the ligand file index of ligands we have
+#$ligand_file_name="/home/boincadm/projects/DrugDiscovery/bin/concord_index.txt";
+
+# opens the ligand file index
+open (LIGAND_FILE,$ligand_index) or die ("Error trying to open the ligand file.\n");
+# Skipping all receptors yet processed for this ligand
+
+# Reads the substring of the job file takes off the last 4 characters
+#$job=substr($job_file, 0, length($job_file)-4);
+
+# prints the output so we can debug
+$old_ligand="";
+
+# go through the list of ligands from that ligand index
+ do {$new_ligand = <LIGAND_FILE>; 
+	chomp ($new_ligand);
+print $new_ligand."\n";
+$df=`df | head -n 3 | tail -n 1 | awk \'{ print substr( \$0, length(\$0) - 4, 2 ) }\'`;
+chomp($df);
+$df=$df-1;
+print $df."% full\n";
+if ($df >80) {
+print "over 80% full \n";
+sleep(3600);
+}
+
+  my $range = 1000000;
+  my $seed_1 = int(rand($range));
+  print $seed_1 . "\n";
+  my $seed_2 = int(rand($range));
+  print $seed_2 . "\n";
+  my $seed_3 = int(rand($range));
+  print $seed_3 . "\n";
+  my $seed_4 = int(rand($range));
+  print $seed_4 . "\n";
+  my $seed_5 = int(rand($range));
+  print $seed_5 . "\n";
+  my $seed_6 = int(rand($range));
+  print $seed_6 . "\n";
+  my $seed_7 = int(rand($range));
+  print $seed_7 . "\n";
+  my $seed_8 = int(rand($range));
+  print $seed_8 . "\n";
+  my $seed_9 = int(rand($range));
+  print $seed_9 . "\n";
+  my $seed_10 = int(rand($range));
+  print $seed_10 . "\n";
+
+
+$job="<job_desc>
+    <task>
+        <application>unzip</application>
+        <command_line> -qq -o \"\*.zip\" -d \".\"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>make_sitecustomize.py \".\"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/Support/sitecustomize.py\"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>grompp.exe</application>
+        <command_line>-f em.mdp -c ligand_GMX.gro -p ligand_GMX.top</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>mdrun.exe</application>
+        <command_line>-v -s topol.tpr -c ligand.pdb</command_line>
+        <weight>1</weight>
+        <fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py\" -l ligand.pdb -o ligand.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py\" -U nphs_lps_waters -r receptor.pdb -o receptor.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_gpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p custom_parameter_file=1 -p parameter_file=AD4_parameters.dat</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_1."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autogrid</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p receptor.gpf -l out.glg </command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_1.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_2."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_2.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_3."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_3.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_4."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_4.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_5."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_5.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_6."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_6.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_7."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_7.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_8."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_8.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_9."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_9.dlg</command_line>
+        <weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py\" -v</command_line>
+        <weight>1</weight>
+    </task>
+    <task>        
+	<application>./Python25/python.exe</application>        
+	<stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>        
+	<command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py\" -f ligand_BC.pdbqt -o minenergy.pdb</command_line>
+        <weight>1</weight>
+    </task>    
+    <task>
+        <application>./Python25/python.exe</application>        
+	<stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>        
+	<command_line>\"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py\" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=".$ga_step." -p ga_num_evals=".$ga_num_evals." -p seed=".$seed_10."</command_line>        
+	<weight>1</weight>
+    </task>    
+    <task>
+        <application>autodock</application>        
+	<stdout_filename>stdout</stdout_filename>        
+	<stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out_10.dlg</command_line>        
+	<weight>".$weight."</weight>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> a out.7z *.dlg out.glg receptor.gpf ligand_receptor.dpf job.xml ligand.pdb</command_line>
+        <weight>1</weight>
+    </task>
+</job_desc>";
+
+
+#change to new directory
+        chdir($PROJECT);
+
+$ARG="rm -rf ".$PROJECT."tmp_vps/*";
+print $ARG ."\n";
+system($ARG);
+
+# error check to make sure the ligand file has data
+if (length($new_ligand) > 1) {
+
+#print $job ."\n";
+$ligand=substr($new_ligand,0,length($new_ligand)-3);
+print $new_ligand."\n";
+
+$ARG="rm ".$PROJECT."job.xml";
+print $ARG."\n";
+system($ARG);
+
+        open (MYFILE, ">>".$PROJECT."/job.xml");
+        print MYFILE $job."\n";
+        close (MYFILE);
+
+$ARG="cp ".$PROJECT.$target." ".$PROJECT."tmp_vps/receptor.pdb";
+print $ARG."\n";
+system($ARG);
+
+$ARG="cp ".$PROJECT.$target_psf." ".$PROJECT."tmp_vps/receptor.psf";
+print $ARG."\n";
+system($ARG);
+
+$ARG="7za e -o".$PROJECT."tmp_vps ".$ligand_dir."/".$new_ligand;
+print $ARG."\n";
+system($ARG);
+
+chdir($tmp);
+
+$ARG="/usr/local/bin/babel -imol2 ligand.mol2 -opdb ligand.pdb";
+print $ARG . "\n";
+system($ARG);
+
+#Acpypi preps the Ligand file for GROMACS
+$ARG="/usr/local/bin/acpypi -d -n 0 -i ligand.mol2 -s 120";
+print $ARG . "\n";
+system($ARG);
+
+chdir($tmp."/ligand.acpypi");
+
+$ARG="cp ".$PROJECT."bin/em_b4ad.mdp em.mdp";
+print $ARG . "\n";
+system($ARG);
+
+$ARG="zip ligand.acpypi.zip *";
+print $ARG . "\n";
+system($ARG);
+
+chdir($tmp);
+
+$ARG="psfgen < ".$PROJECT."bin/psfgen.in";
+print $ARG."\n";
+system($ARG);
+
+# create a time stamp
+$time=`date '+%s%N'`;
+chomp ($time);	
+
+chdir($PROJECT);
+
+# copy the ligand file from our ligand directory and place in download. Note simply copy and paste wont work
+# BOINC requires you place input in a special directory that is specified by dir_hier_path
+$ARG="cp ".$ligand_dir."/".$new_ligand." \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path  asgn_".$ligand."_".$time.".7z\`";
+print $ARG ."\n";
+
+# Use system because other methods of running system commands will not wait until termination.
+# For example if you run backtick with these copies, files will not be in the download directory when expected
+system($ARG);
+
+# Copy the job file
+$ARG="cp ".$PROJECT."job.xml \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_job_".$ga."_".$time.".txt\`";
+print $ARG ."\n";
+system($ARG);
+
+# copy the protein!
+$ARG="cp ".$PROJECT.$target." \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_fzd8min_renum_SS.pdb_".$time.".txt\`";
+print $ARG ."\n";
+system($ARG);
+
+$ARG="mv ".$PROJECT."tmp_vps/receptor.psf  \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_receptor.psf_".$time.".txt\`";
+print $ARG ."\n";
+system($ARG);
+
+$ARG="mv ".$PROJECT."tmp_vps/ligand.psf \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_ligand.psf_".$time.".txt\`";
+print $ARG ."\n";
+system($ARG);
+
+$ARG="mv ".$PROJECT."tmp_vps/ligand.pdb \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_ligand.pdb_".$time.".txt\`";
+print $ARG ."\n";
+system($ARG);
+
+$ARG="cp ".$PROJECT."tmp_vps/ligand.acpypi/ligand.acpypi.zip \`/home/boincadm/projects/DrugDiscovery/bin/dir_hier_path asgn_ligand.acpypi_".$time.".zip\`";
+print $ARG ."\n";
+system($ARG);
+
+# Now we create the workunit!!!! we give it a name specific to the job file_ligand_timestamp
+$ARG=$PROJECT."bin/create_work -appname autodock_mgl_beta -wu_name asgn_autodock_ga_run_".$ga."_bt_".$bt."_lig_".$ligand."_ts_".$time." -wu_template /home/boincadm/projects/DrugDiscovery/templates/asgn_ad_wu_mgl -result_template ../templates/ad_mgl_result --rsc_fpops_est ".$rsc_fpops_est." --rsc_fpops_bound ".$rsc_fpops_bound." --delay_bound ".$delay_bound."  --assign_team_all 557 asgn_".$ligand."_".$time.".7z asgn_fzd8min_renum_SS.pdb_".$time.".txt asgn_job_".$ga."_".$time.".txt asgn_receptor.psf_".$time.".txt asgn_ligand.psf_".$time.".txt asgn_ligand.pdb_".$time.".txt asgn_ligand.acpypi_".$time.".zip";
+print $ARG ."\n";
+system($ARG);
+
+sleep(10);
+$job="";
+
+$ARG="rm ".$PROJECT."tmp_vps/*";
+print $ARG ."\n";
+system($ARG);
+
+# summary_job4.txt";
+# pal_wnt_bind.txt";
+
+	#print $ARG3 . "\n";
+
+	# runs the create project script
+	#system($ARG3) == 0
+        #or die "system @ARG3 failed: $?";
+	#sleep(10);
+}
+
+    } while ($ligand ne $old_ligand);
+
+close (LIGAND_FILE);
+
+chdir($orig_dir);
+

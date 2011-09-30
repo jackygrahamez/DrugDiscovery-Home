@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4273</id>
+    <cpid>59bfa2841c57f98baf6a5c028c4cd7ad</cpid>
+    <create_time>1299229411</create_time>
+    <name>Rvg2151</name>
+    <country>United States</country>
+    <total_credit>33.666753</total_credit>
+    <expavg_credit>0.058097</expavg_credit>
+    <expavg_time>1311538503.15016</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7964</id>
+        <create_time>1299258600</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>3e5d6f19b43d5235ffebb2497e8567db</host_cpid>
+        <total_credit>33.666753</total_credit>
+        <expavg_credit>0.058097</expavg_credit>
+        <expavg_time>1311538503.42581</expavg_time>
+        <domain_name>Robin-Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2260753564.8623</p_fpops>
+        <p_iops>4604764351.07031</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Editon, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8048</id>
+        <create_time>1299731433</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>981c77cc846aa60fe4afa6d05a2b97be</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299731433</expavg_time>
+        <domain_name>1607397-LAPTOP</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [x86 Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>2093263967.96471</p_fpops>
+        <p_iops>3931243189.01919</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8187</id>
+        <create_time>1300985750</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>bf862f539013e4a794be85551da0bdad</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300985750</expavg_time>
+        <domain_name>Carol-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3159268866.83113</p_fpops>
+        <p_iops>8355876597.62659</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tables>
+    <update_time>1315852505</update_time>
+    <nusers_total>1822</nusers_total>
+    <nteams_total>294</nteams_total>
+    <nhosts_total>5578</nhosts_total>
+    <total_credit>22460809.997276</total_credit>
+    <applications>
+        <application>
+            <name>autodock with mgltools scripts</name>
+        </application>
+        <application>
+            <name>mdrun</name>
+        </application>
+        <application>
+            <name>mdrun with cuda</name>
+        </application>
+        <application>
+            <name>upperCASE</name>
+        </application>
+        <application>
+            <name>autodock with mgl beta test</name>
+        </application>
+        <application>
+            <name>mdrun beta test</name>
+        </application>
+        <application>
+            <name>osra</name>
+        </application>
+        <application>
+            <name>Mdrun ATI OPENCL</name>
+        </application>
+        <application>
+            <name>MDRUN CUDA OPENCL</name>
+        </application>
+    </applications>
+</tables>

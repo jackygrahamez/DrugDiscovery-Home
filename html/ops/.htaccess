@@ -1,0 +1,4 @@
+AuthUserFile /home/boincadm/projects/DrugDiscovery/html/ops/.htpasswd
+AuthName "Project Ops"
+AuthType Basic
+Require valid-user

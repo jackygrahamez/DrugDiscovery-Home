@@ -1,0 +1,47 @@
+<html>
+<body>
+<h1>W3Schools Internal Note</h1>
+
+<script type="text/javascript">
+
+Array.prototype.min = function() {
+var min = this[0];
+var len = this.length;
+for (var i = 1; i < len; i++) if (this[i] < min) min = this[i];
+return min;
+}
+
+
+dest = "<IATA>MBJ</IATA><LAT>18.5</LAT><LON>-77.916667</LON>";
+destLat = 18.5;
+destLon = -77.916667;
+
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","airports2.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML;
+i = 0;
+
+/*
+for each node in xmlDoc {
+var glatlng1 = new GLatLng(xmlDoc.getElementsByTagName("LAT")[i].childNodes[0].nodeValue, document.getElementById("LAT").innerHTML=xmlDoc.getElementsByTagName("LAT")[i].childNodes[0].nodeValue);
+var glatlng2 = new GLatLng(18.5, -77.916667);
+var miledistance=new Array();
+miledistance[i] = glatlng1.distanceFrom(glatlng2, 3959).toFixed(1);
+i = i + 1;
+}
+*/
+    document.getElementById("myDiv").innerHTML=xmlDoc.getElementsByTagName("LAT")[i].childNodes[0].nodeValue;
+
+</script>
+<div id="myDiv"><h2>Let AJAX change this text</h2></div>
+
+</body>
+</html>

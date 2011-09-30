@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1073</id>
+    <cpid>5887ae37e089cc19d5d85d9b53771c9b</cpid>
+    <create_time>1258325530</create_time>
+    <name>M.Kawaguchi</name>
+    <country>Japan</country>
+    <total_credit>392.556638660472</total_credit>
+    <expavg_credit>0.070118</expavg_credit>
+    <expavg_time>1300386897.21141</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>1323</id>
+        <create_time>1258335234</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d82cab10f179531571a2841e2717c76d</host_cpid>
+        <total_credit>260.784403</total_credit>
+        <expavg_credit>0.047012</expavg_credit>
+        <expavg_time>1290344475.91206</expavg_time>
+        <domain_name>NCCH-DL</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.20GHz [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1528277357.19155</p_fpops>
+        <p_iops>2984032275.32209</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1320</id>
+        <create_time>1258326640</create_time>
+        <rpc_seqno>751</rpc_seqno>
+        <host_cpid>1af07aebd5ca74425afae394ca77b234</host_cpid>
+        <total_credit>124.064651660472</total_credit>
+        <expavg_credit>0.059108</expavg_credit>
+        <expavg_time>1285894025.25839</expavg_time>
+        <domain_name>MPH22013</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           U1300  @ 1.06GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>924187725.631769</p_fpops>
+        <p_iops>1919710080.95896</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>7657</id>
+        <create_time>1297157319</create_time>
+        <rpc_seqno>182</rpc_seqno>
+        <host_cpid>bf2bb7cf3c56673877944e4c4602023a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297157319</expavg_time>
+        <domain_name>MPH22013</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           U1300  @ 1.06GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>944082332.761578</p_fpops>
+        <p_iops>1891207694.68483</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>7731</id>
+        <create_time>1297678314</create_time>
+        <rpc_seqno>41</rpc_seqno>
+        <host_cpid>97eb3b96a963d9b688b3d797fe6787cc</host_cpid>
+        <total_credit>7.707584</total_credit>
+        <expavg_credit>0.086701</expavg_credit>
+        <expavg_time>1301256304.0568</expavg_time>
+        <domain_name>NCCH-DL</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.20GHz [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1438242010.23882</p_fpops>
+        <p_iops>2701359925.47953</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

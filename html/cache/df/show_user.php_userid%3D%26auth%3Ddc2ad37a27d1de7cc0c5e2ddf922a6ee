@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2892</id>
+    <cpid>fefafd6e3af9d0efd5e5a5db401b012c</cpid>
+    <create_time>1288569232</create_time>
+    <name>mholmber</name>
+    <country>Finland</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1288569232</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6031</id>
+        <create_time>1288569831</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>7a98410defc9a449ada1f7442bb658c9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288569831</expavg_time>
+        <domain_name>localhost.localdomain</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2241340159.74509</p_fpops>
+        <p_iops>6336745020.17234</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35.10-74.fc14.i686.PAE</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7576</id>
+        <create_time>1296550949</create_time>
+        <rpc_seqno>2277</rpc_seqno>
+        <host_cpid>5ac5142f72b9b2fac1672d2914f23be6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296550949</expavg_time>
+        <domain_name>localhost.localdomain</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 540  @ 2.53GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2352393438.99223</p_fpops>
+        <p_iops>6885934031.45772</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.40.4-5.fc15.i686.PAE</os_version>
+        <venue></venue>
+    </host>
+</user>

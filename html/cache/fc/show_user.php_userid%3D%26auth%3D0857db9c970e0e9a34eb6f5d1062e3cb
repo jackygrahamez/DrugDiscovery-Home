@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>400</id>
+    <cpid>e48aa3ed5be209e65128bd00e92b613e</cpid>
+    <create_time>1240405964</create_time>
+    <name>Shann</name>
+    <country>France</country>
+    <total_credit>36688.56872176</total_credit>
+    <expavg_credit>0.071065</expavg_credit>
+    <expavg_time>1313352903.31759</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>4194</id>
+        <create_time>1276195121</create_time>
+        <rpc_seqno>702</rpc_seqno>
+        <host_cpid>9e6ee650db3e75e894b62aeb08edde30</host_cpid>
+        <total_credit>22376.847621943</total_credit>
+        <expavg_credit>0.074656</expavg_credit>
+        <expavg_time>1303675803.73977</expavg_time>
+        <domain_name>boinc</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2344793585.35183</p_fpops>
+        <p_iops>5083668946.5818</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5979</id>
+        <create_time>1288173207</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>0cba72ae31d7f727c0ccb93d0a2152cd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288173207</expavg_time>
+        <domain_name>AMATXI</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2080068628.24274</p_fpops>
+        <p_iops>4029242606.58166</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5949</id>
+        <create_time>1287913213</create_time>
+        <rpc_seqno>118</rpc_seqno>
+        <host_cpid>78dea58e8b79e6e8c23a5ca7e600402b</host_cpid>
+        <total_credit>4488.3134298144</total_credit>
+        <expavg_credit>0.057687</expavg_credit>
+        <expavg_time>1293913503.51291</expavg_time>
+        <domain_name>cassis</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4400+ [Family 15 Model 35 Stepping 2]</p_model>
+        <p_fpops>2256810923.39736</p_fpops>
+        <p_iops>3888127808.44653</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6051</id>
+        <create_time>1288717062</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>1a7d22d6b4c8f07b2518e28e3efac80c</host_cpid>
+        <total_credit>7.970831</total_credit>
+        <expavg_credit>0.053924</expavg_credit>
+        <expavg_time>1292099102.64155</expavg_time>
+        <domain_name>COLLINE</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm)   2600+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1797446808.51064</p_fpops>
+        <p_iops>2782158583.71027</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8210</id>
+        <create_time>1301087951</create_time>
+        <rpc_seqno>954</rpc_seqno>
+        <host_cpid>1125c9d65855e28b95a35440675b9a53</host_cpid>
+        <total_credit>39.436839</total_credit>
+        <expavg_credit>0.070732</expavg_credit>
+        <expavg_time>1313352903.64382</expavg_time>
+        <domain_name>BARBIBUL</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2226823147.81742</p_fpops>
+        <p_iops>6881383294.79339</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9586</id>
+        <create_time>1311612390</create_time>
+        <rpc_seqno>59</rpc_seqno>
+        <host_cpid>8748c9b7a14ac94313db9d7d340b5979</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311612390</expavg_time>
+        <domain_name>VMUBUNTU</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1690715586.3145</p_fpops>
+        <p_iops>5336545710.72036</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue>home</venue>
+    </host>
+</user>

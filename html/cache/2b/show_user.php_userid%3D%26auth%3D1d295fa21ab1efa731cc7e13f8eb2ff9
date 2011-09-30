@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2667</id>
+    <cpid>6dfbedd337b8cf24af3ae10e076f5b7d</cpid>
+    <create_time>1284534680</create_time>
+    <name>skiltz</name>
+    <country>France</country>
+    <total_credit>5.975595</total_credit>
+    <expavg_credit>0.035086</expavg_credit>
+    <expavg_time>1299249585.83429</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5440</id>
+        <create_time>1284535064</create_time>
+        <rpc_seqno>76</rpc_seqno>
+        <host_cpid>46b3e2d761d7cf40ca748758ec8cdcde</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284535064</expavg_time>
+        <domain_name>Mac-de-Julien.local</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2613571417.95992</p_fpops>
+        <p_iops>6468361321.17585</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5457</id>
+        <create_time>1284674845</create_time>
+        <rpc_seqno>2656</rpc_seqno>
+        <host_cpid>54ab2a5b7ac2ee78fe1d52fc4ad541a9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284674845</expavg_time>
+        <domain_name>PC-de-julien</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-62 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1946222117.51061</p_fpops>
+        <p_iops>3537438852.94978</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5768</id>
+        <create_time>1286580474</create_time>
+        <rpc_seqno>56</rpc_seqno>
+        <host_cpid>85c2a414fcb2d9b20afb40a86d113aa2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286580474</expavg_time>
+        <domain_name>julien-GL322AA-ABF-m8190-fr</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2200426032.52849</p_fpops>
+        <p_iops>12605769058.8638</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5818</id>
+        <create_time>1287015505</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>3c2b7873ef85516b42deb784f4100a56</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287015505</expavg_time>
+        <domain_name>domU-12-31-38-06-C2-44</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>710002311.216479</p_fpops>
+        <p_iops>2557641925.95536</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-virtual</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7947</id>
+        <create_time>1299179692</create_time>
+        <rpc_seqno>333</rpc_seqno>
+        <host_cpid>92c432d96f27ad33f8ba0866c2df0bc1</host_cpid>
+        <total_credit>5.975595</total_credit>
+        <expavg_credit>0.057019</expavg_credit>
+        <expavg_time>1301256303.87064</expavg_time>
+        <domain_name>PC-de-Julien</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2300389700.74331</p_fpops>
+        <p_iops>5018355817.56793</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

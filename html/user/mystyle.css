@@ -1,0 +1,48 @@
+/* Sortable tables */
+
+h1 {
+        color: #203C66;
+}
+
+body {
+        background: #fff url("img/gray_gradient.png") repeat-x;
+        color: black;
+}
+
+table.sortable thead {
+    background-color:#eee;
+    border-color: #e8e8e8;
+    color:#0000FF;
+    font-weight: bold;
+    cursor: default;
+}
+
+hr {
+        border-top: 2px solid #e8e8e8;
+}
+
+table.bordered {
+        border-color: #e8e8e8;
+}
+
+th {
+        background-color: #c0c0c0;
+}
+
+td.bordered {
+        border-color: gray;
+}
+
+td.indent {
+        border-color: #fff;
+}
+
+td.heading {
+        background-color: #d8d8d8;
+}
+
+td.fieldname {
+        background-color: #eee;
+}
+
+

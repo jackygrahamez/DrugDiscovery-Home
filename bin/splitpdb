@@ -1,0 +1,7 @@
+#!/bin/csh
+   set a=`grep END ${1} | wc -l`
+   set b=`expr $a - 2`
+   csplit -k -s -n 6 -f omega_ ${1} '/^END/+1' '{'$b'}'
+   foreach f ( omega_[0-9][0-9][0-9][0-9][0-9][0-9] )
+     mv $f $f.pdb
+   end

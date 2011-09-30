@@ -1,0 +1,130 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"4279";s:11:"create_time";s:10:"1299413863";s:10:"email_addr";s:25:"mario.dodier@videotron.ca";s:4:"name";s:18:"[AF>Quebec]MDodier";s:13:"authenticator";s:32:"0606994fe9dbf39765db3fbabd118365";s:7:"country";s:6:"Canada";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"426.727861";s:13:"expavg_credit";s:8:"0.097677";s:11:"expavg_time";s:16:"1311538503.22496";s:12:"global_prefs";s:6054:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1304501307</mod_time>
+    <run_on_batteries>1</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>1</run_gpu_if_user_active>
+    <idle_time_to_run>1</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <suspend_cpu_usage>0.0</suspend_cpu_usage>
+    <leave_apps_in_memory>1</leave_apps_in_memory>
+    <cpu_scheduling_period_minutes>180</cpu_scheduling_period_minutes>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_min_free_gb>0.0010</disk_min_free_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_interval>60.0</disk_interval>
+    <vm_max_used_pct>90.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>90.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>98.0</ram_max_used_idle_pct>
+    <work_buf_min_days>0.0</work_buf_min_days>
+    <work_buf_additional_days>5.0</work_buf_additional_days>
+    <confirm_before_connecting>0</confirm_before_connecting>
+    <hangup_if_dialed>0</hangup_if_dialed>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <dont_verify_images>0</dont_verify_images>
+    <end_hour>0</end_hour>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+    <venue name="home">
+        <run_on_batteries>1</run_on_batteries>
+        <run_if_user_active>1</run_if_user_active>
+        <run_gpu_if_user_active>0</run_gpu_if_user_active>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+        <suspend_cpu_usage>0</suspend_cpu_usage>
+        <leave_apps_in_memory>1</leave_apps_in_memory>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <max_cpus>0</max_cpus>
+        <max_ncpus_pct>100</max_ncpus_pct>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_max_used_gb>100</disk_max_used_gb>
+        <disk_min_free_gb>0.001</disk_min_free_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_interval>60</disk_interval>
+        <vm_max_used_pct>90</vm_max_used_pct>
+        <ram_max_used_busy_pct>75</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+        <work_buf_min_days>0</work_buf_min_days>
+        <work_buf_additional_days>5</work_buf_additional_days>
+        <confirm_before_connecting>0</confirm_before_connecting>
+        <hangup_if_dialed>0</hangup_if_dialed>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        <daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <dont_verify_images>0</dont_verify_images>
+    </venue>
+    <venue name="work">
+        <run_on_batteries>1</run_on_batteries>
+        <run_if_user_active>1</run_if_user_active>
+        <run_gpu_if_user_active>1</run_gpu_if_user_active>
+        <idle_time_to_run>1</idle_time_to_run>
+        <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+        <suspend_cpu_usage>0</suspend_cpu_usage>
+        <leave_apps_in_memory>1</leave_apps_in_memory>
+        <cpu_scheduling_period_minutes>180</cpu_scheduling_period_minutes>
+        <max_cpus>0</max_cpus>
+        <max_ncpus_pct>100</max_ncpus_pct>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_max_used_gb>100</disk_max_used_gb>
+        <disk_min_free_gb>0.001</disk_min_free_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_interval>60</disk_interval>
+        <vm_max_used_pct>75</vm_max_used_pct>
+        <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+        <work_buf_min_days>0</work_buf_min_days>
+        <work_buf_additional_days>5</work_buf_additional_days>
+        <confirm_before_connecting>0</confirm_before_connecting>
+        <hangup_if_dialed>0</hangup_if_dialed>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        <daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <dont_verify_images>0</dont_verify_images>
+    </venue>
+    <venue name="school">
+        <run_on_batteries>1</run_on_batteries>
+        <run_if_user_active>1</run_if_user_active>
+        <run_gpu_if_user_active>1</run_gpu_if_user_active>
+        <idle_time_to_run>1</idle_time_to_run>
+        <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+        <suspend_cpu_usage>0</suspend_cpu_usage>
+        <leave_apps_in_memory>0</leave_apps_in_memory>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <max_cpus>0</max_cpus>
+        <max_ncpus_pct>100</max_ncpus_pct>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_max_used_gb>100</disk_max_used_gb>
+        <disk_min_free_gb>0.001</disk_min_free_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_interval>60</disk_interval>
+        <vm_max_used_pct>90</vm_max_used_pct>
+        <ram_max_used_busy_pct>75</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+        <work_buf_min_days>0</work_buf_min_days>
+        <work_buf_additional_days>5</work_buf_additional_days>
+        <confirm_before_connecting>0</confirm_before_connecting>
+        <hangup_if_dialed>0</hangup_if_dialed>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        <daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <dont_verify_images>0</dont_verify_images>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:157:"<project_preferences>
+<resource_share>1</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"7";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"4fa575417b6f1084b1f01b6e9d76be55";s:11:"passwd_hash";s:32:"2b2fcbcfbce6da8346f192aa00785dcd";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"7";s:11:"create_time";s:10:"1240319426";s:6:"userid";s:2:"18";s:4:"name";s:22:"L'Alliance Francophone";s:7:"name_lc";s:22:"l'alliance francophone";s:3:"url";s:16:"www.boinc-af.org";s:4:"type";s:1:"1";s:9:"name_html";s:48:"<img src="http://www.boinc-af.org/afbanner.png">";s:11:"description";s:46:"<img src="http://www.boinc-af.org/afpres.png">";s:6:"nusers";s:3:"112";s:7:"country";s:13:"International";s:12:"total_credit";s:15:"2419673.6391447";s:13:"expavg_credit";s:10:"177.676412";s:11:"expavg_time";s:16:"1317133770.69575";s:7:"seti_id";s:3:"149";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

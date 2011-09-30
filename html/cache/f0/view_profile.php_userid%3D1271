@@ -1,0 +1,30 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1271";s:11:"create_time";s:10:"1265419439";s:10:"email_addr";s:20:"hanmailz@hanmail.net";s:4:"name";s:7:"amazing";s:13:"authenticator";s:32:"56d5f1f3aa06cfa92917d6fbd6a20790";s:7:"country";s:12:"Korea, South";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"12041.577925587";s:13:"expavg_credit";s:8:"0.856739";s:11:"expavg_time";s:16:"1316998502.43108";s:12:"global_prefs";s:1215:"<global_preferences>
+    <source_project>http://qcn.stanford.edu/continual/</source_project>
+    <source_scheduler>http://qcn.stanford.edu/continual_cgi/cgi</source_scheduler>
+<mod_time>1306375819</mod_time>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<suspend_while_on_batteries>0</suspend_while_on_batteries>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>1</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"763";s:5:"venue";s:0:"";s:3:"url";s:21:"blog.daum.net/alnitak";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"59b8af0c495bdafe858ba7535646a94c";s:11:"passwd_hash";s:32:"723a105e3e9db6095064f21f789c6e3b";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"763";s:11:"create_time";s:10:"1265744150";s:6:"userid";s:4:"1306";s:4:"name";s:13:"SETIKAH@KOREA";s:7:"name_lc";s:13:"setikah@korea";s:3:"url";s:13:"setikah.wo.tc";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:183:"<img src='http://dreamchasers.zc.bz/setikah/setikahlogo2.jpg'><br>BOINC + SETI + KOREA + FOLDING + @HOME 
+<br><b>[ SETIKAH@KOREA ]</b>
+<br>International | Dynamic Team | South Korea";s:6:"nusers";s:1:"9";s:7:"country";s:12:"Korea, South";s:12:"total_credit";s:15:"21291.398063587";s:13:"expavg_credit";s:8:"5.753382";s:11:"expavg_time";s:16:"1317119167.30014";s:7:"seti_id";s:4:"1393";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1355</id>
+    <cpid>328b85334489de554a0869966b553fba</cpid>
+    <create_time>1266214947</create_time>
+    <name>Joey Lau</name>
+    <country>Australia</country>
+    <total_credit>192.102314</total_credit>
+    <expavg_credit>0.052055</expavg_credit>
+    <expavg_time>1300651503.07402</expavg_time>
+    <teamid>775</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2311</id>
+        <create_time>1266214971</create_time>
+        <rpc_seqno>120</rpc_seqno>
+        <host_cpid>6c5248a5e4c085cd663033bde6131a72</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266214971</expavg_time>
+        <domain_name>JoeyLau-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5450  @ 1.66GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>904079258.702671</p_fpops>
+        <p_iops>1858859051.39229</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2398</id>
+        <create_time>1266419294</create_time>
+        <rpc_seqno>585</rpc_seqno>
+        <host_cpid>02975f1c80277991bf8e08857b7d8141</host_cpid>
+        <total_credit>192.102314</total_credit>
+        <expavg_credit>0.052055</expavg_credit>
+        <expavg_time>1300651503.40736</expavg_time>
+        <domain_name>eCosway</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5450  @ 1.66GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>897223196.645658</p_fpops>
+        <p_iops>1826064285.41465</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5339</id>
+        <create_time>1283872174</create_time>
+        <rpc_seqno>151</rpc_seqno>
+        <host_cpid>1b61b9ef930391c07c76695026a152f4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283872174</expavg_time>
+        <domain_name>JoeyLau-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 450  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2346075109.55894</p_fpops>
+        <p_iops>4313673757.62182</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

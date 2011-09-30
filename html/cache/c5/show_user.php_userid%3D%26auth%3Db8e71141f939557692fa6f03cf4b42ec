@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2782</id>
+    <cpid>27a481f612fe2a0a05ea4fd671ce3109</cpid>
+    <create_time>1286150132</create_time>
+    <name>blomvangur</name>
+    <country>United States</country>
+    <total_credit>62.411927</total_credit>
+    <expavg_credit>0.053262</expavg_credit>
+    <expavg_time>1301256302.77617</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5736</id>
+        <create_time>1286334148</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>048472e00c1514931a3a32bf735cacd8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286334148</expavg_time>
+        <domain_name>mao</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2813051835.41435</p_fpops>
+        <p_iops>5084075874.488</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7293</id>
+        <create_time>1294741204</create_time>
+        <rpc_seqno>169</rpc_seqno>
+        <host_cpid>00dd50adab1fa51e48c6bab494d280e2</host_cpid>
+        <total_credit>38.980954</total_credit>
+        <expavg_credit>0.088091</expavg_credit>
+        <expavg_time>1300651503.47503</expavg_time>
+        <domain_name>chavez</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 640 Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2307791833.09356</p_fpops>
+        <p_iops>14207282344.684</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7337</id>
+        <create_time>1295053526</create_time>
+        <rpc_seqno>151</rpc_seqno>
+        <host_cpid>68c7ad91e8c48c5e1aa4591c06f50337</host_cpid>
+        <total_credit>23.430973</total_credit>
+        <expavg_credit>0.07567</expavg_credit>
+        <expavg_time>1299441904.89179</expavg_time>
+        <domain_name>EngOptics</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3200+ [Family 15 Model 47 Stepping 2]</p_model>
+        <p_fpops>2011428571.42857</p_fpops>
+        <p_iops>3472706662.09835</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

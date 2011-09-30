@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1553</id>
+    <cpid>926a59dfc32e876613d06bd20464d431</cpid>
+    <create_time>1268087648</create_time>
+    <name>mike5349</name>
+    <country>United States</country>
+    <total_credit>3441.226762</total_credit>
+    <expavg_credit>0.921358</expavg_credit>
+    <expavg_time>1315645854.30727</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2946</id>
+        <create_time>1268276625</create_time>
+        <rpc_seqno>1507</rpc_seqno>
+        <host_cpid>d616884ec2a0c3652fb8051b33f75855</host_cpid>
+        <total_credit>1486.035923</total_credit>
+        <expavg_credit>0.099357</expavg_credit>
+        <expavg_time>1290889503.27408</expavg_time>
+        <domain_name>Mike-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5250  @ 1.50GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1380084979.87504</p_fpops>
+        <p_iops>4111441382.53727</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2940</id>
+        <create_time>1268258203</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>705ff87da69631bb9c109b6e32da7823</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1268258203</expavg_time>
+        <domain_name>mike-lp2cv2bo2e</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.66GHz [x86 Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1420878835.66242</p_fpops>
+        <p_iops>2562477227.08365</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3636</id>
+        <create_time>1272393594</create_time>
+        <rpc_seqno>28</rpc_seqno>
+        <host_cpid>3f1efff051da2f85a4832d4cb63015c4</host_cpid>
+        <total_credit>13.17339</total_credit>
+        <expavg_credit>0.075661</expavg_credit>
+        <expavg_time>1299441904.89165</expavg_time>
+        <domain_name>Nancy-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2361025150.00437</p_fpops>
+        <p_iops>5391192867.23596</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5139</id>
+        <create_time>1282524481</create_time>
+        <rpc_seqno>1433</rpc_seqno>
+        <host_cpid>dbfca0f3192a1b6c34b0e577ae8a3927</host_cpid>
+        <total_credit>1942.017449</total_credit>
+        <expavg_credit>0.921359</expavg_credit>
+        <expavg_time>1315645854.30745</expavg_time>
+        <domain_name>Mike-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 720  @ 1.60GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1580296137.70282</p_fpops>
+        <p_iops>6948964171.64062</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

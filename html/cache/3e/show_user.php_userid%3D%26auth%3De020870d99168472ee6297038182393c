@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2020</id>
+    <cpid>748b7eee923ad824473954f16e854802</cpid>
+    <create_time>1273938704</create_time>
+    <name>Greg_FR</name>
+    <country>France</country>
+    <total_credit>1484.7181260134</total_credit>
+    <expavg_credit>3.8068043946447e-07</expavg_credit>
+    <expavg_time>1314641971</expavg_time>
+    <teamid>0</teamid>
+    <url>www.boinc-af.org/</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>4859</id>
+        <create_time>1280612391</create_time>
+        <rpc_seqno>4759</rpc_seqno>
+        <host_cpid>e9f87ae80b96883f9671a0a7da56f00a</host_cpid>
+        <total_credit>1484.7181260134</total_credit>
+        <expavg_credit>3.8068045147388e-07</expavg_credit>
+        <expavg_time>1314641971</expavg_time>
+        <domain_name>Greg_64-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2214101606.34705</p_fpops>
+        <p_iops>6343328230.80924</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

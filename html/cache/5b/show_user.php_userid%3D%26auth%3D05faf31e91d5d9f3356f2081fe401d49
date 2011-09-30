@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2632</id>
+    <cpid>97fc41603df567fcd3b25059418adbc8</cpid>
+    <create_time>1284032129</create_time>
+    <name>retied</name>
+    <country>Germany</country>
+    <total_credit>7.015423</total_credit>
+    <expavg_credit>0.021637</expavg_credit>
+    <expavg_time>1312045486.90964</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5365</id>
+        <create_time>1284032344</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>c0467bf23fbad433326141887c422e28</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284032344</expavg_time>
+        <domain_name>Margots-Cube.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerMac5,1] [AltiVec]</p_model>
+        <p_fpops>424272228.48988</p_fpops>
+        <p_iops>929836762.558116</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5366</id>
+        <create_time>1284032544</create_time>
+        <rpc_seqno>2661</rpc_seqno>
+        <host_cpid>b6f3a432aadd617ce08ba6a71f15c441</host_cpid>
+        <total_credit>7.015423</total_credit>
+        <expavg_credit>0.021638</expavg_credit>
+        <expavg_time>1312045486.95282</expavg_time>
+        <domain_name>Margots-Macbook.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7550 @ 2.26GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2682367352.85362</p_fpops>
+        <p_iops>5502434721.61226</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue></venue>
+    </host>
+</user>

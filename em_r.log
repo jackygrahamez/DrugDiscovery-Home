@@ -1,0 +1,66 @@
+Log file opened on Sun Jan 10 21:29:00 2010
+Host: vps  pid: 24179  nodeid: 0  nnodes:  1
+The Gromacs distribution was built Sun Dec  6 20:47:36 GMT 2009 by
+root@vps (Linux 2.6.18-164.6.1.el5 x86_64)
+
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+               Giant Rising Ordinary Mutants for A Clerical Setup
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  mdrun  (-:
+
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+B. Hess and C. Kutzner and D. van der Spoel and E. Lindahl
+GROMACS 4: Algorithms for highly efficient, load-balanced, and scalable
+molecular simulation
+J. Chem. Theory Comput. 4 (2008) pp. 435-447
+-------- -------- --- Thank You --- -------- --------
+
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+D. van der Spoel, E. Lindahl, B. Hess, G. Groenhof, A. E. Mark and H. J. C.
+Berendsen
+GROMACS: Fast, Flexible and Free
+J. Comp. Chem. 26 (2005) pp. 1701-1719
+-------- -------- --- Thank You --- -------- --------
+
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+E. Lindahl and B. Hess and D. van der Spoel
+GROMACS 3.0: A package for molecular simulation and trajectory analysis
+J. Mol. Mod. 7 (2001) pp. 306-317
+-------- -------- --- Thank You --- -------- --------
+
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+H. J. C. Berendsen, D. van der Spoel and R. van Drunen
+GROMACS: A message-passing parallel molecular dynamics implementation
+Comp. Phys. Comm. 91 (1995) pp. 43-56
+-------- -------- --- Thank You --- -------- --------
+
+
+-------------------------------------------------------
+Program mdrun, VERSION 4.0.5
+Source code file: gmxfio.c, line: 736
+
+Can not open file:
+em_r.tpr
+-------------------------------------------------------
+
+"It is Lunchtime" (A.R. Van Buuren)
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1027</id>
+    <cpid>81a341c7fb8f62f11c58d9fb9a97b4a4</cpid>
+    <create_time>1258141173</create_time>
+    <name>HAM-I4.11600</name>
+    <country>Italy</country>
+    <total_credit>3608.50628000001</total_credit>
+    <expavg_credit>0.057871</expavg_credit>
+    <expavg_time>1307909403.11093</expavg_time>
+    <teamid>683</teamid>
+    <url>meteomontecenere.xoomer.it</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1289</id>
+        <create_time>1258256116</create_time>
+        <rpc_seqno>2172</rpc_seqno>
+        <host_cpid>8397661a014d03359e9637381c8c63f1</host_cpid>
+        <total_credit>3599.10060900001</total_credit>
+        <expavg_credit>0.035025</expavg_credit>
+        <expavg_time>1304065572.53286</expavg_time>
+        <domain_name>b-g31m-gs</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2432001325.18733</p_fpops>
+        <p_iops>5010882656.06663</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8832</id>
+        <create_time>1305733551</create_time>
+        <rpc_seqno>100</rpc_seqno>
+        <host_cpid>31969a8ca1d1a2cd5ce5c6331a298fa8</host_cpid>
+        <total_credit>9.405671</total_credit>
+        <expavg_credit>0.057715</expavg_credit>
+        <expavg_time>1308514202.59141</expavg_time>
+        <domain_name>g31m-gs-b</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2417973199.56813</p_fpops>
+        <p_iops>5042671320.39486</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

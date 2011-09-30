@@ -1,0 +1,41 @@
+O:9:"BoincTeam":24:{s:2:"id";s:4:"1055";s:11:"create_time";s:10:"1289226789";s:6:"userid";s:4:"3017";s:4:"name";s:20:"Polish National Team";s:7:"name_lc";s:20:"polish national team";s:3:"url";s:8:"boinc.pl";s:4:"type";s:1:"9";s:9:"name_html";s:96:"<p align='center'><A href='http://boinc.pl'><IMG src='http://boinc.pl/flaga_polska.jpg'></a></p>";s:11:"description";s:697:"<p align='center'><A href='http://boinc.pl'><IMG src='http://boinc.pl/flaga_polska.jpg'></a></p><BR>
+
+<B>Polish National Team</b> - <B>Polska Drużyna Narodowa</B>, powstała w wyniku fuzji czołowych polskich zespołów BOINC. <BR>Propaguje obliczenia rozproszone jako nowoczesną formę wspierania nauki. <BR>Dołączając do drużyny masz szansę wpłynąć na rozwój wielu ciekawych projektów badawczych, które mogą zmienić losy świata... <BR><BR><BR>
+
+<b>Zapraszamy</B> na stronę internetową <a href=http://boinc.pl>boinc.pl</a>, która przybliża początkującym użytkownikom rozmaite kwestie związane z obliczeniami rozproszonymi oraz prezentuje różnorodne projekty naukowe.";s:6:"nusers";s:1:"6";s:7:"country";s:6:"Poland";s:12:"total_credit";s:11:"3383.394232";s:13:"expavg_credit";s:7:"0.07714";s:11:"expavg_time";s:16:"1307304603.41963";s:7:"seti_id";s:4:"1683";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"1";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"3017";s:11:"create_time";s:10:"1289226707";s:10:"email_addr";s:29:"polishnationalteam@interia.pl";s:4:"name";s:3:"PNT";s:13:"authenticator";s:32:"9cb626a53a2578ba15eb41cb49c30b43";s:7:"country";s:6:"Poland";s:11:"postal_code";s:6:"20-067";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1289226707";s:12:"global_prefs";s:1373:"<global_preferences>
+<source_project>http://gerasim.boinc.ru/</source_project>
+<source_scheduler>http://gerasim.boinc.ru/sched</source_scheduler>
+<mod_time>1306823408</mod_time>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>3</work_buf_additional_days>
+<max_cpus>64</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>600</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>2</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<run_if_user_active/>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<run_on_batteries/>
+<confirm_before_connecting/>
+<hangup_if_dialed/>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:4:"1055";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"69666b289161562f2e8826297b4eea84";s:11:"passwd_hash";s:32:"5e68dc9645c48004d18b6546a0e4ab64";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

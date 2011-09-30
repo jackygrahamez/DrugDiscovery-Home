@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3318</id>
+    <cpid>82ff514a15c066d5381a057b67754196</cpid>
+    <create_time>1289982646</create_time>
+    <name>[AF&gt;Le_Pommier&gt;Macbidouille.com] Fransoi78</name>
+    <country>France</country>
+    <total_credit>13.941894</total_credit>
+    <expavg_credit>0.093031</expavg_credit>
+    <expavg_time>1298232302.70714</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7505</id>
+        <create_time>1295990213</create_time>
+        <rpc_seqno>73</rpc_seqno>
+        <host_cpid>e3aa4849a435de4ed612e11dbcf0f222</host_cpid>
+        <total_credit>13.941894</total_credit>
+        <expavg_credit>0.071561</expavg_credit>
+        <expavg_time>1298837104.03583</expavg_time>
+        <domain_name>xpsp2-d7b11f7ea</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W3540  @ 2.93GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3256503435.91718</p_fpops>
+        <p_iops>7072671294.57423</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6369</id>
+        <create_time>1289983604</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>162d1a6ea3dfe15e61f8b0d437cd95fe</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289983604</expavg_time>
+        <domain_name>PC-Blc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [Family 15 Model 35 Stepping 2]</p_model>
+        <p_fpops>2220820189.27445</p_fpops>
+        <p_iops>4021217414.26591</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, (06.00.6000.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

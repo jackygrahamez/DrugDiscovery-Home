@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4565</id>
+    <cpid>a4137a0a2ec786cd6b994a6fad02fb54</cpid>
+    <create_time>1305713893</create_time>
+    <name>GreenServerFlavius1A</name>
+    <country>Romania</country>
+    <total_credit>45.337551</total_credit>
+    <expavg_credit>0.0968</expavg_credit>
+    <expavg_time>1313957702.63122</expavg_time>
+    <teamid>0</teamid>
+    <url>www.greenserver.ro</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8834</id>
+        <create_time>1305738761</create_time>
+        <rpc_seqno>176</rpc_seqno>
+        <host_cpid>87f32796f6734c3e5e8906f76ade5f9f</host_cpid>
+        <total_credit>15.982903</total_credit>
+        <expavg_credit>0.063424</expavg_credit>
+        <expavg_time>1312143302.7354</expavg_time>
+        <domain_name>MaguaySRV</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X3440  @ 2.53GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2420471230.80514</p_fpops>
+        <p_iops>6014198487.10775</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8841</id>
+        <create_time>1305795197</create_time>
+        <rpc_seqno>187</rpc_seqno>
+        <host_cpid>a59503f4980e398465ade77cf41212df</host_cpid>
+        <total_credit>29.354648</total_credit>
+        <expavg_credit>0.079976</expavg_credit>
+        <expavg_time>1313957702.97921</expavg_time>
+        <domain_name>CMSSDell</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E6300  @ 2.80GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2905236753.99904</p_fpops>
+        <p_iops>5973819009.67558</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8898</id>
+        <create_time>1306147111</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>57777a7cc5535e00b03fa9cbad55560d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306147111</expavg_time>
+        <domain_name>HPLaptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2400  @ 1.83GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1694239379.95211</p_fpops>
+        <p_iops>3496869664.20034</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9491</id>
+        <create_time>1310549972</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>6b58f9a2926b91296b25e6654e8cd06b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310549972</expavg_time>
+        <domain_name>flaviuspavel-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-58 [Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>1893813287.24308</p_fpops>
+        <p_iops>3415127184.56556</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

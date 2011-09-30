@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>530</id>
+    <cpid>2b97030f06ce705ea7007bf2fd97da17</cpid>
+    <create_time>1241102700</create_time>
+    <name>imaum</name>
+    <country>Japan</country>
+    <total_credit>23034.895320822</total_credit>
+    <expavg_credit>6.692188</expavg_credit>
+    <expavg_time>1315661516.28319</expavg_time>
+    <teamid>96</teamid>
+    <url>kishadan.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>131</id>
+        <create_time>1241102757</create_time>
+        <rpc_seqno>165</rpc_seqno>
+        <host_cpid>51e34cb15d210bfffa09fb86be095f09</host_cpid>
+        <total_credit>0.011855670752274</total_credit>
+        <expavg_credit>0.00089654124610192</expavg_credit>
+        <expavg_time>1258059435</expavg_time>
+        <domain_name>imaum-macbook.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1500 @ 2.00GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>790560140.19191</p_fpops>
+        <p_iops>2162708389.59051</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.1</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>132</id>
+        <create_time>1241102869</create_time>
+        <rpc_seqno>5227</rpc_seqno>
+        <host_cpid>f303e930baabfaba01ccf7e6b1435750</host_cpid>
+        <total_credit>14073.8168611419</total_credit>
+        <expavg_credit>0.052794</expavg_credit>
+        <expavg_time>1293913503.40062</expavg_time>
+        <domain_name>imaum-dell</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2323065353.47679</p_fpops>
+        <p_iops>5084674808.12872</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4938</id>
+        <create_time>1281158810</create_time>
+        <rpc_seqno>1535</rpc_seqno>
+        <host_cpid>491a2ecd4ec4e101402c0f093b8d6e41</host_cpid>
+        <total_credit>672.726192</total_credit>
+        <expavg_credit>0.097498</expavg_credit>
+        <expavg_time>1315851902.83149</expavg_time>
+        <domain_name>imaum-macbook.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2785525227.33964</p_fpops>
+        <p_iops>5820188940.42105</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6510</id>
+        <create_time>1290621901</create_time>
+        <rpc_seqno>1661</rpc_seqno>
+        <host_cpid>fe65f14da3d28942cdc68443f433c9e7</host_cpid>
+        <total_credit>584.700569</total_credit>
+        <expavg_credit>6.561691</expavg_credit>
+        <expavg_time>1315661516.28332</expavg_time>
+        <domain_name>imaum-pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2336083987.45579</p_fpops>
+        <p_iops>4931706634.96725</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

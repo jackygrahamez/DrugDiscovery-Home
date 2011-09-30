@@ -1,0 +1,45 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"1";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1159";s:11:"create_time";s:10:"1261684865";s:10:"email_addr";s:15:"pletsch@cox.net";s:4:"name";s:14:"Steven Pletsch";s:13:"authenticator";s:32:"920376f395e37fcfd048e10665ea50c6";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"85208";s:12:"total_credit";s:16:"124121.853449481";s:13:"expavg_credit";s:7:"0.08859";s:11:"expavg_time";s:16:"1300046703.25459";s:12:"global_prefs";s:1483:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1294782536</mod_time>
+    <leave_apps_in_memory>0</leave_apps_in_memory>
+    <suspend_while_on_batteries>0</suspend_while_on_batteries>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>1.0</work_buf_additional_days>
+    <max_cpus>16</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>15.0</disk_interval>
+    <disk_max_used_gb>1000.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.0010</disk_min_free_gb>
+    <vm_max_used_pct>75.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <end_hour>0</end_hour>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <suspend_cpu_usage>75.0</suspend_cpu_usage>
+</global_preferences>
+";s:13:"project_prefs";s:121:"<project_preferences>
+
+
+<resource_share>1000</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:2:"29";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"7a2c42a852727c2f0552182a84e991c3";s:11:"passwd_hash";s:32:"1e39f0b5069e7559280346d8d22dc73e";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"29";s:11:"create_time";s:10:"1240319486";s:6:"userid";s:2:"40";s:4:"name";s:10:"BOINCstats";s:7:"name_lc";s:10:"boincstats";s:3:"url";s:14:"boincstats.com";s:4:"type";s:1:"1";s:9:"name_html";s:110:"<a href='http://boincstats.com'><img src='http://www.boincstats.com/graphics/logo/BS-2007.png' border='0'></a>";s:11:"description";s:465:"BOINCstats provides great user, host, team and country stats for all BOINC projects.
+<br><br>
+Also try BAM!, the BOINC Account Manager.
+<br><br>
+Team members have access to the private SOFA forums on BOINCstats.com, filled with useful information.
+<br><br>
+Stats: <a href="http://boincstats.com">boincstats.com</a><br>
+Forum: <a href="http://boincstats.com/forum">boincstats.com/forum</a><br>
+BAM!: <a href="http://bam.boincstats.com">bam.boincstats.com</a>";s:6:"nusers";s:2:"73";s:7:"country";s:13:"International";s:12:"total_credit";s:16:"698665.757883349";s:13:"expavg_credit";s:9:"43.853578";s:11:"expavg_time";s:16:"1317161072.85959";s:7:"seti_id";s:3:"185";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

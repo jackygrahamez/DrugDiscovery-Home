@@ -1,0 +1,54 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:3:"852";s:11:"create_time";s:10:"1255711634";s:10:"email_addr";s:25:"bieboderbeste@t-online.de";s:4:"name";s:24:"[SG-2.Wave]bieboderbeste";s:13:"authenticator";s:32:"bc8d531ecd73eccd07144e67be5e7462";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"57080";s:12:"total_credit";s:15:"2301.7232774619";s:13:"expavg_credit";s:8:"0.087185";s:11:"expavg_time";s:16:"1281154203.32335";s:12:"global_prefs";s:1423:"<global_preferences>
+    <source_project>http://mersenneathome.net/</source_project>
+    <source_scheduler>http://mersenneathome.net/cgi/cgi</source_scheduler>
+<mod_time>1302430069</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>6000000</max_bytes_sec_down>
+<max_bytes_sec_up>1024000</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:196:"<project_preferences>
+<resource_share>50</resource_share>
+<no_cpu>1</no_cpu>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:18:"www.setigermany.de";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"7d0478cffb59d0a6c74bf3c46e52b42e";s:11:"passwd_hash";s:32:"0a1b9beafdda856af4f6af8a4c8f568a";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"6";s:11:"create_time";s:10:"1240319416";s:6:"userid";s:3:"537";s:4:"name";s:12:"SETI.Germany";s:7:"name_lc";s:12:"seti.germany";s:3:"url";s:19:"www.seti-germany.de";s:4:"type";s:1:"1";s:9:"name_html";s:124:"<a href='http://www.seti-germany.de/'><img src='http://www.seti-germany.de/sgwiki/images/a/a5/SG-Banner_official.png' /></a>";s:11:"description";s:1674:"SETI.Germany ist das groesste deutsche Team beim wissenschaftlichen Projekt SETI@home, der Suche nach ausserirdischer Intelligenz, durchgefuehrt an der Universitaet von Kalifornien, Berkeley. <br>
+<br>
+Neben Seti@home ist unser Team nun auch bei vielen anderen Projekten des Public Distributed Computing (Oeffentliches Verteiltes Rechnen) unter dem Namen SETI.Germany vertreten.
+Die Themen der Projekte reichen von Astrophysik und Molekularbiologie ueber Chemie, Mathematik, Medizin, Rendering, Verschluesselung bis zu angewandter Informatik. <br>
+<br>
+Auf unserer <a href="http://www.seti-germany.de/"> Webseite</a> bieten wir weiterfuehrende Informationen zu diesen Projekten u.a. in einem grossen <a href="http://www.seti-germany.de/forum"> Forensystem</a>. Das Angebot fuer unsere Mitglieder und Gaeste umfasst ausserdem eine grosse <a href="http://www.seti-germany.de/wiki"> Wiki</a>, wo die meisten Projekte bereits aufgefuehrt sind, weiterhin eine <a href="http://www.seti-germany.de/chatstats"> Chatfunktion</a>, ausfuehrliche Statistiken zu den meisten Projekten mit SETI.Germany-Beteiligung und mehr...<br>
+<br>
+Weiterhin helfen wir dabei, die SETI@home Berechnung auf deinem PC zu optimieren, wodurch eine Beschleunigung der Berechnung von bis zu 40% moeglich wird. <br>
+Schau doch mal bei uns vorbei, wir helfen gerne weiter... <br><br>
+Folge uns bei <a href="http://twitter.com/SETIGermany"> Twitter</a> oder schau auf unserer <a href="http://www.facebook.com/pages/SETIGermany/177588328907"> Facebook-Seite </a> vorbei.
+<br><br>
+In diesen Projekten ist SETI.Germany aktiv:
+<br><br>
+<img src="http://www.boincstats.com/signature/team_4_banner.gif">";s:6:"nusers";s:2:"98";s:7:"country";s:7:"Germany";s:12:"total_credit";s:15:"1203624.7486026";s:13:"expavg_credit";s:10:"402.754255";s:11:"expavg_time";s:16:"1317400098.86719";s:7:"seti_id";s:3:"148";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3580</id>
+    <cpid>d1504b5c0899d5e06347f16561001458</cpid>
+    <create_time>1293289576</create_time>
+    <name>fazzo92</name>
+    <country>Italy</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1293289576</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7047</id>
+        <create_time>1293291145</create_time>
+        <rpc_seqno>276</rpc_seqno>
+        <host_cpid>9c673bcff99f9ecfbffdce51aa5a470f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293291145</expavg_time>
+        <domain_name>DavideFazzolari</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M300 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1958031486.83859</p_fpops>
+        <p_iops>4572127081.90833</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10094</id>
+        <create_time>1316051010</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>fc0f4cca133862f54cb6dd030ac05050</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1316051010</expavg_time>
+        <domain_name>User-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M300 [x86 Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

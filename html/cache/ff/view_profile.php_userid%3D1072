@@ -1,0 +1,29 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1072";s:11:"create_time";s:10:"1258321400";s:10:"email_addr";s:33:"possessed.theantichrist@gmail.com";s:4:"name";s:8:"Maranhao";s:13:"authenticator";s:32:"d082267214151c17bf8c4e30b613f084";s:7:"country";s:8:"Portugal";s:11:"postal_code";s:4:"2450";s:12:"total_credit";s:15:"258786.39977242";s:13:"expavg_credit";s:8:"0.064794";s:11:"expavg_time";s:16:"1289679902.78289";s:12:"global_prefs";s:988:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1212968800</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>6</work_buf_min_days>
+<work_buf_additional_days>3</work_buf_additional_days>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:119:"<project_preferences>
+
+
+<resource_share>25</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"496";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"a76a835ae4daf2c8fc6885059115cff5";s:11:"passwd_hash";s:32:"dc52fc376ba94649a91ba891fa6b3835";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"496";s:11:"create_time";s:10:"1241636984";s:6:"userid";s:3:"551";s:4:"name";s:13:"Portugal@Home";s:7:"name_lc";s:13:"portugal@home";s:3:"url";s:23:"www.portugalathome.org/";s:4:"type";s:1:"9";s:9:"name_html";s:127:"<a href='http://www.portugalathome.org'><img src='http://www.portugalathome.org/imagens/banner.jpg' border='0'></a><p>Team info";s:11:"description";s:35:"Portugal@home no DrugDiscovery@Home";s:6:"nusers";s:2:"11";s:7:"country";s:8:"Portugal";s:12:"total_credit";s:15:"416907.42044298";s:13:"expavg_credit";s:8:"1.764123";s:11:"expavg_time";s:16:"1317208126.63839";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

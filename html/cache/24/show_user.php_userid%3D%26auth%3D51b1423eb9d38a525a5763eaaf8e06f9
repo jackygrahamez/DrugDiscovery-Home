@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1011</id>
+    <cpid>30a120d39060675096b6e5da7d9b8e20</cpid>
+    <create_time>1258080748</create_time>
+    <name>[AF&gt;France] Zarcox</name>
+    <country>France</country>
+    <total_credit>1276.00060059271</total_credit>
+    <expavg_credit>1.522089</expavg_credit>
+    <expavg_time>1315861602.82404</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1167</id>
+        <create_time>1258080898</create_time>
+        <rpc_seqno>124</rpc_seqno>
+        <host_cpid>1ba6fc624741992c710e0718cc23dfaf</host_cpid>
+        <total_credit>119.324844592705</total_credit>
+        <expavg_credit>0.075218</expavg_credit>
+        <expavg_time>1263329703.33489</expavg_time>
+        <domain_name>PC-de-Kevin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>4250251461.59877</p_fpops>
+        <p_iops>8609513690.92428</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1842</id>
+        <create_time>1262322169</create_time>
+        <rpc_seqno>1378</rpc_seqno>
+        <host_cpid>9cd991251efbf14fd15c64ce86514c8b</host_cpid>
+        <total_credit>1156.675756</total_credit>
+        <expavg_credit>1.522089</expavg_credit>
+        <expavg_time>1315861602.8242</expavg_time>
+        <domain_name>Wazaaaaa-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3205107659.56628</p_fpops>
+        <p_iops>8520405475.73264</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

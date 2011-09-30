@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1407</id>
+    <cpid>79fd343e045703d85f8f03940537e4e1</cpid>
+    <create_time>1266618463</create_time>
+    <name>Whizzwoz</name>
+    <country>United Kingdom</country>
+    <total_credit>0.024272</total_credit>
+    <expavg_credit>0.000109</expavg_credit>
+    <expavg_time>1285942763.4579</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2446</id>
+        <create_time>1266618812</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6518081476e1761cd4b7d0a3210d41b4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266618812</expavg_time>
+        <domain_name>Warrens-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2677677528.73769</p_fpops>
+        <p_iops>6512048056.22766</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5281</id>
+        <create_time>1283384343</create_time>
+        <rpc_seqno>160</rpc_seqno>
+        <host_cpid>9feae72172d084ebcf6f9b5d640eec48</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283384343</expavg_time>
+        <domain_name>Warrens-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2549392574.60257</p_fpops>
+        <p_iops>6090191573.01191</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5614</id>
+        <create_time>1285509190</create_time>
+        <rpc_seqno>120</rpc_seqno>
+        <host_cpid>fdb4735b59d0b60428e0626ed0414bec</host_cpid>
+        <total_credit>0.024272</total_credit>
+        <expavg_credit>0.001894</expavg_credit>
+        <expavg_time>1285942763.45809</expavg_time>
+        <domain_name>Tinas-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2512830357.38871</p_fpops>
+        <p_iops>4526012331.38605</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

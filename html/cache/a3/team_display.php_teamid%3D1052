@@ -1,0 +1,70 @@
+O:9:"BoincTeam":24:{s:2:"id";s:4:"1052";s:11:"create_time";s:10:"1288871539";s:6:"userid";s:4:"2889";s:4:"name";s:54:"Computer Science and Automation, IISc Bangalore, India";s:7:"name_lc";s:54:"computer science and automation, iisc bangalore, india";s:3:"url";s:21:"www.csa.iisc.ernet.in";s:4:"type";s:1:"6";s:9:"name_html";s:61:"<b>Computer Science and Automation, IISc Bangalore, India</b>";s:11:"description";s:432:"The Department of Computer Science and Automation (CSA) is a pioneering academic centre for higher education, research, and innovation in key areas of computer science. 
+
+The driving mission for the department is to advance the frontiers of research in computer science and automation and impart world-class training to students. CSA is recognized as a Centre for Advanced Study by the University Grants Commission (UGC) of India.";s:6:"nusers";s:1:"0";s:7:"country";s:5:"India";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1288871539";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"0";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"2889";s:11:"create_time";s:10:"1288517467";s:10:"email_addr";s:24:"siddharth.siom@gmail.com";s:4:"name";s:10:"siddharthb";s:13:"authenticator";s:32:"7435ccff1f6acc03ea96e32bada00fe2";s:7:"country";s:5:"India";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"739.298257";s:13:"expavg_credit";s:8:"0.072033";s:11:"expavg_time";s:16:"1297627502.61803";s:12:"global_prefs";s:2895:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1314836967</mod_time>
+    <cpu_scheduling_period_minutes>30</cpu_scheduling_period_minutes>
+    <run_if_user_active>0</run_if_user_active>
+    <idle_time_to_run>1</idle_time_to_run>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <run_on_batteries>1</run_on_batteries>
+    <suspend_cpu_usage>99.0</suspend_cpu_usage>
+    <cpu_usage_limit>90.0</cpu_usage_limit>
+    <max_cpus>4</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <disk_max_used_gb>2.0</disk_max_used_gb>
+    <disk_max_used_pct>5.0</disk_max_used_pct>
+    <disk_min_free_gb>0.1</disk_min_free_gb>
+    <disk_interval>60.0</disk_interval>
+    <ram_max_used_busy_pct>99.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>99.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>99.0</vm_max_used_pct>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>0.1</work_buf_additional_days>
+    <max_bytes_sec_down>99000.0</max_bytes_sec_down>
+    <max_bytes_sec_up>99000.0</max_bytes_sec_up>
+    <daily_xfer_limit_mb>1000.0</daily_xfer_limit_mb>
+    <daily_xfer_period_days>30</daily_xfer_period_days>
+    <dont_verify_images>0</dont_verify_images>
+    <start_hour>0</start_hour>
+    <end_hour>0</end_hour>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <net_start_hour>0</net_start_hour>
+    <net_end_hour>0</net_end_hour>
+    <venue name="home">
+        <confirm_before_connecting/>
+        <cpu_scheduling_period_minutes>30</cpu_scheduling_period_minutes>
+        <disk_interval>300.0</disk_interval>
+        <disk_max_used_gb>2.0</disk_max_used_gb>
+        <disk_max_used_pct>5.0</disk_max_used_pct>
+        <disk_min_free_gb>0.1</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <hangup_if_dialed/>
+        <max_bytes_sec_down>1000000.0</max_bytes_sec_down>
+        <max_bytes_sec_up>1000000.0</max_bytes_sec_up>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_cpus>4</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>25.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <run_on_batteries/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>60.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>50.0</vm_max_used_pct>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <work_buf_additional_days>0.1</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:118:"<project_preferences>
+
+
+<resource_share>1</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:4:"1054";s:5:"venue";s:0:"";s:3:"url";s:34:"commandofeedbackindia.blogspot.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"b0eb8e279a40971c66be05ff0effeba9";s:11:"passwd_hash";s:32:"18a920edabc8397b95a1ff60d648d792";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

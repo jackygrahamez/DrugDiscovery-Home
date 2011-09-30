@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1711</id>
+    <cpid>0d95556283f4e68f526c85ce7bc3c1c5</cpid>
+    <create_time>1269877415</create_time>
+    <name>RushPill</name>
+    <country>Russia</country>
+    <total_credit>46796.4844880002</total_credit>
+    <expavg_credit>65.787692</expavg_credit>
+    <expavg_time>1315835848.14956</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3583</id>
+        <create_time>1272032124</create_time>
+        <rpc_seqno>5813</rpc_seqno>
+        <host_cpid>bc91c31e8e81e85d458d8c9bb703ff6c</host_cpid>
+        <total_credit>3255.54007</total_credit>
+        <expavg_credit>3.324483</expavg_credit>
+        <expavg_time>1315560178.95008</expavg_time>
+        <domain_name>master12</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) MP CPU 2.20GHz [Family 15 Model 2 Stepping 6]</p_model>
+        <p_fpops>1199995994.19158</p_fpops>
+        <p_iops>2309459092.86752</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4124</id>
+        <create_time>1275661121</create_time>
+        <rpc_seqno>2815</rpc_seqno>
+        <host_cpid>f6f669d19cd72d0d792ebb890b63c534</host_cpid>
+        <total_credit>3438.959283</total_credit>
+        <expavg_credit>0.09584</expavg_credit>
+        <expavg_time>1309119003.82409</expavg_time>
+        <domain_name>srv12a02</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2038270357.49581</p_fpops>
+        <p_iops>5806837379.5605</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3998</id>
+        <create_time>1274775799</create_time>
+        <rpc_seqno>4577</rpc_seqno>
+        <host_cpid>013d8dbeb5e642ad39f43137ba571718</host_cpid>
+        <total_credit>8024.414164</total_credit>
+        <expavg_credit>9.698222</expavg_credit>
+        <expavg_time>1315633553.37678</expavg_time>
+        <domain_name>srv12a06</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5450  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2991797090.50153</p_fpops>
+        <p_iops>9062400320.22616</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4047</id>
+        <create_time>1275064530</create_time>
+        <rpc_seqno>5250</rpc_seqno>
+        <host_cpid>8ca286dbd4b3a2becbb1b8a5695d107a</host_cpid>
+        <total_credit>5362.77893500001</total_credit>
+        <expavg_credit>0.062136</expavg_credit>
+        <expavg_time>1314562503.70136</expavg_time>
+        <domain_name>srv12a05</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            5140  @ 2.33GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2272436637.93529</p_fpops>
+        <p_iops>4954356156.89295</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4044</id>
+        <create_time>1275062127</create_time>
+        <rpc_seqno>4251</rpc_seqno>
+        <host_cpid>f9065c871ff59b6ae3387d04d1cf37dd</host_cpid>
+        <total_credit>5287.259529</total_credit>
+        <expavg_credit>6.915976</expavg_credit>
+        <expavg_time>1315689483.94575</expavg_time>
+        <domain_name>srv12a03</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5450  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3002343505.47731</p_fpops>
+        <p_iops>9096611315.59744</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4045</id>
+        <create_time>1275062364</create_time>
+        <rpc_seqno>5411</rpc_seqno>
+        <host_cpid>80fa2befa7eb86ecea4581a88fab3d5a</host_cpid>
+        <total_credit>6097.86198800001</total_credit>
+        <expavg_credit>5.227067</expavg_credit>
+        <expavg_time>1315677714.09426</expavg_time>
+        <domain_name>srv12a01</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) MP CPU 3.16GHz [Family 15 Model 4 Stepping 9]</p_model>
+        <p_fpops>1586828897.70328</p_fpops>
+        <p_iops>2625401359.52148</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4046</id>
+        <create_time>1275063343</create_time>
+        <rpc_seqno>94</rpc_seqno>
+        <host_cpid>8ca286dbd4b3a2becbb1b8a5695d107a</host_cpid>
+        <total_credit>184.893842</total_credit>
+        <expavg_credit>0.072074</expavg_credit>
+        <expavg_time>1280549403.13065</expavg_time>
+        <domain_name>srv12a05</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            5140  @ 2.33GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2245490627.09898</p_fpops>
+        <p_iops>4839989671.27677</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5382</id>
+        <create_time>1284098930</create_time>
+        <rpc_seqno>5321</rpc_seqno>
+        <host_cpid>75215837e88f1e028129c61cfa20f086</host_cpid>
+        <total_credit>4694.25288499999</total_credit>
+        <expavg_credit>3.044005</expavg_credit>
+        <expavg_time>1315835848.14972</expavg_time>
+        <domain_name>SYSADM</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2184903012.88507</p_fpops>
+        <p_iops>4424913630.28323</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5451</id>
+        <create_time>1284645108</create_time>
+        <rpc_seqno>6509</rpc_seqno>
+        <host_cpid>d7d531b2edaceb0cfa2599aebfd8da67</host_cpid>
+        <total_credit>2920.6832</total_credit>
+        <expavg_credit>0.127569</expavg_credit>
+        <expavg_time>1315851902.83674</expavg_time>
+        <domain_name>imbu</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2456558582.16471</p_fpops>
+        <p_iops>5016149466.70637</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5828</id>
+        <create_time>1287149252</create_time>
+        <rpc_seqno>3087</rpc_seqno>
+        <host_cpid>4a268316916fecf57b027d688b84509f</host_cpid>
+        <total_credit>2115.780101</total_credit>
+        <expavg_credit>0.059305</expavg_credit>
+        <expavg_time>1315851902.70412</expavg_time>
+        <domain_name>srv12a07</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1737020749.53553</p_fpops>
+        <p_iops>3725663236.73688</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6089</id>
+        <create_time>1288957300</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>ece237c738040f5066b9629e29c9d5a3</host_cpid>
+        <total_credit>1064.587816</total_credit>
+        <expavg_credit>5.691389</expavg_credit>
+        <expavg_time>1315607117.15915</expavg_time>
+        <domain_name>srv12a13</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>1665040650.4065</p_fpops>
+        <p_iops>3791033253.19722</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7578</id>
+        <create_time>1296568792</create_time>
+        <rpc_seqno>1496</rpc_seqno>
+        <host_cpid>9c3178da88ac502f6d355f58d5f674e0</host_cpid>
+        <total_credit>1087.502783</total_credit>
+        <expavg_credit>0.058512</expavg_credit>
+        <expavg_time>1309724102.81537</expavg_time>
+        <domain_name>srv12b01</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) MP CPU 2.20GHz [Family 15 Model 2 Stepping 6]</p_model>
+        <p_fpops>1194668867.9083</p_fpops>
+        <p_iops>2280687075.94139</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Enterprise x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7579</id>
+        <create_time>1296570490</create_time>
+        <rpc_seqno>1695</rpc_seqno>
+        <host_cpid>cd095cee3e22ad2833c6d3edca82a3dd</host_cpid>
+        <total_credit>364.831375</total_credit>
+        <expavg_credit>4.15812</expavg_credit>
+        <expavg_time>1315737615.82146</expavg_time>
+        <domain_name>srv12a14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1443752790.69157</p_fpops>
+        <p_iops>2859390509.73033</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 1, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7849</id>
+        <create_time>1298391841</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>cae0439825d255b36690ea9496d949be</host_cpid>
+        <total_credit>1487.948647</total_credit>
+        <expavg_credit>0.062347</expavg_credit>
+        <expavg_time>1310933703.01319</expavg_time>
+        <domain_name>srv12a12</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2131661442.00627</p_fpops>
+        <p_iops>4776122822.27782</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8009</id>
+        <create_time>1299437963</create_time>
+        <rpc_seqno>1577</rpc_seqno>
+        <host_cpid>27423b46981937ffe869153595cf2fef</host_cpid>
+        <total_credit>679.898183000001</total_credit>
+        <expavg_credit>9.363725</expavg_credit>
+        <expavg_time>1315725690.47587</expavg_time>
+        <domain_name>SRV12A02</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2031971615.11626</p_fpops>
+        <p_iops>5835608565.02468</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8533</id>
+        <create_time>1303592746</create_time>
+        <rpc_seqno>1047</rpc_seqno>
+        <host_cpid>a6e06ffa6eebcccb6c446367a9c9dea6</host_cpid>
+        <total_credit>299.892044</total_credit>
+        <expavg_credit>9.362517</expavg_credit>
+        <expavg_time>1315808571.27384</expavg_time>
+        <domain_name>SRV12A11HV</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2490924863.43818</p_fpops>
+        <p_iops>5717955166.53628</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9296</id>
+        <create_time>1308820122</create_time>
+        <rpc_seqno>288</rpc_seqno>
+        <host_cpid>3c7d8210f313348b41d9737d24d8978a</host_cpid>
+        <total_credit>98.284724</total_credit>
+        <expavg_credit>0.211745</expavg_credit>
+        <expavg_time>1315851902.84361</expavg_time>
+        <domain_name>srv12a17</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2160  @ 1.80GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755178981.9376</p_fpops>
+        <p_iops>3724333907.94479</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9331</id>
+        <create_time>1309168742</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>fc72258ddbc4f09061bac979013f4c27</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309168742</expavg_time>
+        <domain_name>srv12a13</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>1787936507.93651</p_fpops>
+        <p_iops>437713284.38469</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9333</id>
+        <create_time>1309181044</create_time>
+        <rpc_seqno>597</rpc_seqno>
+        <host_cpid>6a96f90d6c5dcdb5c33ef7c36ae23bbb</host_cpid>
+        <total_credit>137.584411</total_credit>
+        <expavg_credit>6.461337</expavg_credit>
+        <expavg_time>1315647885.83063</expavg_time>
+        <domain_name>SRV12A09HV</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2029896880.8403</p_fpops>
+        <p_iops>5787049519.84081</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9370</id>
+        <create_time>1309516723</create_time>
+        <rpc_seqno>555</rpc_seqno>
+        <host_cpid>0f05bd4ed9442444af290bd8d24062c1</host_cpid>
+        <total_credit>169.740553</total_credit>
+        <expavg_credit>8.851435</expavg_credit>
+        <expavg_time>1315756943.54543</expavg_time>
+        <domain_name>SRV12A10HV</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            5130  @ 2.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1903977574.88976</p_fpops>
+        <p_iops>5952703060.22149</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9710</id>
+        <create_time>1312892888</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>d7d531b2edaceb0cfa2599aebfd8da67</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1312892888</expavg_time>
+        <domain_name>imbu</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2463354357.33874</p_fpops>
+        <p_iops>5014189547.2298</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9818</id>
+        <create_time>1313649623</create_time>
+        <rpc_seqno>167</rpc_seqno>
+        <host_cpid>6fc6c4cc924257574340dfd6b7d3eb3d</host_cpid>
+        <total_credit>23.789955</total_credit>
+        <expavg_credit>1.291944</expavg_credit>
+        <expavg_time>1315658559.68991</expavg_time>
+        <domain_name>srv12a17</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            5130  @ 2.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1726182965.29969</p_fpops>
+        <p_iops>3404149635.22533</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

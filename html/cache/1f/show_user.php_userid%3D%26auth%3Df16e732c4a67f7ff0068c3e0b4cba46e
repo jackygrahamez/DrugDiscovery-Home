@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2584</id>
+    <cpid>abd3e68f9f6eea8890b8aa6021a780be</cpid>
+    <create_time>1283320559</create_time>
+    <name>NHBoehm</name>
+    <country>Germany</country>
+    <total_credit>1933.380298</total_credit>
+    <expavg_credit>0.084444</expavg_credit>
+    <expavg_time>1313352903.33689</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5275</id>
+        <create_time>1283320790</create_time>
+        <rpc_seqno>5627</rpc_seqno>
+        <host_cpid>d51a860fe2da0eea0df967d9debdf1c6</host_cpid>
+        <total_credit>897.403507</total_credit>
+        <expavg_credit>0.066066</expavg_credit>
+        <expavg_time>1290889503.24563</expavg_time>
+        <domain_name>mjolnir</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2132299999.36708</p_fpops>
+        <p_iops>7371851127.38207</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.26-2-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5276</id>
+        <create_time>1283320946</create_time>
+        <rpc_seqno>807</rpc_seqno>
+        <host_cpid>cb55a6a4b4c792e038d7273b06cae819</host_cpid>
+        <total_credit>690.678516</total_credit>
+        <expavg_credit>0.07994</expavg_credit>
+        <expavg_time>1298837104.10482</expavg_time>
+        <domain_name>ACER</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1406843716.05741</p_fpops>
+        <p_iops>1879496608.81331</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6942</id>
+        <create_time>1292726046</create_time>
+        <rpc_seqno>195</rpc_seqno>
+        <host_cpid>4293321c5578170ea9e8262c35374834</host_cpid>
+        <total_credit>313.149995</total_credit>
+        <expavg_credit>0.051473</expavg_credit>
+        <expavg_time>1300046703.57613</expavg_time>
+        <domain_name>nib-dell</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 720  @ 1.60GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1632797843.77121</p_fpops>
+        <p_iops>3721837598.55255</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8467</id>
+        <create_time>1303158946</create_time>
+        <rpc_seqno>672</rpc_seqno>
+        <host_cpid>9625e9017d7c8539f601135ca35d9eb4</host_cpid>
+        <total_credit>32.14828</total_credit>
+        <expavg_credit>0.084458</expavg_credit>
+        <expavg_time>1313352903.84116</expavg_time>
+        <domain_name>heimdahl</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3079682664.66045</p_fpops>
+        <p_iops>7082673591.94198</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9990</id>
+        <create_time>1315215028</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>15d2de1f3da3dc79c0a9624ddb421395</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315215028</expavg_time>
+        <domain_name>freyja</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2712521498.56821</p_fpops>
+        <p_iops>8327370729.47311</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-amd64</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4724</id>
+    <cpid>ca0b40c3ca38bf760df4d8a1d206f041</cpid>
+    <create_time>1309300263</create_time>
+    <name>bryanboroughs</name>
+    <country>United States</country>
+    <total_credit>88.935041</total_credit>
+    <expavg_credit>0.767602</expavg_credit>
+    <expavg_time>1315711739.16968</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9350</id>
+        <create_time>1309302947</create_time>
+        <rpc_seqno>174</rpc_seqno>
+        <host_cpid>c22e2ddf0254c770f89452484b6f736a</host_cpid>
+        <total_credit>19.094784</total_credit>
+        <expavg_credit>0.071981</expavg_credit>
+        <expavg_time>1315851902.76544</expavg_time>
+        <domain_name>Hal.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1400 @ 1.83GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1845977250.00799</p_fpops>
+        <p_iops>3958190511.36441</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9348</id>
+        <create_time>1309301792</create_time>
+        <rpc_seqno>352</rpc_seqno>
+        <host_cpid>6fa980a26671baae3f0fa7b2e26c074e</host_cpid>
+        <total_credit>26.692442</total_credit>
+        <expavg_credit>0.061088</expavg_credit>
+        <expavg_time>1313957702.75357</expavg_time>
+        <domain_name>KITT.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3150506099.95727</p_fpops>
+        <p_iops>6074009378.20801</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>9349</id>
+        <create_time>1309301802</create_time>
+        <rpc_seqno>171</rpc_seqno>
+        <host_cpid>86d3227b26ef5721d953bebb9f785088</host_cpid>
+        <total_credit>37.91187</total_credit>
+        <expavg_credit>0.586677</expavg_credit>
+        <expavg_time>1315711739.18677</expavg_time>
+        <domain_name>Adair-Boroughss-MacBook-Pro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3138056721.01362</p_fpops>
+        <p_iops>6980077804.39653</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>9351</id>
+        <create_time>1309302989</create_time>
+        <rpc_seqno>110</rpc_seqno>
+        <host_cpid>3a63d9cbb44ac1631fe63cebc80d291c</host_cpid>
+        <total_credit>5.235945</total_credit>
+        <expavg_credit>0.094109</expavg_credit>
+        <expavg_time>1314090102.51344</expavg_time>
+        <domain_name>Workout-and-Music-Server.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU T7200 @ 2.00GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2157231178.27388</p_fpops>
+        <p_iops>5201904200.68623</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9899</id>
+        <create_time>1314326037</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>2cd79e76bd6aca2a2659433f19e220e8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314326037</expavg_time>
+        <domain_name>Sifu.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU T7400 @ 2.16GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2324285401.81932</p_fpops>
+        <p_iops>5270502762.18079</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

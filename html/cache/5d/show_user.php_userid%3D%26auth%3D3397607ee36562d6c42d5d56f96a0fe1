@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>521</id>
+    <cpid>12db262017a031b4e864a01a049116c0</cpid>
+    <create_time>1240594289</create_time>
+    <name>NoTHX</name>
+    <country>Czech Republic</country>
+    <total_credit>47430.987265302</total_credit>
+    <expavg_credit>0.092225</expavg_credit>
+    <expavg_time>1298837103.26864</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>74</id>
+        <create_time>1240594382</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>25b071eac476dcbad322f7d35b5f036b</host_cpid>
+        <total_credit>5582.271519</total_credit>
+        <expavg_credit>0.067041</expavg_credit>
+        <expavg_time>1297627502.86251</expavg_time>
+        <domain_name>Imoen</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2858705418.37979</p_fpops>
+        <p_iops>8435069902.01167</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>100</id>
+        <create_time>1240725855</create_time>
+        <rpc_seqno>411</rpc_seqno>
+        <host_cpid>f113ddcf420b5541b3572eca88947287</host_cpid>
+        <total_credit>181.399184</total_credit>
+        <expavg_credit>0.000844</expavg_credit>
+        <expavg_time>1250104203.42004</expavg_time>
+        <domain_name>Aerie</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Mobile AMD Sempron(tm) Processor 2800+ [x86 Family 15 Model 8 Stepping 2]</p_model>
+        <p_fpops>1608938547.48603</p_fpops>
+        <p_iops>2833189456.80028</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>114</id>
+        <create_time>1240914300</create_time>
+        <rpc_seqno>811</rpc_seqno>
+        <host_cpid>1597f17d9eaf61180e2c670dd44015bf</host_cpid>
+        <total_credit>12511.415770303</total_credit>
+        <expavg_credit>0.055287</expavg_credit>
+        <expavg_time>1266784803.45439</expavg_time>
+        <domain_name>Server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2879381127.63818</p_fpops>
+        <p_iops>8630384789.08138</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>125</id>
+        <create_time>1240996108</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>f97f01093d1e123b0fdfba92f8dbfea9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1240996108</expavg_time>
+        <domain_name>VMware</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1911827744.5269</p_fpops>
+        <p_iops>5664013431.13645</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.25.16</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>126</id>
+        <create_time>1240996203</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>d12ea379c062d45352abbf453c2881c4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1240996203</expavg_time>
+        <domain_name>VMware</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2241034350.39603</p_fpops>
+        <p_iops>4921209967.93644</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.25.16</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4689</id>
+        <create_time>1279230133</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>7b6d9a0c0aaca27c801572448fa65118</host_cpid>
+        <total_credit>64.125197</total_credit>
+        <expavg_credit>0.054423</expavg_credit>
+        <expavg_time>1283457603.19111</expavg_time>
+        <domain_name>Kancelar1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2771571247.48471</p_fpops>
+        <p_iops>5633199328.22059</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4659</id>
+        <create_time>1278917397</create_time>
+        <rpc_seqno>2985</rpc_seqno>
+        <host_cpid>f259e5bd5b38a6c552a037f58dde7fa1</host_cpid>
+        <total_credit>9279.12024199999</total_credit>
+        <expavg_credit>0.098306</expavg_credit>
+        <expavg_time>1298232303.05919</expavg_time>
+        <domain_name>Server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2881612266.72303</p_fpops>
+        <p_iops>8408444685.43429</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4691</id>
+        <create_time>1279231307</create_time>
+        <rpc_seqno>441</rpc_seqno>
+        <host_cpid>243764c038661232f14440ae83b538bc</host_cpid>
+        <total_credit>592.507355</total_credit>
+        <expavg_credit>0.066471</expavg_credit>
+        <expavg_time>1295727903.34539</expavg_time>
+        <domain_name>Provoz</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2814383581.79766</p_fpops>
+        <p_iops>5585997190.44947</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4703</id>
+        <create_time>1279253484</create_time>
+        <rpc_seqno>212</rpc_seqno>
+        <host_cpid>3e7edb6589aaf01ba6d6254a86141a9d</host_cpid>
+        <total_credit>521.281379</total_credit>
+        <expavg_credit>0.070045</expavg_credit>
+        <expavg_time>1287865502.86555</expavg_time>
+        <domain_name>Mistr</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2788490690.87916</p_fpops>
+        <p_iops>5638601404.68226</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4690</id>
+        <create_time>1279230560</create_time>
+        <rpc_seqno>611</rpc_seqno>
+        <host_cpid>5f3c53316e6afa9892f0390146955ab4</host_cpid>
+        <total_credit>919.474569</total_credit>
+        <expavg_credit>0.053009</expavg_credit>
+        <expavg_time>1296417903.06265</expavg_time>
+        <domain_name>Sekretariat</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2783397317.56692</p_fpops>
+        <p_iops>5559575591.64804</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4692</id>
+        <create_time>1279231309</create_time>
+        <rpc_seqno>752</rpc_seqno>
+        <host_cpid>a280ef88649db391265643461416ea61</host_cpid>
+        <total_credit>984.916839</total_credit>
+        <expavg_credit>0.061123</expavg_credit>
+        <expavg_time>1296417903.06279</expavg_time>
+        <domain_name>Kancelar2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2815337109.19788</p_fpops>
+        <p_iops>5655516054.1635</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4693</id>
+        <create_time>1279231312</create_time>
+        <rpc_seqno>165</rpc_seqno>
+        <host_cpid>8be3179e33aae87ab1d1359eb2ded239</host_cpid>
+        <total_credit>422.523372</total_credit>
+        <expavg_credit>0.058991</expavg_credit>
+        <expavg_time>1287865502.85239</expavg_time>
+        <domain_name>Ekonom</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2800155787.88184</p_fpops>
+        <p_iops>5658152212.24052</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4694</id>
+        <create_time>1279231337</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>69a43fbde6a401ca3b72fde042eaea96</host_cpid>
+        <total_credit>51.150697</total_credit>
+        <expavg_credit>0.073053</expavg_credit>
+        <expavg_time>1283457603.24672</expavg_time>
+        <domain_name>Obchod1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2823665171.48807</p_fpops>
+        <p_iops>5656693582.7175</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4695</id>
+        <create_time>1279231337</create_time>
+        <rpc_seqno>929</rpc_seqno>
+        <host_cpid>a2bf4d2a5a3cd99a216f7e701b9b865b</host_cpid>
+        <total_credit>1550.412628</total_credit>
+        <expavg_credit>0.093896</expavg_credit>
+        <expavg_time>1296417903.06293</expavg_time>
+        <domain_name>Ucetni</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2810877287.79999</p_fpops>
+        <p_iops>5677439153.11089</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4696</id>
+        <create_time>1279231414</create_time>
+        <rpc_seqno>225</rpc_seqno>
+        <host_cpid>85e599f9de260ac073765e694ee093b7</host_cpid>
+        <total_credit>284.188676</total_credit>
+        <expavg_credit>0.091202</expavg_credit>
+        <expavg_time>1295123103.65235</expavg_time>
+        <domain_name>Laborator</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2823086402.12143</p_fpops>
+        <p_iops>5633199328.22059</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4697</id>
+        <create_time>1279231414</create_time>
+        <rpc_seqno>641</rpc_seqno>
+        <host_cpid>ffd8d707ffecc8eb2f81777499d1bbf5</host_cpid>
+        <total_credit>1488.953986</total_credit>
+        <expavg_credit>0.069952</expavg_credit>
+        <expavg_time>1296417903.06309</expavg_time>
+        <domain_name>Obchod2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2823073787.78562</p_fpops>
+        <p_iops>5623259451.31805</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4698</id>
+        <create_time>1279231614</create_time>
+        <rpc_seqno>901</rpc_seqno>
+        <host_cpid>e680af3919eb6755797cef676713b3d1</host_cpid>
+        <total_credit>1281.33569</total_credit>
+        <expavg_credit>0.082791</expavg_credit>
+        <expavg_time>1296417903.06322</expavg_time>
+        <domain_name>Vratnice</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2390635766.35491</p_fpops>
+        <p_iops>4152933244.97128</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

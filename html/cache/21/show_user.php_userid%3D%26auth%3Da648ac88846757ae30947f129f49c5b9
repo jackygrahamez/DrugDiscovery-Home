@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4641</id>
+    <cpid>88ffa5ef1583eeda4c66dac82bf2c1f7</cpid>
+    <create_time>1307024802</create_time>
+    <name>harald lenz</name>
+    <country>Germany</country>
+    <total_credit>140.098978</total_credit>
+    <expavg_credit>0.343055</expavg_credit>
+    <expavg_time>1315671321.02198</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9014</id>
+        <create_time>1307042829</create_time>
+        <rpc_seqno>198</rpc_seqno>
+        <host_cpid>eaf3e829d02e983b0bf2ea9f257d3e09</host_cpid>
+        <total_credit>6.238474</total_credit>
+        <expavg_credit>0.058874</expavg_credit>
+        <expavg_time>1309119003.6644</expavg_time>
+        <domain_name>Harald-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3292018779.34272</p_fpops>
+        <p_iops>9648233932.76468</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9034</id>
+        <create_time>1307172634</create_time>
+        <rpc_seqno>1368</rpc_seqno>
+        <host_cpid>3420e43dd3b1c8435ccb66b5119fc790</host_cpid>
+        <total_credit>133.860504</total_credit>
+        <expavg_credit>0.342997</expavg_credit>
+        <expavg_time>1315671321.02214</expavg_time>
+        <domain_name>harald-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3291518058.45939</p_fpops>
+        <p_iops>18427345650.1908</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9016</id>
+        <create_time>1307045786</create_time>
+        <rpc_seqno>61</rpc_seqno>
+        <host_cpid>146dab31521489f2813fc98ef4c9a497</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307045786</expavg_time>
+        <domain_name>haribo-laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M CPU        530  @ 1.73GHz [Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>1090564260.48457</p_fpops>
+        <p_iops>4109255834.51495</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-33-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

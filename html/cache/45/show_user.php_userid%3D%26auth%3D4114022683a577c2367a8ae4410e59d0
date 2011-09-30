@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1133</id>
+    <cpid>227f63bf7a94541bf4b44ae4078b2a8e</cpid>
+    <create_time>1258584852</create_time>
+    <name>Happy5214</name>
+    <country>United States</country>
+    <total_credit>5022.39774804713</total_credit>
+    <expavg_credit>0.081498</expavg_credit>
+    <expavg_time>1307304603.00051</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1464</id>
+        <create_time>1258584869</create_time>
+        <rpc_seqno>8429</rpc_seqno>
+        <host_cpid>733d5ac6524c0247eaeb8250b71f5e7a</host_cpid>
+        <total_credit>5022.39774804713</total_credit>
+        <expavg_credit>0.081499</expavg_credit>
+        <expavg_time>1307304603.29466</expavg_time>
+        <domain_name>happy5214.no-ip.org</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2504767868.9968</p_fpops>
+        <p_iops>13191719844.079</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.0-10-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8324</id>
+        <create_time>1302069970</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>aaf25e7485a61ef8b693a28d92397b96</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302069970</expavg_time>
+        <domain_name>Rita-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5550  @ 1.83GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>897717999.906791</p_fpops>
+        <p_iops>1898234105.51835</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

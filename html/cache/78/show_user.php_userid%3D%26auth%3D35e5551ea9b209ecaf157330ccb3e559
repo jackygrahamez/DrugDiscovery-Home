@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2407</id>
+    <cpid>ee8e4512e5c14def7a1170807d844299</cpid>
+    <create_time>1280874381</create_time>
+    <name>skgiven</name>
+    <country>United Kingdom</country>
+    <total_credit>2081.038265</total_credit>
+    <expavg_credit>0.083693</expavg_credit>
+    <expavg_time>1315247103.45243</expavg_time>
+    <teamid>968</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4901</id>
+        <create_time>1280874394</create_time>
+        <rpc_seqno>1097</rpc_seqno>
+        <host_cpid>93714ca142fff75da0b304021a7bdea3</host_cpid>
+        <total_credit>685.183793</total_credit>
+        <expavg_credit>0.070935</expavg_credit>
+        <expavg_time>1302465904.25798</expavg_time>
+        <domain_name>w</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2426733675.88461</p_fpops>
+        <p_iops>7505252507.96886</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7244</id>
+        <create_time>1294432306</create_time>
+        <rpc_seqno>1808</rpc_seqno>
+        <host_cpid>c6b8916158792b9e7608220e7420a82c</host_cpid>
+        <total_credit>408.621807</total_credit>
+        <expavg_credit>0.069618</expavg_credit>
+        <expavg_time>1311538503.47279</expavg_time>
+        <domain_name>s</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3424232087.21992</p_fpops>
+        <p_iops>11278829754.4584</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7124</id>
+        <create_time>1293824514</create_time>
+        <rpc_seqno>1818</rpc_seqno>
+        <host_cpid>7623a87cfd744763c2ef232e3253a2a1</host_cpid>
+        <total_credit>987.232665</total_credit>
+        <expavg_credit>0.08271</expavg_credit>
+        <expavg_time>1315247105.19198</expavg_time>
+        <domain_name>i7</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2790306193.03246</p_fpops>
+        <p_iops>6664086511.09846</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

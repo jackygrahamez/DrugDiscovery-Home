@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4918</id>
+    <cpid>2612b9a807b6f4f0a525a0db2bfb0010</cpid>
+    <create_time>1314308406</create_time>
+    <name>Nachtmeister</name>
+    <country>Germany</country>
+    <total_credit>23.4758</total_credit>
+    <expavg_credit>1.840301</expavg_credit>
+    <expavg_time>1315618578.82111</expavg_time>
+    <teamid>1732</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9939</id>
+        <create_time>1314713657</create_time>
+        <rpc_seqno>117</rpc_seqno>
+        <host_cpid>b9cc7494be5ff98d9fd220472b4f1090</host_cpid>
+        <total_credit>23.4758</total_credit>
+        <expavg_credit>1.911836</expavg_credit>
+        <expavg_time>1315618578.82125</expavg_time>
+        <domain_name>nachtmeister-Samsung</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2576327217.50925</p_fpops>
+        <p_iops>12123543118.0712</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.0-10-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9897</id>
+        <create_time>1314308888</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>b9cc7494be5ff98d9fd220472b4f1090</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314308888</expavg_time>
+        <domain_name>nachtmeister-Samsung</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2673458087.55396</p_fpops>
+        <p_iops>16123195742.569</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9905</id>
+        <create_time>1314451813</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>b9cc7494be5ff98d9fd220472b4f1090</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314451813</expavg_time>
+        <domain_name>nachtmeister-Samsung</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2290487196.20421</p_fpops>
+        <p_iops>7977689510.52113</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9981</id>
+        <create_time>1315074223</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>1b773d4543f073f4e45e50df50b1821c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315074223</expavg_time>
+        <domain_name>nachtmeister-XPS-L501X</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 840  @ 1.87GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2108290117.9317</p_fpops>
+        <p_iops>7784518022.63491</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.0-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

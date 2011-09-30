@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1179</id>
+    <cpid>4200ac2d726b2ef7dc275014c9511245</cpid>
+    <create_time>1265022729</create_time>
+    <name>The Phil Continuum</name>
+    <country>International</country>
+    <total_credit>9.748468</total_credit>
+    <expavg_credit>0.021821</expavg_credit>
+    <expavg_time>1303622162.42908</expavg_time>
+    <teamid>0</teamid>
+    <url>www.sequescentce.org</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7529</id>
+        <create_time>1296183743</create_time>
+        <rpc_seqno>155</rpc_seqno>
+        <host_cpid>64c1886aaa38db9fde3d2ed4212cfb99</host_cpid>
+        <total_credit>9.748468</total_credit>
+        <expavg_credit>0.05323</expavg_credit>
+        <expavg_time>1304280603.61332</expavg_time>
+        <domain_name>MONOLITH</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2503442432.90224</p_fpops>
+        <p_iops>7960986254.39578</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7465</id>
+        <create_time>1295721163</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>e3500bbf44b072c4efbede0aa7244e7c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295721163</expavg_time>
+        <domain_name>Monolith</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2701750385.47031</p_fpops>
+        <p_iops>9259257816.31269</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,176 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2560";s:11:"create_time";s:10:"1283061094";s:10:"email_addr";s:18:"svoj.tom@seznam.cz";s:4:"name";s:5:"tatik";s:13:"authenticator";s:32:"94a30ca17702ef09f7f4a68741039500";s:7:"country";s:14:"Czech Republic";s:11:"postal_code";s:5:"79501";s:12:"total_credit";s:9:"12.607394";s:13:"expavg_credit";s:7:"0.08472";s:11:"expavg_time";s:16:"1292703903.11528";s:12:"global_prefs";s:5069:"<global_preferences>
+    <source_project>http://www.primegrid.com/</source_project>
+    <source_scheduler>http://www.primegrid.com/cgi/cgi</source_scheduler>
+<mod_time>1301690527</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<max_cpus>1</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_min_free_gb>2</disk_min_free_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_interval>0</disk_interval>
+<vm_max_used_pct>0</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>1</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_min_free_gb>1</disk_min_free_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_interval>0</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0</work_buf_additional_days>
+<confirm_before_connecting>1</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>0.0</disk_max_used_gb>
+<disk_min_free_gb>10.0</disk_min_free_gb>
+<disk_max_used_pct>0.0</disk_max_used_pct>
+<disk_interval>0.0</disk_interval>
+<vm_max_used_pct>75.0</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0.0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>1</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0.0</max_bytes_sec_down>
+<max_bytes_sec_up>0.0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_min_free_gb>1</disk_min_free_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_interval>0</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0</work_buf_additional_days>
+<confirm_before_connecting>1</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:199:"<project_preferences>
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<no_cuda>1</no_cuda>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"9";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"d262045d2fefef6dd8ca2f8a44028428";s:11:"passwd_hash";s:32:"e13a887644fb4740abb081c3a9aafca6";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2560";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:47:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:5:"23407";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"8766172";s:11:"create_time";s:10:"1197797530";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:5:"30300";s:9:"team_name";s:19:"Czech National Team";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:3:"794";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"297881";s:11:"create_time";s:10:"1197797519";s:7:"country";s:13:"International";s:7:"team_id";s:3:"162";s:9:"team_name";s:19:"Czech National Team";}i:2;O:8:"stdClass":8:{s:12:"total_credit";s:2:"23";s:13:"expavg_credit";d:0;s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:5:"90912";s:11:"create_time";s:10:"1197797522";s:7:"team_id";s:2:"48";s:9:"team_name";s:19:"Czech National Team";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25868";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"227205";s:11:"create_time";s:10:"1197797528";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"46";s:9:"team_name";s:19:"Czech National Team";}i:4;O:8:"stdClass":8:{s:12:"total_credit";s:2:"47";s:13:"expavg_credit";d:0;s:4:"name";s:4:"BURP";s:3:"url";s:21:"http://burp.boinc.dk/";s:2:"id";s:4:"8203";s:11:"create_time";s:10:"1197797517";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:7:"4025464";s:13:"expavg_credit";d:0;s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"16199";s:11:"create_time";s:10:"1197797526";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"46";s:9:"team_name";s:19:"Czech National Team";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:3:"511";s:13:"expavg_credit";d:0;s:4:"name";s:19:"SZTAKI Desktop Grid";s:3:"url";s:32:"http://szdg.lpds.sztaki.hu/szdg/";s:2:"id";s:5:"21697";s:11:"create_time";s:10:"1197797532";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"40";s:9:"team_name";s:19:"Czech National Team";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"719567";s:13:"expavg_credit";s:3:"832";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"615584";s:11:"create_time";s:10:"1247941009";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:4:"6976";s:9:"team_name";s:19:"Czech National Team";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3258";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:4:"7360";s:11:"create_time";s:10:"1172996038";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"38";s:9:"team_name";s:19:"Czech National Team";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:3:"601";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Lattice Project";s:3:"url";s:28:"http://boinc.umiacs.umd.edu/";s:2:"id";s:4:"1844";s:11:"create_time";s:10:"1182695933";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"21";s:9:"team_name";s:19:"Czech National Team";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:2:"50";s:13:"expavg_credit";d:0;s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"33395";s:11:"create_time";s:10:"1197797532";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"84";s:9:"team_name";s:19:"Czech National Team";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:4:"6402";s:13:"expavg_credit";s:1:"3";s:4:"name";s:12:"Pirates@Home";s:3:"url";s:28:"http://pirates.spy-hill.net/";s:2:"id";s:4:"6953";s:11:"create_time";s:10:"1197797524";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"65";s:9:"team_name";s:19:"Czech National Team";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:1:"3";s:13:"expavg_credit";d:0;s:4:"name";s:14:"SETI@home Beta";s:3:"url";s:37:"http://setiweb.ssl.berkeley.edu/beta/";s:2:"id";s:4:"7980";s:11:"create_time";s:10:"1197797531";s:7:"country";s:13:"International";s:7:"team_id";s:2:"40";s:9:"team_name";s:19:"Czech National Team";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:2:"59";s:13:"expavg_credit";d:0;s:4:"name";s:16:"Leiden Classical";s:3:"url";s:26:"http://boinc.gorlaeus.net/";s:2:"id";s:5:"11593";s:11:"create_time";s:10:"1197797521";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"60";s:9:"team_name";s:19:"Czech National Team";}i:14;O:8:"stdClass":9:{s:12:"total_credit";s:6:"507125";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"20788";s:11:"create_time";s:10:"1171569453";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}i:15;O:8:"stdClass":9:{s:12:"total_credit";s:6:"466607";s:13:"expavg_credit";s:3:"723";s:4:"name";s:19:"Chess960@Home Alpha";s:3:"url";s:36:"http://www.chess960athome.org/alpha/";s:2:"id";s:4:"7275";s:11:"create_time";s:10:"1172168829";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"79";s:9:"team_name";s:19:"Czech National Team";}i:16;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1328";s:13:"expavg_credit";s:1:"1";s:4:"name";s:8:"vtu@home";s:3:"url";s:30:"http://boinc.vtu.lt/vtuathome/";s:2:"id";s:4:"1960";s:11:"create_time";s:10:"1197797581";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"43";s:9:"team_name";s:19:"Czech National Team";}i:17;O:8:"stdClass":9:{s:12:"total_credit";s:2:"34";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"41071";s:11:"create_time";s:10:"1197797532";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:3:"125";s:9:"team_name";s:19:"Czech National Team";}i:18;O:8:"stdClass":9:{s:12:"total_credit";s:3:"121";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"16441";s:11:"create_time";s:10:"1249099439";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"83";s:9:"team_name";s:19:"Czech National Team";}i:19;O:8:"stdClass":9:{s:12:"total_credit";s:2:"24";s:13:"expavg_credit";d:0;s:4:"name";s:13:"proteins@home";s:3:"url";s:44:"http://bioc.polytechnique.fr/proteinsathome/";s:2:"id";s:5:"17304";s:11:"create_time";s:10:"1201925005";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:3:"160";s:9:"team_name";s:19:"Czech National Team";}i:20;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1298877";s:13:"expavg_credit";s:4:"1088";s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:5:"13267";s:11:"create_time";s:10:"1197797474";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"54";s:9:"team_name";s:19:"Czech National Team";}i:21;O:8:"stdClass":9:{s:12:"total_credit";s:5:"44480";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Cosmology@Home";s:3:"url";s:31:"http://www.cosmologyathome.org/";s:2:"id";s:4:"4630";s:11:"create_time";s:10:"1197797519";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"52";s:9:"team_name";s:19:"Czech National Team";}i:22;O:8:"stdClass":7:{s:12:"total_credit";s:3:"172";s:13:"expavg_credit";d:0;s:4:"name";s:35:"Distributed Rainbow Table Generator";s:3:"url";s:46:"http://boinc.freerainbowtables.com/distrrtgen/";s:2:"id";s:5:"12692";s:11:"create_time";s:10:"1295683526";s:7:"country";s:14:"Czech Republic";}i:23;O:8:"stdClass":8:{s:12:"total_credit";s:1:"1";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:4:"2167";s:11:"create_time";s:10:"1198960434";s:7:"team_id";s:2:"30";s:9:"team_name";s:19:"Czech National Team";}i:24;O:8:"stdClass":9:{s:12:"total_credit";s:2:"81";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:4:"1537";s:11:"create_time";s:10:"1197797564";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}i:25;O:8:"stdClass":9:{s:12:"total_credit";s:5:"19994";s:13:"expavg_credit";d:0;s:4:"name";s:11:"Enigma@Home";s:3:"url";s:28:"http://www.enigmaathome.net/";s:2:"id";s:3:"637";s:11:"create_time";s:10:"1190662992";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"32";s:9:"team_name";s:19:"Czech National Team";}i:26;O:8:"stdClass":9:{s:12:"total_credit";s:3:"211";s:13:"expavg_credit";d:0;s:4:"name";s:9:"yoyo@home";s:3:"url";s:32:"http://www.rechenkraft.net/yoyo/";s:2:"id";s:4:"2123";s:11:"create_time";s:10:"1197797546";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"25";s:9:"team_name";s:19:"Czech National Team";}i:27;O:8:"stdClass":9:{s:12:"total_credit";s:5:"36830";s:13:"expavg_credit";d:0;s:4:"name";s:27:"SHA-1 Collision Search Graz";s:3:"url";s:45:"http://boinc.iaik.tugraz.at/sha1_coll_search/";s:2:"id";s:4:"2738";s:11:"create_time";s:10:"1190741202";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"40";s:9:"team_name";s:19:"Czech National Team";}i:28;O:8:"stdClass":9:{s:12:"total_credit";s:3:"174";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:4:"1652";s:11:"create_time";s:10:"1197797522";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"34";s:9:"team_name";s:19:"Czech National Team";}i:29;O:8:"stdClass":9:{s:12:"total_credit";s:1:"2";s:13:"expavg_credit";d:0;s:4:"name";s:17:"MindModeling@Home";s:3:"url";s:29:"http://mindmodeling.org/beta/";s:2:"id";s:4:"2411";s:11:"create_time";s:10:"1220763352";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"45";s:9:"team_name";s:19:"Czech National Team";}i:30;O:8:"stdClass":9:{s:12:"total_credit";s:5:"22669";s:13:"expavg_credit";d:0;s:4:"name";s:21:"Quake Catcher Network";s:3:"url";s:33:"http://qcn.stanford.edu/qcnalpha/";s:2:"id";s:5:"22105";s:11:"create_time";s:10:"1249099458";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"48";s:9:"team_name";s:19:"Czech National Team";}i:31;O:8:"stdClass":9:{s:12:"total_credit";s:3:"150";s:13:"expavg_credit";d:0;s:4:"name";s:9:"Cels@Home";s:3:"url";s:40:"http://cels-at-home-dev.dyndns.org/cels/";s:2:"id";s:4:"2681";s:11:"create_time";s:10:"1220763393";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"4";s:9:"team_name";s:19:"Czech National Team";}i:32;O:8:"stdClass":9:{s:12:"total_credit";s:3:"355";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Virtual Prairie";s:3:"url";s:38:"http://vcsc.cs.uh.edu/virtual-prairie/";s:2:"id";s:4:"1652";s:11:"create_time";s:10:"1220763477";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"39";s:9:"team_name";s:19:"Czech National Team";}i:33;O:8:"stdClass":9:{s:12:"total_credit";s:2:"31";s:13:"expavg_credit";d:0;s:4:"name";s:9:"IBERCIVIS";s:3:"url";s:29:"http://registro.ibercivis.es/";s:2:"id";s:4:"2873";s:11:"create_time";s:10:"1214105736";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}i:34;O:8:"stdClass":9:{s:12:"total_credit";s:1:"1";s:13:"expavg_credit";d:0;s:4:"name";s:21:"AlmereGrid Boinc Grid";s:3:"url";s:27:"http://boinc.almeregrid.nl/";s:2:"id";s:4:"2519";s:11:"create_time";s:10:"1249099296";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"4";s:9:"team_name";s:19:"Czech National Team";}i:35;O:8:"stdClass":9:{s:12:"total_credit";s:6:"113171";s:13:"expavg_credit";s:3:"197";s:4:"name";s:11:"WUProp@Home";s:3:"url";s:27:"http://wuprop.boinc-af.org/";s:2:"id";s:4:"1317";s:11:"create_time";s:10:"1271594242";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"5";s:9:"team_name";s:19:"Czech National Team";}i:36;O:8:"stdClass":9:{s:12:"total_credit";s:7:"2434484";s:13:"expavg_credit";s:4:"3027";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:4:"9458";s:11:"create_time";s:10:"1254236095";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"83";s:9:"team_name";s:19:"Czech National Team";}i:37;O:8:"stdClass":9:{s:12:"total_credit";s:2:"12";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2560";s:11:"create_time";s:10:"1283061094";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"9";s:9:"team_name";s:19:"Czech National Team";}i:38;O:8:"stdClass":9:{s:12:"total_credit";s:3:"102";s:13:"expavg_credit";d:0;s:4:"name";s:23:"Distributed Data Mining";s:3:"url";s:59:"http://www.distributedDataMining.org/DistributedDataMining/";s:2:"id";s:3:"816";s:11:"create_time";s:10:"1267760539";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}i:39;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1514390";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:4:"1152";s:11:"create_time";s:10:"1249099438";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"5";s:9:"team_name";s:19:"Czech National Team";}i:40;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1101";s:13:"expavg_credit";s:1:"5";s:4:"name";s:21:"Goldbach's Conjecture";s:3:"url";s:23:"http://www.goldbach.pl/";s:2:"id";s:4:"1260";s:11:"create_time";s:10:"1281762694";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"46";s:9:"team_name";s:19:"Czech National Team";}i:41;O:8:"stdClass":9:{s:12:"total_credit";s:1:"5";s:13:"expavg_credit";d:0;s:4:"name";s:8:"CAS@home";s:3:"url";s:28:"http://casathome.ihep.ac.cn/";s:2:"id";s:4:"1526";s:11:"create_time";s:10:"1281291178";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"29";s:9:"team_name";s:19:"Czech National Team";}i:42;O:8:"stdClass":9:{s:12:"total_credit";s:7:"4966341";s:13:"expavg_credit";d:0;s:4:"name";s:10:"DNETC@Home";s:3:"url";s:17:"http://dnetc.net/";s:2:"id";s:3:"870";s:11:"create_time";s:10:"1271184539";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"35";s:9:"team_name";s:19:"Czech National Team";}i:43;O:8:"stdClass":9:{s:12:"total_credit";s:3:"767";s:13:"expavg_credit";s:1:"6";s:4:"name";s:13:"Constellation";s:3:"url";s:43:"http://aerospaceresearch.net/constellation/";s:2:"id";s:4:"3084";s:11:"create_time";s:10:"1314449529";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"70";s:9:"team_name";s:19:"Czech National Team";}i:44;O:8:"stdClass":9:{s:12:"total_credit";s:2:"44";s:13:"expavg_credit";d:0;s:4:"name";s:3:"eOn";s:3:"url";s:32:"http://eon.ices.utexas.edu/eon2/";s:2:"id";s:4:"2248";s:11:"create_time";s:10:"1287946849";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"4";s:9:"team_name";s:19:"Czech National Team";}i:45;O:8:"stdClass":9:{s:12:"total_credit";s:7:"4775117";s:13:"expavg_credit";s:3:"125";s:4:"name";s:8:"AndrOINC";s:3:"url";s:20:"http://androinc.net/";s:2:"id";s:3:"870";s:11:"create_time";s:10:"1271184539";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"35";s:9:"team_name";s:19:"Czech National Team";}i:46;O:8:"stdClass":9:{s:12:"total_credit";s:7:"6251005";s:13:"expavg_credit";s:5:"52795";s:4:"name";s:12:"Moo! Wrapper";s:3:"url";s:19:"http://moowrap.net/";s:2:"id";s:4:"1900";s:11:"create_time";s:10:"1305745021";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:1:"8";s:9:"team_name";s:19:"Czech National Team";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"9";s:11:"create_time";s:10:"1240319427";s:6:"userid";s:2:"20";s:4:"name";s:19:"Czech National Team";s:7:"name_lc";s:19:"czech national team";s:3:"url";s:24:"www.CzechNationalTeam.cz";s:4:"type";s:1:"1";s:9:"name_html";s:101:"<img src='http://www.czechnationalteam.cz/storage/200609221117_logo-cnt---boinc-CZ.jpg' alt='strom' >";s:11:"description";s:2964:"<p style="font-size:large"><big><b> 
+JSME TYM LIDI KTERI SE SNAZI PROSTREDNICTVIM SVYCH POCITACU POMOCI VEDE. 
+</b></big></p> 
+Co vse v nasem tymu naleznete? 
+<ul> 
+<li><a href="http://www.CzechNationalTeam.cz">Tymove stranky</a> - rozsahle informace o BOINC a jeho projektech v cestine 
+</li> 
+<li><a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=3">Clanky</a>, <a href="http://www.czechnationalteam.cz/view.php?cisloclanku=2004060001">odkazy</a>, <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=14">navody a tipy</a>, <a href="http://www.czechnationalteam.cz/download.php">download</a>, ... 
+</li> 
+<li>Velmi aktivni <a href="http://www.forum.czechnationalteam.cz/">forum</a> s diskuzemi vseho druhu (nejen o BOINC), vcetne anglicke sekce</li> 
+<li><a href="http://ibs.wu.cz/cnt/">Tymove statistiky</a> a <a href="http://gallery.czechnationalteam.cz/">galerie</a> 
+</li> 
+<li><a href="http://ibs.wu.cz/cnt/miniteams.htm">Minitymy</a> - prestup celych tymu se zachovanim statistik</li> 
+<li>Tymova tricka, letaky, samolepky, ...</li> 
+<li>Lokalni i republikove tymove srazy a akce</li> 
+<li>Nektere clanky v <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=19">anglictine</a></li> 
+<li> ... 
+</li> 
+</ul> 
+Chcete-li nas podporit, pripojte se k nasemu tymu ve vsech BOINC projektech, ktere pocitate. 
+<br><br> 
+<b>=========================================================</b> 
+<br> 
+
+
+<p style="font-size:large"><big><b> 
+THE PEOPLE IN OUR TEAM ARE TRYING TO HELP SCIENCE BY UTILIZING THEIR COMPUTERS. 
+</b></big></p> 
+
+What will you find in our team? 
+<ul> 
+<li> <a href="http://www.CzechNationalTeam.cz">Team pages</a> - extensive information about BOINC and its projects in Czech 
+</li> 
+<li> <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=3">Articles</a>, <a href="http://www.czechnationalteam.cz/view.php?cisloclanku=2004060001">references</a>, <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=14">guides and hints</a>, <a href="http://www.czechnationalteam.cz/download.php">downloads</a>, ... 
+</li> 
+<li> Very active <a href="http://www.forum.czechnationalteam.cz/">forum</a> with discussions of all kinds (not only BOINC) including English section 
+</li> 
+<li> <a href="http://ibs.wu.cz/cnt/">Team statistics</a> 
+& <a href="http://gallery.czechnationalteam.cz/">Gallery</a></li> 
+<li> <a href="http://ibs.wu.cz/cnt/miniteams.htm">Miniteams</a> - transfer of whole teams while keeping your stats 
+</li> 
+<li> Team t-shirts, flyers, stickers, ... 
+</li> 
+<li> Local and countrywide gatherings and events 
+</li> 
+<li>Some articles in <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=19">English</a></li> 
+<li> ... 
+</li> </ul> 
+If you'd like to give us your support, please join our team in all BOINC projects you crunch.";s:6:"nusers";s:2:"71";s:7:"country";s:14:"Czech Republic";s:12:"total_credit";s:15:"1119394.9460869";s:13:"expavg_credit";s:10:"478.350176";s:11:"expavg_time";s:16:"1317098866.95405";s:7:"seti_id";s:3:"153";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

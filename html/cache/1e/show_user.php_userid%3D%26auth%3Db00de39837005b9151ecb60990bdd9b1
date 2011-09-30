@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1135</id>
+    <cpid>f6a5fdbf4e0742e13e3937b68ed76739</cpid>
+    <create_time>1258593026</create_time>
+    <name>K1atOdessa</name>
+    <country>United States</country>
+    <total_credit>7166.5171644853</total_credit>
+    <expavg_credit>0.048946085248253</expavg_credit>
+    <expavg_time>1314641988</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1465</id>
+        <create_time>1258594632</create_time>
+        <rpc_seqno>789</rpc_seqno>
+        <host_cpid>7b0a034b723e0fa53ecf6bab4e982941</host_cpid>
+        <total_credit>954.677511</total_credit>
+        <expavg_credit>0.071631</expavg_credit>
+        <expavg_time>1304280603.68454</expavg_time>
+        <domain_name>Frank-PC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          440  @ 2.00GHz [Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>1901166344.64957</p_fpops>
+        <p_iops>3884128541.51722</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1466</id>
+        <create_time>1258596203</create_time>
+        <rpc_seqno>8467</rpc_seqno>
+        <host_cpid>b5a846e128ee79360af9caa3d06b53f8</host_cpid>
+        <total_credit>2100.849477</total_credit>
+        <expavg_credit>0.081112</expavg_credit>
+        <expavg_time>1297627502.88589</expavg_time>
+        <domain_name>B002170C9F47D</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1537700660.22808</p_fpops>
+        <p_iops>2989997399.94943</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1467</id>
+        <create_time>1258596706</create_time>
+        <rpc_seqno>2752</rpc_seqno>
+        <host_cpid>617ad1297268c414a0158e8bb04413b5</host_cpid>
+        <total_credit>3291.9178470871</total_credit>
+        <expavg_credit>0.055552</expavg_credit>
+        <expavg_time>1313352903.51994</expavg_time>
+        <domain_name>Kevin-Win7</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2192957113.04236</p_fpops>
+        <p_iops>6606386262.08926</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2500</id>
+        <create_time>1266808203</create_time>
+        <rpc_seqno>49</rpc_seqno>
+        <host_cpid>761de989cf70fa13354c30e487af846d</host_cpid>
+        <total_credit>252.87987</total_credit>
+        <expavg_credit>0.068273</expavg_credit>
+        <expavg_time>1275105603.48911</expavg_time>
+        <domain_name>presarioxp</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [x86 Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1271951225.53255</p_fpops>
+        <p_iops>2374248241.39191</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4448</id>
+        <create_time>1277448583</create_time>
+        <rpc_seqno>1273</rpc_seqno>
+        <host_cpid>555368c9db34e13f4ca817d25ae3442d</host_cpid>
+        <total_credit>566.19245939825</total_credit>
+        <expavg_credit>0.006209364323745</expavg_credit>
+        <expavg_time>1314641988</expavg_time>
+        <domain_name>Kevin-MediaServ</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2628342463.07992</p_fpops>
+        <p_iops>9275110924.90881</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

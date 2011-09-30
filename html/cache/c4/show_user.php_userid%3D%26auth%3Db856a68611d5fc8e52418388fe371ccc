@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2575</id>
+    <cpid>8bb4b0dedcb753c9fb94564259ceab8c</cpid>
+    <create_time>1283233816</create_time>
+    <name>Akribath</name>
+    <country>United States</country>
+    <total_credit>350.98846</total_credit>
+    <expavg_credit>0.066448</expavg_credit>
+    <expavg_time>1289075102.88043</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5253</id>
+        <create_time>1283234067</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>a3509b0a65c248691fe35b78bf0a0de7</host_cpid>
+        <total_credit>107.942559</total_credit>
+        <expavg_credit>0.058392</expavg_credit>
+        <expavg_time>1287865502.85215</expavg_time>
+        <domain_name>JKMarlatt-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3260475220.27956</p_fpops>
+        <p_iops>6331938145.70229</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5254</id>
+        <create_time>1283234090</create_time>
+        <rpc_seqno>95</rpc_seqno>
+        <host_cpid>38f22c5534fd8148f7e5bb4bb3ce8cbc</host_cpid>
+        <total_credit>243.045901</total_credit>
+        <expavg_credit>0.050491</expavg_credit>
+        <expavg_time>1289075103.09428</expavg_time>
+        <domain_name>JKMarlatt-MPC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 720  @ 1.60GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1635898172.77469</p_fpops>
+        <p_iops>5336933293.39396</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

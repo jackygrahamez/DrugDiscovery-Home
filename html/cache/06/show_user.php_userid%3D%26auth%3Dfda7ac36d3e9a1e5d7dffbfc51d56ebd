@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4153</id>
+    <cpid>702d920ebe4d3ec6abcb9986d7fa5b00</cpid>
+    <create_time>1296985153</create_time>
+    <name>IT068165</name>
+    <country>International</country>
+    <total_credit>49.066264</total_credit>
+    <expavg_credit>0.085165</expavg_credit>
+    <expavg_time>1310933702.71524</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7638</id>
+        <create_time>1296988330</create_time>
+        <rpc_seqno>17192</rpc_seqno>
+        <host_cpid>c6055ee466d427ecc4fcb1eaf31aba57</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296988330</expavg_time>
+        <domain_name>graziella</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T1300  @ 1.66GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1283834489.02661</p_fpops>
+        <p_iops>3152029407.99746</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7701</id>
+        <create_time>1297532040</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0e512c3fe11e41c6db9120bab8038235</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297532040</expavg_time>
+        <domain_name>it068165-laptop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>1910768656.01564</p_fpops>
+        <p_iops>4610646844.64739</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-31-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7705</id>
+        <create_time>1297549288</create_time>
+        <rpc_seqno>923</rpc_seqno>
+        <host_cpid>f833e3eacad4065db2e5bdcc92bbbf5e</host_cpid>
+        <total_credit>49.066264</total_credit>
+        <expavg_credit>0.085167</expavg_credit>
+        <expavg_time>1310933703.10483</expavg_time>
+        <domain_name>R80TCB3-2522AT6</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2539962135.22388</p_fpops>
+        <p_iops>2764705559.81414</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7814</id>
+        <create_time>1298156432</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>7880aea499aa0924981be1f5afb0a428</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298156432</expavg_time>
+        <domain_name>DARIO-T60</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T1300  @ 1.66GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1194464704.29929</p_fpops>
+        <p_iops>3139397455.75489</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8637</id>
+        <create_time>1304423379</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>ba37bc48e70b35356642b5389cac10bd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1304423379</expavg_time>
+        <domain_name>bpc4</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [Family 15 Model 6 Stepping 4]</p_model>
+        <p_fpops>1534591194.96855</p_fpops>
+        <p_iops>2767898401.91406</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

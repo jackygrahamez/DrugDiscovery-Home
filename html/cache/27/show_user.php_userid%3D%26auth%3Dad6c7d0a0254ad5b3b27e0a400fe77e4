@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2703</id>
+    <cpid>17832c00cc008797bc6153ceebe92434</cpid>
+    <create_time>1285161953</create_time>
+    <name>fabag</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1285161953</expavg_time>
+    <teamid>6</teamid>
+    <url>www.eurobilltracker.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5596</id>
+        <create_time>1285430485</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>42036b602077b3bc420a53cded5edcfc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285430485</expavg_time>
+        <domain_name>Rechner</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.26GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5627</id>
+        <create_time>1285589292</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>b2adf58badfc4bcc8a411e6deaf42fc2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285589292</expavg_time>
+        <domain_name>unten-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [x86 Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1384223918.57506</p_fpops>
+        <p_iops>2174454646.64729</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2560</id>
+    <cpid>78d4ee93753b6f6f8c191f6181bc2997</cpid>
+    <create_time>1283061094</create_time>
+    <name>tatik</name>
+    <country>Czech Republic</country>
+    <total_credit>12.607394</total_credit>
+    <expavg_credit>0.08472</expavg_credit>
+    <expavg_time>1292703903.11528</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>5219</id>
+        <create_time>1283061110</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>850e338a88ca6267014069e2887f6117</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283061110</expavg_time>
+        <domain_name>hp-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [AMD64 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2846030972.81504</p_fpops>
+        <p_iops>6129743468.75134</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6578</id>
+        <create_time>1290929038</create_time>
+        <rpc_seqno>67</rpc_seqno>
+        <host_cpid>d6e60f81ff48d6749b9be78750b8c2df</host_cpid>
+        <total_credit>12.607394</total_credit>
+        <expavg_credit>0.082035</expavg_credit>
+        <expavg_time>1293308703.65229</expavg_time>
+        <domain_name>Tomas-PC</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II N850 Triple-Core Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2255918888.75705</p_fpops>
+        <p_iops>5028388880.81643</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9271</id>
+        <create_time>1308503718</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>d6e60f81ff48d6749b9be78750b8c2df</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308503718</expavg_time>
+        <domain_name>Tomas-PC</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II N850 Triple-Core Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2206424078.98509</p_fpops>
+        <p_iops>5298023036.54691</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

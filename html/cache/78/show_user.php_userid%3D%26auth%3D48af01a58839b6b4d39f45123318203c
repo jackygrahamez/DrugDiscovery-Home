@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2501</id>
+    <cpid>d1e4b7de3df92271a56cd1657ffcf514</cpid>
+    <create_time>1282325131</create_time>
+    <name>protion</name>
+    <country>France</country>
+    <total_credit>1190.25158</total_credit>
+    <expavg_credit>0.065562</expavg_credit>
+    <expavg_time>1315851902.50262</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5117</id>
+        <create_time>1282325919</create_time>
+        <rpc_seqno>125</rpc_seqno>
+        <host_cpid>7f264d3d81ccfd2adc5b8273ab6525f2</host_cpid>
+        <total_credit>0.039257</total_credit>
+        <expavg_credit>0.002536</expavg_credit>
+        <expavg_time>1285894030.89682</expavg_time>
+        <domain_name>Christian-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1964855256.47537</p_fpops>
+        <p_iops>3966343622.37207</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5754</id>
+        <create_time>1286480517</create_time>
+        <rpc_seqno>1065</rpc_seqno>
+        <host_cpid>34c533fa1f762d05bd200c81cfadd457</host_cpid>
+        <total_credit>1190.212323</total_credit>
+        <expavg_credit>0.065562</expavg_credit>
+        <expavg_time>1315851902.70791</expavg_time>
+        <domain_name>Christian-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2992585394.09437</p_fpops>
+        <p_iops>9654652088.55971</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

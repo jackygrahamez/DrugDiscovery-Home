@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1397</id>
+    <cpid>1b6981d52a2f26ddda053ad8df2a9628</cpid>
+    <create_time>1266594095</create_time>
+    <name>Prime Lemur</name>
+    <country>Australia</country>
+    <total_credit>19891.366785</total_credit>
+    <expavg_credit>0.092243</expavg_credit>
+    <expavg_time>1277524803.6944</expavg_time>
+    <teamid>15</teamid>
+    <url>hydrogenathome.org/</url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>2436</id>
+        <create_time>1266594247</create_time>
+        <rpc_seqno>1224</rpc_seqno>
+        <host_cpid>38fcce5eb578ec37c5a7fb3bcc90fd0f</host_cpid>
+        <total_credit>17042.380127</total_credit>
+        <expavg_credit>0.092311</expavg_credit>
+        <expavg_time>1276315203.62186</expavg_time>
+        <domain_name>loris</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2958300101.18445</p_fpops>
+        <p_iops>6004421186.72645</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3046</id>
+        <create_time>1268922733</create_time>
+        <rpc_seqno>89</rpc_seqno>
+        <host_cpid>941492b60186117344cb3209f7b214f8</host_cpid>
+        <total_credit>2848.986658</total_credit>
+        <expavg_credit>0.06895</expavg_credit>
+        <expavg_time>1277524804.5378</expavg_time>
+        <domain_name>Lemur</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2005608326.65263</p_fpops>
+        <p_iops>5366074256.90527</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

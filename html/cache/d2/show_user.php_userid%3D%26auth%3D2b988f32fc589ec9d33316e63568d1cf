@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2708</id>
+    <cpid>b62bc756a02664480687f6ade054caa0</cpid>
+    <create_time>1285232439</create_time>
+    <name>NTech Cluster</name>
+    <country>United States</country>
+    <total_credit>213.266819</total_credit>
+    <expavg_credit>0.065363</expavg_credit>
+    <expavg_time>1311038566.5898</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5608</id>
+        <create_time>1285468271</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>a133fd9db880d2ab864c0245dcfa8863</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285468271</expavg_time>
+        <domain_name>Dell-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 4 Stepping 7]</p_model>
+        <p_fpops>1147803500.33701</p_fpops>
+        <p_iops>3321543782.6058</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>25%</venue>
+    </host>
+    <host>
+        <id>5815</id>
+        <create_time>1287005914</create_time>
+        <rpc_seqno>34</rpc_seqno>
+        <host_cpid>05fc695e0076ad04f4fc76e5d34b177d</host_cpid>
+        <total_credit>0.01663</total_credit>
+        <expavg_credit>0.001365</expavg_credit>
+        <expavg_time>1287344170.52326</expavg_time>
+        <domain_name>Dell-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 4 Stepping 7]</p_model>
+        <p_fpops>1237343098.29936</p_fpops>
+        <p_iops>3581085177.11626</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5569</id>
+        <create_time>1285232654</create_time>
+        <rpc_seqno>240</rpc_seqno>
+        <host_cpid>56e7d642cac776c7873d5110acc0bd4e</host_cpid>
+        <total_credit>20.538651</total_credit>
+        <expavg_credit>0.071751</expavg_credit>
+        <expavg_time>1293308703.49635</expavg_time>
+        <domain_name>Beast-N1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 FX-62 Dual Core Processor [Family 15 Model 67 Stepping 2]</p_model>
+        <p_fpops>2672458335.77673</p_fpops>
+        <p_iops>6370674696.40384</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5707</id>
+        <create_time>1286125590</create_time>
+        <rpc_seqno>393</rpc_seqno>
+        <host_cpid>5ebdd373027b66e4dd718f4ae9397a40</host_cpid>
+        <total_credit>192.685166</total_credit>
+        <expavg_credit>0.065363</expavg_credit>
+        <expavg_time>1311038566.70113</expavg_time>
+        <domain_name>OfficePC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2060426352.57833</p_fpops>
+        <p_iops>3818845029.5444</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>LoTech</venue>
+    </host>
+    <host>
+        <id>5570</id>
+        <create_time>1285234149</create_time>
+        <rpc_seqno>98</rpc_seqno>
+        <host_cpid>1a0709cd7123121bca37a42ee12c2b45</host_cpid>
+        <total_credit>0.026372</total_credit>
+        <expavg_credit>0.001829</expavg_credit>
+        <expavg_time>1285896878.42766</expavg_time>
+        <domain_name>Nate-Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Dual-Core Mobile RM-72 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1918114622.52036</p_fpops>
+        <p_iops>4361122864.17538</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>LoTech</venue>
+    </host>
+    <host>
+        <id>5571</id>
+        <create_time>1285234514</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>20e05a20c7f7280d603c4fcddc4be20e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285234514</expavg_time>
+        <domain_name>BRENDALAPTOP</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1943677233.08688</p_fpops>
+        <p_iops>3959988527.04731</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5622</id>
+        <create_time>1285558866</create_time>
+        <rpc_seqno>73</rpc_seqno>
+        <host_cpid>ac7780ea4790a8ab0731851180bb7bfb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285558866</expavg_time>
+        <domain_name>Frankie</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm)  [Family 6 Model 6 Stepping 2]</p_model>
+        <p_fpops>1188118811.88119</p_fpops>
+        <p_iops>1944925603.70762</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue>LoTech</venue>
+    </host>
+</user>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1623</id>
+    <cpid>f9169c3d2b206d7ecadab0ab6444656d</cpid>
+    <create_time>1269008634</create_time>
+    <name>blackheeler</name>
+    <country>Australia</country>
+    <total_credit>3695.415768</total_credit>
+    <expavg_credit>0.096909</expavg_credit>
+    <expavg_time>1307304603.00238</expavg_time>
+    <teamid>559</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>3457</id>
+        <create_time>1271254423</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>3e5ba403bc64891de5c9514306383d77</host_cpid>
+        <total_credit>180.281818</total_credit>
+        <expavg_credit>0.062636</expavg_credit>
+        <expavg_time>1276315203.64756</expavg_time>
+        <domain_name>csp</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3500+ [x86 Family 15 Model 7 Stepping 10]</p_model>
+        <p_fpops>2170522979.39778</p_fpops>
+        <p_iops>3969543647.68149</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>3056</id>
+        <create_time>1269008652</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>1ff3a27a00221641a0c7dd0596a0d29a</host_cpid>
+        <total_credit>78.486882</total_credit>
+        <expavg_credit>0.097947</expavg_credit>
+        <expavg_time>1273291202.43603</expavg_time>
+        <domain_name>chris</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2330462702.02395</p_fpops>
+        <p_iops>5263660767.50366</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4131</id>
+        <create_time>1275696481</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>41bd9159a8ebf3357fbf522c6813cc99</host_cpid>
+        <total_credit>42.709609</total_credit>
+        <expavg_credit>0.076939</expavg_credit>
+        <expavg_time>1279339802.49893</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3500+ [Family 15 Model 7 Stepping 10]</p_model>
+        <p_fpops>1756198347.10744</p_fpops>
+        <p_iops>8571741866.08742</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5205</id>
+        <create_time>1282962618</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>cacf339c7095228ea67ee8b90814727c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282962618</expavg_time>
+        <domain_name>preedy-mac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7550 @ 2.26GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2635363044.20855</p_fpops>
+        <p_iops>5810127484.50053</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6940</id>
+        <create_time>1292718561</create_time>
+        <rpc_seqno>1887</rpc_seqno>
+        <host_cpid>facfc93f9df0ac8d573e1400ae380f86</host_cpid>
+        <total_credit>3393.937459</total_credit>
+        <expavg_credit>0.096909</expavg_credit>
+        <expavg_time>1307304603.30993</expavg_time>
+        <domain_name>Chris-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3004085567.23501</p_fpops>
+        <p_iops>9597565957.66756</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

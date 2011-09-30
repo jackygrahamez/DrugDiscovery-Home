@@ -1,0 +1,180 @@
+                         :-)  G  R  O  M  A  C  S  (-:
+
+               Go Rough, Oppose Many Angry Chinese Serial killers
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                               :-)  pdb2gmx  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f       out1.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -o       conf.gro  Output       Structure file: gro g96 pdb
+  -p      topol.top  Output       Topology file
+  -i      posre.itp  Output       Include file for topology
+  -n      clean.ndx  Output, Opt. Index file
+  -q      clean.pdb  Output, Opt. Structure file: gro g96 pdb
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]merge   bool   no      Merge chains into one molecule definition
+-ff          string amber99sb  Force field, interactive by default. Use -h
+                            for information.
+-water       enum   spce    Water model to use: with GROMOS we recommend SPC,
+                            with OPLS, TIP4P: spc, spce, tip3p, tip4p, tip5p
+                            or f3c
+-[no]inter   bool   no      Set the next 8 options to interactive
+-[no]ss      bool   no      Interactive SS bridge selection
+-[no]ter     bool   no      Interactive termini selection, iso charged
+-[no]lys     bool   no      Interactive Lysine selection, iso charged
+-[no]arg     bool   no      Interactive Arganine selection, iso charged
+-[no]asp     bool   no      Interactive Aspartic Acid selection, iso charged
+-[no]glu     bool   no      Interactive Glutamic Acid selection, iso charged
+-[no]gln     bool   no      Interactive Glutamine selection, iso neutral
+-[no]his     bool   no      Interactive Histidine selection, iso checking
+                            H-bonds
+-angle       real   135     Minimum hydrogen-donor-acceptor angle for a
+                            H-bond (degrees)
+-dist        real   0.3     Maximum donor-acceptor distance for a H-bond (nm)
+-[no]una     bool   no      Select aromatic rings with united CH atoms on
+                            Phenylalanine, Tryptophane and Tyrosine
+-[no]ignh    bool   yes     Ignore hydrogen atoms that are in the pdb file
+-[no]missing bool   no      Continue when atoms are missing, dangerous
+-[no]v       bool   no      Be slightly more verbose in messages
+-posrefc     real   1000    Force constant for position restraints
+-vsite       enum   none    Convert atoms to virtual sites: none, hydrogens
+                            or aromatics
+-[no]heavyh  bool   no      Make hydrogen atoms heavy
+-[no]deuterate bool no      Change the mass of hydrogens to 2 amu
+
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/xlateat.dat
+26 out of 26 lines of xlateat.dat converted succesfully
+WARNING: there were 1669 atoms with zero occupancy and 3 atoms with
+         occupancy unequal to one (out of 1672 atoms). Check your pdb file.
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.atp
+Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Residue 1Residue 2Residue 3Residue 4Residue 5Residue 6Residue 7Residue 8Residue 9Residue 10Residue 11Residue 12Residue 13Residue 14Residue 15Residue 16Residue 17Residue 18Residue 19Residue 20Residue 21Residue 22Residue 23Residue 24Residue 25Residue 26Residue 27Residue 28Residue 29Residue 30Residue 31Residue 32Residue 33Residue 34Residue 35Residue 36Residue 37Residue 38Residue 39Residue 40Residue 41Residue 42Residue 43Residue 44Residue 45Residue 46Residue 47Residue 48Residue 49Residue 50Residue 51Residue 52Residue 53Residue 54Residue 55Residue 56Residue 57Residue 58Residue 59Residue 60Residue 61Residue 62Residue 63Residue 64Residue 65Residue 66Residue 67Residue 68Residue 69Residue 70Residue 71Residue 72Residue 73Residue 74Residue 75Residue 76Residue 77Residue 78Residue 79Residue 80Residue 81Residue 82Residue 83Residue 84Residue 85Residue 86Residue 87Residue 88Residue 89Residue 90Residue 91Residue 92Residue 93Residue 94Residue 95Residue 96Residue 97Residue 98Residue 99Residue 100Residue 101Residue 102Residue 103Residue 104Residue 105Residue 106Residue 107Residue 108Residue 109Residue 110Residue 111Residue 112Residue 113Residue 114Residue 115Residue 116Residue 117Residue 118Residue 119Residue 120Residue 121Residue 122Residue 123Residue 124Residue 125Residue 126Residue 127Residue 128Residue 129Residue 130Residue 131Residue 132Residue 133Residue 134Residue 135Residue 136Residue 137Residue 138Residue 139Residue 140Residue 141
+Sorting it all out...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.hdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-n.tdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-c.tdb
+
+Back Off! I just backed up topol.top to ./#topol.top.10#
+There are 308 donors and 304 acceptors
+There are 372 hydrogen bonds
+Opening library file /usr/local/gromacs/share/gromacs/top/specbond.dat
+7 out of 7 lines of specbond.dat converted succesfully
+Special Atom Distance matrix:
+                   MET19   MET53   MET79  MET123  MET157
+                   SD145   SD418   SD620   SD981  SD1254
+   MET53   SD418   1.146
+   MET79   SD620   2.095   1.079
+  MET123   SD981   3.868   3.884   4.688
+  MET157  SD1254   3.586   3.321   3.908   1.298
+  MET183  SD1456   4.553   4.058   4.406   2.155   1.191
+Making bonds...
+Warning: Long Bond (1-5 = 0.360867 nm)
+Warning: Long Bond (5-8 = 0.331965 nm)
+Warning: Long Bond (8-9 = 0.806712 nm)
+Warning: Long Bond (8-10 = 4.50039 nm)
+Warning: Long Bond (8-10 = 4.50039 nm)
+Warning: Long Bond (28-30 = 0.442256 nm)
+Warning: Long Bond (141-143 = 0.38501 nm)
+Warning: Long Bond (371-373 = 0.404809 nm)
+Warning: Long Bond (510-512 = 0.322489 nm)
+Warning: Long Bond (672-674 = 0.406917 nm)
+Warning: Long Bond (814-816 = 0.332808 nm)
+Warning: Long Bond (903-905 = 0.363833 nm)
+Warning: Long Bond (1041-1043 = 0.420286 nm)
+Warning: Long Bond (1095-1097 = 0.328489 nm)
+Warning: Long Bond (1192-1194 = 0.370099 nm)
+Warning: Long Bond (1473-1475 = 0.31987 nm)
+Warning: Long Bond (1488-1490 = 0.325985 nm)
+Warning: Long Bond (1546-1548 = 0.432645 nm)
+Warning: Long Bond (1614-1616 = 0.483333 nm)
+Warning: Long Bond (1668-1670 = 3.29668 nm)
+Warning: Long Bond (1695-1697 = 0.432737 nm)
+Warning: Long Bond (1808-1810 = 0.329977 nm)
+Warning: Long Bond (2038-2040 = 0.384105 nm)
+Warning: Long Bond (2177-2179 = 0.303148 nm)
+Warning: Long Bond (2339-2341 = 0.405612 nm)
+Warning: Long Bond (2481-2483 = 0.352237 nm)
+Warning: Long Bond (2570-2572 = 0.420656 nm)
+Warning: Long Bond (2708-2710 = 0.468282 nm)
+Warning: Long Bond (2762-2764 = 0.344908 nm)
+Warning: Long Bond (2859-2861 = 0.372508 nm)
+Warning: Long Bond (3140-3142 = 0.340818 nm)
+Warning: Long Bond (3155-3157 = 0.343524 nm)
+Warning: Long Bond (3213-3215 = 0.388182 nm)
+Warning: Long Bond (3281-3283 = 0.455832 nm)
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Number of bonds was 3380, now 3379
+Generating angles, dihedrals and pairs...
+Before cleaning: 8910 pairs
+Before cleaning: 9020 dihedrals
+Keeping all generated dihedrals
+There are 9020 dihedrals,  686 impropers, 6125 angles
+          8844 pairs,     3379 bonds and     0 virtual sites
+Total mass 23663.292 a.m.u.
+Total charge -3.000 e
+Writing topology
+
+Back Off! I just backed up posre.itp to ./#posre.itp.6#
+
+Writing coordinate file...
+
+Back Off! I just backed up conf.gro to ./#conf.gro.6#
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Reading out1.pdb...
+Read 1672 atoms
+Analyzing pdb file
+There are 1 chains and 0 blocks of water and 208 residues with 1672 atoms
+
+  chain  #res #atoms
+  1 ' '   208   1672  
+
+Reading residue database... (ffamber99sb)
+Processing chain 1 (1672 atoms, 208 residues)
+Checking for duplicate atoms....
+N-terminus: none
+C-terminus: none
+Now there are 208 residues with 3336 atoms
+		--------- PLEASE NOTE ------------
+You have succesfully generated a topology from: out1.pdb.
+The amber99sb force field and the spce water model are used.
+Note that the default mechanism for selecting a force fields has
+changed, starting from GROMACS version 3.2.0
+		--------- ETON ESAELP ------------
+
+gcq#35: "There's No Room For the Weak" (Joy Division)
+

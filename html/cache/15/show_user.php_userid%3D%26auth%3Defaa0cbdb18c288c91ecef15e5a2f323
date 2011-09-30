@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1837</id>
+    <cpid>0775be67a5839c3a3accc35f34816178</cpid>
+    <create_time>1271267144</create_time>
+    <name>buxx</name>
+    <country>France</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1271267144</expavg_time>
+    <teamid>0</teamid>
+    <url>bux.fr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3481</id>
+        <create_time>1271267795</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>893adc10112c0668efbc3074a23f55bb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271267795</expavg_time>
+        <domain_name>citron</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T2370  @ 1.73GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1486977326.23645</p_fpops>
+        <p_iops>3952676394.59435</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3482</id>
+        <create_time>1271267807</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>d5818f9b31df65222dd8aac3508dc3d0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271267807</expavg_time>
+        <domain_name>peyruis.bux.fr</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 2800+ [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1638297872.34043</p_fpops>
+        <p_iops>5100427573.79939</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3483</id>
+        <create_time>1271267972</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>2e673c7bf39f36c8b10ff42edf040079</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271267972</expavg_time>
+        <domain_name>pasteque</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6420  @ 2.13GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1868828492.83435</p_fpops>
+        <p_iops>5173450701.01564</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

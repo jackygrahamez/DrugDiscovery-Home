@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1554</id>
+    <cpid>c8772f19cf92dc87648745e54ef216b4</cpid>
+    <create_time>1268089772</create_time>
+    <name>Danilo Pauls</name>
+    <country>Germany</country>
+    <total_credit>128.2772</total_credit>
+    <expavg_credit>0.087557</expavg_credit>
+    <expavg_time>1274500802.50857</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2930</id>
+        <create_time>1268213088</create_time>
+        <rpc_seqno>224</rpc_seqno>
+        <host_cpid>abf52178f1e047a6aa54fd94b6166fe5</host_cpid>
+        <total_credit>128.2772</total_credit>
+        <expavg_credit>0.088335</expavg_credit>
+        <expavg_time>1274500802.76804</expavg_time>
+        <domain_name>DaniloPauls-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2583247157.56139</p_fpops>
+        <p_iops>7754084730.14217</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7185</id>
+        <create_time>1294219864</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>45f2273fb2edcc87bb549dc50a4e8167</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294219864</expavg_time>
+        <domain_name>Danilo-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2415805931.20539</p_fpops>
+        <p_iops>7020950227.00409</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

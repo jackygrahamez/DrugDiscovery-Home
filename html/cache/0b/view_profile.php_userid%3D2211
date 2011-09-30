@@ -1,0 +1,112 @@
+O:8:"stdClass":4:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"2211";s:11:"create_time";s:10:"1277284550";s:10:"email_addr";s:16:"darkpapa@gmx.net";s:4:"name";s:12:"[SG]Darkpapa";s:13:"authenticator";s:32:"674431edbca4cda74b5127dae4a4a2c6";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"35315";s:12:"total_credit";s:12:"21753.121249";s:13:"expavg_credit";s:8:"0.052476";s:11:"expavg_time";s:16:"1306095002.95975";s:12:"global_prefs";s:912:"<global_preferences>
+    <source_project>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/</source_project>
+    <source_scheduler>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion_cgi/cgi</source_scheduler>
+<mod_time>1290139020</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<work_buf_min_days>2</work_buf_min_days>
+<max_cpus>4</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>2</disk_interval>
+<disk_max_used_gb>1</disk_max_used_gb>
+<disk_max_used_pct>2</disk_max_used_pct>
+<disk_min_free_gb>1</disk_min_free_gb>
+<vm_max_used_pct>2</vm_max_used_pct>
+<ram_max_used_busy_pct>2</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>2</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>200</resource_share>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:19:"www.seti-germany.de";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"e9bdb9a7d195ebf32c587c587d4d55d6";s:11:"passwd_hash";s:32:"b4af25c08b2e4b0c8e18918078dac415";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"6";s:11:"create_time";s:10:"1240319416";s:6:"userid";s:3:"537";s:4:"name";s:12:"SETI.Germany";s:7:"name_lc";s:12:"seti.germany";s:3:"url";s:19:"www.seti-germany.de";s:4:"type";s:1:"1";s:9:"name_html";s:124:"<a href='http://www.seti-germany.de/'><img src='http://www.seti-germany.de/sgwiki/images/a/a5/SG-Banner_official.png' /></a>";s:11:"description";s:1674:"SETI.Germany ist das groesste deutsche Team beim wissenschaftlichen Projekt SETI@home, der Suche nach ausserirdischer Intelligenz, durchgefuehrt an der Universitaet von Kalifornien, Berkeley. <br>
+<br>
+Neben Seti@home ist unser Team nun auch bei vielen anderen Projekten des Public Distributed Computing (Oeffentliches Verteiltes Rechnen) unter dem Namen SETI.Germany vertreten.
+Die Themen der Projekte reichen von Astrophysik und Molekularbiologie ueber Chemie, Mathematik, Medizin, Rendering, Verschluesselung bis zu angewandter Informatik. <br>
+<br>
+Auf unserer <a href="http://www.seti-germany.de/"> Webseite</a> bieten wir weiterfuehrende Informationen zu diesen Projekten u.a. in einem grossen <a href="http://www.seti-germany.de/forum"> Forensystem</a>. Das Angebot fuer unsere Mitglieder und Gaeste umfasst ausserdem eine grosse <a href="http://www.seti-germany.de/wiki"> Wiki</a>, wo die meisten Projekte bereits aufgefuehrt sind, weiterhin eine <a href="http://www.seti-germany.de/chatstats"> Chatfunktion</a>, ausfuehrliche Statistiken zu den meisten Projekten mit SETI.Germany-Beteiligung und mehr...<br>
+<br>
+Weiterhin helfen wir dabei, die SETI@home Berechnung auf deinem PC zu optimieren, wodurch eine Beschleunigung der Berechnung von bis zu 40% moeglich wird. <br>
+Schau doch mal bei uns vorbei, wir helfen gerne weiter... <br><br>
+Folge uns bei <a href="http://twitter.com/SETIGermany"> Twitter</a> oder schau auf unserer <a href="http://www.facebook.com/pages/SETIGermany/177588328907"> Facebook-Seite </a> vorbei.
+<br><br>
+In diesen Projekten ist SETI.Germany aktiv:
+<br><br>
+<img src="http://www.boincstats.com/signature/team_4_banner.gif">";s:6:"nusers";s:2:"98";s:7:"country";s:7:"Germany";s:12:"total_credit";s:15:"1203587.4760696";s:13:"expavg_credit";s:10:"441.286035";s:11:"expavg_time";s:16:"1317312690.71415";s:7:"seti_id";s:3:"148";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}s:7:"friends";a:1:{i:0;O:9:"BoincUser":28:{s:2:"id";s:3:"542";s:11:"create_time";s:10:"1241474262";s:10:"email_addr";s:29:"verteiltes-rechnen@poheda.com";s:4:"name";s:6:"PoHeDa";s:13:"authenticator";s:32:"ac9f1a7417c6e045bbd4c82c0f45722b";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"29342";s:12:"total_credit";s:10:"863.387215";s:13:"expavg_credit";s:8:"0.051658";s:11:"expavg_time";s:16:"1252071303.39148";s:12:"global_prefs";s:2329:"<global_preferences>
+    <source_project>http://spin.fh-bielefeld.de/</source_project>
+    <source_scheduler>http://spin.fh-bielefeld.de/spin_cgi/cgi</source_scheduler>
+<mod_time>1299732199</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>6000</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>20</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>0</disk_interval>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_min_free_gb>1</disk_min_free_gb>
+<vm_max_used_pct>0</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+<venue name="home">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>20</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+<venue name="school">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<confirm_before_connecting/>
+<hangup_if_dialed/>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>0</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:157:"<project_preferences>
+<resource_share>1</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:13:"vr.poheda.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"92ba3ca0be365fa75a197bb58c1b4e95";s:11:"passwd_hash";s:32:"e1c6b6e563e16f7d6b3b829561cf1b21";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}}

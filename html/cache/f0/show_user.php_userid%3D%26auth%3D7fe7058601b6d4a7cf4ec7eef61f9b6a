@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4893</id>
+    <cpid>4f0775463f348c969d2567ffcce1a505</cpid>
+    <create_time>1313400843</create_time>
+    <name>asolepascual</name>
+    <country>Spain</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1313400843</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9789</id>
+        <create_time>1313402203</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>01974157cf65af670eded0b45fbf8e34</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313402203</expavg_time>
+        <domain_name>PORTATIL</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.60GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1385411624.12359</p_fpops>
+        <p_iops>2527891844.86148</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9791</id>
+        <create_time>1313409548</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>dacc49a037b2a2c9bd2f259c0c02bc56</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313409548</expavg_time>
+        <domain_name>EH3PA-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3400  @ 2.16GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2068672412.82526</p_fpops>
+        <p_iops>4397772289.5033</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>9800</id>
+        <create_time>1313485447</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>317b483b7e19f398d91fa49722636f03</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313485447</expavg_time>
+        <domain_name>DIRECTE2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1883827211.6086</p_fpops>
+        <p_iops>3755795387.63538</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

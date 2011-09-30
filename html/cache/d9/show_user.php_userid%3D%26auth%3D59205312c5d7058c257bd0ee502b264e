@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4132</id>
+    <cpid>1a5850d306575a1858189efe3d805dcb</cpid>
+    <create_time>1296575829</create_time>
+    <name>RadDoc</name>
+    <country>United States</country>
+    <total_credit>237.14271</total_credit>
+    <expavg_credit>0.06172</expavg_credit>
+    <expavg_time>1314562503.3061</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7583</id>
+        <create_time>1296575840</create_time>
+        <rpc_seqno>161</rpc_seqno>
+        <host_cpid>ec79a6a333f8b72cedf62444d38191fd</host_cpid>
+        <total_credit>117.112881</total_credit>
+        <expavg_credit>0.060025</expavg_credit>
+        <expavg_time>1306095003.50813</expavg_time>
+        <domain_name>rchristenson</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2669543835.34929</p_fpops>
+        <p_iops>6623514333.04099</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>9042</id>
+        <create_time>1307230046</create_time>
+        <rpc_seqno>244</rpc_seqno>
+        <host_cpid>8de7684b279d4b60d581f7d7c00787f3</host_cpid>
+        <total_credit>20.645045</total_credit>
+        <expavg_credit>0.066285</expavg_credit>
+        <expavg_time>1310328902.70456</expavg_time>
+        <domain_name>Karen-Christensons-MacBook.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7550 @ 2.26GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2504477235.2921</p_fpops>
+        <p_iops>5720450805.05119</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>9039</id>
+        <create_time>1307215782</create_time>
+        <rpc_seqno>2927</rpc_seqno>
+        <host_cpid>9237bd69a43c53550f0c210fba3bfc07</host_cpid>
+        <total_credit>58.790442</total_credit>
+        <expavg_credit>0.064789</expavg_credit>
+        <expavg_time>1313957702.75435</expavg_time>
+        <domain_name>RAC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1457092819.61471</p_fpops>
+        <p_iops>2915709077.8932</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9036</id>
+        <create_time>1307209354</create_time>
+        <rpc_seqno>258</rpc_seqno>
+        <host_cpid>2453ad83710166bf394eb8c1c88bb7b6</host_cpid>
+        <total_credit>24.012971</total_credit>
+        <expavg_credit>0.083016</expavg_credit>
+        <expavg_time>1313352903.77885</expavg_time>
+        <domain_name>RHC-parallel.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2722741049.37278</p_fpops>
+        <p_iops>5536053767.19141</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>9040</id>
+        <create_time>1307216965</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>e31b8667b3f5d2499219a4085c35f025</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1307216965</expavg_time>
+        <domain_name>MCWRAD</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2981407449.71128</p_fpops>
+        <p_iops>5416610145.45197</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9041</id>
+        <create_time>1307217625</create_time>
+        <rpc_seqno>87</rpc_seqno>
+        <host_cpid>f6a7de0664ecf9feeff603aa6277f02c</host_cpid>
+        <total_credit>16.581371</total_credit>
+        <expavg_credit>0.076162</expavg_credit>
+        <expavg_time>1310933703.06622</expavg_time>
+        <domain_name>RHC-MCOW</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1478743068.39187</p_fpops>
+        <p_iops>3035699926.37575</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

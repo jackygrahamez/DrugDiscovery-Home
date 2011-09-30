@@ -1,0 +1,758 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to UMSoba</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to UMSoba</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=1&show_all=0&userid=2677>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=1&show_all=1&userid=2677>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=1&userid=2677>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=1&show_all=1&userid=2677>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=1&show_all=1&userid=2677>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=1&show_all=1&userid=2677>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=1&show_all=1&userid=2677>Last contact</a></th>
+<tr class=row1><td>ID: 5475
+        <br><a href=show_host_detail.php?hostid=5475>Details</a> |
+        <a href=results.php?hostid=5475>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=3a1f5ec8944b2f394aeb195dd9ab3df1><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=3a1f5ec8944b2f394aeb195dd9ab3df1><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 9:15:04 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5479
+        <br><a href=show_host_detail.php?hostid=5479>Details</a> |
+        <a href=results.php?hostid=5479>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a7948b88545991e6ce80bfb08eacf31b><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a7948b88545991e6ce80bfb08eacf31b><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:01:05 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5529
+        <br><a href=show_host_detail.php?hostid=5529>Details</a> |
+        <a href=results.php?hostid=5529>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=45ab62b56ed809128413760d8b3df0f5><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=45ab62b56ed809128413760d8b3df0f5><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>20 Sep 2010 16:06:38 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5458
+        <br><a href=show_host_detail.php?hostid=5458>Details</a> |
+        <a href=results.php?hostid=5458>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=bf56cf91cf389d60b03adb9e31d44051><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=bf56cf91cf389d60b03adb9e31d44051><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>24 Sep 2010 15:19:07 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5478
+        <br><a href=show_host_detail.php?hostid=5478>Details</a> |
+        <a href=results.php?hostid=5478>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=61d1b5f1cb23396f892b662c9c2dda02><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=61d1b5f1cb23396f892b662c9c2dda02><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 11:43:16 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5474
+        <br><a href=show_host_detail.php?hostid=5474>Details</a> |
+        <a href=results.php?hostid=5474>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e9b7537a09f90e81a036abb5fb231795><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e9b7537a09f90e81a036abb5fb231795><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>6</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 14:39:22 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5482
+        <br><a href=show_host_detail.php?hostid=5482>Details</a> |
+        <a href=results.php?hostid=5482>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=faaabaf7c5c37d6fc7cb8616c91229e7><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=faaabaf7c5c37d6fc7cb8616c91229e7><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>7</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 9:06:29 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5476
+        <br><a href=show_host_detail.php?hostid=5476>Details</a> |
+        <a href=results.php?hostid=5476>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=bd96efaedeb596b1435e7a13c9245fcb><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=bd96efaedeb596b1435e7a13c9245fcb><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>8</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 5:25:30 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5477
+        <br><a href=show_host_detail.php?hostid=5477>Details</a> |
+        <a href=results.php?hostid=5477>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=7155d5ca1d25ea7dbf2642b82271b14f><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=7155d5ca1d25ea7dbf2642b82271b14f><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>9</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:33:19 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5480
+        <br><a href=show_host_detail.php?hostid=5480>Details</a> |
+        <a href=results.php?hostid=5480>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=9e841e48fcf33317946aaac54ee122cf><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=9e841e48fcf33317946aaac54ee122cf><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>10</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 6:17:32 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5481
+        <br><a href=show_host_detail.php?hostid=5481>Details</a> |
+        <a href=results.php?hostid=5481>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=b1444193415cbb77c5bd411d5129cb7a><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=b1444193415cbb77c5bd411d5129cb7a><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>11</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 12:18:55 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5483
+        <br><a href=show_host_detail.php?hostid=5483>Details</a> |
+        <a href=results.php?hostid=5483>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e3de14af3354ce1734c57c438597f66b><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e3de14af3354ce1734c57c438597f66b><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>12</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>22 Sep 2010 13:55:53 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5484
+        <br><a href=show_host_detail.php?hostid=5484>Details</a> |
+        <a href=results.php?hostid=5484>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=093e6d4b4f8b497660ab22734d213a8e><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=093e6d4b4f8b497660ab22734d213a8e><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>13</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 12:16:17 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5485
+        <br><a href=show_host_detail.php?hostid=5485>Details</a> |
+        <a href=results.php?hostid=5485>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=cc9661a1b33d64091e58539ac0f98214><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=cc9661a1b33d64091e58539ac0f98214><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>14</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:15:27 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5486
+        <br><a href=show_host_detail.php?hostid=5486>Details</a> |
+        <a href=results.php?hostid=5486>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=2c9d5ad09bfd52612032c573d144aab4><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=2c9d5ad09bfd52612032c573d144aab4><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>15</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 10:40:02 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5487
+        <br><a href=show_host_detail.php?hostid=5487>Details</a> |
+        <a href=results.php?hostid=5487>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=479eef54a42dd234ad06e03d1ac1076b><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=479eef54a42dd234ad06e03d1ac1076b><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>16</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 9:15:39 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5488
+        <br><a href=show_host_detail.php?hostid=5488>Details</a> |
+        <a href=results.php?hostid=5488>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=2eb308280bf9b97c0b584318e0fcfe17><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=2eb308280bf9b97c0b584318e0fcfe17><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>17</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 3:09:37 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5489
+        <br><a href=show_host_detail.php?hostid=5489>Details</a> |
+        <a href=results.php?hostid=5489>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=b7041feda6255828fcc54115b4ff82f8><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=b7041feda6255828fcc54115b4ff82f8><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>18</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 10:19:19 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5490
+        <br><a href=show_host_detail.php?hostid=5490>Details</a> |
+        <a href=results.php?hostid=5490>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4fcba1908822606d242a942b77d7f4d3><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4fcba1908822606d242a942b77d7f4d3><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>19</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 10:59:59 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5491
+        <br><a href=show_host_detail.php?hostid=5491>Details</a> |
+        <a href=results.php?hostid=5491>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a6a917ac83a433e5876738ff6deaf656><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a6a917ac83a433e5876738ff6deaf656><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>20</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 9:52:43 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5492
+        <br><a href=show_host_detail.php?hostid=5492>Details</a> |
+        <a href=results.php?hostid=5492>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=d2250b795b72ca0344be0948b344bd0e><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=d2250b795b72ca0344be0948b344bd0e><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>21</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 11:52:28 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5493
+        <br><a href=show_host_detail.php?hostid=5493>Details</a> |
+        <a href=results.php?hostid=5493>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=b9057673ecb26e7c5855537e65467823><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=b9057673ecb26e7c5855537e65467823><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>22</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 7:08:35 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5494
+        <br><a href=show_host_detail.php?hostid=5494>Details</a> |
+        <a href=results.php?hostid=5494>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=97ca5c0462a6c5a38c00f6de74b7bf08><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=97ca5c0462a6c5a38c00f6de74b7bf08><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>23</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 4:20:02 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5495
+        <br><a href=show_host_detail.php?hostid=5495>Details</a> |
+        <a href=results.php?hostid=5495>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=be5c6f5c73e0ff8b2e5d8b951c8e2132><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=be5c6f5c73e0ff8b2e5d8b951c8e2132><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>24</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:13:37 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5496
+        <br><a href=show_host_detail.php?hostid=5496>Details</a> |
+        <a href=results.php?hostid=5496>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=2dc9ffe21a965740017be0701b55ba03><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=2dc9ffe21a965740017be0701b55ba03><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>25</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 9:35:11 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5497
+        <br><a href=show_host_detail.php?hostid=5497>Details</a> |
+        <a href=results.php?hostid=5497>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=1e7b2f8e02eeec97e633c947db50102f><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=1e7b2f8e02eeec97e633c947db50102f><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>26</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 5:10:17 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5498
+        <br><a href=show_host_detail.php?hostid=5498>Details</a> |
+        <a href=results.php?hostid=5498>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=9e89d15e3ce1cf3d40429ca82a3a35ed><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=9e89d15e3ce1cf3d40429ca82a3a35ed><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>27</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 4:23:26 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5499
+        <br><a href=show_host_detail.php?hostid=5499>Details</a> |
+        <a href=results.php?hostid=5499>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=2b3ea83dcc0c460ed63fd0b4b0081ec8><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=2b3ea83dcc0c460ed63fd0b4b0081ec8><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>28</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 8:22:15 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5500
+        <br><a href=show_host_detail.php?hostid=5500>Details</a> |
+        <a href=results.php?hostid=5500>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a9c002583c0e4d5373f95f0d98a0ed41><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a9c002583c0e4d5373f95f0d98a0ed41><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>29</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 11:33:24 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5501
+        <br><a href=show_host_detail.php?hostid=5501>Details</a> |
+        <a href=results.php?hostid=5501>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e96beb5e98d1ac878574143f5202534c><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e96beb5e98d1ac878574143f5202534c><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>30</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:11:22 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5502
+        <br><a href=show_host_detail.php?hostid=5502>Details</a> |
+        <a href=results.php?hostid=5502>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=504a9d2d48ed54de2935ac24cd7176e1><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=504a9d2d48ed54de2935ac24cd7176e1><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>31</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 4:25:32 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5503
+        <br><a href=show_host_detail.php?hostid=5503>Details</a> |
+        <a href=results.php?hostid=5503>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=0bc3c92e86a579482d06c96ebe8ad2fd><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=0bc3c92e86a579482d06c96ebe8ad2fd><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>32</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 10:30:22 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5504
+        <br><a href=show_host_detail.php?hostid=5504>Details</a> |
+        <a href=results.php?hostid=5504>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=f541a01c0e629a4c0207e8e8862b6bb4><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=f541a01c0e629a4c0207e8e8862b6bb4><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>33</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 13:16:58 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5505
+        <br><a href=show_host_detail.php?hostid=5505>Details</a> |
+        <a href=results.php?hostid=5505>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=bbfe1e6c212bd6528c92e024f84b8600><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=bbfe1e6c212bd6528c92e024f84b8600><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>34</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 11:59:07 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5509
+        <br><a href=show_host_detail.php?hostid=5509>Details</a> |
+        <a href=results.php?hostid=5509>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=6ad37ea87bae8a8e47bc4647eb6794e2><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=6ad37ea87bae8a8e47bc4647eb6794e2><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>35</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>18 Sep 2010 10:15:26 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5523
+        <br><a href=show_host_detail.php?hostid=5523>Details</a> |
+        <a href=results.php?hostid=5523>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=0928edf09af9b5df6f7bbde31c22efb7><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=0928edf09af9b5df6f7bbde31c22efb7><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>36</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>19 Sep 2010 21:53:37 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 5583
+        <br><a href=show_host_detail.php?hostid=5583>Details</a> |
+        <a href=results.php?hostid=5583>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=883980f5b377a6186c82c5f721029afc><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=883980f5b377a6186c82c5f721029afc><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>37</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E7400  @ 2.80GHz [Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>24 Sep 2010 18:11:22 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 5584
+        <br><a href=show_host_detail.php?hostid=5584>Details</a> |
+        <a href=results.php?hostid=5584>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=53a43786f1c3894746ade03f39ffd982><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=53a43786f1c3894746ade03f39ffd982><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>38</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) Dual Core Processor 4450B [Family 15 Model 107 Stepping 2]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 2300/2400/3200 (RV610) (256MB) driver: 1.4.792</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise x86 Edition, (06.01.7600.00)</span></td>
+            <td>24 Sep 2010 19:05:09 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=1&show_all=0&userid=2677>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 22 Sep 2011 13:50:45 UTC</span>
+</body>
+        </html>
+    

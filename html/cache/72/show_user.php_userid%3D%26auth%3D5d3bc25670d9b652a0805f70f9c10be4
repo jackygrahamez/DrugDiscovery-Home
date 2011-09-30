@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2402</id>
+    <cpid>5483566aa9e60474ea138f9a660133a2</cpid>
+    <create_time>1280842198</create_time>
+    <name>DeMi</name>
+    <country>Japan</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1280842198</expavg_time>
+    <teamid>970</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4906</id>
+        <create_time>1280887064</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>a82acf0aaa51b7e49776dc1175412e5c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280887064</expavg_time>
+        <domain_name>voiceAVR</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2600364385.09337</p_fpops>
+        <p_iops>5243643692.3297</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4890</id>
+        <create_time>1280842436</create_time>
+        <rpc_seqno>146</rpc_seqno>
+        <host_cpid>a85ecaea9056743ab778249de912adbe</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280842436</expavg_time>
+        <domain_name>vader</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2789691269.31901</p_fpops>
+        <p_iops>5851428571.42857</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

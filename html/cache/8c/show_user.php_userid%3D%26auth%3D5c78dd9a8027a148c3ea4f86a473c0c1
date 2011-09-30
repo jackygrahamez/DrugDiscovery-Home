@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1259</id>
+    <cpid>5fb0dcaff53e2f45c21f2d8d1cbb4624</cpid>
+    <create_time>1265296680</create_time>
+    <name>Philou.Canaillou</name>
+    <country>France</country>
+    <total_credit>5.855646</total_credit>
+    <expavg_credit>0.019968</expavg_credit>
+    <expavg_time>1290633076.70781</expavg_time>
+    <teamid>851</teamid>
+    <url>philou.canaillou.free.fr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2070</id>
+        <create_time>1265302823</create_time>
+        <rpc_seqno>85</rpc_seqno>
+        <host_cpid>19f26101d9fa9f42244952d3524243ac</host_cpid>
+        <total_credit>5.855646</total_credit>
+        <expavg_credit>0.019973</expavg_credit>
+        <expavg_time>1290633076.70809</expavg_time>
+        <domain_name>Philou_Two</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1217993079.58477</p_fpops>
+        <p_iops>2386867467.88778</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2626</id>
+        <create_time>1267043222</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>12bf6ad54ab4ce8b524c08c6c624d7c2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267043222</expavg_time>
+        <domain_name>Philou_One</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) 4     CPU 2.66GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1409579703.90711</p_fpops>
+        <p_iops>2577689202.19849</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Professional x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2212</id>
+    <cpid>aeaa8f9fd26816b1a1d5f4f52887ce89</cpid>
+    <create_time>1277287787</create_time>
+    <name>Avaris</name>
+    <country>New Zealand</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1277287787</expavg_time>
+    <teamid>17</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4383</id>
+        <create_time>1277296511</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>cf0209a6000f4281a3395ed5dd363584</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277296511</expavg_time>
+        <domain_name>Dads-Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [x86 Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>1964594906.67793</p_fpops>
+        <p_iops>3600878429.20821</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6065</id>
+        <create_time>1288774885</create_time>
+        <rpc_seqno>331</rpc_seqno>
+        <host_cpid>9efbee2d0f117c2d34c5785cca49282b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288774885</expavg_time>
+        <domain_name>Laptop-win7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>2021149806.95988</p_fpops>
+        <p_iops>3664954736.87043</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6723</id>
+        <create_time>1291466823</create_time>
+        <rpc_seqno>273</rpc_seqno>
+        <host_cpid>de54a56637d494bbfed7f59ce648b5f9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291466823</expavg_time>
+        <domain_name>avaris-desktop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.60GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>997644183.665606</p_fpops>
+        <p_iops>2665414767.98166</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-30-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6763</id>
+        <create_time>1291722082</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>efe3e5044d1625891ef70336ddc7ea13</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291722082</expavg_time>
+        <domain_name>stella-077dda16</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.00GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1006495726.49573</p_fpops>
+        <p_iops>1863572767.41159</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6764</id>
+        <create_time>1291722825</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>fc22f33be1d7fc259121b79dfd42eb27</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291722825</expavg_time>
+        <domain_name>DragonServ</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.00GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>925499481.123194</p_fpops>
+        <p_iops>2701295776.78567</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+</user>

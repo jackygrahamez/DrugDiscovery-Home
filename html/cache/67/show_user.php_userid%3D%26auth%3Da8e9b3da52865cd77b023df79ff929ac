@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>742</id>
+    <cpid>3be1e4a2ebee7857902a0651cc961bd1</cpid>
+    <create_time>1251306799</create_time>
+    <name>DoctorNow</name>
+    <country>Germany</country>
+    <total_credit>543.816890930169</total_credit>
+    <expavg_credit>27.566612</expavg_credit>
+    <expavg_time>1315785925.02713</expavg_time>
+    <teamid>30</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>543</id>
+        <create_time>1251829925</create_time>
+        <rpc_seqno>1262</rpc_seqno>
+        <host_cpid>9d7e5709c13186fda3ea645e7669c2e8</host_cpid>
+        <total_credit>522.563933930169</total_credit>
+        <expavg_credit>27.297633</expavg_credit>
+        <expavg_time>1315749971.02372</expavg_time>
+        <domain_name>tachyonmainbase</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5200+ [Family 15 Model 67 Stepping 2]</p_model>
+        <p_fpops>2594629939.22989</p_fpops>
+        <p_iops>4570469999.70045</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1500</id>
+        <create_time>1258799735</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>9502bb2970577ecf27d56f0d974258f1</host_cpid>
+        <total_credit>7.264938</total_credit>
+        <expavg_credit>0.066392</expavg_credit>
+        <expavg_time>1260904503.61743</expavg_time>
+        <domain_name>tachyondatabase</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2200+ [x86 Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1708006279.43485</p_fpops>
+        <p_iops>2864181941.01565</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10038</id>
+        <create_time>1315580013</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>e2de8efe839611dc30dc153b00de192c</host_cpid>
+        <total_credit>13.988019</total_credit>
+        <expavg_credit>1.309325</expavg_credit>
+        <expavg_time>1315785925.02727</expavg_time>
+        <domain_name>Quad7Base</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 620 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2122459716.47444</p_fpops>
+        <p_iops>6555029517.5337</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

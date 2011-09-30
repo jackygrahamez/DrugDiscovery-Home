@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3416</id>
+    <cpid>379e3d8e6ed6ebe75a5c36fa655c7dcd</cpid>
+    <create_time>1290680636</create_time>
+    <name>Kietriss</name>
+    <country>United States</country>
+    <total_credit>5589.472198</total_credit>
+    <expavg_credit>0.08705</expavg_credit>
+    <expavg_time>1300046703.25443</expavg_time>
+    <teamid>1106</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6524</id>
+        <create_time>1290680725</create_time>
+        <rpc_seqno>1709</rpc_seqno>
+        <host_cpid>662009950b113b2792d5bcf3df49ad7e</host_cpid>
+        <total_credit>5158.270737</total_credit>
+        <expavg_credit>0.084279</expavg_credit>
+        <expavg_time>1300046703.54071</expavg_time>
+        <domain_name>MegzDesktop</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X3 435 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2919275589.25779</p_fpops>
+        <p_iops>6703439407.48267</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6594</id>
+        <create_time>1291037316</create_time>
+        <rpc_seqno>101</rpc_seqno>
+        <host_cpid>514b97ee0e1652450fc0d09fa5c38027</host_cpid>
+        <total_credit>431.201461</total_credit>
+        <expavg_credit>0.087717</expavg_credit>
+        <expavg_time>1297022703.87917</expavg_time>
+        <domain_name>POSLappy</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) M120 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>2001287508.5089</p_fpops>
+        <p_iops>4595823466.26076</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

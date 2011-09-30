@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>524</id>
+    <cpid>8f3058b9437a14c91dc2adc9cf5b3c78</cpid>
+    <create_time>1240672258</create_time>
+    <name>[SETI.USA]Tank_Master</name>
+    <country>United States</country>
+    <total_credit>28885.308755</total_credit>
+    <expavg_credit>0.014533</expavg_credit>
+    <expavg_time>1293554457.22301</expavg_time>
+    <teamid>5</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>94</id>
+        <create_time>1240674591</create_time>
+        <rpc_seqno>1596</rpc_seqno>
+        <host_cpid>1cb692accd588ef601fbbaeb6cff643f</host_cpid>
+        <total_credit>1540.153153</total_credit>
+        <expavg_credit>0.004711</expavg_credit>
+        <expavg_time>1250104203.39548</expavg_time>
+        <domain_name>atom-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  330   @ 1.60GHz [Intel64 Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>700261079.779021</p_fpops>
+        <p_iops>2131190419.69159</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7000.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>202</id>
+        <create_time>1241553295</create_time>
+        <rpc_seqno>68</rpc_seqno>
+        <host_cpid>5db405433071c174b7e9323472694219</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1241553295</expavg_time>
+        <domain_name>My-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.66GHz [Intel64 Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2986344175.5698</p_fpops>
+        <p_iops>9379735085.56889</p_iops>
+        <os_name></os_name>
+        <os_version>, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7085</id>
+        <create_time>1293505144</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>c617f4b98555dcc94bf2e4371ddbb0da</host_cpid>
+        <total_credit>7.308755</total_credit>
+        <expavg_credit>0.058285</expavg_credit>
+        <expavg_time>1295727903.62115</expavg_time>
+        <domain_name>boinc-00c39220b</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3630128939.57059</p_fpops>
+        <p_iops>7254882453.84855</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8942</id>
+        <create_time>1306443447</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>c8c7f13e0857ae63ac5d875360991587</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306443447</expavg_time>
+        <domain_name>backup-PC</domain_name>
+        <p_ncpus>7</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3332701949.35402</p_fpops>
+        <p_iops>11730215544.9846</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

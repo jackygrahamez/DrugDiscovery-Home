@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1518</id>
+    <cpid>ffeb810e323ce08df3736171b1ff8a3e</cpid>
+    <create_time>1267718341</create_time>
+    <name>BnL Research</name>
+    <country>France</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1267718341</expavg_time>
+    <teamid>0</teamid>
+    <url>lb-webpi-1510v.maplateformeweb.com/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2829</id>
+        <create_time>1267722011</create_time>
+        <rpc_seqno>298</rpc_seqno>
+        <host_cpid>f0d46299eb21826891b0654dd28dddde</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267722011</expavg_time>
+        <domain_name>lb-webpi-1510v</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2305799648.50615</p_fpops>
+        <p_iops>5752258087.83009</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Web Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2830</id>
+        <create_time>1267722938</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>285529889385ffdf27a600ceb47921a1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267722938</expavg_time>
+        <domain_name>lb-webpi-1404v</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2318110236.22047</p_fpops>
+        <p_iops>6490994488.49968</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Web Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2831</id>
+        <create_time>1267722950</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>3d66520b7c7900cfc3ca75ead433f1a8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267722950</expavg_time>
+        <domain_name>lb-webpi-1551v</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2356825396.8254</p_fpops>
+        <p_iops>7183406298.07558</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Web Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2832</id>
+        <create_time>1267722953</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>1eff9b5652b5b73ce74a765db6eeb754</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267722953</expavg_time>
+        <domain_name>lb-webpi-1506v</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2160640000</p_fpops>
+        <p_iops>6025229627.36742</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Web Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2833</id>
+        <create_time>1267725161</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>55ee077d674c3f69ba8aa146f980e46e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267725161</expavg_time>
+        <domain_name>ms-vincent-server</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2322580645.16129</p_fpops>
+        <p_iops>6430171497.29921</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Web Server x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

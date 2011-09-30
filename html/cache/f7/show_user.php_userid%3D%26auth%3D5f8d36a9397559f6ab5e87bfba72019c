@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3516</id>
+    <cpid>c4aae72d45eba0d82340b69cb846d751</cpid>
+    <create_time>1292217665</create_time>
+    <name>deniseunt</name>
+    <country>International</country>
+    <total_credit>66.819304</total_credit>
+    <expavg_credit>0.216246</expavg_credit>
+    <expavg_time>1315851902.56074</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6930</id>
+        <create_time>1292654350</create_time>
+        <rpc_seqno>58</rpc_seqno>
+        <host_cpid>98a45ecaa7503b34ad0e22068609bf14</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292654350</expavg_time>
+        <domain_name>HBMUK38B2M1J</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.60GHz [Family 6 Model 13 Stepping 6]</p_model>
+        <p_fpops>1439835350.78781</p_fpops>
+        <p_iops>2782927300.2835</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6864</id>
+        <create_time>1292219982</create_time>
+        <rpc_seqno>415</rpc_seqno>
+        <host_cpid>7c01aa2634a5c8319170e5cbed146649</host_cpid>
+        <total_credit>66.819304</total_credit>
+        <expavg_credit>0.216246</expavg_credit>
+        <expavg_time>1315851902.84395</expavg_time>
+        <domain_name>leia</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU E31225 @ 3.10GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3153112752.98493</p_fpops>
+        <p_iops>13173755427.7935</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.40.3-0.fc15.x86_64</os_version>
+        <venue></venue>
+    </host>
+</user>

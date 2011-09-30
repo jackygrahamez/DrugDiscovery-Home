@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1475</id>
+    <cpid>824b63f5f0cc853dd9e6158369c9a441</cpid>
+    <create_time>1267157967</create_time>
+    <name>Manfred Julke</name>
+    <country>Germany</country>
+    <total_credit>3484.52031</total_credit>
+    <expavg_credit>0.079845</expavg_credit>
+    <expavg_time>1275710402.79513</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2719</id>
+        <create_time>1267229021</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>34b11fd4816cf265224a3a1fc240ff8f</host_cpid>
+        <total_credit>714.904617</total_credit>
+        <expavg_credit>0.088997</expavg_credit>
+        <expavg_time>1274500802.75792</expavg_time>
+        <domain_name>Manni-Lappi</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.70GHz [x86 Family 6 Model 13 Stepping 6]</p_model>
+        <p_fpops>1540120935.53026</p_fpops>
+        <p_iops>3097852425.45776</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>2721</id>
+        <create_time>1267233226</create_time>
+        <rpc_seqno>351</rpc_seqno>
+        <host_cpid>4e9a3e33121077ab866a44b10e2f4d14</host_cpid>
+        <total_credit>2769.615693</total_credit>
+        <expavg_credit>0.05599</expavg_credit>
+        <expavg_time>1275710403.18343</expavg_time>
+        <domain_name>Manni-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [AMD64 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2466180495.19607</p_fpops>
+        <p_iops>6842295061.60333</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

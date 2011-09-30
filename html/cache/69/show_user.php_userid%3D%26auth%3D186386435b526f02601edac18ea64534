@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1618</id>
+    <cpid>01c712818fe8c505375ed66c3b7a638a</cpid>
+    <create_time>1268967101</create_time>
+    <name>steve poepoe</name>
+    <country>United States</country>
+    <total_credit>13750.463614739</total_credit>
+    <expavg_credit>0.0025335619911707</expavg_credit>
+    <expavg_time>1314642007</expavg_time>
+    <teamid>806</teamid>
+    <url>fromthecorneroffice.blogspot.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3050</id>
+        <create_time>1268967376</create_time>
+        <rpc_seqno>1147</rpc_seqno>
+        <host_cpid>71c7a456ff1d3783f18f28c32ad7eed1</host_cpid>
+        <total_credit>4252.044354</total_credit>
+        <expavg_credit>0.053548</expavg_credit>
+        <expavg_time>1284062402.94425</expavg_time>
+        <domain_name>Brem-Front</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2340859011.37445</p_fpops>
+        <p_iops>5012445891.58215</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3080</id>
+        <create_time>1269199470</create_time>
+        <rpc_seqno>1470</rpc_seqno>
+        <host_cpid>3c984adabaa5f7ca30c21672f97e3d76</host_cpid>
+        <total_credit>9498.4192607386</total_credit>
+        <expavg_credit>0.0025335619933063</expavg_credit>
+        <expavg_time>1314642007</expavg_time>
+        <domain_name>steve_pc01</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1961288777.34482</p_fpops>
+        <p_iops>9769642667.27662</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3839</id>
+        <create_time>1273598366</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>d8e32b4844904b7ad16ba546397f9907</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273598366</expavg_time>
+        <domain_name>stevelaptop.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook5,2] [AltiVec]</p_model>
+        <p_fpops>802583435.821566</p_fpops>
+        <p_iops>2220450835.35151</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.0</os_version>
+        <venue></venue>
+    </host>
+</user>

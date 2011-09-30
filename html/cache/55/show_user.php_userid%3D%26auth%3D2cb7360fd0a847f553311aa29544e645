@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3521</id>
+    <cpid>965d12b44fd3f4f2d5ca48f37ae41c20</cpid>
+    <create_time>1292300880</create_time>
+    <name>Eric Damon Walters</name>
+    <country>International</country>
+    <total_credit>178.02443</total_credit>
+    <expavg_credit>0.937842</expavg_credit>
+    <expavg_time>1315580519.4894</expavg_time>
+    <teamid>1129</teamid>
+    <url>www.facebook.com/ericdamonwalters</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6873</id>
+        <create_time>1292302107</create_time>
+        <rpc_seqno>7187</rpc_seqno>
+        <host_cpid>f0a6775aa793706738713ecc4d2a003c</host_cpid>
+        <total_credit>178.02443</total_credit>
+        <expavg_credit>0.937842</expavg_credit>
+        <expavg_time>1315580519.48955</expavg_time>
+        <domain_name>a</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 620 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2633406712.10936</p_fpops>
+        <p_iops>5978488974.50491</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8892</id>
+        <create_time>1306078443</create_time>
+        <rpc_seqno>169</rpc_seqno>
+        <host_cpid>2f194a0e8b5edb6ae04f93006f3b9f30</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306078443</expavg_time>
+        <domain_name>a</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 620 Processor [x86 Family 16 Model 5 Stepping 2] [fpu tsc pae nx sse sse2 3dnow mmx]</p_model>
+        <p_fpops>2454085148.48862</p_fpops>
+        <p_iops>5943770286.41367</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

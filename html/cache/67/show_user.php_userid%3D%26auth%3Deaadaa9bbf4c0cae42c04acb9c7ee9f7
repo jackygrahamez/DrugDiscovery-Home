@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3604</id>
+    <cpid>60b4e063ce7f5c226e1c9a9fa97ad7d5</cpid>
+    <create_time>1293794749</create_time>
+    <name>IAS</name>
+    <country>Portugal</country>
+    <total_credit>14.209579</total_credit>
+    <expavg_credit>0.070897</expavg_credit>
+    <expavg_time>1305490202.71988</expavg_time>
+    <teamid>496</teamid>
+    <url>cafedassextas.blogspot.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7118</id>
+        <create_time>1293795904</create_time>
+        <rpc_seqno>187</rpc_seqno>
+        <host_cpid>36f53708fd9ff0cbbdbbfda0fa7c805d</host_cpid>
+        <total_credit>14.209579</total_credit>
+        <expavg_credit>0.070897</expavg_credit>
+        <expavg_time>1305490203.71421</expavg_time>
+        <domain_name>dcpe-ias</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2269536055.98117</p_fpops>
+        <p_iops>4810142907.73243</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7204</id>
+        <create_time>1294273263</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>685cb5c309d649caf251597b66b256aa</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294273263</expavg_time>
+        <domain_name>spas-htpc</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3500+ [Family 15 Model 47 Stepping 2]</p_model>
+        <p_fpops>2208187134.50292</p_fpops>
+        <p_iops>4033144986.59355</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7225</id>
+        <create_time>1294340180</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>986efcb968fad8136410d02d124d10af</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294340180</expavg_time>
+        <domain_name>Isaac-Sousas-iMac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU T7200 @ 2.00GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2200781329.86764</p_fpops>
+        <p_iops>5185641707.30059</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.6.0</os_version>
+        <venue></venue>
+    </host>
+</user>

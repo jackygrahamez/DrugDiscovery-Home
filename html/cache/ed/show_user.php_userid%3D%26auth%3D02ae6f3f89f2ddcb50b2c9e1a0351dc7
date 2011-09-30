@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1989</id>
+    <cpid>9b9b461015db50eed894fd5833d13726</cpid>
+    <create_time>1273428712</create_time>
+    <name>Meneth</name>
+    <country>Norway</country>
+    <total_credit>339.575843</total_credit>
+    <expavg_credit>0.070797</expavg_credit>
+    <expavg_time>1284667203.14804</expavg_time>
+    <teamid>901</teamid>
+    <url>www.stumbleupon.com/stumbler/Meneth</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3809</id>
+        <create_time>1273429326</create_time>
+        <rpc_seqno>209</rpc_seqno>
+        <host_cpid>00487491deb8159149c20fa4ca8ad596</host_cpid>
+        <total_credit>339.575843</total_credit>
+        <expavg_credit>0.070797</expavg_credit>
+        <expavg_time>1284667204.11418</expavg_time>
+        <domain_name>ThePC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 965 Processor [AMD64 Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>3430748350.08893</p_fpops>
+        <p_iops>7891934183.87065</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3932</id>
+        <create_time>1274335224</create_time>
+        <rpc_seqno>682</rpc_seqno>
+        <host_cpid>1bf08c0cc4d0cfaf5e1f8b9012ef1140</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274335224</expavg_time>
+        <domain_name>1337PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Intel64 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2607186259.81501</p_fpops>
+        <p_iops>5401519874.15384</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

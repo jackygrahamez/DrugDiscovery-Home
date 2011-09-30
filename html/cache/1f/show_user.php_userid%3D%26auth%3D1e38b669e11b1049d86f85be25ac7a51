@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3686</id>
+    <cpid>4a9f1b318cd2b93ed0d32b2d6f4b1933</cpid>
+    <create_time>1295091862</create_time>
+    <name>wanghai</name>
+    <country>China</country>
+    <total_credit>8.362762</total_credit>
+    <expavg_credit>0.051469</expavg_credit>
+    <expavg_time>1301256302.83054</expavg_time>
+    <teamid>41</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7343</id>
+        <create_time>1295092541</create_time>
+        <rpc_seqno>54</rpc_seqno>
+        <host_cpid>4d36378f0e9f3646f5638ade1620e118</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295092541</expavg_time>
+        <domain_name>wang01</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 945 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>2787119193.54582</p_fpops>
+        <p_iops>6409964392.72426</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7389</id>
+        <create_time>1295244304</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>b0e9d451ce6f7ad73cc563b4051321ae</host_cpid>
+        <total_credit>8.362762</total_credit>
+        <expavg_credit>0.052964</expavg_credit>
+        <expavg_time>1301256303.96786</expavg_time>
+        <domain_name>dy001</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2736752003.73512</p_fpops>
+        <p_iops>5339763428.34266</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

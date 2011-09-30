@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2382</id>
+    <cpid>ee7ad1d8e5aed0f100c285e355f737c8</cpid>
+    <create_time>1280416505</create_time>
+    <name>SWL-I4.11600</name>
+    <country>Italy</country>
+    <total_credit>133.241816</total_credit>
+    <expavg_credit>0.07437</expavg_credit>
+    <expavg_time>1304807259.63067</expavg_time>
+    <teamid>683</teamid>
+    <url>meteomontecenere.xoomer.it</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4868</id>
+        <create_time>1280734194</create_time>
+        <rpc_seqno>380</rpc_seqno>
+        <host_cpid>8477782bd0215dd78ff9cb0db7f831e0</host_cpid>
+        <total_credit>133.241816</total_credit>
+        <expavg_credit>0.07437</expavg_credit>
+        <expavg_time>1304807259.64182</expavg_time>
+        <domain_name>a-g31m-gs</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2448232543.08065</p_fpops>
+        <p_iops>4921926267.166</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8830</id>
+        <create_time>1305722471</create_time>
+        <rpc_seqno>103</rpc_seqno>
+        <host_cpid>6c8d9220ef7f0f396c0a8389bee12fb2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305722471</expavg_time>
+        <domain_name>g31m-gs-a</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2446397548.357</p_fpops>
+        <p_iops>5032717880.96015</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

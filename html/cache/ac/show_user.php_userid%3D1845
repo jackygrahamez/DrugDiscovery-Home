@@ -1,0 +1,33 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1845";s:11:"create_time";s:10:"1271372251";s:10:"email_addr";s:29:"andreas_lauermann@t-online.de";s:4:"name";s:17:"Andreas Lauermann";s:13:"authenticator";s:32:"9f6e247f45422d96a5f5c478ac698721";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"63450";s:12:"total_credit";s:12:"16022.813827";s:13:"expavg_credit";s:8:"0.096522";s:11:"expavg_time";s:16:"1312143302.55676";s:12:"global_prefs";s:1112:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1271372252</mod_time>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.1000000</work_buf_min_days>
+<work_buf_additional_days>0.0000000</work_buf_additional_days>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>15.0</disk_max_used_gb>
+<disk_max_used_pct>60</disk_max_used_pct>
+<disk_min_free_gb>1.5</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active/>
+</global_preferences>";s:13:"project_prefs";s:119:"<project_preferences>
+
+
+<resource_share>50</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"5d7e24b95b17b212bd13ee40c86e190d";s:11:"passwd_hash";s:32:"8d7ab353c157b6f6c5534861ecc14d0d";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1845";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:10:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:4:"8771";s:13:"expavg_credit";d:0;s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:5:"20630";s:11:"create_time";s:10:"1130436957";s:7:"country";s:7:"Germany";s:7:"team_id";s:4:"1449";s:9:"team_name";s:13:"Lauermann@LHC";}i:1;O:8:"stdClass":7:{s:12:"total_credit";s:6:"200298";s:13:"expavg_credit";s:3:"351";s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:4:"6904";s:11:"create_time";s:10:"1130350341";s:7:"country";s:7:"Germany";}i:2;O:8:"stdClass":7:{s:12:"total_credit";s:4:"7568";s:13:"expavg_credit";d:0;s:4:"name";s:19:"SZTAKI Desktop Grid";s:3:"url";s:32:"http://szdg.lpds.sztaki.hu/szdg/";s:2:"id";s:4:"1801";s:11:"create_time";s:10:"1131097027";s:7:"country";s:7:"Germany";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:6:"585385";s:13:"expavg_credit";s:3:"933";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"188076";s:11:"create_time";s:10:"1139158858";s:7:"country";s:7:"Germany";s:7:"team_id";s:5:"12690";s:9:"team_name";s:9:"Lauermann";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:3:"444";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:3:"977";s:11:"create_time";s:10:"1133714210";s:7:"country";s:7:"Germany";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:6:"802308";s:13:"expavg_credit";s:3:"118";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:3:"206";s:11:"create_time";s:10:"1134498067";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"45";s:9:"team_name";s:15:"Lauermann@SIMAP";}i:6;O:8:"stdClass":7:{s:12:"total_credit";s:6:"271192";s:13:"expavg_credit";s:3:"541";s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"28176";s:11:"create_time";s:10:"1271372249";s:7:"country";s:7:"Germany";}i:7;O:8:"stdClass":6:{s:12:"total_credit";s:4:"2675";s:13:"expavg_credit";d:0;s:4:"name";s:13:"proteins@home";s:3:"url";s:44:"http://bioc.polytechnique.fr/proteinsathome/";s:2:"id";s:3:"675";s:11:"create_time";s:10:"1164926556";}i:8;O:8:"stdClass":7:{s:12:"total_credit";s:8:"35713613";s:13:"expavg_credit";s:5:"56376";s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"59519";s:11:"create_time";s:10:"1271372253";s:7:"country";s:7:"Germany";}i:9;O:8:"stdClass":7:{s:12:"total_credit";s:5:"16022";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1845";s:11:"create_time";s:10:"1271372251";s:7:"country";s:7:"Germany";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

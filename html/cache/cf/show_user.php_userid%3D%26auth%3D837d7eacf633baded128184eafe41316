@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2516</id>
+    <cpid>a092561232fa62375372ea3b94afed2c</cpid>
+    <create_time>1282508433</create_time>
+    <name>ILX</name>
+    <country>Portugal</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1282508433</expavg_time>
+    <teamid>496</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5137</id>
+        <create_time>1282512353</create_time>
+        <rpc_seqno>513</rpc_seqno>
+        <host_cpid>423c5ba947df6545ff0481e7bca55e9a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282512353</expavg_time>
+        <domain_name>AIPC08147</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2474665443.55807</p_fpops>
+        <p_iops>4727826648.72969</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5189</id>
+        <create_time>1282860655</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>2511621e9bae26ac3b909c47966ccd32</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282860655</expavg_time>
+        <domain_name>Pedro-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2796838950.84472</p_fpops>
+        <p_iops>6570532415.40131</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

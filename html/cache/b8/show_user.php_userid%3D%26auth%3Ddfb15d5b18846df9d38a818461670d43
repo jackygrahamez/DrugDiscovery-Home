@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4862</id>
+    <cpid>16fc74157cf644914deb2284498335b9</cpid>
+    <create_time>1312961326</create_time>
+    <name>DAmaNIac</name>
+    <country>Germany</country>
+    <total_credit>7.890586</total_credit>
+    <expavg_credit>0.071636</expavg_credit>
+    <expavg_time>1315247103.38586</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9721</id>
+        <create_time>1312962078</create_time>
+        <rpc_seqno>61</rpc_seqno>
+        <host_cpid>d6d04e4e55c3d069b602032f59de47af</host_cpid>
+        <total_credit>7.890586</total_credit>
+        <expavg_credit>0.071665</expavg_credit>
+        <expavg_time>1315247105.1215</expavg_time>
+        <domain_name>Eissner</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>3032480263.87764</p_fpops>
+        <p_iops>5231521536.4036</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9873</id>
+        <create_time>1314168614</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1ea68791574efa68135259a5a949715d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314168614</expavg_time>
+        <domain_name>DaniPC-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3465669465.36176</p_fpops>
+        <p_iops>8872322988.48831</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

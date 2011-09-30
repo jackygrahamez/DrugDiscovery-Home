@@ -1,0 +1,116 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"3732";s:11:"create_time";s:10:"1296068183";s:10:"email_addr";s:37:"frosty@thedwellingplace.eclipse.co.uk";s:4:"name";s:7:"frosty1";s:13:"authenticator";s:32:"f96f9e057b6c9b4cedcda28c2a290b0c";s:7:"country";s:14:"United Kingdom";s:11:"postal_code";s:7:"LD3 9LF";s:12:"total_credit";s:10:"226.920572";s:13:"expavg_credit";s:8:"0.080555";s:11:"expavg_time";s:16:"1315851902.50437";s:12:"global_prefs";s:1156:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1296068183</mod_time>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.1000000</work_buf_min_days>
+<work_buf_additional_days>0.0000000</work_buf_additional_days>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>80</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>1.5</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<hangup_if_dialed/>
+</global_preferences>";s:13:"project_prefs";s:196:"<project_preferences>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"571";s:5:"venue";s:4:"home";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"06f6e0625ab9a433f4a3eac2a64445d2";s:11:"passwd_hash";s:32:"f302189192752bc092983b16638cb17a";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"3732";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:6:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:5:"80123";s:13:"expavg_credit";s:3:"209";s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"409344";s:11:"create_time";s:10:"1296066588";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:2:"66";s:9:"team_name";s:8:"BOINC UK";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:5:"81005";s:13:"expavg_credit";s:3:"160";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"711910";s:11:"create_time";s:10:"1286152834";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:4:"7848";s:9:"team_name";s:8:"BOINC UK";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:5:"22600";s:13:"expavg_credit";s:3:"206";s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"76113";s:11:"create_time";s:10:"1304177427";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:3:"193";s:9:"team_name";s:8:"BOINC UK";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4753";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"40140";s:11:"create_time";s:10:"1304177922";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:3:"149";s:9:"team_name";s:8:"Boinc UK";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:4:"9926";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:5:"30547";s:11:"create_time";s:10:"1296066589";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:3:"128";s:9:"team_name";s:8:"BOINC UK";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:3:"226";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"3732";s:11:"create_time";s:10:"1296068183";s:7:"country";s:14:"United Kingdom";s:7:"team_id";s:3:"571";s:9:"team_name";s:8:"BOINC UK";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"571";s:11:"create_time";s:10:"1251364218";s:6:"userid";s:3:"795";s:4:"name";s:8:"BOINC UK";s:7:"name_lc";s:8:"boinc uk";s:3:"url";s:15:"www.boincuk.com";s:4:"type";s:1:"1";s:9:"name_html";s:80:"<a href="http://www.boincuk.com"><img src="http://www.boincuk.com/logo.gif"></a>";s:11:"description";s:6575:"<b>* * * * *   BOINC UK   * * * * *</b><br><br>
+Looking for a Team? Well, we are the Team to be in and we won`t ask you to put your hand in your pocket to help keep us up and running unlike some others !. You have seen, read and heard what we do (you haven`t ? - well just take a look around our website and forum).
+<br><br>
+<a href=http://www.boincuk.com/>Website</a>
+<br><br>
+<a href=http://forum.boincuk.com/>Forum</a>
+<br><br>
+So, if you are looking for a Team or are just plain bored with your current Team that does nothing you have come to the right place.
+<br><br>
+
+<a href=http://allprojectstats.com/collatz/team_display.php?teamid=54>3x+1@home</a><br>
+<a href=http://abcathome.com/team_display.php?teamid=217>ABC@home</a><br>
+<a href=http://abcbeta.math.leidenuniv.nl/team_display.php?teamid=179>ABC@home beta</a><br>
+<a href=http://www.apsathome.org/team_display.php?teamid=261>APS@Home</a><br>
+<a href=http://aqua.dwavesys.com/team_display.php?teamid=470>AQUA@Home</a><br>
+<a href=http://www.intelligencerealm.com/aisystem/team_display.php?teamid=162>Artificial Intelligence</a><br>
+<a href=http://bbc.cpdn.org/team_display.php?teamid=1583>BBC Climate Change</a><br>
+<a href=http://http://boinc.vanderbilt.edu/CSB/team_display.php?teamid=374>BCL@Home</a><br>
+<a href=http://isaac.ssl.berkeley.edu/alpha/team_display.php?teamid=17>BOINC Alpha Test</a><br>
+<a href=http://burp.boinc.dk/team_display.php?teamid=707>BURP</a><br>
+<a href=http://cels-at-home-dev.dyndns.org/cels/team_display.php?teamid=142>Cels@Home</a><br>
+<a href=http://www.chess960athome.org/alpha/team_display.php?teamid=598>Chess960@Home</a><br>
+<a href=http://climateapps2.oucs.ox.ac.uk/cpdnboinc/team_display.php?teamid=982>Climate Prediction</a><br>
+<a href=http://www.cosmologyathome.org/team_display.php?teamid=88>Cosmology@Home</a><br>
+<a href=http://evil.podzone.org/decs/team_display.php?teamid=140/>DECS</a><br>
+<a href=http://www.depspid.net/>DepSpid</a><br>
+<a href=http://docking.cis.udel.edu/team_display.php?teamid=149>Docking@Home</a><br>
+<a href=http://einstein.phys.uwm.edu/team_display.php?teamid=376>Einstein@Home</a><br>
+<a href=http://www.enigmaathome.net/team_display.php?teamid=109>Enigma@Home</a><br>
+<a href=http://boinc.freehal.org/projects/freehal_at_home/team_display.php?teamid=77>FreeHAL@Home</a><br>
+<a href=http://genlife.is-a-geek.org/genlife/team_display.php?teamid=46>Genetic Life</a><br>
+<a href=http://gerasim.boinc.ru/gerasim/users/viewTeamMembers.aspx?TeamId=155>Gerasim@home</a><br>
+<a href=http://www.boincuk.com>Gridfinity</a><br>
+<a href=http://www.boincuk.com>Harvard Clean Energy Project</a><br>
+<a href=http://www.boincuk.com>HashClash</a><br>
+<a href=http://hydrogenathome.org/team_display.php?teamid=182>Hydrogen@Home</a><br>
+<a href=http://registro.ibercivis.es/team_display.php?teamid=15>IBERCIVIS</a><br>
+<a href=http://boinc.gorlaeus.net/team_display.php?teamid=46>Leiden Classical</a><br>
+<a href=http://lhcathome.cern.ch/lhcathome/team_display.php?teamid=2698>lhcathome</a><br>
+<a href=http://kinetic.dnsalias.org/magnetism/team_display.php?teamid=37>Magnetism@home</a><br>
+<a href=http://www.malariacontrol.net/team_display.php?teamid=193>Malaria Control</a><br>
+<a href=http://milkyway.cs.rpi.edu/milkyway/team_display.php?teamid=132>MilkyWay@home</a><br>
+<a href=http://mindmodeling.org/beta/team_display.php?teamid=165>MindModeling@Home</a><br>
+<a href=http://www.boincuk.com>Nano-Hive@Home</a><br>
+<a href=http://nqueens.ing.udec.cl/team_display.php?teamid=71>NQueens Project</a><br>
+<a href=http://orbit.psi.edu/oah/team_display.php?teamid=69>Orbit@Home</a><br>
+<a href=http://pirates.spy-hill.net/team_display.php?teamid=597>Pirates@Home</a><br>
+<a href=http://boinc.fzk.de/poem/team_display.php?teamid=175>POEM@HOME</a><br>
+<a href=http://www.boincuk.com>pPot Tables</a><br>
+<a href=http://predictor.chem.lsa.umich.edu/team_display.php?teamid=262>Predictor@Home</a><br>
+<a href=http://www.primegrid.com/team_display.php?teamid=125>PrimeGrid</a><br>
+<a href=http://www.boincuk.com>Project Neuron</a><br>
+<a href=http://biology.polytechnique.fr/proteinsathome/team_display.php?teamid=56>Proteins@home</a><br>
+<a href=http://www.ps3grid.net/team_display.php?teamid=146>PS3GRID</a><br>
+<a href=http://qah.uni-muenster.de/team_display.php?teamid=1494>QMC@Home</a><br>
+<a href=http://ralph.bakerlab.org/team_display.php?teamid=467>RALPH@Home</a><br>
+<a href=http://www.ramseyathome.com/ramsey/team_display.php?teamid=393>Ramsey@Home</a><br>
+<a href=http://dist.ist.tugraz.at/cape5/team_display.php?teamid=281>Rectilinear Crossing No.</a><br>
+<a href=http://dawn.ynet.sk/test1/team_display.php?teamid=47>Reversi</a><br>
+<a href=http://www.boincuk.com>RieselSieve</a><br>
+<a href=http://boinc.bakerlab.org/rosetta/team_display.php?teamid=66>Rosetta@Home</a><br>
+<a href=http://setiathome.berkeley.edu/team_display.php?teamid=30328>SETI@Home</a><br>
+<a href=http://boinc.iaik.tugraz.at/sha1_coll_search/team_display.php?teamid=123>SHA-1 Collision Search Graz</a><br>
+<a href=http://boinc.bio.wzw.tum.de/boincsimap/team_display.php?teamid=1501>SIMAP</a><br>
+<a href=http://spin.fh-bielefeld.de/team_display.php?teamid=292>Spinhenge@home</a><br>
+<a href=http://dist2.ist.tugraz.at/sudoku/team_display.php?teamid=32>Sudoku project</a><br>
+<a href=http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/team_display.php?teamid=128>Superlink@Technion</a><br>
+<a href=http://szdg.lpds.sztaki.hu/szdg/team_display.php?teamid=642>SZTAKI Desktop Grid</a><br>
+<a href=http://www.boincuk.com>Tanpaku</a><br>
+<a href=http://boinc.umiacs.umd.edu/team_display.php?teamid=290>The Lattice Project</a><br>
+<a href=http://bob.myisland.as/tsp/team_display.php?teamid=166>TSP</a><br>
+<a href=http://boinc.cs.uct.ac.za/malaria/team_display.php?teamid=142>UCT Malaria</a><br>
+<a href=http://www.ufluids.net/team_display.php?teamid=1081>uFluids</a><br>
+<a href=http://vcsc.cs.uh.edu/second-computing/team_display.php?teamid=155>UH Second Computing</a><br>
+<a href=http://vcsc.cs.uh.edu/virtual-prairie/team_display.php?teamid=157>Virtual Prairie</a><br>
+<a href=http://boinc.vgtu.lt/vtuathome/team_display.php?teamid=217>VTU@Home</a><br>
+<a href=http://bearnol.is-a-geek.com/wanless2/team_display.php?teamid=122>WEP-M+2 Project</a><br>
+<a href=http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=S13KXL2QSP1>World Community Grid</a><br>
+<a href=http://www.boincuk.com>XtremLab</a><br>
+<a href=http://www.rechenkraft.net/yoyo/team_display.php?teamid=47>yoyo@home</a><br>";s:6:"nusers";s:1:"5";s:7:"country";s:14:"United Kingdom";s:12:"total_credit";s:15:"8483.0090617717";s:13:"expavg_credit";s:8:"0.097462";s:11:"expavg_time";s:16:"1316998502.73557";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

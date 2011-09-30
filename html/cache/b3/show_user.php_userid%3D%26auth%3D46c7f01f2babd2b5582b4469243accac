@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1983</id>
+    <cpid>1b8d9c4e01f813d0bb28ab8f6b459033</cpid>
+    <create_time>1273323999</create_time>
+    <name>sky79</name>
+    <country>Poland</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1273323999</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3801</id>
+        <create_time>1273325790</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>9989a898203d035a450c7c382d00129c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273325790</expavg_time>
+        <domain_name>micro</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>x86 Family 6 Model 8 Stepping 10 846MHz [x86 Family 6 Model 8 Stepping 10]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3802</id>
+        <create_time>1273326710</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>6662e2adac9ae5366968f79761fd6e5b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273326710</expavg_time>
+        <domain_name>KOLOS</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 635 Processor [AMD64 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2394080135.17536</p_fpops>
+        <p_iops>6532610411.95266</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

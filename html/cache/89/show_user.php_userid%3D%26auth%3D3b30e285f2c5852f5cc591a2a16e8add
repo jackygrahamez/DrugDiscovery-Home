@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1333</id>
+    <cpid>acd0991fb572f54723685748637450ec</cpid>
+    <create_time>1266006158</create_time>
+    <name>hellven</name>
+    <country>Russia</country>
+    <total_credit>2416.824079</total_credit>
+    <expavg_credit>0.090985</expavg_credit>
+    <expavg_time>1274500802.49805</expavg_time>
+    <teamid>1157</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2284</id>
+        <create_time>1266006173</create_time>
+        <rpc_seqno>88</rpc_seqno>
+        <host_cpid>623445d4febd76053a7d5687f010925b</host_cpid>
+        <total_credit>325.962507</total_credit>
+        <expavg_credit>0.083188</expavg_credit>
+        <expavg_time>1271476803.37435</expavg_time>
+        <domain_name>tolik-ÏÊ</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 3800+ [AMD64 Family 15 Model 67 Stepping 2]</p_model>
+        <p_fpops>1827415944.81963</p_fpops>
+        <p_iops>4462698068.03029</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Basic x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2296</id>
+        <create_time>1266146421</create_time>
+        <rpc_seqno>362</rpc_seqno>
+        <host_cpid>6d5fb55d18b8fd952c0b2a0f72f5e5e9</host_cpid>
+        <total_credit>2090.861572</total_credit>
+        <expavg_credit>0.088327</expavg_credit>
+        <expavg_time>1274500802.7443</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 2800+ [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1378133516.96398</p_fpops>
+        <p_iops>3412597605.81607</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-17-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

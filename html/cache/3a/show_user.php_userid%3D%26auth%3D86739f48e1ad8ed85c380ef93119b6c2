@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1879</id>
+    <cpid>417c991ce818fb98387405a74d2e21f5</cpid>
+    <create_time>1271907879</create_time>
+    <name>Stephen Judge</name>
+    <country>Ireland</country>
+    <total_credit>102.13668</total_credit>
+    <expavg_credit>0.061953</expavg_credit>
+    <expavg_time>1285876802.51503</expavg_time>
+    <teamid>23</teamid>
+    <url>www.stephen.ie</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3560</id>
+        <create_time>1271907893</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>8df33007065cc97392b24f34bcf58a6b</host_cpid>
+        <total_credit>21.444553</total_credit>
+        <expavg_credit>0.060928</expavg_credit>
+        <expavg_time>1275105603.53678</expavg_time>
+        <domain_name>stephen-hp-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-82 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>868460327.687025</p_fpops>
+        <p_iops>2165742127.55659</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-21-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4628</id>
+        <create_time>1278724728</create_time>
+        <rpc_seqno>129</rpc_seqno>
+        <host_cpid>24868bd35a49865e7d83f5a6e6496fb4</host_cpid>
+        <total_credit>80.692127</total_credit>
+        <expavg_credit>0.043945</expavg_credit>
+        <expavg_time>1286655903.34017</expavg_time>
+        <domain_name>stephen-hp-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-82 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1759604253.80852</p_fpops>
+        <p_iops>8995328667.60235</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

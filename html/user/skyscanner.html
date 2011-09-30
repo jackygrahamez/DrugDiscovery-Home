@@ -1,0 +1,54 @@
+<script src="http://www.google.com/jsapi?key=ABQIAAAA8l_-NrzDOO5qLaklIcURXhTq4n4t1vaBrMeramY-VcU-4rgQVhR_lj18Dk3qKJcx2xfZBn5nl3T4Mg" type="text/javascript"></script>
+<script type="text/javascript" src="http://api.skyscanner.net/api.ashx?key=ca6900b0-fb45-4719-a939-627f6fec72b1"></script>  
+    skyscanner.load('snippets','1');  
+
+    function showCity(lat,lon)
+	{
+	str="lat="+lat+"&lon="+lon;
+	if (str=="")
+	  {
+	  document.getElementById("txtHint").innerHTML="";
+	  return;
+	  }
+	if (window.XMLHttpRequest)
+	  {// code for IE7+, Firefox, Chrome, Opera, Safari
+	  xmlhttp=new XMLHttpRequest();
+	  }
+	else
+	  {// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	  }
+	xmlhttp.onreadystatechange=function()
+	  {
+	  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+	    {
+	    //document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+	    return xmlhttp.responseText
+	    }
+	  }
+	xmlhttp.open("GET","dist_calc.php?"+str,true);
+	xmlhttp.send();
+	}
+
+    function getLatLon() {
+	//var lat = google.loader.ClientLocation.latitude;
+	//var lon = google.loader.ClientLocation.longitude;
+	//return showCity(33.0,22);
+        }
+
+    function main(){  	
+	var city = 'wasa';
+        var snippet=new skyscanner.snippets.SearchPanelControl();  
+        snippet.setCurrency('USD');  
+        snippet.setShape('box300x250');  
+        snippet.setDeparture('PAR');  
+        snippet.setDestination('jm');  
+        snippet.draw(document.getElementById('snippet_searchpanel'));  
+        }  
+    skyscanner.setOnLoadCallback(main);  
+</script>    
+  
+<div id="snippet_searchpanel" style="width: auto; height:auto;">  
+    <!--  Please do not remove this line. It is necessary for proper functionality of Skyscanner Snippet and is also required by terms and conditions of service -->  
+    <a href="http://www.skyscanner.net/flights-to/jm/cheap-flights-to-jamaica.html" target="_blank">Cheap Flights to Jamaica</a>  
+</div>  

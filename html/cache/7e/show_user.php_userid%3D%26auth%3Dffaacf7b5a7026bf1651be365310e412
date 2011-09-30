@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3399</id>
+    <cpid>7a8f6b68e3657a620d740cdd33ce14f3</cpid>
+    <create_time>1290415974</create_time>
+    <name>Sean</name>
+    <country>Australia</country>
+    <total_credit>4.927155</total_credit>
+    <expavg_credit>0.078553</expavg_credit>
+    <expavg_time>1292099102.46162</expavg_time>
+    <teamid>15</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6466</id>
+        <create_time>1290415989</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>9733a1fd338b3a53c2bfb97249a353d7</host_cpid>
+        <total_credit>4.927155</total_credit>
+        <expavg_credit>0.078554</expavg_credit>
+        <expavg_time>1292099102.65411</expavg_time>
+        <domain_name>Sean-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2084325732.18493</p_fpops>
+        <p_iops>4206999009.82057</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8567</id>
+        <create_time>1303861000</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>0af867f5db40590b617814ecb44478b2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303861000</expavg_time>
+        <domain_name>Sean-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>842547011.433112</p_fpops>
+        <p_iops>2396604786.36107</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

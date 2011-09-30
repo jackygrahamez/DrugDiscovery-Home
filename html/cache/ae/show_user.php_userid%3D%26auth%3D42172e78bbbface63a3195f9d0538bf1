@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>989</id>
+    <cpid>5ef65b86ec0c36d0ecc46721daec2306</cpid>
+    <create_time>1258030953</create_time>
+    <name>yattote</name>
+    <country>Spain</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1258030953</expavg_time>
+    <teamid>501</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>2077</id>
+        <create_time>1265360892</create_time>
+        <rpc_seqno>384</rpc_seqno>
+        <host_cpid>83a9b6e30f67d1bc329ea7b7d6c7a043</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265360892</expavg_time>
+        <domain_name>acer5635</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4200  @ 2.00GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2001069210.32754</p_fpops>
+        <p_iops>5926387050.35675</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6329</id>
+        <create_time>1289860899</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>3e8a62e9e5056d91e5a46dcc3975b391</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289860899</expavg_time>
+        <domain_name>usuario_1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3198968580.23037</p_fpops>
+        <p_iops>8854828240.74909</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7404</id>
+        <create_time>1295357651</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>1125ee64526575edd77882217c57bdf3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295357651</expavg_time>
+        <domain_name>yattote-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3133184529.0998</p_fpops>
+        <p_iops>16661878079.482</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

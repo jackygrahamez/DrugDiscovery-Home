@@ -1,0 +1,31 @@
+<file_info>
+    <number>0</number>
+    <no_delete/>
+</file_info>
+<file_info>
+    <number>1</number>
+    <no_delete/>
+</file_info>
+<workunit>
+    <file_ref>
+        <file_number>0</file_number>
+        <open_name>ad.7z</open_name>
+        <sticky/>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_number>1</file_number>
+        <open_name>job.xml</open_name>
+        <sticky/>
+        <copy_file/>
+    </file_ref>
+    <rsc_fpops_bound>100000000000000</rsc_fpops_bound>
+    <rsc_fpops_est>1000000000000</rsc_fpops_est>
+    <delay_bound>86400</delay_bound>
+    <target_nresults>3</target_nresults>
+    <max_error_results>3</max_error_results>
+    <max_total_results>5</max_total_results>
+    <max_success_results>5</max_success_results>
+    <min_quorum>3</min_quorum>
+</workunit>
+

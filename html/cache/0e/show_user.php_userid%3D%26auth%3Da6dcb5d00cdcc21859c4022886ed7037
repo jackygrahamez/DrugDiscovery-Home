@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1487</id>
+    <cpid>db7495f93f7b42e3dbcc02c65806b4bc</cpid>
+    <create_time>1267353371</create_time>
+    <name>1412</name>
+    <country>Austria</country>
+    <total_credit>819.569664</total_credit>
+    <expavg_credit>0.074311</expavg_credit>
+    <expavg_time>1287865502.68583</expavg_time>
+    <teamid>196</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2735</id>
+        <create_time>1267353841</create_time>
+        <rpc_seqno>1000</rpc_seqno>
+        <host_cpid>93bcfbb2b49c5f66715f0c274bb55be5</host_cpid>
+        <total_credit>407.627317</total_credit>
+        <expavg_credit>0.05346</expavg_credit>
+        <expavg_time>1287865502.8152</expavg_time>
+        <domain_name>FalkeLaptop2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1594911424.18747</p_fpops>
+        <p_iops>3252902013.20962</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2736</id>
+        <create_time>1267355395</create_time>
+        <rpc_seqno>229</rpc_seqno>
+        <host_cpid>edf34c729c43379409aef4944a89ba95</host_cpid>
+        <total_credit>231.360475</total_credit>
+        <expavg_credit>0.066322</expavg_credit>
+        <expavg_time>1282852803.77713</expavg_time>
+        <domain_name>FalkeLaptop1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Intel64 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1828261114.78085</p_fpops>
+        <p_iops>3834496706.99194</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2852</id>
+        <create_time>1267830614</create_time>
+        <rpc_seqno>295</rpc_seqno>
+        <host_cpid>41066e350934474c509f51285cc44a9f</host_cpid>
+        <total_credit>144.1185</total_credit>
+        <expavg_credit>0.083973</expavg_credit>
+        <expavg_time>1280549403.07717</expavg_time>
+        <domain_name>Home-PC-Gars</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1490674642.73845</p_fpops>
+        <p_iops>3286488887.65495</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3168</id>
+        <create_time>1269869448</create_time>
+        <rpc_seqno>8392</rpc_seqno>
+        <host_cpid>d7b1b495f4e5d3c6b421c305f2738dfd</host_cpid>
+        <total_credit>36.463372</total_credit>
+        <expavg_credit>0.051742</expavg_credit>
+        <expavg_time>1273896003.15713</expavg_time>
+        <domain_name>XPCLUSTERSERVER</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.60GHz [x86 Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>837001594.896332</p_fpops>
+        <p_iops>1602032555.49232</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3299</id>
+        <create_time>1270296505</create_time>
+        <rpc_seqno>153</rpc_seqno>
+        <host_cpid>2959e1cb847d17c835232a897db7f7b9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1270296505</expavg_time>
+        <domain_name>bartpe-11700</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.80GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>979602031.302772</p_fpops>
+        <p_iops>1789744574.73229</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

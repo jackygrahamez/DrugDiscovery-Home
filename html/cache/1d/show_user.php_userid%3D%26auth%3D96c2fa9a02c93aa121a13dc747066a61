@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2723</id>
+    <cpid>78aa4f43819012290faaa73084d820bc</cpid>
+    <create_time>1285505135</create_time>
+    <name>ArjenBakker</name>
+    <country>Netherlands</country>
+    <total_credit>1646.019871</total_credit>
+    <expavg_credit>0.073232</expavg_credit>
+    <expavg_time>1302465903.69511</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5624</id>
+        <create_time>1285575246</create_time>
+        <rpc_seqno>953</rpc_seqno>
+        <host_cpid>544eb89f27a4ed3f3b61c32d6477a160</host_cpid>
+        <total_credit>1646.019871</total_credit>
+        <expavg_credit>0.073232</expavg_credit>
+        <expavg_time>1302465904.25856</expavg_time>
+        <domain_name>fugazi1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2127882599.58071</p_fpops>
+        <p_iops>7910560579.05898</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5613</id>
+        <create_time>1285505984</create_time>
+        <rpc_seqno>540</rpc_seqno>
+        <host_cpid>841f4bbbf16d9a57116f6e1ef20298ef</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285505984</expavg_time>
+        <domain_name>fugazi0</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium III (Coppermine) [Family 6 Model 8 Stepping 6]</p_model>
+        <p_fpops>591865150.934142</p_fpops>
+        <p_iops>1231300837.34986</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.20-1.2933.fc6</os_version>
+        <venue></venue>
+    </host>
+</user>

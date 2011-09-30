@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1084</id>
+    <cpid>a703a5f8bdde403ebc11d9b35fe94c7c</cpid>
+    <create_time>1258399042</create_time>
+    <name>[FVG] bax</name>
+    <country>Italy</country>
+    <total_credit>20.55934500738</total_credit>
+    <expavg_credit>0.085076</expavg_credit>
+    <expavg_time>1261264802.80193</expavg_time>
+    <teamid>663</teamid>
+    <url>www.calcolodistribuito.it</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1368</id>
+        <create_time>1258399360</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>504a7ca805a0d54574f681c310824974</host_cpid>
+        <total_credit>20.55934500738</total_credit>
+        <expavg_credit>0.085081</expavg_credit>
+        <expavg_time>1261264802.91867</expavg_time>
+        <domain_name>baxddr3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [x86 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2770119974.94284</p_fpops>
+        <p_iops>5383242667.48501</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8906</id>
+        <create_time>1306181842</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>2db0b4ac26fc4e314792ab6b256003f1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306181842</expavg_time>
+        <domain_name>baxddr3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [x86 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2775517357.60027</p_fpops>
+        <p_iops>5427545897.78876</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

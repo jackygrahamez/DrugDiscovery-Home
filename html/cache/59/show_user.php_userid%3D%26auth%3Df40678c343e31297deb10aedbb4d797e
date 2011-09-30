@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1170</id>
+    <cpid>3641e148643002d3d8c3e68cdcdaea7c</cpid>
+    <create_time>1263852966</create_time>
+    <name>UBT - Mikeejones</name>
+    <country>United Kingdom</country>
+    <total_credit>679.585226376365</total_credit>
+    <expavg_credit>0.053964</expavg_credit>
+    <expavg_time>1270872002.27809</expavg_time>
+    <teamid>551</teamid>
+    <url>www.ukboincteam.org.uk/uk-boinc-team.html</url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>1949</id>
+        <create_time>1263853021</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>1be026d99ee76d7ca5c42462b835744d</host_cpid>
+        <total_credit>116.324861376365</total_credit>
+        <expavg_credit>0.045282</expavg_credit>
+        <expavg_time>1268940303.79837</expavg_time>
+        <domain_name>Amanda64-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2049000000</p_fpops>
+        <p_iops>5278293832.75523</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1950</id>
+        <create_time>1263853710</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>2d65341ff654aa7fb8d409d3feeb45ad</host_cpid>
+        <total_credit>563.260365</total_credit>
+        <expavg_credit>0.097437</expavg_credit>
+        <expavg_time>1270267203.47967</expavg_time>
+        <domain_name>Mike-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2337617575.69725</p_fpops>
+        <p_iops>4936106497.46673</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

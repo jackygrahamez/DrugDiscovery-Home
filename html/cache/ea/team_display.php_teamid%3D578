@@ -1,0 +1,40 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"578";s:11:"create_time";s:10:"1257976804";s:6:"userid";s:3:"868";s:4:"name";s:23:"Radioactive Dishwashers";s:7:"name_lc";s:23:"radioactive dishwashers";s:3:"url";s:0:"";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:34:"Just a group of long time friends.";s:6:"nusers";s:1:"1";s:7:"country";s:13:"United States";s:12:"total_credit";s:16:"15975.2762019638";s:13:"expavg_credit";s:8:"0.058787";s:11:"expavg_time";s:16:"1289075103.64733";s:7:"seti_id";s:4:"1053";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"1";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:3:"868";s:11:"create_time";s:10:"1257976804";s:10:"email_addr";s:25:"rayfenwindspear@gmail.com";s:4:"name";s:16:"Rayfen Windspear";s:13:"authenticator";s:32:"f1e28a80202600d5393d352cc097bc34";s:7:"country";s:0:"";s:11:"postal_code";s:0:"";s:12:"total_credit";s:16:"15975.2762019638";s:13:"expavg_credit";s:8:"0.058787";s:11:"expavg_time";s:16:"1289075102.84314";s:12:"global_prefs";s:1863:"<global_preferences>
+    <source_project>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/</source_project>
+    <source_scheduler>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion_cgi/cgi</source_scheduler>
+        <mod_time>1175516032</mod_time>
+        <idle_time_to_run>15</idle_time_to_run>
+		<start_hour>22</start_hour>
+		<end_hour>8</end_hour>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <confirm_before_connecting/>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <max_cpus>16</max_cpus>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_interval>60</disk_interval>
+        <disk_max_used_gb>2</disk_max_used_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_min_free_gb>5</disk_min_free_gb>
+        <vm_max_used_pct>50</vm_max_used_pct>
+        <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>70</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        <venue name="home">
+        <idle_time_to_run>15</idle_time_to_run>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <max_cpus>16</max_cpus>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_interval>60</disk_interval>
+        <disk_max_used_gb>100</disk_max_used_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_min_free_gb>0.001</disk_min_free_gb>
+        <vm_max_used_pct>75</vm_max_used_pct>
+        <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>70</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        </venue>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"578";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"1610bb9630e718edae49cbae1dab07b2";s:11:"passwd_hash";s:32:"ca5a062c64718b9f1e083c8ddf7fa4c5";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

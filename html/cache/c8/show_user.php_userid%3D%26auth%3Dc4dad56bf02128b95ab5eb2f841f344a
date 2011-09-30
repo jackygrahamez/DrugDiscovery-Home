@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4172</id>
+    <cpid>c43a7b107569869ec94ccb130280fd12</cpid>
+    <create_time>1297299733</create_time>
+    <name>Bobrr</name>
+    <country>Canada</country>
+    <total_credit>44.996024</total_credit>
+    <expavg_credit>3.968349</expavg_credit>
+    <expavg_time>1315738566.20534</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9941</id>
+        <create_time>1314716648</create_time>
+        <rpc_seqno>118</rpc_seqno>
+        <host_cpid>a3a0f358d3c6fb5147b339b32884917c</host_cpid>
+        <total_credit>41.93147</total_credit>
+        <expavg_credit>3.841213</expavg_credit>
+        <expavg_time>1315738566.20558</expavg_time>
+        <domain_name>AMD6CORE</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>3020686972.62501</p_fpops>
+        <p_iops>14781140661.5241</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9943</id>
+        <create_time>1314727846</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>bea801dd99a7d4b5622e6ad15a7e9090</host_cpid>
+        <total_credit>3.064554</total_credit>
+        <expavg_credit>0.186855</expavg_credit>
+        <expavg_time>1315655455.00844</expavg_time>
+        <domain_name>UbuntoAMD64</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3200+ [Family 15 Model 47 Stepping 0]</p_model>
+        <p_fpops>1830985915.49296</p_fpops>
+        <p_iops>8317669784.10004</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9952</id>
+        <create_time>1314789683</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>e1d90b19de6d7080171a864f0ae1c6cb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314789683</expavg_time>
+        <domain_name>kmrr-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M300 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1950464841.19838</p_fpops>
+        <p_iops>3977142354.65017</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10095</id>
+        <create_time>1316058871</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c309eec549365c9f282efaacda8db048</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1316058871</expavg_time>
+        <domain_name>amd64</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3200+ [Family 15 Model 47 Stepping 0]</p_model>
+        <p_fpops>1993803786.57487</p_fpops>
+        <p_iops>3591905742.17304</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

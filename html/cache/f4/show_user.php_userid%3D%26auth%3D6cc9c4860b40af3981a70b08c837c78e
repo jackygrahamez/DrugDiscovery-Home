@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2254</id>
+    <cpid>295713cb629b0a20cbc75849c5995ace</cpid>
+    <create_time>1277975091</create_time>
+    <name>Patabugen</name>
+    <country>United Kingdom</country>
+    <total_credit>309.371317</total_credit>
+    <expavg_credit>1.287756</expavg_credit>
+    <expavg_time>1315753942.47323</expavg_time>
+    <teamid>0</teamid>
+    <url>www.patabugen.co.uk</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6906</id>
+        <create_time>1292582378</create_time>
+        <rpc_seqno>8282</rpc_seqno>
+        <host_cpid>641a9a7f527a2f238edd3f706de15916</host_cpid>
+        <total_credit>105.685096</total_credit>
+        <expavg_credit>0.060835</expavg_credit>
+        <expavg_time>1302465904.20274</expavg_time>
+        <domain_name>Sami-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) Dual Core Processor 5000B [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2624315464.14073</p_fpops>
+        <p_iops>4792973986.73194</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6907</id>
+        <create_time>1292582401</create_time>
+        <rpc_seqno>3273</rpc_seqno>
+        <host_cpid>2737460c26e5990d16642d31d08febe3</host_cpid>
+        <total_credit>203.686221</total_credit>
+        <expavg_credit>1.273671</expavg_credit>
+        <expavg_time>1315753942.47337</expavg_time>
+        <domain_name>Kyle</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>x86 Family 6 Model 8 Stepping 6 797MHz [x86 Family 6 Model 8 Stepping 6]</p_model>
+        <p_fpops>733637439.637942</p_fpops>
+        <p_iops>1202154121.42801</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

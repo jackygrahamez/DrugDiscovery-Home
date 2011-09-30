@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2140</id>
+    <cpid>1d9b3e88ece405c5c48569374e7f7f78</cpid>
+    <create_time>1275939246</create_time>
+    <name>magnus</name>
+    <country>Norway</country>
+    <total_credit>1138.437864</total_credit>
+    <expavg_credit>0.072169</expavg_credit>
+    <expavg_time>1304280603.3151</expavg_time>
+    <teamid>102</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6069</id>
+        <create_time>1288798327</create_time>
+        <rpc_seqno>151</rpc_seqno>
+        <host_cpid>99b5f9419c4b9b044ad998f9624c9310</host_cpid>
+        <total_credit>286.418904</total_credit>
+        <expavg_credit>0.084527</expavg_credit>
+        <expavg_time>1297627502.90316</expavg_time>
+        <domain_name>reddik</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2340078603.24028</p_fpops>
+        <p_iops>5077452797.31981</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6070</id>
+        <create_time>1288799012</create_time>
+        <rpc_seqno>453</rpc_seqno>
+        <host_cpid>581a311bb4e9fa66d28b45796cdaf1b0</host_cpid>
+        <total_credit>852.01896</total_credit>
+        <expavg_credit>0.072125</expavg_credit>
+        <expavg_time>1304280603.68481</expavg_time>
+        <domain_name>potet</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2161547788.59674</p_fpops>
+        <p_iops>5144661988.95827</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7157</id>
+        <create_time>1294041466</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f56cd4d27289a927540d47262b1b04bb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294041466</expavg_time>
+        <domain_name>AK-PC-02-021</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2346590745.25944</p_fpops>
+        <p_iops>4794617621.59564</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,28 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1934";s:11:"create_time";s:10:"1272721309";s:10:"email_addr";s:26:"jana.zivkovic.87@gmail.com";s:4:"name";s:3:"CTJ";s:13:"authenticator";s:32:"21d9be014260e1f5b48678dd84a782b1";s:7:"country";s:7:"Croatia";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"379.935033";s:13:"expavg_credit";s:8:"0.003855";s:11:"expavg_time";s:16:"1288563334.36851";s:12:"global_prefs";s:1227:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1</mod_time>
+    <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>10.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.5</disk_min_free_gb>
+    <end_hour>0</end_hour>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <run_if_user_active/>
+    <start_hour>0</start_hour>
+    <cpu_usage_limit>60.0</cpu_usage_limit>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>0.3</work_buf_additional_days>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"81ca6de4f197efc7e89e1d793d92f55a";s:11:"passwd_hash";s:32:"aa8bfaa9fef7b45220067d0a4f44c079";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1934";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:5:{i:0;O:8:"stdClass":7:{s:12:"total_credit";s:4:"3472";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"379047";s:11:"create_time";s:10:"1272720510";s:7:"country";s:7:"Croatia";}i:1;O:8:"stdClass":6:{s:12:"total_credit";s:4:"1959";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"685850";s:11:"create_time";s:10:"1272976261";}i:2;O:8:"stdClass":7:{s:12:"total_credit";s:5:"11671";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"79143";s:11:"create_time";s:10:"1272975832";s:7:"country";s:7:"Croatia";}i:3;O:8:"stdClass":7:{s:12:"total_credit";s:4:"2805";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"28205";s:11:"create_time";s:10:"1272977480";s:7:"country";s:7:"Croatia";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:3:"379";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1934";s:11:"create_time";s:10:"1272721309";s:7:"country";s:7:"Croatia";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

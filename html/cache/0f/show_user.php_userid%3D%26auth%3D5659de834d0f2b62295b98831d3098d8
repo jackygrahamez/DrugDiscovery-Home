@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2518</id>
+    <cpid>6cd2e074fbf8a06b6e1d1b1f615e8b9b</cpid>
+    <create_time>1282545989</create_time>
+    <name>Alexei Petrov</name>
+    <country>International</country>
+    <total_credit>411.963853</total_credit>
+    <expavg_credit>0.062535</expavg_credit>
+    <expavg_time>1298837103.1323</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5146</id>
+        <create_time>1282582342</create_time>
+        <rpc_seqno>50</rpc_seqno>
+        <host_cpid>496b5d5734c0f2adfab15cb4d49867f5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282582342</expavg_time>
+        <domain_name>BAZA</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1220491721.17822</p_fpops>
+        <p_iops>2458707619.14984</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5141</id>
+        <create_time>1282554178</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>4917493a9ca232e8faed54d8326242e6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282554178</expavg_time>
+        <domain_name>neon2</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 1700+ [Family 6 Model 6 Stepping 2]</p_model>
+        <p_fpops>1361213809.38813</p_fpops>
+        <p_iops>2102362258.14663</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5285</id>
+        <create_time>1283467353</create_time>
+        <rpc_seqno>1444</rpc_seqno>
+        <host_cpid>03ae43253aff8da888650f41fc1af485</host_cpid>
+        <total_credit>411.963853</total_credit>
+        <expavg_credit>0.062536</expavg_credit>
+        <expavg_time>1298837103.8146</expavg_time>
+        <domain_name>BAZA</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1176828587.29655</p_fpops>
+        <p_iops>2396249955.53952</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5343</id>
+        <create_time>1283927044</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>8ecdc4a4b7bcb3ff3bb0d39ff8c12848</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283927044</expavg_time>
+        <domain_name>neon</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 1700+ [Family 6 Model 6 Stepping 2]</p_model>
+        <p_fpops>1384774372.7404</p_fpops>
+        <p_iops>2240774990.01464</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

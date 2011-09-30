@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2327</id>
+    <cpid>333d4c617747af5bdafe46055cc172ff</cpid>
+    <create_time>1279502490</create_time>
+    <name>Vidi Vici Veni</name>
+    <country>United States</country>
+    <total_credit>53000.7835179999</total_credit>
+    <expavg_credit>35.979768</expavg_credit>
+    <expavg_time>1315682085.04208</expavg_time>
+    <teamid>5</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4729</id>
+        <create_time>1279503729</create_time>
+        <rpc_seqno>74</rpc_seqno>
+        <host_cpid>f13f92c65c5d984b2faa95f7de891972</host_cpid>
+        <total_credit>250.579795</total_credit>
+        <expavg_credit>0.064036</expavg_credit>
+        <expavg_time>1285272003.0939</expavg_time>
+        <domain_name>App-Server-34</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2541287380.28863</p_fpops>
+        <p_iops>7339119600.13949</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4730</id>
+        <create_time>1279506341</create_time>
+        <rpc_seqno>3796</rpc_seqno>
+        <host_cpid>f5a7e3ff6913ec00e90bac427fec0391</host_cpid>
+        <total_credit>14311.747042</total_credit>
+        <expavg_credit>4.319796</expavg_credit>
+        <expavg_time>1315682085.04233</expavg_time>
+        <domain_name>app-server-33</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2553434667.87396</p_fpops>
+        <p_iops>7389846664.45107</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4731</id>
+        <create_time>1279525308</create_time>
+        <rpc_seqno>3318</rpc_seqno>
+        <host_cpid>f587fbd5955f659013cfe42d7c9fbf06</host_cpid>
+        <total_credit>13987.552425</total_credit>
+        <expavg_credit>0.090391</expavg_credit>
+        <expavg_time>1300651503.47604</expavg_time>
+        <domain_name>App-Server-31</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2555877938.93062</p_fpops>
+        <p_iops>7394063581.92487</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4732</id>
+        <create_time>1279527902</create_time>
+        <rpc_seqno>7598</rpc_seqno>
+        <host_cpid>c1b50f7effd711d1cf4dc2c981e04e57</host_cpid>
+        <total_credit>24450.904256</total_credit>
+        <expavg_credit>31.828825</expavg_credit>
+        <expavg_time>1315672836.7246</expavg_time>
+        <domain_name>app-server-32</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2557637732.84846</p_fpops>
+        <p_iops>7394364790.31586</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

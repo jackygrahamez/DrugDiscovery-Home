@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2628</id>
+    <cpid>6f7665d772633ba95a258df91ac5ebc5</cpid>
+    <create_time>1283985676</create_time>
+    <name>Dimitris</name>
+    <country>Greece</country>
+    <total_credit>1085.809699</total_credit>
+    <expavg_credit>0.076977</expavg_credit>
+    <expavg_time>1310933702.68451</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5548</id>
+        <create_time>1285111495</create_time>
+        <rpc_seqno>4480</rpc_seqno>
+        <host_cpid>c9740bf5333b7f717831560cd1051a41</host_cpid>
+        <total_credit>786.543748</total_credit>
+        <expavg_credit>0.078348</expavg_credit>
+        <expavg_time>1307909403.5853</expavg_time>
+        <domain_name>Penelope</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2236350382.85348</p_fpops>
+        <p_iops>6985355429.1148</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5357</id>
+        <create_time>1283985693</create_time>
+        <rpc_seqno>3164</rpc_seqno>
+        <host_cpid>de91b414010d31b2e07c3ca4f88bdcc9</host_cpid>
+        <total_credit>299.265951</total_credit>
+        <expavg_credit>0.074849</expavg_credit>
+        <expavg_time>1310933703.06303</expavg_time>
+        <domain_name>¢äùíéò</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7200  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2538387933.78208</p_fpops>
+        <p_iops>5090809551.06212</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

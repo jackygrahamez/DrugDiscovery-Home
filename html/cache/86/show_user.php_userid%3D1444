@@ -1,0 +1,44 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1444";s:11:"create_time";s:10:"1266939429";s:10:"email_addr";s:27:"philip.becker-ehmck@gmx.net";s:4:"name";s:7:"Phil511";s:13:"authenticator";s:32:"8e8ffc9d8e38d8457df26a6905f5932a";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1266939429";s:12:"global_prefs";s:994:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1266939429</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"3390f96732c7b04812ea6011341a39af";s:11:"passwd_hash";s:32:"94b9e8e17c58398bae7eff5b49c4daeb";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1444";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:0:{}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"6";s:11:"create_time";s:10:"1240319416";s:6:"userid";s:3:"537";s:4:"name";s:12:"SETI.Germany";s:7:"name_lc";s:12:"seti.germany";s:3:"url";s:19:"www.seti-germany.de";s:4:"type";s:1:"1";s:9:"name_html";s:124:"<a href='http://www.seti-germany.de/'><img src='http://www.seti-germany.de/sgwiki/images/a/a5/SG-Banner_official.png' /></a>";s:11:"description";s:1674:"SETI.Germany ist das groesste deutsche Team beim wissenschaftlichen Projekt SETI@home, der Suche nach ausserirdischer Intelligenz, durchgefuehrt an der Universitaet von Kalifornien, Berkeley. <br>
+<br>
+Neben Seti@home ist unser Team nun auch bei vielen anderen Projekten des Public Distributed Computing (Oeffentliches Verteiltes Rechnen) unter dem Namen SETI.Germany vertreten.
+Die Themen der Projekte reichen von Astrophysik und Molekularbiologie ueber Chemie, Mathematik, Medizin, Rendering, Verschluesselung bis zu angewandter Informatik. <br>
+<br>
+Auf unserer <a href="http://www.seti-germany.de/"> Webseite</a> bieten wir weiterfuehrende Informationen zu diesen Projekten u.a. in einem grossen <a href="http://www.seti-germany.de/forum"> Forensystem</a>. Das Angebot fuer unsere Mitglieder und Gaeste umfasst ausserdem eine grosse <a href="http://www.seti-germany.de/wiki"> Wiki</a>, wo die meisten Projekte bereits aufgefuehrt sind, weiterhin eine <a href="http://www.seti-germany.de/chatstats"> Chatfunktion</a>, ausfuehrliche Statistiken zu den meisten Projekten mit SETI.Germany-Beteiligung und mehr...<br>
+<br>
+Weiterhin helfen wir dabei, die SETI@home Berechnung auf deinem PC zu optimieren, wodurch eine Beschleunigung der Berechnung von bis zu 40% moeglich wird. <br>
+Schau doch mal bei uns vorbei, wir helfen gerne weiter... <br><br>
+Folge uns bei <a href="http://twitter.com/SETIGermany"> Twitter</a> oder schau auf unserer <a href="http://www.facebook.com/pages/SETIGermany/177588328907"> Facebook-Seite </a> vorbei.
+<br><br>
+In diesen Projekten ist SETI.Germany aktiv:
+<br><br>
+<img src="http://www.boincstats.com/signature/team_4_banner.gif">";s:6:"nusers";s:2:"98";s:7:"country";s:7:"Germany";s:12:"total_credit";s:15:"1202220.0188596";s:13:"expavg_credit";s:10:"470.345208";s:11:"expavg_time";s:16:"1316987600.66163";s:7:"seti_id";s:3:"148";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

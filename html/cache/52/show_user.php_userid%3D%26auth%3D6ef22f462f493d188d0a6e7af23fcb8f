@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4421</id>
+    <cpid>d242d712719485076cc384d14c74aa88</cpid>
+    <create_time>1302184912</create_time>
+    <name>T.H.@jisaku</name>
+    <country>Japan</country>
+    <total_credit>133.305507</total_credit>
+    <expavg_credit>0.055022</expavg_credit>
+    <expavg_time>1312748102.62527</expavg_time>
+    <teamid>498</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8345</id>
+        <create_time>1302192268</create_time>
+        <rpc_seqno>350</rpc_seqno>
+        <host_cpid>0de8c83a87f83e91e83f75769dc5c1ac</host_cpid>
+        <total_credit>97.614976</total_credit>
+        <expavg_credit>0.098261</expavg_credit>
+        <expavg_time>1312143302.89172</expavg_time>
+        <domain_name>NOTE</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 330  @ 2.13GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>1910494030.23077</p_fpops>
+        <p_iops>6067760000.58672</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8343</id>
+        <create_time>1302185471</create_time>
+        <rpc_seqno>329</rpc_seqno>
+        <host_cpid>a92780e76094f3507019a0d6fc006ee7</host_cpid>
+        <total_credit>35.690531</total_credit>
+        <expavg_credit>0.075246</expavg_credit>
+        <expavg_time>1310328902.7498</expavg_time>
+        <domain_name>BOINC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3242949562.23631</p_fpops>
+        <p_iops>10650996796.5038</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

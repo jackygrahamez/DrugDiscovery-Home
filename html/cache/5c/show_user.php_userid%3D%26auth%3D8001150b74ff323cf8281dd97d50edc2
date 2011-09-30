@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1452</id>
+    <cpid>ff021eefafe721118eaa905826b32e8c</cpid>
+    <create_time>1266980489</create_time>
+    <name>Uberpenguin</name>
+    <country>United States</country>
+    <total_credit>1472.316116</total_credit>
+    <expavg_credit>0.083402</expavg_credit>
+    <expavg_time>1285272002.52819</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2608</id>
+        <create_time>1266981242</create_time>
+        <rpc_seqno>422</rpc_seqno>
+        <host_cpid>2c3486ad523398c6b7b97e8455a343a2</host_cpid>
+        <total_credit>423.69942</total_credit>
+        <expavg_credit>0.06416</expavg_credit>
+        <expavg_time>1273291202.41495</expavg_time>
+        <domain_name>JW-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [x86 Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>2093739059.34516</p_fpops>
+        <p_iops>4591494581.1772</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2880</id>
+        <create_time>1267984420</create_time>
+        <rpc_seqno>2626</rpc_seqno>
+        <host_cpid>8ebd2cccc9ffa52996c759aa9dc0255e</host_cpid>
+        <total_credit>1048.616696</total_credit>
+        <expavg_credit>0.083402</expavg_credit>
+        <expavg_time>1285272002.98739</expavg_time>
+        <domain_name>JW-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [Intel64 Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>1923064595.73977</p_fpops>
+        <p_iops>6090825937.13028</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

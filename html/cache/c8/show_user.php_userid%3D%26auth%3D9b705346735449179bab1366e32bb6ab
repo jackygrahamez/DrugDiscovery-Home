@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4408</id>
+    <cpid>6e99e780c279d60590707edb1bb3f53f</cpid>
+    <create_time>1302042534</create_time>
+    <name>PsiliPharm</name>
+    <country>United States</country>
+    <total_credit>29.464979</total_credit>
+    <expavg_credit>0.063947</expavg_credit>
+    <expavg_time>1311538503.16276</expavg_time>
+    <teamid>0</teamid>
+    <url>www.lifealicious.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8419</id>
+        <create_time>1302857802</create_time>
+        <rpc_seqno>530</rpc_seqno>
+        <host_cpid>31afd14fc5043289680e8fbdf21e6ebb</host_cpid>
+        <total_credit>29.464979</total_credit>
+        <expavg_credit>0.063981</expavg_credit>
+        <expavg_time>1311538503.43789</expavg_time>
+        <domain_name>PsiliPharm-PC</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X3 435 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2197381407.27569</p_fpops>
+        <p_iops>6614075169.6463</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8534</id>
+        <create_time>1303600212</create_time>
+        <rpc_seqno>128</rpc_seqno>
+        <host_cpid>de9d3ec8ab425be3fa86a2f909b0ca91</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303600212</expavg_time>
+        <domain_name>HPDesign-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2329009577.70457</p_fpops>
+        <p_iops>5163870315.31191</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

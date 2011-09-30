@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>882</id>
+    <cpid>8eb6377a7a937ce3de03c676b8f169a2</cpid>
+    <create_time>1257976808</create_time>
+    <name>MC707</name>
+    <country>Ecuador</country>
+    <total_credit>79.016716</total_credit>
+    <expavg_credit>0.071078</expavg_credit>
+    <expavg_time>1270872002.27118</expavg_time>
+    <teamid>594</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3000</id>
+        <create_time>1268637552</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>e99aaec03251be90ed315b6fc5b9c7ec</host_cpid>
+        <total_credit>79.016716</total_credit>
+        <expavg_credit>0.092603</expavg_credit>
+        <expavg_time>1272686403.54087</expavg_time>
+        <domain_name>mario-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2186278340.44006</p_fpops>
+        <p_iops>10054531476.5152</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4545</id>
+        <create_time>1278195167</create_time>
+        <rpc_seqno>11011</rpc_seqno>
+        <host_cpid>a20ff308482581b009ec9053967dc692</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278195167</expavg_time>
+        <domain_name>Silvia</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1521311475.40984</p_fpops>
+        <p_iops>2686380246.70344</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>442</id>
+    <cpid>f73125f8e0a16c80d5972b809763a850</cpid>
+    <create_time>1240406071</create_time>
+    <name>Tempel Meinetsberger Architekten</name>
+    <country>Germany</country>
+    <total_credit>264.650038</total_credit>
+    <expavg_credit>4.537188</expavg_credit>
+    <expavg_time>1317220977.3555</expavg_time>
+    <teamid>427</teamid>
+    <url>tmar.de</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9403</id>
+        <create_time>1309796389</create_time>
+        <rpc_seqno>771</rpc_seqno>
+        <host_cpid>3d67bfe0786aaea07cdaae628bda4849</host_cpid>
+        <total_credit>60.509702</total_credit>
+        <expavg_credit>1.491619</expavg_credit>
+        <expavg_time>1317220977.35565</expavg_time>
+        <domain_name>xppc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2896147771.38268</p_fpops>
+        <p_iops>5310187820.14798</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9343</id>
+        <create_time>1309272865</create_time>
+        <rpc_seqno>399</rpc_seqno>
+        <host_cpid>609e52210ac1919f07550fd486270e5d</host_cpid>
+        <total_credit>22.936888</total_credit>
+        <expavg_credit>0.061768</expavg_credit>
+        <expavg_time>1312748102.98228</expavg_time>
+        <domain_name>kcad.wfx</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2650014861.33424</p_fpops>
+        <p_iops>6043807793.98502</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9608</id>
+        <create_time>1311832731</create_time>
+        <rpc_seqno>879</rpc_seqno>
+        <host_cpid>70fcadc4a0b4bf0f7852f1eafab70b8b</host_cpid>
+        <total_credit>106.225926</total_credit>
+        <expavg_credit>0.705216</expavg_credit>
+        <expavg_time>1316998502.6734</expavg_time>
+        <domain_name>mini.zep</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1300 @ 1.66GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1673886900.38374</p_fpops>
+        <p_iops>3571210544.9461</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9595</id>
+        <create_time>1311687697</create_time>
+        <rpc_seqno>965</rpc_seqno>
+        <host_cpid>fec0f22cb402386237531f7fa0009cd9</host_cpid>
+        <total_credit>74.977522</total_credit>
+        <expavg_credit>2.404836</expavg_credit>
+        <expavg_time>1317220056.58919</expavg_time>
+        <domain_name>tmar.wfx</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2841378486.56418</p_fpops>
+        <p_iops>6174143207.50411</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue></venue>
+    </host>
+</user>

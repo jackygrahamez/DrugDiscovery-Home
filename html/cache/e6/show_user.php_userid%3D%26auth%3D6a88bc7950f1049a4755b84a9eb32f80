@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2844</id>
+    <cpid>6c787af5014e942a0f33fcf99d0e7c23</cpid>
+    <create_time>1287618268</create_time>
+    <name>dandrestor</name>
+    <country>Romania</country>
+    <total_credit>55.631134</total_credit>
+    <expavg_credit>2.250842</expavg_credit>
+    <expavg_time>1315674757.71518</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5893</id>
+        <create_time>1287618394</create_time>
+        <rpc_seqno>7210</rpc_seqno>
+        <host_cpid>0bf79cc317aea7584e1f268197846b0c</host_cpid>
+        <total_credit>55.631134</total_credit>
+        <expavg_credit>2.250842</expavg_credit>
+        <expavg_time>1315674757.71536</expavg_time>
+        <domain_name>IBM-1AA675FFF9E</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9600  @ 2.80GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2881093608.15934</p_fpops>
+        <p_iops>5928165433.50408</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10068</id>
+        <create_time>1315752621</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>d5c2d0f327b8ac6d019b243c2112ab1d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315752621</expavg_time>
+        <domain_name>develappy</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1622090271.16201</p_fpops>
+        <p_iops>4384460981.5968</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic-pae</os_version>
+        <venue></venue>
+    </host>
+</user>

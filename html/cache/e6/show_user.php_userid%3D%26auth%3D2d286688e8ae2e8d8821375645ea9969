@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2147</id>
+    <cpid>d18c296a5261c6d45feceafb52fb2094</cpid>
+    <create_time>1275983771</create_time>
+    <name>[clemens]</name>
+    <country>Germany</country>
+    <total_credit>32.412319</total_credit>
+    <expavg_credit>0.072754</expavg_credit>
+    <expavg_time>1297022703.3874</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4454</id>
+        <create_time>1277473910</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>a56a17f1b5f31b6eecd1ad88c212ffe1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277473910</expavg_time>
+        <domain_name>heimpc-basis</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2400+ [x86 Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1958208955.22388</p_fpops>
+        <p_iops>3194477284.50139</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4299</id>
+        <create_time>1277031909</create_time>
+        <rpc_seqno>1343</rpc_seqno>
+        <host_cpid>b39122df8ec6b49f55c1802b064744dd</host_cpid>
+        <total_credit>32.412319</total_credit>
+        <expavg_credit>0.072755</expavg_credit>
+        <expavg_time>1297022703.79191</expavg_time>
+        <domain_name>Lappi</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5450  @ 1.66GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1562288658.18055</p_fpops>
+        <p_iops>3138408518.43328</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,29 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"756";s:11:"create_time";s:10:"1265314896";s:6:"userid";s:4:"1262";s:4:"name";s:3:"JLF";s:7:"name_lc";s:3:"jlf";s:3:"url";s:7:"jlf.fi/";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:0:"";s:6:"nusers";s:1:"1";s:7:"country";s:7:"Finland";s:12:"total_credit";s:15:"14690.163299336";s:13:"expavg_credit";s:18:"0.0039081262414573";s:11:"expavg_time";s:10:"1314641983";s:7:"seti_id";s:4:"1197";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"1";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"1262";s:11:"create_time";s:10:"1265314840";s:10:"email_addr";s:19:"001-boinc@linja.net";s:4:"name";s:6:"vkojlf";s:13:"authenticator";s:32:"016262d89f1248aafe8e57bdf69662f4";s:7:"country";s:7:"Finland";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"14690.163299336";s:13:"expavg_credit";s:18:"0.0039081262282448";s:11:"expavg_time";s:10:"1314641983";s:12:"global_prefs";s:1201:"<global_preferences>
+    <source_project>http://www.primegrid.com/</source_project>
+    <source_scheduler>http://www.primegrid.com/cgi/cgi</source_scheduler>
+<mod_time>1269291472</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>30</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0.0010000</work_buf_min_days>
+<work_buf_additional_days>2.0000000</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>3.0</disk_max_used_gb>
+<disk_max_used_pct>70</disk_max_used_pct>
+<disk_min_free_gb>2.0</disk_min_free_gb>
+<vm_max_used_pct>30</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"756";s:5:"venue";s:0:"";s:3:"url";s:7:"jlf.fi/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"6aadabe956f87cc85b741b097ce6a8af";s:11:"passwd_hash";s:32:"7107c402d532c1fbfdb6f9b8ee4e1f97";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

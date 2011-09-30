@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2600</id>
+    <cpid>f17164fea4159310a579e1aea5faac42</cpid>
+    <create_time>1283654469</create_time>
+    <name>Infomat</name>
+    <country>France</country>
+    <total_credit>12.619071</total_credit>
+    <expavg_credit>0.066994</expavg_credit>
+    <expavg_time>1294518302.67819</expavg_time>
+    <teamid>7</teamid>
+    <url>claude.dulaurens.free.fr</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>5311</id>
+        <create_time>1283655805</create_time>
+        <rpc_seqno>78</rpc_seqno>
+        <host_cpid>2001989c0fc1e3f9f4c15c1d22e63fd0</host_cpid>
+        <total_credit>12.619071</total_credit>
+        <expavg_credit>0.066994</expavg_credit>
+        <expavg_time>1294518303.06538</expavg_time>
+        <domain_name>cia-q6600</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2257920501.66932</p_fpops>
+        <p_iops>4700881674.3292</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5313</id>
+        <create_time>1283660868</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>442abdcef171a36ed1cc7a0972f46033</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283660868</expavg_time>
+        <domain_name>PCCQ14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3127213673.02648</p_fpops>
+        <p_iops>6211472566.78601</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5314</id>
+        <create_time>1283661938</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>55e84b7c9410865150b7d7e54f3b9582</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283661938</expavg_time>
+        <domain_name>PCEDI</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1268753131.23051</p_fpops>
+        <p_iops>2415754126.35174</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5316</id>
+        <create_time>1283676356</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>9048504deef9d5f66b793f7297972680</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283676356</expavg_time>
+        <domain_name>PCINFO</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>2065012854.03529</p_fpops>
+        <p_iops>4231559967.79869</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7504</id>
+        <create_time>1295985966</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>edf03cd760e29a6b46ac55b0ce905395</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295985966</expavg_time>
+        <domain_name>CIA-I7-980x</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>3424046085.26399</p_fpops>
+        <p_iops>7820875871.95207</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8123</id>
+        <create_time>1300442245</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>75c4cb785c6a56f0946a70a6872fe5df</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300442245</expavg_time>
+        <domain_name>CIA-I7-980x</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>3331353448.16349</p_fpops>
+        <p_iops>6707626392.66723</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1303</id>
+    <cpid>0fe3a9189bdeb7c3c0a5a44d5d3972e3</cpid>
+    <create_time>1265696048</create_time>
+    <name>ari07</name>
+    <country>Austria</country>
+    <total_credit>109.521669</total_credit>
+    <expavg_credit>0.073294</expavg_credit>
+    <expavg_time>1270267203.075</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2190</id>
+        <create_time>1265698037</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>c8ad92f96b59ab506c7fc8b685784940</host_cpid>
+        <total_credit>109.521669</total_credit>
+        <expavg_credit>0.073299</expavg_credit>
+        <expavg_time>1270267203.48927</expavg_time>
+        <domain_name>carpella</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4000+ [x86 Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>2085899621.00225</p_fpops>
+        <p_iops>3485891117.57041</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2249</id>
+        <create_time>1265820087</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>97c9b26498dd8a76851cb5c6a71156b3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265820087</expavg_time>
+        <domain_name>werner</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.60GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1366887417.21854</p_fpops>
+        <p_iops>2355257408.03506</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

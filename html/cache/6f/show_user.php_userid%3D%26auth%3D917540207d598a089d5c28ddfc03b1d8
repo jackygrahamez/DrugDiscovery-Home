@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>337</id>
+    <cpid>a3dffa8adb384598e82469e2c6b42981</cpid>
+    <create_time>1240405916</create_time>
+    <name>kinhull</name>
+    <country></country>
+    <total_credit>31.864441</total_credit>
+    <expavg_credit>0.042582</expavg_credit>
+    <expavg_time>1268940302.77033</expavg_time>
+    <teamid>322</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2078</id>
+        <create_time>1265368455</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>1486078d461ad58df7d2782e6bf3d9fe</host_cpid>
+        <total_credit>31.864441</total_credit>
+        <expavg_credit>0.054611</expavg_credit>
+        <expavg_time>1268940303.79988</expavg_time>
+        <domain_name>clarkelap</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2103038813.85011</p_fpops>
+        <p_iops>4528588593.99421</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4470</id>
+        <create_time>1277541259</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>0a7292e4f01a818b3896dc29580cb8b2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277541259</expavg_time>
+        <domain_name>kazlap-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 330  @ 2.13GHz [Family 0 Model 0 Stepping 0]</p_model>
+        <p_fpops>1905648287.67412</p_fpops>
+        <p_iops>6626888947.67088</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

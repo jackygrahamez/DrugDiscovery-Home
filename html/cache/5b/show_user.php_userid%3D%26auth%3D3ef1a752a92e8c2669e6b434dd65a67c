@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2371</id>
+    <cpid>2b4b2aa57bb9f4c7caaba41ff94fa9eb</cpid>
+    <create_time>1280263646</create_time>
+    <name>Sam Gonce</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1280263646</expavg_time>
+    <teamid>5</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>4825</id>
+        <create_time>1280263659</create_time>
+        <rpc_seqno>39</rpc_seqno>
+        <host_cpid>0f70199e6ae201c4e6d5c1f5659c7d97</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280263659</expavg_time>
+        <domain_name>SFG-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4000+ [Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>2093672327.09624</p_fpops>
+        <p_iops>3716847179.70233</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5232</id>
+        <create_time>1283139450</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>a46ec687e238cdc3ea4635abbad4750b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283139450</expavg_time>
+        <domain_name>SFG-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4000+ [Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>1954995604.13558</p_fpops>
+        <p_iops>4466261720.90691</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

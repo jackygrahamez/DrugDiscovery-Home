@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2715</id>
+    <cpid>19cf0c08c8294ac2875bd61eba7f03f3</cpid>
+    <create_time>1285412811</create_time>
+    <name>Jon Anta</name>
+    <country>Norway</country>
+    <total_credit>1833.2038449598</total_credit>
+    <expavg_credit>1.265301</expavg_credit>
+    <expavg_time>1315851902.57099</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5612</id>
+        <create_time>1285500455</create_time>
+        <rpc_seqno>977</rpc_seqno>
+        <host_cpid>bc45b269b5484bf09313f6afe8872041</host_cpid>
+        <total_credit>660.309274</total_credit>
+        <expavg_credit>0.069962</expavg_credit>
+        <expavg_time>1301861103.99142</expavg_time>
+        <domain_name>Kalman</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2970642374.55571</p_fpops>
+        <p_iops>6441322615.71165</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5601</id>
+        <create_time>1285449323</create_time>
+        <rpc_seqno>652</rpc_seqno>
+        <host_cpid>8e70abcaffe69c8cd498ab7a90b4a1c1</host_cpid>
+        <total_credit>1172.8945709598</total_credit>
+        <expavg_credit>1.252535</expavg_credit>
+        <expavg_time>1315851902.85957</expavg_time>
+        <domain_name>Hakon-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2674774220.2422</p_fpops>
+        <p_iops>6745163989.4503</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

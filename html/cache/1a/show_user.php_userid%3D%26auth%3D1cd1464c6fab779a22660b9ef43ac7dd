@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2065</id>
+    <cpid>69235416e95378386590893a6af0734d</cpid>
+    <create_time>1274523532</create_time>
+    <name>isaax</name>
+    <country>United States</country>
+    <total_credit>3592.765652</total_credit>
+    <expavg_credit>1.154354</expavg_credit>
+    <expavg_time>1315773202.19318</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3964</id>
+        <create_time>1274525433</create_time>
+        <rpc_seqno>781</rpc_seqno>
+        <host_cpid>ebde9c41d0964401271206a9cdf8795e</host_cpid>
+        <total_credit>3592.765652</total_credit>
+        <expavg_credit>1.154355</expavg_credit>
+        <expavg_time>1315773202.19342</expavg_time>
+        <domain_name>ElectricSheep</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2277436150.38379</p_fpops>
+        <p_iops>6735059404.68778</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3965</id>
+        <create_time>1274526208</create_time>
+        <rpc_seqno>122</rpc_seqno>
+        <host_cpid>785ca943d7dacdd9f2cfb420616432bb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274526208</expavg_time>
+        <domain_name>Caribou-2.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook5,4] [AltiVec]</p_model>
+        <p_fpops>834262954.046203</p_fpops>
+        <p_iops>2581996408.88998</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>9.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

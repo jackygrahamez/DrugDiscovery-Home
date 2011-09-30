@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4966</id>
+    <cpid>9e2cc859966efa5293226a0c167cd314</cpid>
+    <create_time>1314959919</create_time>
+    <name>yepeng</name>
+    <country>China</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1314959919</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9965</id>
+        <create_time>1314960635</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>91ff0d25b313ba1e96c986c875bb6bd9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314960635</expavg_time>
+        <domain_name>XP-200908050056</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU        E3400  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3631777348.99114</p_fpops>
+        <p_iops>6942163079.66616</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9998</id>
+        <create_time>1315303107</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>b36098a0bbde3d1d0dacad2d05376c08</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315303107</expavg_time>
+        <domain_name>XP-201109112127</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU        E3500  @ 2.70GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2839028202.76498</p_fpops>
+        <p_iops>5718386034.64852</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

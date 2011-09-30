@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>950</id>
+    <cpid>9704a6b117b4172c416e944505f12d48</cpid>
+    <create_time>1257976842</create_time>
+    <name>Not2Nutz</name>
+    <country></country>
+    <total_credit>7.629493</total_credit>
+    <expavg_credit>0.01375</expavg_credit>
+    <expavg_time>1305918511.14434</expavg_time>
+    <teamid>662</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8175</id>
+        <create_time>1300860944</create_time>
+        <rpc_seqno>89</rpc_seqno>
+        <host_cpid>4ba6e4205e29aba24e089e305370242f</host_cpid>
+        <total_credit>7.629493</total_credit>
+        <expavg_credit>0.053073</expavg_credit>
+        <expavg_time>1306699803.55045</expavg_time>
+        <domain_name>Columbia</domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           @ 0000 @ 2.40GHz [Family 6 Model 26 Stepping 2]</p_model>
+        <p_fpops>2188637673.43329</p_fpops>
+        <p_iops>8342267596.74887</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9264</id>
+        <create_time>1308401931</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f87817e00c8a862f5a54ab609eb82d56</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308401931</expavg_time>
+        <domain_name>Agate</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4400+ [Family 15 Model 35 Stepping 2]</p_model>
+        <p_fpops>2090349557.38844</p_fpops>
+        <p_iops>3910656671.48026</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9341</id>
+        <create_time>1309239833</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>0c3f400d66499fb9614696adbadc6818</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309239833</expavg_time>
+        <domain_name>Columbia</domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           @ 0000 @ 2.40GHz [Family 6 Model 26 Stepping 2]</p_model>
+        <p_fpops>2176900359.9313</p_fpops>
+        <p_iops>5505809390.69202</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9464</id>
+        <create_time>1310270158</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>36144c97ee267e197063556194cb78c5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310270158</expavg_time>
+        <domain_name>Cascadia</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           L5408  @ 2.13GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2666514350.14171</p_fpops>
+        <p_iops>7757645398.57694</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

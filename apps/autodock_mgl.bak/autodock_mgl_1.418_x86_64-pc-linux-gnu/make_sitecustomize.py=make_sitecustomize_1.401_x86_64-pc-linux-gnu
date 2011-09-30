@@ -1,0 +1,49 @@
+import sys
+
+for path in sys.argv[1:]:
+	mglroot = ""
+	for i in path:
+		if i == "\\":
+			mglroot = mglroot + "\\"
+		if i == "/":
+			mglroot = mglroot + "/"
+		else:
+			mglroot = mglroot + i 
+print mglroot
+pythonpath = mglroot + "/Python25"
+pythonlib = pythonpath + "/Lib"
+pythondynload = pythonlib + "/lib-dynload"
+molkit = mglroot + "MGLToolsPckgs/MolKit"
+sys.path.append(pythonpath)
+sys.path.append(pythonlib)
+sys.path.append(pythondynload)
+sys.path.append(molkit)
+
+import os
+
+
+list=[]
+list.append("# specify mglroot here")
+list.append("import sys, os")
+list.append("path = os.path.join(\"" + mglroot + "\", \"MGLToolsPckgs\")")
+list.append("sys.path.insert(0,path)")
+list.append("")
+list.append("from Support.path import setSysPath")
+list.append("setSysPath(path)")
+list.append("#sys.path.insert(0,'.')")
+list.append("sys.path.append(\"" + mglroot + "/Python25/Lib/site-packages\")")
+index=0
+if os.path.isfile(mglroot + "/Python25/Lib/sitecustomize.py")!=1:
+	while index<len(list):
+		list[index]=list[index]+"\n"
+		index+=1
+	file = open(mglroot + "/Python25/Lib/sitecustomize.py","w")
+	file.writelines(list)
+	file.close()
+if os.path.isfile(mglroot + "/MGLToolsPckgs/Support/sitecustomize.py")!=1:
+	while index<len(list):
+		list[index]=list[index]+"\n"
+		index+=1
+	file = open(mglroot + "/MGLToolsPckgs/Support/sitecustomize.py","w")
+	file.writelines(list)
+	file.close()

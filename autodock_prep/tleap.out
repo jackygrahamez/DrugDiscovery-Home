@@ -1,0 +1,125 @@
+-I: Adding /usr/local/antechamber-1.27/dat/leap/prep to search path.
+-I: Adding /usr/local/antechamber-1.27/dat/leap/lib to search path.
+-I: Adding /usr/local/antechamber-1.27/dat/leap/parm to search path.
+-I: Adding /usr/local/antechamber-1.27/dat/leap/cmd to search path.
+-s: Ignoring startup file: leaprc
+-f: Source tleap.in.
+
+Welcome to LEaP!
+Sourcing: ./tleap.in
+----- Source: /usr/local/antechamber-1.27/dat/leap/cmd/leaprc.ff99SB
+----- Source of /usr/local/antechamber-1.27/dat/leap/cmd/leaprc.ff99SB done
+Log file: ./leap.log
+Loading parameters: /usr/local/antechamber-1.27/dat/leap/parm/parm99.dat
+Reading title:
+PARM99 for DNA,RNA,AA, organic molecules, TIP3P wat. Polariz.& LP incl.02/04/99
+Could not open file frcmod.ff99SB: not found
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/all_nucleic94.lib
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/all_amino94.lib
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/all_aminoct94.lib
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/all_aminont94.lib
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/ions94.lib
+Loading library: /usr/local/antechamber-1.27/dat/leap/lib/solvents.lib
+Loading PDB file: ./pdb100d.ent
+ (starting new molecule for chain B)
+Unknown residue: SPM   number: 20   type: Terminal/beginning
+..relaxing end constraints to try for a dbase match
+  -no luck
+Created a new atom named: O2' within residue: .R<DC5 1>
+Created a new atom named: OP1 within residue: .R<DC 2>
+Created a new atom named: OP2 within residue: .R<DC 2>
+  Added missing heavy atom: .R<DC 2>.A<O1P 2>
+  Added missing heavy atom: .R<DC 2>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 3>
+Created a new atom named: OP2 within residue: .R<DG 3>
+  Added missing heavy atom: .R<DG 3>.A<O1P 2>
+  Added missing heavy atom: .R<DG 3>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 4>
+Created a new atom named: OP2 within residue: .R<DG 4>
+  Added missing heavy atom: .R<DG 4>.A<O1P 2>
+  Added missing heavy atom: .R<DG 4>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 5>
+Created a new atom named: OP2 within residue: .R<DC 5>
+  Added missing heavy atom: .R<DC 5>.A<O1P 2>
+  Added missing heavy atom: .R<DC 5>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 6>
+Created a new atom named: OP2 within residue: .R<DG 6>
+  Added missing heavy atom: .R<DG 6>.A<O1P 2>
+  Added missing heavy atom: .R<DG 6>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 7>
+Created a new atom named: OP2 within residue: .R<DC 7>
+  Added missing heavy atom: .R<DC 7>.A<O1P 2>
+  Added missing heavy atom: .R<DC 7>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 8>
+Created a new atom named: OP2 within residue: .R<DC 8>
+  Added missing heavy atom: .R<DC 8>.A<O1P 2>
+  Added missing heavy atom: .R<DC 8>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 9>
+Created a new atom named: OP2 within residue: .R<DG 9>
+  Added missing heavy atom: .R<DG 9>.A<O1P 2>
+  Added missing heavy atom: .R<DG 9>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG3 10>
+Created a new atom named: OP2 within residue: .R<DG3 10>
+Created a new atom named: O2' within residue: .R<DG3 10>
+  Added missing heavy atom: .R<DG3 10>.A<O1P 2>
+  Added missing heavy atom: .R<DG3 10>.A<O2P 3>
+Created a new atom named: O2' within residue: .R<DC5 11>
+Created a new atom named: OP1 within residue: .R<DC 12>
+Created a new atom named: OP2 within residue: .R<DC 12>
+  Added missing heavy atom: .R<DC 12>.A<O1P 2>
+  Added missing heavy atom: .R<DC 12>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 13>
+Created a new atom named: OP2 within residue: .R<DG 13>
+  Added missing heavy atom: .R<DG 13>.A<O1P 2>
+  Added missing heavy atom: .R<DG 13>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 14>
+Created a new atom named: OP2 within residue: .R<DG 14>
+  Added missing heavy atom: .R<DG 14>.A<O1P 2>
+  Added missing heavy atom: .R<DG 14>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 15>
+Created a new atom named: OP2 within residue: .R<DC 15>
+  Added missing heavy atom: .R<DC 15>.A<O1P 2>
+  Added missing heavy atom: .R<DC 15>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 16>
+Created a new atom named: OP2 within residue: .R<DG 16>
+  Added missing heavy atom: .R<DG 16>.A<O1P 2>
+  Added missing heavy atom: .R<DG 16>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 17>
+Created a new atom named: OP2 within residue: .R<DC 17>
+  Added missing heavy atom: .R<DC 17>.A<O1P 2>
+  Added missing heavy atom: .R<DC 17>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DC 18>
+Created a new atom named: OP2 within residue: .R<DC 18>
+  Added missing heavy atom: .R<DC 18>.A<O1P 2>
+  Added missing heavy atom: .R<DC 18>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG 19>
+Created a new atom named: OP2 within residue: .R<DG 19>
+  Added missing heavy atom: .R<DG 19>.A<O1P 2>
+  Added missing heavy atom: .R<DG 19>.A<O2P 3>
+Created a new atom named: OP1 within residue: .R<DG3 20>
+Created a new atom named: OP2 within residue: .R<DG3 20>
+Created a new atom named: O2' within residue: .R<DG3 20>
+  Added missing heavy atom: .R<DG3 20>.A<O1P 2>
+  Added missing heavy atom: .R<DG3 20>.A<O2P 3>
+Creating new UNIT for residue: SPM sequence: 21
+Created a new atom named: N1 within residue: .R<SPM 21>
+Created a new atom named: C2 within residue: .R<SPM 21>
+Created a new atom named: C3 within residue: .R<SPM 21>
+Created a new atom named: C4 within residue: .R<SPM 21>
+Created a new atom named: N5 within residue: .R<SPM 21>
+Created a new atom named: C6 within residue: .R<SPM 21>
+Created a new atom named: C7 within residue: .R<SPM 21>
+Created a new atom named: C8 within residue: .R<SPM 21>
+Created a new atom named: C9 within residue: .R<SPM 21>
+Created a new atom named: N10 within residue: .R<SPM 21>
+Created a new atom named: C11 within residue: .R<SPM 21>
+Created a new atom named: C12 within residue: .R<SPM 21>
+Created a new atom named: C13 within residue: .R<SPM 21>
+Created a new atom named: N14 within residue: .R<SPM 21>
+  total atoms in file: 489
+  Leap added 394 missing atoms according to residue templates:
+       36 Heavy
+       358 H / lone pairs
+  The file contained 54 atoms not in residue templates
+Writing pdb file: receptor.pdb
+	Quit

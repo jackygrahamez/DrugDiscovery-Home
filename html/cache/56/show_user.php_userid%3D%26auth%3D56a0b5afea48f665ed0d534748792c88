@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1807</id>
+    <cpid>5299e5b5b1d65353ebec898a4b6b84b5</cpid>
+    <create_time>1270949521</create_time>
+    <name>Paulo Amaral Silva</name>
+    <country>Portugal</country>
+    <total_credit>705.752937</total_credit>
+    <expavg_credit>1.340312</expavg_credit>
+    <expavg_time>1315946627.76438</expavg_time>
+    <teamid>496</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3423</id>
+        <create_time>1271057687</create_time>
+        <rpc_seqno>670</rpc_seqno>
+        <host_cpid>62542aeb0787f6831aa0bd3bf978868f</host_cpid>
+        <total_credit>14.450971</total_credit>
+        <expavg_credit>0.071315</expavg_credit>
+        <expavg_time>1273896003.16315</expavg_time>
+        <domain_name>ServidorPHC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2626492405.51042</p_fpops>
+        <p_iops>5360085730.32633</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3410</id>
+        <create_time>1270956421</create_time>
+        <rpc_seqno>764</rpc_seqno>
+        <host_cpid>7d2a41e03110f68d2f755b82cd80db45</host_cpid>
+        <total_credit>275.953064</total_credit>
+        <expavg_credit>0.079878</expavg_credit>
+        <expavg_time>1304885404.91788</expavg_time>
+        <domain_name>HOME-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2311184521.12958</p_fpops>
+        <p_iops>4892098591.60929</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3424</id>
+        <create_time>1271058470</create_time>
+        <rpc_seqno>228</rpc_seqno>
+        <host_cpid>eedaf5f2f1a29993f73863ab2a0e0f1f</host_cpid>
+        <total_credit>26.167546</total_credit>
+        <expavg_credit>0.073427</expavg_credit>
+        <expavg_time>1313352903.66407</expavg_time>
+        <domain_name>Facturacao</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 3.20GHz [x86 Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1662613981.76292</p_fpops>
+        <p_iops>2709011813.28569</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3425</id>
+        <create_time>1271062042</create_time>
+        <rpc_seqno>77</rpc_seqno>
+        <host_cpid>7019030cb7d9cc5831b26c02ba4f6e50</host_cpid>
+        <total_credit>235.344455</total_credit>
+        <expavg_credit>1.105911</expavg_credit>
+        <expavg_time>1315946627.77226</expavg_time>
+        <domain_name>JoaoFerreira</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 3.00GHz [x86 Family 15 Model 6 Stepping 2]</p_model>
+        <p_fpops>1529646121.39677</p_fpops>
+        <p_iops>2477920698.15974</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3427</id>
+        <create_time>1271081134</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c56b01a262b31c8a529f24fb550b8008</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271081134</expavg_time>
+        <domain_name>ana-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [x86 Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>614689304.670349</p_fpops>
+        <p_iops>1099309491.43485</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Editon, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8286</id>
+        <create_time>1301605197</create_time>
+        <rpc_seqno>1392</rpc_seqno>
+        <host_cpid>b03d7daa5af78705146e0b1173b4921f</host_cpid>
+        <total_credit>153.836901</total_credit>
+        <expavg_credit>0.252922</expavg_credit>
+        <expavg_time>1315851902.84623</expavg_time>
+        <domain_name>ana-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [x86 Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>790783693.567702</p_fpops>
+        <p_iops>1426924550.89778</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Editon, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

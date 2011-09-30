@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>14</id>
+    <cpid>e73f92bd9cfb4da9ccb743f18e4ad408</cpid>
+    <create_time>1240271549</create_time>
+    <name>RUffex</name>
+    <country>Russia</country>
+    <total_credit>17418.672328096</total_credit>
+    <expavg_credit>1.008245</expavg_credit>
+    <expavg_time>1315851902.57011</expavg_time>
+    <teamid>4</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>17</id>
+        <create_time>1240271703</create_time>
+        <rpc_seqno>7799</rpc_seqno>
+        <host_cpid>35323b9c93b306678d889cc0b6f43fcc</host_cpid>
+        <total_credit>3743.3929716895</total_credit>
+        <expavg_credit>0.093165</expavg_credit>
+        <expavg_time>1264103702.36976</expavg_time>
+        <domain_name>RUFFEX</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [x86 Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>1710071687.89156</p_fpops>
+        <p_iops>3166807986.71204</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>813</id>
+        <create_time>1253422763</create_time>
+        <rpc_seqno>70</rpc_seqno>
+        <host_cpid>03e18d80d773e1d865e77b40d66500ac</host_cpid>
+        <total_credit>373.13132518997</total_credit>
+        <expavg_credit>0.073889</expavg_credit>
+        <expavg_time>1274500802.69391</expavg_time>
+        <domain_name>III</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [x86 Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2686792452.83019</p_fpops>
+        <p_iops>4845766977.01557</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>838</id>
+        <create_time>1253633220</create_time>
+        <rpc_seqno>11783</rpc_seqno>
+        <host_cpid>4ab513a411398a8523a1565d8d123c98</host_cpid>
+        <total_credit>8056.8631522229</total_credit>
+        <expavg_credit>1.006114</expavg_credit>
+        <expavg_time>1315851902.85855</expavg_time>
+        <domain_name>RUFFEX</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>1638072790.29463</p_fpops>
+        <p_iops>3066756294.43816</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3726</id>
+        <create_time>1272773804</create_time>
+        <rpc_seqno>323</rpc_seqno>
+        <host_cpid>df9c73b88b505a788189d1c8ab2ed161</host_cpid>
+        <total_credit>447.768815</total_credit>
+        <expavg_credit>0.055485</expavg_credit>
+        <expavg_time>1281154205.22892</expavg_time>
+        <domain_name>GeArsion</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [AMD64 Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2164251207.72947</p_fpops>
+        <p_iops>5305175994.02893</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8163</id>
+        <create_time>1300761964</create_time>
+        <rpc_seqno>684</rpc_seqno>
+        <host_cpid>fd4409911efa7fcb243522c9ba9438b2</host_cpid>
+        <total_credit>30.439281</total_credit>
+        <expavg_credit>0.074221</expavg_credit>
+        <expavg_time>1309119003.66454</expavg_time>
+        <domain_name>Manager</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  230   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>652926113.171302</p_fpops>
+        <p_iops>1186780975.08929</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

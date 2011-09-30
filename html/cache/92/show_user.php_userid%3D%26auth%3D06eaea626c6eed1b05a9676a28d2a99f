@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1670</id>
+    <cpid>19aaa3da272897f005375c7ed42980a9</cpid>
+    <create_time>1269274446</create_time>
+    <name>barchetta</name>
+    <country>Estonia</country>
+    <total_credit>2767.13817875485</total_credit>
+    <expavg_credit>0.279838</expavg_credit>
+    <expavg_time>1315644224.32293</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3125</id>
+        <create_time>1269488092</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>851a5e1f731fe3b6b43c1e1f002a53fe</host_cpid>
+        <total_credit>0.017905</total_credit>
+        <expavg_credit>9.4e-05</expavg_credit>
+        <expavg_time>1285896763.3843</expavg_time>
+        <domain_name>Centrino</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5800  @ 2.00GHz [Intel64 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>670590125.837414</p_fpops>
+        <p_iops>1594701742.14186</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3093</id>
+        <create_time>1269276531</create_time>
+        <rpc_seqno>1433</rpc_seqno>
+        <host_cpid>69c64f3dfdedbce90bcd3c2d3c8e3cb4</host_cpid>
+        <total_credit>2767.12027375485</total_credit>
+        <expavg_credit>0.279838</expavg_credit>
+        <expavg_time>1315644224.32308</expavg_time>
+        <domain_name>UOFR-074CD57FC0</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) Dual Core Processor 4450B [x86 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2320820010.78962</p_fpops>
+        <p_iops>4292960670.5969</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

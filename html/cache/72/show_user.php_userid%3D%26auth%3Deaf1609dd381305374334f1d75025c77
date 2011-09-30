@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3302</id>
+    <cpid>1cd3a9ce487e50950e74577e11561dc8</cpid>
+    <create_time>1289798952</create_time>
+    <name>antoinegagne</name>
+    <country>Canada</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1289798952</expavg_time>
+    <teamid>1058</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6332</id>
+        <create_time>1289885461</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>fc20ab395fa947f089d5acc2edb8d1c3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289885461</expavg_time>
+        <domain_name>PC-de-Lucia</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual-Core Processor TK-57 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1777145676.44968</p_fpops>
+        <p_iops>3244449221.25867</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6516</id>
+        <create_time>1290659092</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>68295e3a4ff47e53b4ee777d3e0e1ae8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290659092</expavg_time>
+        <domain_name>CinémaMaison-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 4 Stepping 7]</p_model>
+        <p_fpops>1418867924.5283</p_fpops>
+        <p_iops>2273424188.5103</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

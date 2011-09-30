@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2546</id>
+    <cpid>f5b43d591825e9e0bc688ef769baf27b</cpid>
+    <create_time>1282854760</create_time>
+    <name>ArgentSmith</name>
+    <country>International</country>
+    <total_credit>718.991843</total_credit>
+    <expavg_credit>2.542189</expavg_credit>
+    <expavg_time>1315771291.49151</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5191</id>
+        <create_time>1282882102</create_time>
+        <rpc_seqno>16</rpc_seqno>
+        <host_cpid>f39ead93f9346b16232ecbf16a52bc70</host_cpid>
+        <total_credit>396.06247</total_credit>
+        <expavg_credit>0.094824</expavg_credit>
+        <expavg_time>1314814224.58332</expavg_time>
+        <domain_name>R2D2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         540  @ 3.07GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2917593445.35634</p_fpops>
+        <p_iops>6565964661.79498</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5187</id>
+        <create_time>1282855109</create_time>
+        <rpc_seqno>314</rpc_seqno>
+        <host_cpid>17ca43fad371e30d183464807d24ccd1</host_cpid>
+        <total_credit>88.06652</total_credit>
+        <expavg_credit>0.06319</expavg_credit>
+        <expavg_time>1304280603.6198</expavg_time>
+        <domain_name>Paul-FreeRide</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) Duo CPU      T2450  @ 2.00GHz [Family 6 Model 14 Stepping 12]</p_model>
+        <p_fpops>1722340681.70633</p_fpops>
+        <p_iops>3568426909.05776</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5188</id>
+        <create_time>1282855194</create_time>
+        <rpc_seqno>14391</rpc_seqno>
+        <host_cpid>69591a9e413dbda3f5760c73c5aa2090</host_cpid>
+        <total_credit>234.862853</total_credit>
+        <expavg_credit>2.283626</expavg_credit>
+        <expavg_time>1315771291.49166</expavg_time>
+        <domain_name>paul.rtelekom.ru</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>i386</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [] [sse sse2 sse3 mmx]</p_model>
+        <p_fpops>1907769125.24188</p_fpops>
+        <p_iops>4331999548.91462</p_iops>
+        <os_name>FreeBSD</os_name>
+        <os_version>8.2-RELEASE-p2</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9976</id>
+        <create_time>1315044543</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>8c2d4377ea3fec37ca1e91c223650333</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315044543</expavg_time>
+        <domain_name>R2D2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         540  @ 3.07GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2774838869.26452</p_fpops>
+        <p_iops>6099578136.05054</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

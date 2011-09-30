@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3542</id>
+    <cpid>9dc7a84c7b240e5ff0a940d00ddb7bb6</cpid>
+    <create_time>1292588252</create_time>
+    <name>Michael Stoeter</name>
+    <country>Germany</country>
+    <total_credit>2179.40478</total_credit>
+    <expavg_credit>0.062907</expavg_credit>
+    <expavg_time>1315247103.34323</expavg_time>
+    <teamid>1127</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6910</id>
+        <create_time>1292588275</create_time>
+        <rpc_seqno>3984</rpc_seqno>
+        <host_cpid>b06f365bbc91932ba9348495839d4c02</host_cpid>
+        <total_credit>1084.622755</total_credit>
+        <expavg_credit>0.04811</expavg_credit>
+        <expavg_time>1315247104.67442</expavg_time>
+        <domain_name>Michael</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2265914372.60237</p_fpops>
+        <p_iops>7090418664.464</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6911</id>
+        <create_time>1292588931</create_time>
+        <rpc_seqno>2725</rpc_seqno>
+        <host_cpid>9d49f4f38414739536fa30efe9a96c32</host_cpid>
+        <total_credit>1094.782025</total_credit>
+        <expavg_credit>0.070579</expavg_credit>
+        <expavg_time>1313957702.87331</expavg_time>
+        <domain_name>DUO</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2060759170.65391</p_fpops>
+        <p_iops>4305862676.16486</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

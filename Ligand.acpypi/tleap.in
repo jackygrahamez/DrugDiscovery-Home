@@ -1,0 +1,10 @@
+
+verbosity 1
+source leaprc.ff99SB
+source leaprc.gaff
+mods = loadamberparams Ligand_AC.frcmod
+LIG = loadmol2 Ligand_bcc_gaff.mol2
+check LIG
+saveamberparm LIG Ligand_AC.prmtop Ligand_AC.inpcrd
+saveoff LIG Ligand_AC.lib
+quit

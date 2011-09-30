@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>847</id>
+    <cpid>c74e8d741ce5168b45aa33ccecad3df2</cpid>
+    <create_time>1254415630</create_time>
+    <name>Tomasz R. Gwiazda</name>
+    <country>Poland</country>
+    <total_credit>101210.581674443</total_credit>
+    <expavg_credit>0.097717</expavg_credit>
+    <expavg_time>1278735003.02865</expavg_time>
+    <teamid>103</teamid>
+    <url>www.boincatpoland.org</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>902</id>
+        <create_time>1254415813</create_time>
+        <rpc_seqno>1212</rpc_seqno>
+        <host_cpid>213500ce544e05a4c6b75f07336acda8</host_cpid>
+        <total_credit>9438.0722541253</total_credit>
+        <expavg_credit>0.053233</expavg_credit>
+        <expavg_time>1273291202.3585</expavg_time>
+        <domain_name>Thomas-Quad</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2523595779.46143</p_fpops>
+        <p_iops>7313191011.49757</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>922</id>
+        <create_time>1254770635</create_time>
+        <rpc_seqno>346</rpc_seqno>
+        <host_cpid>27470b76cb57f36a3ef3b0b7094c9d06</host_cpid>
+        <total_credit>6156.6090217295</total_credit>
+        <expavg_credit>0.06539</expavg_credit>
+        <expavg_time>1265412904.05317</expavg_time>
+        <domain_name>thomas-quad2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [EM64T Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2989480567.02583</p_fpops>
+        <p_iops>6290694141.31998</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>927</id>
+        <create_time>1254811368</create_time>
+        <rpc_seqno>5537</rpc_seqno>
+        <host_cpid>0be06ff582291532055c66b744094147</host_cpid>
+        <total_credit>34179.792599036</total_credit>
+        <expavg_credit>0.083004</expavg_credit>
+        <expavg_time>1278735003.41687</expavg_time>
+        <domain_name>thomas-old</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2339419739.37244</p_fpops>
+        <p_iops>5400842916.73852</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1087</id>
+        <create_time>1257618756</create_time>
+        <rpc_seqno>85</rpc_seqno>
+        <host_cpid>999e89935e456041c82dc53604d7d80b</host_cpid>
+        <total_credit>320.385242969376</total_credit>
+        <expavg_credit>0.047878</expavg_credit>
+        <expavg_time>1270267203.44526</expavg_time>
+        <domain_name>OLD-rekin</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.00GHz [x86 Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1362887196.86158</p_fpops>
+        <p_iops>2382644002.16905</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1088</id>
+        <create_time>1257619257</create_time>
+        <rpc_seqno>155</rpc_seqno>
+        <host_cpid>3de1c0986fb16061cdda303bd6a3b3a0</host_cpid>
+        <total_credit>2070.7910398043</total_credit>
+        <expavg_credit>0.095616</expavg_credit>
+        <expavg_time>1264814103.40665</expavg_time>
+        <domain_name>Thomas-Win2003std</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X5355  @ 2.66GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2566551990.95292</p_fpops>
+        <p_iops>5514717410.68073</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Dodatek Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1233</id>
+        <create_time>1258142387</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>3114de4d32f24c39559462d300e41c08</host_cpid>
+        <total_credit>1512.808461</total_credit>
+        <expavg_credit>0.073717</expavg_credit>
+        <expavg_time>1274500802.71135</expavg_time>
+        <domain_name>S121c12</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1557502922.60931</p_fpops>
+        <p_iops>3468372566.51627</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1234</id>
+        <create_time>1258142390</create_time>
+        <rpc_seqno>74</rpc_seqno>
+        <host_cpid>8b281428fa63cdb83d4b604936c18f84</host_cpid>
+        <total_credit>1496.81811</total_credit>
+        <expavg_credit>0.061847</expavg_credit>
+        <expavg_time>1274500802.71148</expavg_time>
+        <domain_name>S121c10</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1563555581.88442</p_fpops>
+        <p_iops>3405519881.95895</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1235</id>
+        <create_time>1258142394</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>58569326982da81b23318e4af1ea5890</host_cpid>
+        <total_credit>1339.221379</total_credit>
+        <expavg_credit>0.05724</expavg_credit>
+        <expavg_time>1274500802.71159</expavg_time>
+        <domain_name>S121c13</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1560999767.24262</p_fpops>
+        <p_iops>3440054695.86166</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1236</id>
+        <create_time>1258142418</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>8418d632f5dae92a4387464a994d59da</host_cpid>
+        <total_credit>1480.939864</total_credit>
+        <expavg_credit>0.072975</expavg_credit>
+        <expavg_time>1274500802.71171</expavg_time>
+        <domain_name>S121c16</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1558547217.40891</p_fpops>
+        <p_iops>3443636477.7112</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1237</id>
+        <create_time>1258142419</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>e01147944ac68d60610c709d193aca07</host_cpid>
+        <total_credit>941.980995</total_credit>
+        <expavg_credit>0.062859</expavg_credit>
+        <expavg_time>1273896003.0837</expavg_time>
+        <domain_name>S121c20</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1561228292.39188</p_fpops>
+        <p_iops>3425862553.40302</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1238</id>
+        <create_time>1258142421</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>07758d3287400dbea08e4890feeeda80</host_cpid>
+        <total_credit>1573.304523</total_credit>
+        <expavg_credit>0.070502</expavg_credit>
+        <expavg_time>1274500802.7118</expavg_time>
+        <domain_name>S121c15</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1554847030.90337</p_fpops>
+        <p_iops>3447385659.51826</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1239</id>
+        <create_time>1258142425</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>76316524049360425ffba1c82e4005e2</host_cpid>
+        <total_credit>342.511834</total_credit>
+        <expavg_credit>0.074002</expavg_credit>
+        <expavg_time>1273291202.36513</expavg_time>
+        <domain_name>S121c17</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1556079388.5917</p_fpops>
+        <p_iops>3486821188.15379</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1240</id>
+        <create_time>1258142432</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>cdc0ca37fce47a0e4f8eba7941da2d64</host_cpid>
+        <total_credit>1307.993584</total_credit>
+        <expavg_credit>0.063895</expavg_credit>
+        <expavg_time>1274500802.71192</expavg_time>
+        <domain_name>S121c19</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1562319354.90231</p_fpops>
+        <p_iops>3486709715.36088</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1241</id>
+        <create_time>1258142443</create_time>
+        <rpc_seqno>34</rpc_seqno>
+        <host_cpid>d425941bae5110f77e81e4df2a136052</host_cpid>
+        <total_credit>677.526095</total_credit>
+        <expavg_credit>0.070698</expavg_credit>
+        <expavg_time>1273896003.08404</expavg_time>
+        <domain_name>S121c18</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1562323390.89482</p_fpops>
+        <p_iops>3462910562.47451</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1243</id>
+        <create_time>1258142781</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>e1975fb242d7f6f39521d055efd8e0d3</host_cpid>
+        <total_credit>1456.383054</total_credit>
+        <expavg_credit>0.079747</expavg_credit>
+        <expavg_time>1274500802.71203</expavg_time>
+        <domain_name>S121c14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1558532034.00373</p_fpops>
+        <p_iops>3448302029.97534</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1244</id>
+        <create_time>1258143075</create_time>
+        <rpc_seqno>99</rpc_seqno>
+        <host_cpid>24356952c8828877a83a3b90ed322174</host_cpid>
+        <total_credit>1117.35358570657</total_credit>
+        <expavg_credit>0.073037</expavg_credit>
+        <expavg_time>1264814103.41394</expavg_time>
+        <domain_name>Win2003STD-2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X5355  @ 2.66GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2561020462.39702</p_fpops>
+        <p_iops>5480986934.4833</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Dodatek Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1245</id>
+        <create_time>1258143438</create_time>
+        <rpc_seqno>98</rpc_seqno>
+        <host_cpid>fbaed39eb1c36939618bf3e409419c98</host_cpid>
+        <total_credit>2547.612019</total_credit>
+        <expavg_credit>0.064841</expavg_credit>
+        <expavg_time>1275105603.43996</expavg_time>
+        <domain_name>S121c11</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1558790750.73494</p_fpops>
+        <p_iops>3436198423.96974</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1257</id>
+        <create_time>1258156417</create_time>
+        <rpc_seqno>77</rpc_seqno>
+        <host_cpid>204835ab0a19c9a95b0ce2cd250dc82a</host_cpid>
+        <total_credit>2523.690782</total_credit>
+        <expavg_credit>0.060893</expavg_credit>
+        <expavg_time>1275105603.4401</expavg_time>
+        <domain_name>s121c03</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1554052186.98113</p_fpops>
+        <p_iops>3463880327.74562</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1258</id>
+        <create_time>1258156438</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>905de9f50e35b1d0b886ac2794c51012</host_cpid>
+        <total_credit>2052.564019</total_credit>
+        <expavg_credit>0.054947</expavg_credit>
+        <expavg_time>1275105603.44021</expavg_time>
+        <domain_name>S121c04</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1554360843.84151</p_fpops>
+        <p_iops>3428844334.24481</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1259</id>
+        <create_time>1258156693</create_time>
+        <rpc_seqno>127</rpc_seqno>
+        <host_cpid>900489c7d3380f317c35af2ef4924a5f</host_cpid>
+        <total_credit>2849.169687</total_credit>
+        <expavg_credit>0.081942</expavg_credit>
+        <expavg_time>1275105603.44032</expavg_time>
+        <domain_name>S121c02</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1556102362.20472</p_fpops>
+        <p_iops>3367457952.21812</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1260</id>
+        <create_time>1258156723</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>65dc8e2e222ca3f880e835364d6d52d8</host_cpid>
+        <total_credit>1820.632376</total_credit>
+        <expavg_credit>0.064231</expavg_credit>
+        <expavg_time>1274500802.71263</expavg_time>
+        <domain_name>S121c06</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1562354564.83433</p_fpops>
+        <p_iops>3450319216.06136</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1261</id>
+        <create_time>1258156731</create_time>
+        <rpc_seqno>88</rpc_seqno>
+        <host_cpid>3c374387dcd00e3f06860a832df61177</host_cpid>
+        <total_credit>2211.682031</total_credit>
+        <expavg_credit>0.056026</expavg_credit>
+        <expavg_time>1275105603.44044</expavg_time>
+        <domain_name>S121c07</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1558152129.21815</p_fpops>
+        <p_iops>3422526765.82758</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1262</id>
+        <create_time>1258156745</create_time>
+        <rpc_seqno>108</rpc_seqno>
+        <host_cpid>458b2742b6b5caba4fd94ac00d15e285</host_cpid>
+        <total_credit>2974.551993</total_credit>
+        <expavg_credit>0.078109</expavg_credit>
+        <expavg_time>1275105603.44056</expavg_time>
+        <domain_name>S121c08</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1559732207.31189</p_fpops>
+        <p_iops>3484919268.39734</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1263</id>
+        <create_time>1258156755</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>687fccc338ae37c7fb3a3f326bbf4d31</host_cpid>
+        <total_credit>2447.897056</total_credit>
+        <expavg_credit>0.072948</expavg_credit>
+        <expavg_time>1275105603.44068</expavg_time>
+        <domain_name>S121c09</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1557287908.36143</p_fpops>
+        <p_iops>3319452249.5866</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1405</id>
+        <create_time>1258466159</create_time>
+        <rpc_seqno>311</rpc_seqno>
+        <host_cpid>3d4030b711a8576a9578d55dc418b6ff</host_cpid>
+        <total_credit>1981.0763950742</total_credit>
+        <expavg_credit>0.037731</expavg_credit>
+        <expavg_time>1270267203.45892</expavg_time>
+        <domain_name>Thomas-Quad2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2893516506.1053</p_fpops>
+        <p_iops>8656420465.10901</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2182</id>
+        <create_time>1265667271</create_time>
+        <rpc_seqno>55</rpc_seqno>
+        <host_cpid>13d45e38657986b8abf11f1ff51d6825</host_cpid>
+        <total_credit>102.661132</total_credit>
+        <expavg_credit>0.080232</expavg_credit>
+        <expavg_time>1270267203.47351</expavg_time>
+        <domain_name>A13C27</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753219720.77434</p_fpops>
+        <p_iops>3752424282.14138</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2118</id>
+        <create_time>1265625594</create_time>
+        <rpc_seqno>97</rpc_seqno>
+        <host_cpid>324e716061323072d07b95fd3d919854</host_cpid>
+        <total_credit>61.111738</total_credit>
+        <expavg_credit>0.056435</expavg_credit>
+        <expavg_time>1270267203.48953</expavg_time>
+        <domain_name>A13C32</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757330546.87539</p_fpops>
+        <p_iops>3744289687.61074</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2119</id>
+        <create_time>1265625601</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>adf4354c8a75ccab760135233ceef0f7</host_cpid>
+        <total_credit>95.266634</total_credit>
+        <expavg_credit>0.080173</expavg_credit>
+        <expavg_time>1270267203.48966</expavg_time>
+        <domain_name>A13C33</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1752374160.57527</p_fpops>
+        <p_iops>3758859110.65068</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2120</id>
+        <create_time>1265625613</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>f3f9fe4ed7f3e36bd55f2a3be5264537</host_cpid>
+        <total_credit>216.908528</total_credit>
+        <expavg_credit>0.056821</expavg_credit>
+        <expavg_time>1271476803.36886</expavg_time>
+        <domain_name>A13C34</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1736515183.74099</p_fpops>
+        <p_iops>3573714454.3519</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2121</id>
+        <create_time>1265625636</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>bdb7c283d1c9bc7b47a62cc8a88011b2</host_cpid>
+        <total_credit>32.654663</total_credit>
+        <expavg_credit>0.084017</expavg_credit>
+        <expavg_time>1268940303.80747</expavg_time>
+        <domain_name>A13C37</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753739930.95512</p_fpops>
+        <p_iops>3759778371.8663</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2122</id>
+        <create_time>1265625644</create_time>
+        <rpc_seqno>89</rpc_seqno>
+        <host_cpid>83e08a8e4d9140363f9fe5251f03ea2d</host_cpid>
+        <total_credit>102.323981</total_credit>
+        <expavg_credit>0.081454</expavg_credit>
+        <expavg_time>1270267203.48992</expavg_time>
+        <domain_name>A13C40</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4400  @ 2.00GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1952190261.93154</p_fpops>
+        <p_iops>4214812673.59584</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2123</id>
+        <create_time>1265625652</create_time>
+        <rpc_seqno>95</rpc_seqno>
+        <host_cpid>cd419d9dc5b2171d49edf46ae5cb8d0b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265625652</expavg_time>
+        <domain_name>A13C38</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1748164801.14313</p_fpops>
+        <p_iops>3573555402.45035</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2124</id>
+        <create_time>1265625666</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>fb51c328b7b3cb80639f879f5d28c767</host_cpid>
+        <total_credit>148.533956</total_credit>
+        <expavg_credit>0.05519</expavg_credit>
+        <expavg_time>1270872002.44097</expavg_time>
+        <domain_name>A13C39</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1747508360.17479</p_fpops>
+        <p_iops>3692672303.12639</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2125</id>
+        <create_time>1265625856</create_time>
+        <rpc_seqno>67</rpc_seqno>
+        <host_cpid>2c51191c6e50d2fb338abb20ba55c73e</host_cpid>
+        <total_credit>72.449207</total_credit>
+        <expavg_credit>0.06972</expavg_credit>
+        <expavg_time>1270267203.49016</expavg_time>
+        <domain_name>A13C35</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758778201.87545</p_fpops>
+        <p_iops>3787818003.60791</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2126</id>
+        <create_time>1265625860</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>3ecd9ae4a4d7193533438c9f2f243bdf</host_cpid>
+        <total_credit>102.974863</total_credit>
+        <expavg_credit>0.050106</expavg_credit>
+        <expavg_time>1270872002.44108</expavg_time>
+        <domain_name>A13C36</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756506206.04209</p_fpops>
+        <p_iops>3758446528.84525</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2127</id>
+        <create_time>1265625873</create_time>
+        <rpc_seqno>1232</rpc_seqno>
+        <host_cpid>349d2eca6af3828684d54e86baaaf92c</host_cpid>
+        <total_credit>13.519181</total_credit>
+        <expavg_credit>0.097385</expavg_credit>
+        <expavg_time>1267995003.15897</expavg_time>
+        <domain_name>ALK-DELL780-01</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3164835164.83517</p_fpops>
+        <p_iops>6166640904.42446</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2130</id>
+        <create_time>1265634338</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>2c79782cf8e2186a9122451f08a000c6</host_cpid>
+        <total_credit>187.048357</total_credit>
+        <expavg_credit>0.092255</expavg_credit>
+        <expavg_time>1270872002.4412</expavg_time>
+        <domain_name>A13c30</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755000000</p_fpops>
+        <p_iops>3774442915.49895</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2131</id>
+        <create_time>1265634362</create_time>
+        <rpc_seqno>671</rpc_seqno>
+        <host_cpid>af0c0289c639d4dc1e0618cdd26282e6</host_cpid>
+        <total_credit>817.813529</total_credit>
+        <expavg_credit>0.08189</expavg_credit>
+        <expavg_time>1272686403.49941</expavg_time>
+        <domain_name>A13C31</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1743603098.89722</p_fpops>
+        <p_iops>3753343543.35699</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2132</id>
+        <create_time>1265634416</create_time>
+        <rpc_seqno>70</rpc_seqno>
+        <host_cpid>5fa697e257dbc6256c2c69e92a841db7</host_cpid>
+        <total_credit>113.091388</total_credit>
+        <expavg_credit>0.078354</expavg_credit>
+        <expavg_time>1270267203.4909</expavg_time>
+        <domain_name>A13C29</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757408874.8019</p_fpops>
+        <p_iops>3638212952.46461</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2133</id>
+        <create_time>1265634585</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>312ba485df815a55a1c0a52c4de17f6b</host_cpid>
+        <total_credit>219.525731</total_credit>
+        <expavg_credit>0.054355</expavg_credit>
+        <expavg_time>1271476803.36909</expavg_time>
+        <domain_name>A13c22</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1760501567.39812</p_fpops>
+        <p_iops>3782777246.80792</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2134</id>
+        <create_time>1265634602</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>762c244a51d62ee56d1482a7baf1eca3</host_cpid>
+        <total_credit>102.136268</total_credit>
+        <expavg_credit>0.056251</expavg_credit>
+        <expavg_time>1270267203.49115</expavg_time>
+        <domain_name>A13c01</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4400  @ 2.00GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1949151138.71636</p_fpops>
+        <p_iops>4313723732.74058</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2135</id>
+        <create_time>1265634684</create_time>
+        <rpc_seqno>184</rpc_seqno>
+        <host_cpid>9e009adfce4c5635c5f6f3ca0f3177d5</host_cpid>
+        <total_credit>383.313459</total_credit>
+        <expavg_credit>0.076076</expavg_credit>
+        <expavg_time>1271476803.3692</expavg_time>
+        <domain_name>A13c13</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757408874.8019</p_fpops>
+        <p_iops>3857919624.28811</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2136</id>
+        <create_time>1265634704</create_time>
+        <rpc_seqno>123</rpc_seqno>
+        <host_cpid>629ad4366296134d3344ee6dd4d9ea1e</host_cpid>
+        <total_credit>130.142208</total_credit>
+        <expavg_credit>0.050587</expavg_credit>
+        <expavg_time>1270872002.44165</expavg_time>
+        <domain_name>A13c12</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1760998004.88026</p_fpops>
+        <p_iops>3787356208.33475</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2137</id>
+        <create_time>1265634738</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>800b4457b1036fe72514711d6ee6995a</host_cpid>
+        <total_credit>163.12722</total_credit>
+        <expavg_credit>0.062753</expavg_credit>
+        <expavg_time>1270872002.44175</expavg_time>
+        <domain_name>A13c11</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757840704.08356</p_fpops>
+        <p_iops>3836996313.97798</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2138</id>
+        <create_time>1265635482</create_time>
+        <rpc_seqno>93</rpc_seqno>
+        <host_cpid>db679ff6dc177cf3c800ffabc52170f7</host_cpid>
+        <total_credit>131.684425</total_credit>
+        <expavg_credit>0.079377</expavg_credit>
+        <expavg_time>1270267203.49167</expavg_time>
+        <domain_name>A138c08</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755598884.12275</p_fpops>
+        <p_iops>3902904293.45583</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2139</id>
+        <create_time>1265635505</create_time>
+        <rpc_seqno>113</rpc_seqno>
+        <host_cpid>5223595a56275f18d97cfed54d50e228</host_cpid>
+        <total_credit>137.947758</total_credit>
+        <expavg_credit>0.052804</expavg_credit>
+        <expavg_time>1271476803.36932</expavg_time>
+        <domain_name>A138c03</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756850393.70079</p_fpops>
+        <p_iops>3927763556.47147</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2140</id>
+        <create_time>1265635509</create_time>
+        <rpc_seqno>89</rpc_seqno>
+        <host_cpid>db85ca461d568ca9f83573d4f47d1617</host_cpid>
+        <total_credit>168.505945</total_credit>
+        <expavg_credit>0.055704</expavg_credit>
+        <expavg_time>1270872002.44199</expavg_time>
+        <domain_name>A138c09</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1746744483.58659</p_fpops>
+        <p_iops>3814433156.01486</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2141</id>
+        <create_time>1265635517</create_time>
+        <rpc_seqno>119</rpc_seqno>
+        <host_cpid>16a29c05e9866faf7b7dfa2738031dca</host_cpid>
+        <total_credit>142.664773</total_credit>
+        <expavg_credit>0.094267</expavg_credit>
+        <expavg_time>1270872002.4421</expavg_time>
+        <domain_name>A138c04</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759785002.95119</p_fpops>
+        <p_iops>3921318562.35631</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2142</id>
+        <create_time>1265635522</create_time>
+        <rpc_seqno>61</rpc_seqno>
+        <host_cpid>271463868d514eab5fa94fb3d7c9b115</host_cpid>
+        <total_credit>30.438385</total_credit>
+        <expavg_credit>0.079081</expavg_credit>
+        <expavg_time>1268940303.80939</expavg_time>
+        <domain_name>A138c01</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759632710.48799</p_fpops>
+        <p_iops>3895538585.89564</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2143</id>
+        <create_time>1265635530</create_time>
+        <rpc_seqno>155</rpc_seqno>
+        <host_cpid>924edcaabf312be1d50230dd14addcce</host_cpid>
+        <total_credit>324.42515</total_credit>
+        <expavg_credit>0.082861</expavg_credit>
+        <expavg_time>1272081603.1347</expavg_time>
+        <domain_name>A138c05</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759746434.23138</p_fpops>
+        <p_iops>3947601939.98739</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2144</id>
+        <create_time>1265635537</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>99af0c407fb48eb34cedca9f4a3f114c</host_cpid>
+        <total_credit>8.804984</total_credit>
+        <expavg_credit>0.070922</expavg_credit>
+        <expavg_time>1267995003.16062</expavg_time>
+        <domain_name>A138c02</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753762131.40735</p_fpops>
+        <p_iops>3623206991.20336</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2145</id>
+        <create_time>1265635539</create_time>
+        <rpc_seqno>145</rpc_seqno>
+        <host_cpid>9cebfa469ccfa799ecaea96720ca7c40</host_cpid>
+        <total_credit>37.802359</total_credit>
+        <expavg_credit>0.041232</expavg_credit>
+        <expavg_time>1270267203.49231</expavg_time>
+        <domain_name>A138c11</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1743607599.80259</p_fpops>
+        <p_iops>3905666433.7909</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2146</id>
+        <create_time>1265635541</create_time>
+        <rpc_seqno>96</rpc_seqno>
+        <host_cpid>5d5833fb8ea01bffc791db1a6be708a3</host_cpid>
+        <total_credit>101.209057</total_credit>
+        <expavg_credit>0.074015</expavg_credit>
+        <expavg_time>1270872002.44232</expavg_time>
+        <domain_name>A138c10</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755976385.19427</p_fpops>
+        <p_iops>3914351198.33097</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2147</id>
+        <create_time>1265635551</create_time>
+        <rpc_seqno>76</rpc_seqno>
+        <host_cpid>6aac7646a131506b8934f960f963fcba</host_cpid>
+        <total_credit>64.765301</total_credit>
+        <expavg_credit>0.084884</expavg_credit>
+        <expavg_time>1270267203.49257</expavg_time>
+        <domain_name>A138c07</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1749120879.12088</p_fpops>
+        <p_iops>3821264806.00509</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2148</id>
+        <create_time>1265635983</create_time>
+        <rpc_seqno>87</rpc_seqno>
+        <host_cpid>cdd64414c37e3effda3a7b7680a4c5cf</host_cpid>
+        <total_credit>161.909378</total_credit>
+        <expavg_credit>0.095802</expavg_credit>
+        <expavg_time>1272081603.13483</expavg_time>
+        <domain_name>A138c14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1762029727.88247</p_fpops>
+        <p_iops>3861358195.33657</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2149</id>
+        <create_time>1265636007</create_time>
+        <rpc_seqno>126</rpc_seqno>
+        <host_cpid>d41f4d975123b7876d5baf613093c01b</host_cpid>
+        <total_credit>165.906409</total_credit>
+        <expavg_credit>0.086164</expavg_credit>
+        <expavg_time>1270872002.44254</expavg_time>
+        <domain_name>A138c15</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756962025.31646</p_fpops>
+        <p_iops>3891886422.56371</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2150</id>
+        <create_time>1265636030</create_time>
+        <rpc_seqno>95</rpc_seqno>
+        <host_cpid>4075bec3dda04f72f76ff749d28d0e2c</host_cpid>
+        <total_credit>131.837155</total_credit>
+        <expavg_credit>0.098893</expavg_credit>
+        <expavg_time>1270267203.49295</expavg_time>
+        <domain_name>A138c16</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758360624.49534</p_fpops>
+        <p_iops>3897954189.9892</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2151</id>
+        <create_time>1265636041</create_time>
+        <rpc_seqno>74</rpc_seqno>
+        <host_cpid>11f5a702f62a260a62e55f0bda273649</host_cpid>
+        <total_credit>121.660175</total_credit>
+        <expavg_credit>0.085415</expavg_credit>
+        <expavg_time>1270872002.44266</expavg_time>
+        <domain_name>A138c17</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759246096.71365</p_fpops>
+        <p_iops>3892414221.30555</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2152</id>
+        <create_time>1265636066</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>a52535010b9fce51ee4611ba587b5d60</host_cpid>
+        <total_credit>191.711147</total_credit>
+        <expavg_credit>0.065536</expavg_credit>
+        <expavg_time>1270872002.44277</expavg_time>
+        <domain_name>A138c18</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1754098843.19901</p_fpops>
+        <p_iops>3892447308.62825</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2153</id>
+        <create_time>1265636081</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>c307f460c4fef87783a28b903e3105b4</host_cpid>
+        <total_credit>136.699896</total_credit>
+        <expavg_credit>0.051849</expavg_credit>
+        <expavg_time>1272081603.13496</expavg_time>
+        <domain_name>A138c19</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1766794428.43906</p_fpops>
+        <p_iops>3933287837.14162</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2154</id>
+        <create_time>1265636121</create_time>
+        <rpc_seqno>136</rpc_seqno>
+        <host_cpid>6a5b0ba242e4f5e2dfe1e299ad2cdbdc</host_cpid>
+        <total_credit>55.267855</total_credit>
+        <expavg_credit>0.069251</expavg_credit>
+        <expavg_time>1270267203.49347</expavg_time>
+        <domain_name>A138c21</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750559745.62798</p_fpops>
+        <p_iops>3902987596.10086</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2155</id>
+        <create_time>1265636168</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>60ce502c5a60e2dfd98b7855f77cf98b</host_cpid>
+        <total_credit>45.200634</total_credit>
+        <expavg_credit>0.068643</expavg_credit>
+        <expavg_time>1269379502.69944</expavg_time>
+        <domain_name>A138c22</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1742764961.25792</p_fpops>
+        <p_iops>3914078603.72817</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2158</id>
+        <create_time>1265638487</create_time>
+        <rpc_seqno>117</rpc_seqno>
+        <host_cpid>cbcc71f525a066ca37fdb121e31a0c18</host_cpid>
+        <total_credit>209.988193</total_credit>
+        <expavg_credit>0.074325</expavg_credit>
+        <expavg_time>1270872002.44311</expavg_time>
+        <domain_name>A13C26</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750572002.04532</p_fpops>
+        <p_iops>3773520745.22885</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2159</id>
+        <create_time>1265639697</create_time>
+        <rpc_seqno>115</rpc_seqno>
+        <host_cpid>e34ee58e27908b7bd5ec16f0409bf649</host_cpid>
+        <total_credit>108.24639</total_credit>
+        <expavg_credit>0.083221</expavg_credit>
+        <expavg_time>1270267203.49386</expavg_time>
+        <domain_name>A13c02</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1740440251.57233</p_fpops>
+        <p_iops>3720661704.25674</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2160</id>
+        <create_time>1265639706</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>5bcbf73ace74e1e68f46259ec4b092bc</host_cpid>
+        <total_credit>59.440172</total_credit>
+        <expavg_credit>0.047119</expavg_credit>
+        <expavg_time>1270267203.49398</expavg_time>
+        <domain_name>A13c03</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759610590.28549</p_fpops>
+        <p_iops>3768542478.00698</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2161</id>
+        <create_time>1265639772</create_time>
+        <rpc_seqno>97</rpc_seqno>
+        <host_cpid>67e35d4c17806d7289ae81c0fa4b100d</host_cpid>
+        <total_credit>146.509876</total_credit>
+        <expavg_credit>0.072305</expavg_credit>
+        <expavg_time>1270872002.44322</expavg_time>
+        <domain_name>A13c14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1754600475.89428</p_fpops>
+        <p_iops>3853600357.68927</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2162</id>
+        <create_time>1265639784</create_time>
+        <rpc_seqno>48</rpc_seqno>
+        <host_cpid>7f8ff2d8c31fd92781889e64818d5d30</host_cpid>
+        <total_credit>31.481848</total_credit>
+        <expavg_credit>0.082454</expavg_credit>
+        <expavg_time>1269379502.70034</expavg_time>
+        <domain_name>A13c15</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4400  @ 2.00GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1951535365.48986</p_fpops>
+        <p_iops>4208175173.32246</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2163</id>
+        <create_time>1265639786</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>d0f6b2b94032b23e50d6f12f09ab5578</host_cpid>
+        <total_credit>24.193355</total_credit>
+        <expavg_credit>0.062428</expavg_credit>
+        <expavg_time>1268940303.81165</expavg_time>
+        <domain_name>A13c16</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758740157.48031</p_fpops>
+        <p_iops>3751735556.65381</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2164</id>
+        <create_time>1265639806</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>3be7da8b5c73c7c90f013ff9d2a5a40d</host_cpid>
+        <total_credit>66.492417</total_credit>
+        <expavg_credit>0.04547</expavg_credit>
+        <expavg_time>1270267203.49424</expavg_time>
+        <domain_name>A13C17</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755987095.01972</p_fpops>
+        <p_iops>3784466243.33664</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2165</id>
+        <create_time>1265639811</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>4852fc521d558879e33f2a36817a9ea6</host_cpid>
+        <total_credit>102.327852</total_credit>
+        <expavg_credit>0.081753</expavg_credit>
+        <expavg_time>1270267203.49436</expavg_time>
+        <domain_name>A13C18</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750471698.11321</p_fpops>
+        <p_iops>3758130041.41071</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2166</id>
+        <create_time>1265639817</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>b95eedf1a1ca3e47223d8a7f6832ad85</host_cpid>
+        <total_credit>77.392409</total_credit>
+        <expavg_credit>0.053359</expavg_credit>
+        <expavg_time>1270267203.49448</expavg_time>
+        <domain_name>A13C19</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750947724.94098</p_fpops>
+        <p_iops>3753857461.04446</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2167</id>
+        <create_time>1265639876</create_time>
+        <rpc_seqno>75</rpc_seqno>
+        <host_cpid>dbb730a59e86953dcb87550b9ed5843e</host_cpid>
+        <total_credit>92.365778</total_credit>
+        <expavg_credit>0.07285</expavg_credit>
+        <expavg_time>1270267203.49461</expavg_time>
+        <domain_name>A13C23</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758755604.93631</p_fpops>
+        <p_iops>3751620651.26735</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2168</id>
+        <create_time>1265639881</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>e34edfd75a9c7f6bc725756267943d94</host_cpid>
+        <total_credit>44.322361</total_credit>
+        <expavg_credit>0.068985</expavg_credit>
+        <expavg_time>1269379502.70098</expavg_time>
+        <domain_name>A13C24</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1745477419.03779</p_fpops>
+        <p_iops>3739707835.32537</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2169</id>
+        <create_time>1265639933</create_time>
+        <rpc_seqno>86</rpc_seqno>
+        <host_cpid>b5fd949bc0873a29cb234e95f8775416</host_cpid>
+        <total_credit>306.888982</total_credit>
+        <expavg_credit>0.057249</expavg_credit>
+        <expavg_time>1272686403.49964</expavg_time>
+        <domain_name>A13C28</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755964704.51528</p_fpops>
+        <p_iops>3778577336.56725</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2170</id>
+        <create_time>1265639952</create_time>
+        <rpc_seqno>63</rpc_seqno>
+        <host_cpid>31e7198e8d06fb8d6c30eaa2cc8a3cce</host_cpid>
+        <total_credit>69.560005</total_credit>
+        <expavg_credit>0.0523</expavg_credit>
+        <expavg_time>1270267203.49486</expavg_time>
+        <domain_name>A13C25</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1764122489.42788</p_fpops>
+        <p_iops>3799376643.08751</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2174</id>
+        <create_time>1265649951</create_time>
+        <rpc_seqno>39</rpc_seqno>
+        <host_cpid>1f6fad9393924dd74feeb26f67c62480</host_cpid>
+        <total_credit>77.925693</total_credit>
+        <expavg_credit>0.061675</expavg_credit>
+        <expavg_time>1271476803.37021</expavg_time>
+        <domain_name>A138c12</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756889763.77953</p_fpops>
+        <p_iops>3796052390.57227</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2175</id>
+        <create_time>1265649963</create_time>
+        <rpc_seqno>95</rpc_seqno>
+        <host_cpid>c353396a00e3a241ccdd6df0edb24b5b</host_cpid>
+        <total_credit>136.581051</total_credit>
+        <expavg_credit>0.068588</expavg_credit>
+        <expavg_time>1271476803.37033</expavg_time>
+        <domain_name>A138c13</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1752263572.79673</p_fpops>
+        <p_iops>3877443807.46505</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2176</id>
+        <create_time>1265650491</create_time>
+        <rpc_seqno>100</rpc_seqno>
+        <host_cpid>a0678cd9fc5a75eb9cf23adf02172595</host_cpid>
+        <total_credit>325.708538</total_credit>
+        <expavg_credit>0.096724</expavg_credit>
+        <expavg_time>1272081603.13547</expavg_time>
+        <domain_name>A138c20</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1751258781.7175</p_fpops>
+        <p_iops>3894954932.36472</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2179</id>
+        <create_time>1265656976</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>58a820040afec479828b43e5eecaad76</host_cpid>
+        <total_credit>7.825081</total_credit>
+        <expavg_credit>0.05835</expavg_credit>
+        <expavg_time>1267995003.16408</expavg_time>
+        <domain_name>A138c31</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757746478.87324</p_fpops>
+        <p_iops>3901702412.77206</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2180</id>
+        <create_time>1265659019</create_time>
+        <rpc_seqno>122</rpc_seqno>
+        <host_cpid>333b1bd3557780f789da9dddbfb4a120</host_cpid>
+        <total_credit>2741.518344</total_credit>
+        <expavg_credit>0.074798</expavg_credit>
+        <expavg_time>1275105603.47859</expavg_time>
+        <domain_name>S121c05</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1556087046.38734</p_fpops>
+        <p_iops>3485855901.47845</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2181</id>
+        <create_time>1265664948</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>8b023d29010dac007b037e65749eece1</host_cpid>
+        <total_credit>41.719161</total_credit>
+        <expavg_credit>0.082565</expavg_credit>
+        <expavg_time>1269379502.70229</expavg_time>
+        <domain_name>A138c24</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1757132188.20015</p_fpops>
+        <p_iops>3888460510.95014</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2191</id>
+        <create_time>1265700073</create_time>
+        <rpc_seqno>189</rpc_seqno>
+        <host_cpid>45cd370e6398e7bdf92bd2c72897b212</host_cpid>
+        <total_credit>259.866888</total_credit>
+        <expavg_credit>0.0585</expavg_credit>
+        <expavg_time>1271476803.37119</expavg_time>
+        <domain_name>A138c25</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1755990180.15412</p_fpops>
+        <p_iops>3903352921.34465</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2192</id>
+        <create_time>1265700091</create_time>
+        <rpc_seqno>98</rpc_seqno>
+        <host_cpid>e7415c3a761e974f191bdbbb2245fa4e</host_cpid>
+        <total_credit>267.990003</total_credit>
+        <expavg_credit>0.076957</expavg_credit>
+        <expavg_time>1271476803.3713</expavg_time>
+        <domain_name>A138c26</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753350940.98884</p_fpops>
+        <p_iops>3924080702.69138</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2193</id>
+        <create_time>1265700109</create_time>
+        <rpc_seqno>106</rpc_seqno>
+        <host_cpid>10417ab0691bdc2b4eadd059c54c5db2</host_cpid>
+        <total_credit>53.061829</total_credit>
+        <expavg_credit>0.053463</expavg_credit>
+        <expavg_time>1270267203.49676</expavg_time>
+        <domain_name>A138c27</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750440251.57233</p_fpops>
+        <p_iops>3857220060.72151</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2194</id>
+        <create_time>1265700124</create_time>
+        <rpc_seqno>106</rpc_seqno>
+        <host_cpid>7b2a41e4aad63415b28527f1e88f38ce</host_cpid>
+        <total_credit>26.522728</total_credit>
+        <expavg_credit>0.04398</expavg_credit>
+        <expavg_time>1270267203.49689</expavg_time>
+        <domain_name>A138c28</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758164883.68248</p_fpops>
+        <p_iops>3930027894.80038</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2195</id>
+        <create_time>1265700134</create_time>
+        <rpc_seqno>56</rpc_seqno>
+        <host_cpid>513f0aa3bf4fa83661019870aaf8c022</host_cpid>
+        <total_credit>7.137022</total_credit>
+        <expavg_credit>0.052724</expavg_credit>
+        <expavg_time>1267995003.16528</expavg_time>
+        <domain_name>A138c29</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1735207462.74957</p_fpops>
+        <p_iops>3880740773.17105</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2196</id>
+        <create_time>1265700145</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>1012751c2aff0e6727fbc94a1bac850e</host_cpid>
+        <total_credit>62.185092</total_credit>
+        <expavg_credit>0.058997</expavg_credit>
+        <expavg_time>1270267203.49702</expavg_time>
+        <domain_name>A138c30</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1736076365.38443</p_fpops>
+        <p_iops>3937195786.48004</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2197</id>
+        <create_time>1265700191</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>132388da33a2b20866de1d299d57f5e0</host_cpid>
+        <total_credit>140.63783</total_credit>
+        <expavg_credit>0.077735</expavg_credit>
+        <expavg_time>1270872002.44479</expavg_time>
+        <domain_name>A138c32</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1743619566.86355</p_fpops>
+        <p_iops>3881079866.15866</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2198</id>
+        <create_time>1265700202</create_time>
+        <rpc_seqno>57</rpc_seqno>
+        <host_cpid>6f1af7aa92679f689740a9973250283e</host_cpid>
+        <total_credit>139.208976</total_credit>
+        <expavg_credit>0.081921</expavg_credit>
+        <expavg_time>1270872002.4449</expavg_time>
+        <domain_name>A138c33</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1748757254.14336</p_fpops>
+        <p_iops>3877124316.99517</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2199</id>
+        <create_time>1265700213</create_time>
+        <rpc_seqno>52</rpc_seqno>
+        <host_cpid>5aa6e39d3091edb4363f9aaabef76643</host_cpid>
+        <total_credit>14.655273</total_credit>
+        <expavg_credit>0.088738</expavg_credit>
+        <expavg_time>1268940303.81465</expavg_time>
+        <domain_name>A138c34</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759620853.08057</p_fpops>
+        <p_iops>3897091561.42158</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2200</id>
+        <create_time>1265700239</create_time>
+        <rpc_seqno>43</rpc_seqno>
+        <host_cpid>b77e930257f0ec3dfba2adbc2e0543e7</host_cpid>
+        <total_credit>31.502583</total_credit>
+        <expavg_credit>0.082973</expavg_credit>
+        <expavg_time>1268940303.81476</expavg_time>
+        <domain_name>A138c35</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1745023150.4481</p_fpops>
+        <p_iops>3904545899.39788</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2201</id>
+        <create_time>1265700253</create_time>
+        <rpc_seqno>123</rpc_seqno>
+        <host_cpid>0a4123cd74b3fa24c79a76490c58d89a</host_cpid>
+        <total_credit>208.279197</total_credit>
+        <expavg_credit>0.070008</expavg_credit>
+        <expavg_time>1271476803.37142</expavg_time>
+        <domain_name>A138c36</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756156303.76014</p_fpops>
+        <p_iops>3889676813.9796</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2202</id>
+        <create_time>1265700269</create_time>
+        <rpc_seqno>59</rpc_seqno>
+        <host_cpid>02de6e1158a3b3a2ae2fb39ecb64bffd</host_cpid>
+        <total_credit>84.383784</total_credit>
+        <expavg_credit>0.09283</expavg_credit>
+        <expavg_time>1270267203.49751</expavg_time>
+        <domain_name>A138c37</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1752470038.00059</p_fpops>
+        <p_iops>3929159851.03456</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2203</id>
+        <create_time>1265700284</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>e4d421e9d70dbea10cf80f80a2750cf9</host_cpid>
+        <total_credit>7.406111</total_credit>
+        <expavg_credit>0.083467</expavg_credit>
+        <expavg_time>1267995003.16632</expavg_time>
+        <domain_name>A138C38</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1758246091.36255</p_fpops>
+        <p_iops>3914873568.24114</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2204</id>
+        <create_time>1265700302</create_time>
+        <rpc_seqno>69</rpc_seqno>
+        <host_cpid>3f64c5b0afe0c54593d7cf5858291a08</host_cpid>
+        <total_credit>231.133031</total_credit>
+        <expavg_credit>0.074508</expavg_credit>
+        <expavg_time>1271476803.37152</expavg_time>
+        <domain_name>A138c39</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1745966982.09823</p_fpops>
+        <p_iops>3886940427.26731</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2205</id>
+        <create_time>1265700319</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>a3d14cdefc81ce221a79510b9c44e47f</host_cpid>
+        <total_credit>148.934105</total_credit>
+        <expavg_credit>0.050163</expavg_credit>
+        <expavg_time>1271476803.37163</expavg_time>
+        <domain_name>A138c40</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1743481834.62107</p_fpops>
+        <p_iops>3903546753.31225</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2206</id>
+        <create_time>1265701065</create_time>
+        <rpc_seqno>1070</rpc_seqno>
+        <host_cpid>75e3c380fc40b64c9128e14311ebfbb2</host_cpid>
+        <total_credit>1140.601899</total_credit>
+        <expavg_credit>0.054709</expavg_credit>
+        <expavg_time>1272686403.50089</expavg_time>
+        <domain_name>alk-dell780-00</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3164890195.87611</p_fpops>
+        <p_iops>6558914364.93167</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2207</id>
+        <create_time>1265701069</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>2444d49935f8b818e5af01020526f617</host_cpid>
+        <total_credit>24.152129</total_credit>
+        <expavg_credit>0.072697</expavg_credit>
+        <expavg_time>1269379502.70425</expavg_time>
+        <domain_name>A138c41</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1759230124.1864</p_fpops>
+        <p_iops>3886636419.6212</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2208</id>
+        <create_time>1265701086</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>622d835c463eded94818dc0b628bd4d9</host_cpid>
+        <total_credit>23.593349</total_credit>
+        <expavg_credit>0.061681</expavg_credit>
+        <expavg_time>1268940303.81554</expavg_time>
+        <domain_name>A138c42</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1761006289.30818</p_fpops>
+        <p_iops>3913557020.51188</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2209</id>
+        <create_time>1265701110</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>16679c5d6389568f154f8b947b9a88c8</host_cpid>
+        <total_credit>105.021551</total_credit>
+        <expavg_credit>0.067423</expavg_credit>
+        <expavg_time>1270872002.44545</expavg_time>
+        <domain_name>A138c43</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1738407116.69283</p_fpops>
+        <p_iops>3865830715.38369</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2210</id>
+        <create_time>1265701123</create_time>
+        <rpc_seqno>68</rpc_seqno>
+        <host_cpid>65546afa7e2e513260122cb2a1641a8f</host_cpid>
+        <total_credit>93.320495</total_credit>
+        <expavg_credit>0.051136</expavg_credit>
+        <expavg_time>1270872002.44557</expavg_time>
+        <domain_name>A138c44</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753700787.40157</p_fpops>
+        <p_iops>3900354625.45423</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2211</id>
+        <create_time>1265701136</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>5ac018f4d4095b5569e9ccef0fd203a4</host_cpid>
+        <total_credit>29.92762</total_credit>
+        <expavg_credit>0.078501</expavg_credit>
+        <expavg_time>1269379502.70463</expavg_time>
+        <domain_name>A138c45</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750934887.89504</p_fpops>
+        <p_iops>3843803189.9399</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2212</id>
+        <create_time>1265701166</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>2c1f5b5551169ad488643500cf3b9a56</host_cpid>
+        <total_credit>256.568215</total_credit>
+        <expavg_credit>0.088652</expavg_credit>
+        <expavg_time>1271476803.37185</expavg_time>
+        <domain_name>A138c46</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1750146627.56598</p_fpops>
+        <p_iops>3892184037.22669</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2213</id>
+        <create_time>1265701219</create_time>
+        <rpc_seqno>60</rpc_seqno>
+        <host_cpid>1ae7eba0fca0757649f391fbadeb8878</host_cpid>
+        <total_credit>140.853388</total_credit>
+        <expavg_credit>0.085173</expavg_credit>
+        <expavg_time>1270872002.4458</expavg_time>
+        <domain_name>A138c47</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1737532467.53247</p_fpops>
+        <p_iops>3857220060.72151</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2214</id>
+        <create_time>1265701246</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>f27d8c444d6ab25fe18f691f09e63a09</host_cpid>
+        <total_credit>160.281417</total_credit>
+        <expavg_credit>0.062257</expavg_credit>
+        <expavg_time>1271476803.37196</expavg_time>
+        <domain_name>A138c48</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1727763979.82991</p_fpops>
+        <p_iops>3923491333.28859</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2215</id>
+        <create_time>1265701267</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>1b273be92c4800eab08acaebd2fefbe8</host_cpid>
+        <total_credit>68.918458</total_credit>
+        <expavg_credit>0.078166</expavg_credit>
+        <expavg_time>1270267203.49867</expavg_time>
+        <domain_name>A138c49</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1738414107.78148</p_fpops>
+        <p_iops>3902821776.68481</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2216</id>
+        <create_time>1265701281</create_time>
+        <rpc_seqno>55</rpc_seqno>
+        <host_cpid>b11af383172dbae5b81ed3d37b1163d2</host_cpid>
+        <total_credit>46.207844</total_credit>
+        <expavg_credit>0.06683</expavg_credit>
+        <expavg_time>1270267203.4988</expavg_time>
+        <domain_name>A138c50</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1733965244.86572</p_fpops>
+        <p_iops>3633075239.356</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2217</id>
+        <create_time>1265701302</create_time>
+        <rpc_seqno>45</rpc_seqno>
+        <host_cpid>be02712a2708f350f9616b454304cd2c</host_cpid>
+        <total_credit>8.259969</total_credit>
+        <expavg_credit>0.063206</expavg_credit>
+        <expavg_time>1267995003.16807</expavg_time>
+        <domain_name>A138c51</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1751369327.07355</p_fpops>
+        <p_iops>3862501476.57349</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2218</id>
+        <create_time>1265701314</create_time>
+        <rpc_seqno>45</rpc_seqno>
+        <host_cpid>874192acec687d5390fb19b9297b2e24</host_cpid>
+        <total_credit>23.520436</total_credit>
+        <expavg_credit>0.067853</expavg_credit>
+        <expavg_time>1269379502.70539</expavg_time>
+        <domain_name>A138c52</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1735160000</p_fpops>
+        <p_iops>3811587933.97837</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2219</id>
+        <create_time>1265701330</create_time>
+        <rpc_seqno>50</rpc_seqno>
+        <host_cpid>fd1471592b1c966f6594aaaf50b37446</host_cpid>
+        <total_credit>80.666216</total_credit>
+        <expavg_credit>0.080439</expavg_credit>
+        <expavg_time>1270267203.49892</expavg_time>
+        <domain_name>A138c53</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1745647840.53156</p_fpops>
+        <p_iops>3882899971.77227</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2220</id>
+        <create_time>1265701350</create_time>
+        <rpc_seqno>41</rpc_seqno>
+        <host_cpid>e02a3902f7cbf6f28397291338e69587</host_cpid>
+        <total_credit>105.384973</total_credit>
+        <expavg_credit>0.067932</expavg_credit>
+        <expavg_time>1270872002.44603</expavg_time>
+        <domain_name>A138c54</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1753230417.38136</p_fpops>
+        <p_iops>3917483703.99803</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2221</id>
+        <create_time>1265701370</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>1a1e8a488ddc6c4abe58cd87311fbf21</host_cpid>
+        <total_credit>294.116287</total_credit>
+        <expavg_credit>0.095936</expavg_credit>
+        <expavg_time>1271476803.37207</expavg_time>
+        <domain_name>A138c56</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1744564116.7265</p_fpops>
+        <p_iops>3910537211.2272</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2222</id>
+        <create_time>1265701385</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>3fa644b40a53e50479d59dd52c6580d2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265701385</expavg_time>
+        <domain_name>A138c57</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1756455324.60101</p_fpops>
+        <p_iops>3909349287.571</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2223</id>
+        <create_time>1265701417</create_time>
+        <rpc_seqno>49</rpc_seqno>
+        <host_cpid>6cd2e704e58fd5ccdbb387986871cedd</host_cpid>
+        <total_credit>22.898836</total_credit>
+        <expavg_credit>0.080942</expavg_credit>
+        <expavg_time>1268940303.81703</expavg_time>
+        <domain_name>A138c59</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1749668237.72377</p_fpops>
+        <p_iops>3895878564.0774</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2224</id>
+        <create_time>1265701421</create_time>
+        <rpc_seqno>52</rpc_seqno>
+        <host_cpid>0acc4cf0f6e167260ebdb4d8149b3dc2</host_cpid>
+        <total_credit>100.641403</total_credit>
+        <expavg_credit>0.053454</expavg_credit>
+        <expavg_time>1270872002.44625</expavg_time>
+        <domain_name>A138c60</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1732401731.66321</p_fpops>
+        <p_iops>3865983684.31038</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2420</id>
+        <create_time>1266486941</create_time>
+        <rpc_seqno>75</rpc_seqno>
+        <host_cpid>c182047d43f4f28399c67256dd39a883</host_cpid>
+        <total_credit>87.844402</total_credit>
+        <expavg_credit>0.065139</expavg_credit>
+        <expavg_time>1270872002.45827</expavg_time>
+        <domain_name>PROMOCJA05</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2559208289.96972</p_fpops>
+        <p_iops>8390836046.65069</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7696</id>
+        <create_time>1297506374</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>da3ea9a36bec99e8f4e81e2ac5bf30de</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297506374</expavg_time>
+        <domain_name>Thomas-i7-950</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2858991973.82008</p_fpops>
+        <p_iops>8925809604.57108</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

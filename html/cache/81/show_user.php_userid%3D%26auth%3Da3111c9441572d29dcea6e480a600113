@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4951</id>
+    <cpid>9f0d747437b27034f85c634dc5ebddda</cpid>
+    <create_time>1314656140</create_time>
+    <name>crazy10101</name>
+    <country>Canada</country>
+    <total_credit>17.326837</total_credit>
+    <expavg_credit>1.482958</expavg_credit>
+    <expavg_time>1315607417.55231</expavg_time>
+    <teamid>18</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9929</id>
+        <create_time>1314659656</create_time>
+        <rpc_seqno>210</rpc_seqno>
+        <host_cpid>be49c0a08523b231c180a242d2ddccfd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314659656</expavg_time>
+        <domain_name>Main-Computer</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2356791245.71224</p_fpops>
+        <p_iops>5289006386.82464</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10030</id>
+        <create_time>1315540014</create_time>
+        <rpc_seqno>382</rpc_seqno>
+        <host_cpid>50ab32d807d65407beff7605b71dad47</host_cpid>
+        <total_credit>17.326837</total_credit>
+        <expavg_credit>1.674781</expavg_credit>
+        <expavg_time>1315607417.55246</expavg_time>
+        <domain_name>Kenbuntu</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 480  @ 2.67GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2517070641.3974</p_fpops>
+        <p_iops>7704526784.74924</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

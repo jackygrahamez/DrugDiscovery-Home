@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4559</id>
+    <cpid>7db8925d162965f2cc3734c6f8c2776d</cpid>
+    <create_time>1305593736</create_time>
+    <name>beenhazed</name>
+    <country>United States</country>
+    <total_credit>57.599044</total_credit>
+    <expavg_credit>0.133444</expavg_credit>
+    <expavg_time>1315851902.55688</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8833</id>
+        <create_time>1305735899</create_time>
+        <rpc_seqno>229</rpc_seqno>
+        <host_cpid>0af6f38dc2c052ad110a0458a661df76</host_cpid>
+        <total_credit>41.661681</total_credit>
+        <expavg_credit>0.072873</expavg_credit>
+        <expavg_time>1315247105.12211</expavg_time>
+        <domain_name>ASH-DESK-0042</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2468969456.62894</p_fpops>
+        <p_iops>7785423474.15878</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8807</id>
+        <create_time>1305593869</create_time>
+        <rpc_seqno>42874</rpc_seqno>
+        <host_cpid>bcd7ae08d0416eebc2b28f8d13177deb</host_cpid>
+        <total_credit>9.057219</total_credit>
+        <expavg_credit>0.050209</expavg_credit>
+        <expavg_time>1309724102.78189</expavg_time>
+        <domain_name>MainDesktop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2062889357.00434</p_fpops>
+        <p_iops>6378802792.92803</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8820</id>
+        <create_time>1305670723</create_time>
+        <rpc_seqno>818</rpc_seqno>
+        <host_cpid>34065fdd7604f0de71685806cd90bf32</host_cpid>
+        <total_credit>6.880144</total_credit>
+        <expavg_credit>0.06865</expavg_credit>
+        <expavg_time>1314329305.93237</expavg_time>
+        <domain_name>ASH-LAP-0042</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2352843269.1411</p_fpops>
+        <p_iops>4748844624.34186</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

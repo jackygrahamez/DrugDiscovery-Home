@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1164</id>
+    <cpid>36a6d488ab7a8300adc114ce5af660c4</cpid>
+    <create_time>1262376561</create_time>
+    <name>TeeVeeEss</name>
+    <country>Netherlands</country>
+    <total_credit>18735.21729433</total_credit>
+    <expavg_credit>0.060854</expavg_credit>
+    <expavg_time>1278735003.13315</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>1871</id>
+        <create_time>1262523450</create_time>
+        <rpc_seqno>2697</rpc_seqno>
+        <host_cpid>7f91775e0935be2e8f6ccae60ddd67a7</host_cpid>
+        <total_credit>18735.21729433</total_credit>
+        <expavg_credit>0.060854</expavg_credit>
+        <expavg_time>1278735003.4632</expavg_time>
+        <domain_name>VMJUL2007</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3107088072.76436</p_fpops>
+        <p_iops>4537604683.30759</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8239</id>
+        <create_time>1301269841</create_time>
+        <rpc_seqno>360</rpc_seqno>
+        <host_cpid>b3be8dc66c3f47a49f2b206ce1cd8cef</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301269841</expavg_time>
+        <domain_name>apr2011</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3400834400.9464</p_fpops>
+        <p_iops>11861421391.3359</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8350</id>
+        <create_time>1302248477</create_time>
+        <rpc_seqno>206</rpc_seqno>
+        <host_cpid>843ec8350568cc6a429b702ba8b7b154</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302248477</expavg_time>
+        <domain_name>aelpc011</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2286118994.26574</p_fpops>
+        <p_iops>7095910914.48961</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

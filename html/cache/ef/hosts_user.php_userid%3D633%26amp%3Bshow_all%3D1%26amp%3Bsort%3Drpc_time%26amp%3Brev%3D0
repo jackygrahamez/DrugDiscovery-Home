@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to [B^S] Brandon Kuschel</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to [B^S] Brandon Kuschel</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=rpc_time&rev=0&show_all=0&userid=633>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=0&show_all=1&userid=633>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=1&userid=633>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=0&show_all=1&userid=633>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=0&show_all=1&userid=633>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=0&show_all=1&userid=633>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=1&show_all=1&userid=633>Last contact</a></th>
+<tr class=row1><td>ID: 3527
+        <br><a href=show_host_detail.php?hostid=3527>Details</a> |
+        <a href=results.php?hostid=3527>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a1248d857526a0dcf1e0a02ab1566958><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a1248d857526a0dcf1e0a02ab1566958><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.09</td>
+            <td align=right>7,937</td>
+            <td>6.10.17</td>
+            <td>GenuineIntel<br>Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz [Family 6 Model 23 Stepping 6]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.32-22-generic</span></td>
+            <td>17 May 2010 1:41:46 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 3265
+        <br><a href=show_host_detail.php?hostid=3265>Details</a> |
+        <a href=results.php?hostid=3265>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=0d78e29ceca5b3f2704fe715d47454be><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=0d78e29ceca5b3f2704fe715d47454be><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.09</td>
+            <td align=right>4,420</td>
+            <td>6.10.50</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce GTX 260 (877MB) driver: 19745</td>
+            <td>Microsoft Windows 7<br><span class=note>Ultimate x64 Edition, (06.01.7600.00)</span></td>
+            <td>1 May 2010 3:45:15 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 3608
+        <br><a href=show_host_detail.php?hostid=3608>Details</a> |
+        <a href=results.php?hostid=3608>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=ef84e6024b846b54edbae7b218b12b79><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=ef84e6024b846b54edbae7b218b12b79><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.06</td>
+            <td align=right>7</td>
+            <td>6.10.43</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55 [Family 15 Model 104 Stepping 1]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows 7<br><span class=note>x64 Edition, (06.01.7600.00)</span></td>
+            <td>27 Apr 2010 2:44:44 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 354
+        <br><a href=show_host_detail.php?hostid=354>Details</a> |
+        <a href=results.php?hostid=354>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=7574c555727ffa098fa6e04e70a36842><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=7574c555727ffa098fa6e04e70a36842><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.10</td>
+            <td align=right>251</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Intel64 Family 6 Model 23 Stepping 7]<br>(4 processors)
+</td>
+            <td>NVIDIA GeForce 9500 GT (512MB) driver: 19539</td>
+            <td>Microsoft Windows Server 2008 "R2"<br><span class=note>Standard x64 Edition, (06.01.7600.00)</span></td>
+            <td>25 Feb 2010 9:26:14 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 519
+        <br><a href=show_host_detail.php?hostid=519>Details</a> |
+        <a href=results.php?hostid=519>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=8f1b21b330d1377b25d2b1b80687a539><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=8f1b21b330d1377b25d2b1b80687a539><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td></td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Intel64 Family 6 Model 23 Stepping 10]<br>(4 processors)
+</td>
+            <td>[2] NVIDIA GeForce GTX 260 (896MB) driver: 19062</td>
+            <td>Microsoft Windows 7<br><span class=note>x64 Edition, (06.01.7100.00)</span></td>
+            <td>28 Aug 2009 15:10:50 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=rpc_time&rev=0&show_all=0&userid=633>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 28 Sep 2011 3:33:05 UTC</span>
+</body>
+        </html>
+    

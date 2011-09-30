@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4837</id>
+    <cpid>17ea87ebeec0a6765b582c02bd1fb76c</cpid>
+    <create_time>1312117035</create_time>
+    <name>cpuid</name>
+    <country>Germany</country>
+    <total_credit>363.090855</total_credit>
+    <expavg_credit>12.963696</expavg_credit>
+    <expavg_time>1315795458.80098</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9633</id>
+        <create_time>1312135923</create_time>
+        <rpc_seqno>28</rpc_seqno>
+        <host_cpid>b0f208e618943c93f54e58f1a3f9b6b6</host_cpid>
+        <total_credit>8.114098</total_credit>
+        <expavg_credit>0.062873</expavg_credit>
+        <expavg_time>1314562503.71292</expavg_time>
+        <domain_name>satellite</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-62 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>2012283004.01185</p_fpops>
+        <p_iops>3577073096.86549</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9647</id>
+        <create_time>1312212282</create_time>
+        <rpc_seqno>3484</rpc_seqno>
+        <host_cpid>c211365faf64c5b24cc686a45031b6cc</host_cpid>
+        <total_credit>354.976757</total_credit>
+        <expavg_credit>12.943317</expavg_credit>
+        <expavg_time>1315795458.80113</expavg_time>
+        <domain_name>i7-875k</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       K 875  @ 2.93GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2796375710.45534</p_fpops>
+        <p_iops>7559596419.51674</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9795</id>
+        <create_time>1313432843</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>0581402539cb6c118d386605ad3906c3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313432843</expavg_time>
+        <domain_name>Tecra-M2</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1600MHz [Family 6 Model 9 Stepping 5]</p_model>
+        <p_fpops>1056413273.70199</p_fpops>
+        <p_iops>2130522229.38863</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

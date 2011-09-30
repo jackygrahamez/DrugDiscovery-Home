@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2561</id>
+    <cpid>5c9397da2f46c7312064f7db6ae12a14</cpid>
+    <create_time>1283070959</create_time>
+    <name>k|haos</name>
+    <country>Germany</country>
+    <total_credit>86.830452</total_credit>
+    <expavg_credit>0.073325</expavg_credit>
+    <expavg_time>1311538503.2094</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8313</id>
+        <create_time>1301908770</create_time>
+        <rpc_seqno>112</rpc_seqno>
+        <host_cpid>6bc7575d1273cbe5864e084d8a673747</host_cpid>
+        <total_credit>7.390487</total_credit>
+        <expavg_credit>0.070962</expavg_credit>
+        <expavg_time>1310906748.5955</expavg_time>
+        <domain_name>khaos-THINK</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 460  @ 2.53GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2581922341.13422</p_fpops>
+        <p_iops>5477237468.58153</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5221</id>
+        <create_time>1283071063</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>13b6413ecc337893e97524f0d4866b1b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283071063</expavg_time>
+        <domain_name>KHAOS</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2775710214.60792</p_fpops>
+        <p_iops>6620620864.39635</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7829</id>
+        <create_time>1298241130</create_time>
+        <rpc_seqno>194</rpc_seqno>
+        <host_cpid>f8e9853062bc1ea5ab5e99a230897c05</host_cpid>
+        <total_credit>79.439965</total_credit>
+        <expavg_credit>0.086119</expavg_credit>
+        <expavg_time>1306699803.62746</expavg_time>
+        <domain_name>KHAOS</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2432213345.99865</p_fpops>
+        <p_iops>8578869753.89537</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-amd64</os_version>
+        <venue></venue>
+    </host>
+</user>

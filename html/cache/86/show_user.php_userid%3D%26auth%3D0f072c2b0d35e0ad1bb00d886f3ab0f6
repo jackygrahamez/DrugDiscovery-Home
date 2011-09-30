@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4755</id>
+    <cpid>8533317019876f725dc8741e63cc5832</cpid>
+    <create_time>1310131173</create_time>
+    <name>Nino</name>
+    <country>Italy</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1310131173</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9482</id>
+        <create_time>1310422814</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>28a942dcedb98c1f74dfcfa8fba0b5e6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310422814</expavg_time>
+        <domain_name>Simo-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9650 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1854676713.12742</p_fpops>
+        <p_iops>5657573878.49701</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9478</id>
+        <create_time>1310393508</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>6ae36618ad296fb6d76ca818a100c064</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310393508</expavg_time>
+        <domain_name>Danilo-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7400  @ 2.80GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2862491039.71768</p_fpops>
+        <p_iops>5702422492.98538</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9449</id>
+        <create_time>1310131494</create_time>
+        <rpc_seqno>133</rpc_seqno>
+        <host_cpid>3207f362e884068cb411b924703b3340</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310131494</expavg_time>
+        <domain_name>Nino-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2201259947.5222</p_fpops>
+        <p_iops>6466205126.63816</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

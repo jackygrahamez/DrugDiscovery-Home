@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4292</id>
+    <cpid>2cd5d1b1a36a4d2b72836317aa227d3f</cpid>
+    <create_time>1299710760</create_time>
+    <name>Interceptor1982</name>
+    <country>Germany</country>
+    <total_credit>49.258771</total_credit>
+    <expavg_credit>0.050615</expavg_credit>
+    <expavg_time>1304280603.23841</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8045</id>
+        <create_time>1299713235</create_time>
+        <rpc_seqno>158</rpc_seqno>
+        <host_cpid>22550b107aba050449369cb1f44f6bfd</host_cpid>
+        <total_credit>49.258771</total_credit>
+        <expavg_credit>0.05062</expavg_credit>
+        <expavg_time>1304280603.48481</expavg_time>
+        <domain_name>IC-Server</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) 140 Processor [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1880599446.93795</p_fpops>
+        <p_iops>5462614188.03448</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8287</id>
+        <create_time>1301605328</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>5301e906cdc32218db9b0dfb9f69fb11</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301605328</expavg_time>
+        <domain_name>Hightower</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>3064306969.72807</p_fpops>
+        <p_iops>10089873024.7542</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

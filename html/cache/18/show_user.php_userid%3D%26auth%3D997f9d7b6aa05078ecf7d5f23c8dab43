@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>633</id>
+    <cpid>944298191a135746976f9dbc31eb3016</cpid>
+    <create_time>1241136000</create_time>
+    <name>[B^S] Brandon Kuschel</name>
+    <country>United States</country>
+    <total_credit>14088.010959</total_credit>
+    <expavg_credit>0.09311</expavg_credit>
+    <expavg_time>1281154203.2765</expavg_time>
+    <teamid>8</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>354</id>
+        <create_time>1249863071</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>7574c555727ffa098fa6e04e70a36842</host_cpid>
+        <total_credit>251.479058</total_credit>
+        <expavg_credit>0.096392</expavg_credit>
+        <expavg_time>1255054803.80738</expavg_time>
+        <domain_name>WIN-2LJ0LC6U4IB</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2540058658.08983</p_fpops>
+        <p_iops>7535659808.16633</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>519</id>
+        <create_time>1251416657</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>8f1b21b330d1377b25d2b1b80687a539</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1251416657</expavg_time>
+        <domain_name>Brandon-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3114659978.91649</p_fpops>
+        <p_iops>9347258925.18484</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3265</id>
+        <create_time>1270157275</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0d78e29ceca5b3f2704fe715d47454be</host_cpid>
+        <total_credit>4419.902769</total_credit>
+        <expavg_credit>0.087698</expavg_credit>
+        <expavg_time>1278735003.55339</expavg_time>
+        <domain_name>Brandon-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3203874346.98406</p_fpops>
+        <p_iops>9502077703.2552</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3608</id>
+        <create_time>1272226790</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>ef84e6024b846b54edbae7b218b12b79</host_cpid>
+        <total_credit>7.172526</total_credit>
+        <expavg_credit>0.055857</expavg_credit>
+        <expavg_time>1274500802.79555</expavg_time>
+        <domain_name>Brandon-Toshiba</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55 [Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>1646345003.6787</p_fpops>
+        <p_iops>4198416273.75147</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3527</id>
+        <create_time>1271715846</create_time>
+        <rpc_seqno>3209</rpc_seqno>
+        <host_cpid>a1248d857526a0dcf1e0a02ab1566958</host_cpid>
+        <total_credit>7937.456606</total_credit>
+        <expavg_credit>0.087557</expavg_credit>
+        <expavg_time>1281154205.20147</expavg_time>
+        <domain_name>theresa-desktop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2979834554.65981</p_fpops>
+        <p_iops>15746748023.8732</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

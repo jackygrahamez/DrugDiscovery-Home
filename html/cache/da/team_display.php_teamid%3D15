@@ -1,0 +1,37 @@
+O:9:"BoincTeam":24:{s:2:"id";s:2:"15";s:11:"create_time";s:10:"1240319439";s:6:"userid";s:2:"26";s:4:"name";s:15:"BOINC@AUSTRALIA";s:7:"name_lc";s:15:"boinc@australia";s:3:"url";s:20:"boinc-australia.net/";s:4:"type";s:1:"9";s:9:"name_html";s:92:"<center><h1><IMG src='http://ca.geocities.com/boinc@rogers.com/au-flag1.gif'> </h1></center>";s:11:"description";s:465:"<a href="http://www.boinc-australia.net/" style='display:block;float:right;'><img src='http://www.boinc-australia.net/images/banner.png' alt='BOINC@Australia' border=0></a>
+<p>Australians that want to participate in BOINC and give a definite Aussie Presence. Australians world wide are welcome and encouraged to join the #1 Aussie Alliance. As the song goes: Come on Aussie come on, come on.</p>
+<p><b>BOINC@AUSTRALIA has a team in all the BOINC projects.</b></p>";s:6:"nusers";s:2:"25";s:7:"country";s:9:"Australia";s:12:"total_credit";s:16:"109061.351557514";s:13:"expavg_credit";s:9:"13.110235";s:11:"expavg_time";s:16:"1317240493.45547";s:7:"seti_id";s:3:"165";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:2:"17";s:13:"nusers_active";s:1:"2";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:2:"26";s:11:"create_time";s:10:"1240319439";s:10:"email_addr";s:19:"boinc@dingo-den.com";s:4:"name";s:5:"Dingo";s:13:"authenticator";s:32:"5922da80337dd4954aaee37fa818936f";s:7:"country";s:0:"";s:11:"postal_code";s:0:"";s:12:"total_credit";s:11:"1081.134879";s:13:"expavg_credit";s:8:"0.094378";s:11:"expavg_time";s:16:"1265904303.36673";s:12:"global_prefs";s:1189:"<global_preferences>
+    <source_project>http://www.primegrid.com/</source_project>
+    <source_scheduler>http://www.primegrid.com/cgi/cgi</source_scheduler>
+<mod_time>1271761555</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>75</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:2:"15";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"d8a07404333d9ee17aea037e93bd4f24";s:11:"passwd_hash";s:32:"e74e547c3993e9a89c6b51e422c6be13";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

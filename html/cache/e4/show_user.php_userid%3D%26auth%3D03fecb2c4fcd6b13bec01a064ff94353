@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1026</id>
+    <cpid>badd4aebd44db97bf6d38afbab3244d3</cpid>
+    <create_time>1258140881</create_time>
+    <name>[FT/ TL-ATA]Rolf</name>
+    <country>Germany</country>
+    <total_credit>2577.3421125144</total_credit>
+    <expavg_credit>0.090987</expavg_credit>
+    <expavg_time>1272081602.69349</expavg_time>
+    <teamid>105</teamid>
+    <url>www.gva-kiel.de/</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>1231</id>
+        <create_time>1258141254</create_time>
+        <rpc_seqno>1016</rpc_seqno>
+        <host_cpid>4cf0194d936a4118665e541b58706f72</host_cpid>
+        <total_credit>2450.6148345144</total_credit>
+        <expavg_credit>0.078806</expavg_credit>
+        <expavg_time>1270872002.40507</expavg_time>
+        <domain_name>xp-64-bit</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4800+ [Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>2327665816.07024</p_fpops>
+        <p_iops>6010815671.48335</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2325</id>
+        <create_time>1266269316</create_time>
+        <rpc_seqno>149</rpc_seqno>
+        <host_cpid>f741e1efe8b09cf68eb36493c58dfd2d</host_cpid>
+        <total_credit>126.727278</total_credit>
+        <expavg_credit>0.058052</expavg_credit>
+        <expavg_time>1272081603.14147</expavg_time>
+        <domain_name>mini-barebone</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 3800+ [x86 Family 15 Model 11 Stepping 1]</p_model>
+        <p_fpops>2032465945.33369</p_fpops>
+        <p_iops>3712793589.04369</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Professional x86 Editon, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

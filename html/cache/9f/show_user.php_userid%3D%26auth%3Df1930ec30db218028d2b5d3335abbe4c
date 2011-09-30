@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1389</id>
+    <cpid>10c30274500b78e9628038d3d35e2cad</cpid>
+    <create_time>1266500494</create_time>
+    <name>tenerif</name>
+    <country>Germany</country>
+    <total_credit>8419.75122300001</total_credit>
+    <expavg_credit>0.064743</expavg_credit>
+    <expavg_time>1306699803.28883</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5364</id>
+        <create_time>1284030427</create_time>
+        <rpc_seqno>1481</rpc_seqno>
+        <host_cpid>f6df0298cdbdafe5e7cd5b2c917dbdc5</host_cpid>
+        <total_credit>6817.540103</total_credit>
+        <expavg_credit>0.063222</expavg_credit>
+        <expavg_time>1306699803.54843</expavg_time>
+        <domain_name>PC-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Extreme CPU X9650  @ 3.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3005031478.90516</p_fpops>
+        <p_iops>8850962960.28273</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6113</id>
+        <create_time>1289121762</create_time>
+        <rpc_seqno>197</rpc_seqno>
+        <host_cpid>8c81b8ec017b58c254c9ceb1100814ce</host_cpid>
+        <total_credit>1602.21112</total_credit>
+        <expavg_credit>0.077163</expavg_credit>
+        <expavg_time>1303071004.20462</expavg_time>
+        <domain_name>laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2345014030.80311</p_fpops>
+        <p_iops>7459975007.69568</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

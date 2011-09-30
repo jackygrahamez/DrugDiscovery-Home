@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2485</id>
+    <cpid>06e678daaa57c10176d72f53ffbbdcc6</cpid>
+    <create_time>1282077839</create_time>
+    <name>rfendt930</name>
+    <country>United Kingdom</country>
+    <total_credit>8.196564</total_credit>
+    <expavg_credit>0.05713</expavg_credit>
+    <expavg_time>1284667203.13691</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5088</id>
+        <create_time>1282150593</create_time>
+        <rpc_seqno>16</rpc_seqno>
+        <host_cpid>d792f1630649cd36508daaf348c47795</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282150593</expavg_time>
+        <domain_name>launceston</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 1214 [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>700091193.014454</p_fpops>
+        <p_iops>1238861494.60313</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5074</id>
+        <create_time>1282078076</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>9402f448f6859645e15832edde57531a</host_cpid>
+        <total_credit>8.196564</total_credit>
+        <expavg_credit>0.057137</expavg_credit>
+        <expavg_time>1284667204.19755</expavg_time>
+        <domain_name>glasgow</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 1214 [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>663195538.625262</p_fpops>
+        <p_iops>1133797331.39601</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5090</id>
+        <create_time>1282151101</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>6da4fb1faaa3d5aae605762d3709981f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282151101</expavg_time>
+        <domain_name>callington</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 1214 [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>694699894.699895</p_fpops>
+        <p_iops>1265075477.90489</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5091</id>
+        <create_time>1282151413</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>4083511e7cf5332e9f17e15099fd8eee</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282151413</expavg_time>
+        <domain_name>gunnislake</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 1214 [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>702732549.019608</p_fpops>
+        <p_iops>1033066445.28224</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

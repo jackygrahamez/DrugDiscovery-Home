@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1774</id>
+    <cpid>8d147c2e85c2f1f6adb18c42c083ecc2</cpid>
+    <create_time>1270502389</create_time>
+    <name>Tolio</name>
+    <country>Bulgaria</country>
+    <total_credit>688.173702</total_credit>
+    <expavg_credit>0.074309</expavg_credit>
+    <expavg_time>1310328902.49241</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3332</id>
+        <create_time>1270502890</create_time>
+        <rpc_seqno>1524</rpc_seqno>
+        <host_cpid>f7c13d66e959d97d9655d7d2c493ab8c</host_cpid>
+        <total_credit>617.462204</total_credit>
+        <expavg_credit>0.087352</expavg_credit>
+        <expavg_time>1298837104.22491</expavg_time>
+        <domain_name>tolio</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 3800+ [Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>2011133444.62236</p_fpops>
+        <p_iops>3575397852.00571</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8032</id>
+        <create_time>1299622014</create_time>
+        <rpc_seqno>2221</rpc_seqno>
+        <host_cpid>a78700c70d600e090a1fac324dd53671</host_cpid>
+        <total_credit>70.711498</total_credit>
+        <expavg_credit>0.07431</expavg_credit>
+        <expavg_time>1310328902.74118</expavg_time>
+        <domain_name>User-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) CPU        P6200  @ 2.13GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>1698720338.68717</p_fpops>
+        <p_iops>5239415960.91051</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

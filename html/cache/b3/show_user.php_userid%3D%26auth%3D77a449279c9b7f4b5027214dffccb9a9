@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2662</id>
+    <cpid>d831c9a4417d73da1f1a8027eeb4a198</cpid>
+    <create_time>1284486713</create_time>
+    <name>LD100</name>
+    <country>Germany</country>
+    <total_credit>359.275088</total_credit>
+    <expavg_credit>0.04152</expavg_credit>
+    <expavg_time>1314883847.73961</expavg_time>
+    <teamid>839</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5431</id>
+        <create_time>1284487840</create_time>
+        <rpc_seqno>113</rpc_seqno>
+        <host_cpid>2b445d870f2774387c020593f10a9b73</host_cpid>
+        <total_credit>359.275088</total_credit>
+        <expavg_credit>0.04152</expavg_credit>
+        <expavg_time>1314883847.75647</expavg_time>
+        <domain_name>LD100-PC</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2465473555.74242</p_fpops>
+        <p_iops>7360590709.89636</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8023</id>
+        <create_time>1299550382</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0d0b39f1fc2813288de613c50d570baf</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299550382</expavg_time>
+        <domain_name>severin-leptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7700  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1147507680.58546</p_fpops>
+        <p_iops>2374768028.4053</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

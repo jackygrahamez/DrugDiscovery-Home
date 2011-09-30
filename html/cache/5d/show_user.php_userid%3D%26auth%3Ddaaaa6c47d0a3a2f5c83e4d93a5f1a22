@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2535</id>
+    <cpid>f9f1f42c85a747fbb7de512ddecba555</cpid>
+    <create_time>1282761555</create_time>
+    <name>Biggles</name>
+    <country>Kiribati</country>
+    <total_credit>913.546407</total_credit>
+    <expavg_credit>0.053292</expavg_credit>
+    <expavg_time>1306699803.27136</expavg_time>
+    <teamid>772</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7923</id>
+        <create_time>1298936728</create_time>
+        <rpc_seqno>549</rpc_seqno>
+        <host_cpid>d08268dd6b1d7f38566ea15ca5a16d0c</host_cpid>
+        <total_credit>790.497313</total_credit>
+        <expavg_credit>0.093712</expavg_credit>
+        <expavg_time>1306095003.86199</expavg_time>
+        <domain_name>RainbowNotebook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1971488950.78157</p_fpops>
+        <p_iops>4226515595.03246</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7651</id>
+        <create_time>1297115940</create_time>
+        <rpc_seqno>429</rpc_seqno>
+        <host_cpid>dda52a1213a27f2901e5e7badbc76dfb</host_cpid>
+        <total_credit>123.049094</total_credit>
+        <expavg_credit>0.099804</expavg_credit>
+        <expavg_time>1304280603.76673</expavg_time>
+        <domain_name>Rainbow3</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4300  @ 1.80GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>2791436747.96034</p_fpops>
+        <p_iops>8667877187.81222</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

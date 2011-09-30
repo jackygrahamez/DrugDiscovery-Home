@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4572</id>
+    <cpid>54a87ee8820175da04b414c90edf6186</cpid>
+    <create_time>1305804522</create_time>
+    <name>spaceman619</name>
+    <country>United Kingdom</country>
+    <total_credit>6.513504</total_credit>
+    <expavg_credit>0.088862</expavg_credit>
+    <expavg_time>1307909403.20345</expavg_time>
+    <teamid>0</teamid>
+    <url>tom-davi.es</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8884</id>
+        <create_time>1306013177</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>a7c398b558703502a5fa79d3af7935d2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306013177</expavg_time>
+        <domain_name>Tom-Bootcamp</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8100  @ 2.10GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2085081026.88268</p_fpops>
+        <p_iops>5997774583.27867</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8852</id>
+        <create_time>1305805124</create_time>
+        <rpc_seqno>1910</rpc_seqno>
+        <host_cpid>fffaf0a94f27a1d442f54a5fba82bea5</host_cpid>
+        <total_credit>6.513504</total_credit>
+        <expavg_credit>0.088889</expavg_credit>
+        <expavg_time>1307909403.60458</expavg_time>
+        <domain_name>Tom-Mac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T8100 @ 2.10GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2413990135.23159</p_fpops>
+        <p_iops>5077529236.90163</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8880</id>
+        <create_time>1305988957</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>3f67b2c3818aaf68f8cdcdea3e4f17c4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305988957</expavg_time>
+        <domain_name>gilldavies-desktop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 3200+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1689808776.67903</p_fpops>
+        <p_iops>4484930110.69697</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9597</id>
+        <create_time>1311691393</create_time>
+        <rpc_seqno>850</rpc_seqno>
+        <host_cpid>4557ffbe2fe3ca2281db674e04468c2a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311691393</expavg_time>
+        <domain_name>Toms-MacBook.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T8100 @ 2.10GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2461299640.67703</p_fpops>
+        <p_iops>4948668628.80973</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue></venue>
+    </host>
+</user>

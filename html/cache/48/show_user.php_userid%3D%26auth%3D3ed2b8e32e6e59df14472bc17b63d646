@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1780</id>
+    <cpid>ec44ae0050eaad06a89d8f28500ad7e6</cpid>
+    <create_time>1270565874</create_time>
+    <name>smoohta</name>
+    <country>Israel</country>
+    <total_credit>29.696636</total_credit>
+    <expavg_credit>0.094929</expavg_credit>
+    <expavg_time>1273896002.81238</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3342</id>
+        <create_time>1270566884</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>8424b9670b90d066a57a4ea0593d5dbb</host_cpid>
+        <total_credit>29.696636</total_credit>
+        <expavg_credit>0.094977</expavg_credit>
+        <expavg_time>1273896003.17226</expavg_time>
+        <domain_name>Barak-Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2328374642.86805</p_fpops>
+        <p_iops>4626356942.36391</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3435</id>
+        <create_time>1271103568</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>a580991696c44aaad15f9892f927d8c8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271103568</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  330   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>693449114.77109</p_fpops>
+        <p_iops>1631083594.07427</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

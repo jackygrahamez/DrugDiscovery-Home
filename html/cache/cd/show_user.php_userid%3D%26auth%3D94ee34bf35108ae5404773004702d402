@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2159</id>
+    <cpid>3b4fe41b547d163a7d244d4cfcde7fdb</cpid>
+    <create_time>1276291631</create_time>
+    <name>nebusoku</name>
+    <country>United States</country>
+    <total_credit>295.676791</total_credit>
+    <expavg_credit>0.088752</expavg_credit>
+    <expavg_time>1297022703.43336</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4207</id>
+        <create_time>1276291772</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>3b99f1b23491def6fdd2e3b71ca09bc8</host_cpid>
+        <total_credit>173.028153</total_credit>
+        <expavg_credit>0.076705</expavg_credit>
+        <expavg_time>1282248003.10052</expavg_time>
+        <domain_name>bakkuappu-ceo-1</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1271794871.79487</p_fpops>
+        <p_iops>2436780029.7296</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4209</id>
+        <create_time>1276316297</create_time>
+        <rpc_seqno>197</rpc_seqno>
+        <host_cpid>a06c8bdec07f80c3034178b01fc608cd</host_cpid>
+        <total_credit>122.648638</total_credit>
+        <expavg_credit>0.088745</expavg_credit>
+        <expavg_time>1297022703.79028</expavg_time>
+        <domain_name>desktop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1438405315.61462</p_fpops>
+        <p_iops>2222683495.70904</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4225</id>
+        <create_time>1276487262</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>6b526c0472a2b042042f4672294b628e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276487262</expavg_time>
+        <domain_name>suiteanswer</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 8 Stepping 3]</p_model>
+        <p_fpops>540324949.762249</p_fpops>
+        <p_iops>855843483.472119</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Professional x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

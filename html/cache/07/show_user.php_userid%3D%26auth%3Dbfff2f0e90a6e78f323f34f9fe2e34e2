@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>997</id>
+    <cpid>6dae5707c097d5bfb2088feee1ed2c77</cpid>
+    <create_time>1258050343</create_time>
+    <name>ironcold</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1258050343</expavg_time>
+    <teamid>854</teamid>
+    <url>www.atlantis-base.net</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4196</id>
+        <create_time>1276199972</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>fa39ebea2314f9f4b111c8550c5cf684</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276199972</expavg_time>
+        <domain_name>ironquad1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3577178977.26687</p_fpops>
+        <p_iops>9199411072.2628</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34.7-0.5-desktop</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4211</id>
+        <create_time>1276330802</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>55dbc32235ade7b53340a0ac52108f1b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276330802</expavg_time>
+        <domain_name>irondc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 6 Stepping 2]</p_model>
+        <p_fpops>1461912939.2544</p_fpops>
+        <p_iops>4786774579.56872</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34.7-0.5-desktop</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4358</id>
+    <cpid>82e577895d64cb74dad49de7dc3f0693</cpid>
+    <create_time>1300991744</create_time>
+    <name>microchip</name>
+    <country>Belgium</country>
+    <total_credit>53.469054</total_credit>
+    <expavg_credit>0.053544</expavg_credit>
+    <expavg_time>1309724102.63369</expavg_time>
+    <teamid>1606</teamid>
+    <url>parsec.ath.cx:8080/</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>8189</id>
+        <create_time>1300993523</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>3bb62fe1ce46c65ad11bfc8a013f3469</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300993523</expavg_time>
+        <domain_name>neutrino</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>2776106445.81273</p_fpops>
+        <p_iops>9429743517.93347</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38.1-neutrino</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8190</id>
+        <create_time>1300993632</create_time>
+        <rpc_seqno>591</rpc_seqno>
+        <host_cpid>de92220a863159c6086c662b774f7374</host_cpid>
+        <total_credit>53.469054</total_credit>
+        <expavg_credit>0.053544</expavg_credit>
+        <expavg_time>1309724102.79431</expavg_time>
+        <domain_name>parsec</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X3 450 Processor [Family 16 Model 5 Stepping 3]</p_model>
+        <p_fpops>2828931864.3941</p_fpops>
+        <p_iops>14826178767.2171</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34.10-0.2-default</os_version>
+        <venue>home</venue>
+    </host>
+</user>

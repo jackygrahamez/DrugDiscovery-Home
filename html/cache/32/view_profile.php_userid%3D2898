@@ -1,0 +1,24 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"2898";s:11:"create_time";s:10:"1288662694";s:10:"email_addr";s:16:"aturk@borisov.de";s:4:"name";s:8:"mturk.at";s:13:"authenticator";s:32:"a4005891aaf3bccc21e04b14daa02f02";s:7:"country";s:7:"Austria";s:11:"postal_code";s:4:"1190";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1288662694";s:12:"global_prefs";s:980:"<global_preferences>
+    <source_project>http://boinc.bakerlab.org/rosetta/</source_project>
+    <source_scheduler>http://srv4.bakerlab.org/rosetta_cgi/cgi</source_scheduler>
+<mod_time>1286016862</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<work_buf_min_days>0.2</work_buf_min_days>
+<work_buf_additional_days>0.3</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<cpu_usage_limit>60</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>50</disk_max_used_gb>
+<disk_max_used_pct>75</disk_max_used_pct>
+<disk_min_free_gb>0.5</disk_min_free_gb>
+<vm_max_used_pct>100</vm_max_used_pct>
+<ram_max_used_busy_pct>85</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>85</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:4:"1051";s:5:"venue";s:0:"";s:3:"url";s:8:"mturk.at";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"b8c9ca90e3cde0b37c85848797e0168b";s:11:"passwd_hash";s:32:"83b2bd2d3f0b47a533fbbd9f55cd0bd2";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:4:"1051";s:11:"create_time";s:10:"1288662730";s:6:"userid";s:4:"2898";s:4:"name";s:5:"mturk";s:7:"name_lc";s:5:"mturk";s:3:"url";s:8:"mturk.at";s:4:"type";s:2:"12";s:9:"name_html";s:65:"<img src="http://www.boincstats.com/signature/team_32785365.gif">";s:11:"description";s:65:"<img src="http://www.boincstats.com/signature/team_32785365.gif">";s:6:"nusers";s:1:"0";s:7:"country";s:7:"Austria";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1288662730";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

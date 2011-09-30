@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4179</id>
+    <cpid>10238928fc6cd7b3d3f75573bcb560ea</cpid>
+    <create_time>1297551306</create_time>
+    <name>Chaosduke</name>
+    <country>United States</country>
+    <total_credit>190.484055</total_credit>
+    <expavg_credit>0.652746</expavg_credit>
+    <expavg_time>1315710487.55523</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7706</id>
+        <create_time>1297552599</create_time>
+        <rpc_seqno>833</rpc_seqno>
+        <host_cpid>79db2972d8c30a0a68d54100f9a27dcb</host_cpid>
+        <total_credit>106.686222</total_credit>
+        <expavg_credit>0.628412</expavg_credit>
+        <expavg_time>1315710487.6482</expavg_time>
+        <domain_name>Stupid</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1854313514.25298</p_fpops>
+        <p_iops>3921630668.60886</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8182</id>
+        <create_time>1300944096</create_time>
+        <rpc_seqno>155</rpc_seqno>
+        <host_cpid>2c8500a7e9469770cbe2b2d5c2a7e4e9</host_cpid>
+        <total_credit>76.323098</total_credit>
+        <expavg_credit>0.088022</expavg_credit>
+        <expavg_time>1310933703.11185</expavg_time>
+        <domain_name>Pimp</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>4301533240.34774</p_fpops>
+        <p_iops>14235445119.4879</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8271</id>
+        <create_time>1301504982</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>1855dc50f2e90dcf2f86cb46eaa54a07</host_cpid>
+        <total_credit>7.474735</total_credit>
+        <expavg_credit>0.094273</expavg_credit>
+        <expavg_time>1306095003.82181</expavg_time>
+        <domain_name>techpc</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 3600+ [Family 15 Model 79 Stepping 2]</p_model>
+        <p_fpops>2037760000</p_fpops>
+        <p_iops>3739400445.23533</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

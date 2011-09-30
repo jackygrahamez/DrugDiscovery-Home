@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to Biosphere</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to Biosphere</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=total_credit&rev=1&show_all=0&userid=1520>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=1&show_all=1&userid=1520>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=1&show_all=1&userid=1520>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=0&show_all=1&userid=1520>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=1&show_all=1&userid=1520>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=1&show_all=1&userid=1520>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=1&show_all=1&userid=1520>Last contact</a></th>
+<tr class=row1><td>ID: 6028
+        <br><a href=show_host_detail.php?hostid=6028>Details</a> |
+        <a href=results.php?hostid=6028>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=5e52fd81c8b311aeb8e530a5f15fa3a5><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=5e52fd81c8b311aeb8e530a5f15fa3a5><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.17</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.32-25-generic</span></td>
+            <td>10 Nov 2010 3:21:28 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 3661
+        <br><a href=show_host_detail.php?hostid=3661>Details</a> |
+        <a href=results.php?hostid=3661>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=196992b5e6bbfd82ae5768616563cdf9><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=196992b5e6bbfd82ae5768616563cdf9><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.44</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.31.13-desktop-1mnb</span></td>
+            <td>6 May 2010 2:01:26 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 3907
+        <br><a href=show_host_detail.php?hostid=3907>Details</a> |
+        <a href=results.php?hostid=3907>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=24d47fa80a70a8a3d2418d7e5812a2e2><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=24d47fa80a70a8a3d2418d7e5812a2e2><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [x86 Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>27 Aug 2010 14:53:11 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 6285
+        <br><a href=show_host_detail.php?hostid=6285>Details</a> |
+        <a href=results.php?hostid=6285>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=66e3224160ac3375aab9ea691357a928><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=66e3224160ac3375aab9ea691357a928><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.17</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.33.7-desktop-2mnb</span></td>
+            <td>14 Nov 2010 9:08:19 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 7610
+        <br><a href=show_host_detail.php?hostid=7610>Details</a> |
+        <a href=results.php?hostid=7610>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=4a7d8540c6d8e4ec4418a7985244897d><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=4a7d8540c6d8e4ec4418a7985244897d><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>17 Feb 2011 16:21:23 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 6385
+        <br><a href=show_host_detail.php?hostid=6385>Details</a> |
+        <a href=results.php?hostid=6385>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=aa2b718c352efd17eef59e1e836adab6><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=aa2b718c352efd17eef59e1e836adab6><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>6</td>
+
+            <td align=right>0.07</td>
+            <td align=right>4</td>
+            <td>6.10.58</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.35-23-generic</span></td>
+            <td>27 Nov 2010 15:00:58 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 2834
+        <br><a href=show_host_detail.php?hostid=2834>Details</a> |
+        <a href=results.php?hostid=2834>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=79a48fa707be9511c3e6f28ca237d75c><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=79a48fa707be9511c3e6f28ca237d75c><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>7</td>
+
+            <td align=right>0.09</td>
+            <td align=right>92</td>
+            <td>6.4.5</td>
+            <td>AuthenticAMD<br>AMD Turion(tm) 64 X2 Mobile Technology TL-56 [Family 15 Model 72 Stepping 2]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Linux<br><span class=note>2.6.31-20-generic</span></td>
+            <td>27 Apr 2010 23:22:49 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=total_credit&rev=1&show_all=0&userid=1520>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 25 Sep 2011 8:45:33 UTC</span>
+</body>
+        </html>
+    

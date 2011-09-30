@@ -1,0 +1,72 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"2823";s:11:"create_time";s:10:"1287001832";s:10:"email_addr";s:28:"lfogle@onecommunications.com";s:4:"name";s:25:"Fogle.SETI.USA [BlackOps]";s:13:"authenticator";s:32:"ca68a768e9251ee82ff2308d74b767fa";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"15101";s:12:"total_credit";s:11:"1885.041073";s:13:"expavg_credit";s:8:"4.646092";s:11:"expavg_time";s:16:"1316998502.43944";s:12:"global_prefs";s:2657:"<global_preferences>
+    <source_project>http://boinc.thesonntags.com/collatz/</source_project>
+    <source_scheduler>http://debian.thesonntags.com/collatz_cgi/cgi</source_scheduler>
+<mod_time>1313620192</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.5</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+<venue name="work">
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"5";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"a924731ceba1acbfddc01a91a7240e37";s:11:"passwd_hash";s:32:"9dfb6af6c4e20393a647f390ce5d3931";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"5";s:11:"create_time";s:10:"1240319405";s:6:"userid";s:2:"16";s:4:"name";s:8:"SETI.USA";s:7:"name_lc";s:8:"seti.usa";s:3:"url";s:15:"www.setiusa.net";s:4:"type";s:1:"1";s:9:"name_html";s:50:"<img SRC='http://www.setiusa.net/images/logo.png'>";s:11:"description";s:1850:"<b>Welcome to Team SETI.USA!</b><br><br>
+<b>Our Motto</b>:<i>Together we will accomplish something amazing!</i><br><br>
+On March 24, 2005 Team SETI.USA was created to consolidate United States users and become the #1 SETI Team in the world.<br><br>This goal was achieved within 24 months of inception thanks to the extraordinary efforts of our dedicated membership.<br><br>To parlay that effort, and for the benefit of all BOINC distributed computing projects, Team SETI.USA’s commitment to extend beyond a single project has begun.<br><br><b> SETI.USA is now BOINCing the world!</b> Join with us as we boldly go where no team has gone before!<br><br>
+
+Be sure to visit <a title="SETI.USA Homepage" href="http://www.setiusa.net">setiusa.net</a> and join our community! You'll find team news and team graphics. If you need help setting up BOINC or joining our team, we have a friendly, active <a title="SETI.USA Message board" href="http://setiusa.net/forums/">Message Board</a> where our members are waiting to help.<br><br>
+
+Also, join us in our weekly evening of <a title="SETI.USA IRC Chat" href="http://setiusa.net/chat.html">chat!</a> Every Monday night at 8 PM CST.<br>(server/channel info: irc.icq.net #team_seti.usa)
+<br><br>
+<a title="SETI.USA follow us on twitter" href="http://twitter.com/setiusa"><img title="SETI.USA follow us on twitter" src="http://www.mpits.net/twitter_aqu_32.png" alt="Twitter">Twitter</a><br><a title="SETI.USA Facebook" href="http://www.facebook.com/group.php?gid=39475935417"><img title="SETI.USA Facebook" src="http://www.mpits.net/facebook_aqu_32.png" alt="Facebook">Facebook</a>
+<br><br>
+<a title="SETI.USA Stats" href="http://de.boincstats.com/stats/boinc_team_graph.php?pr=bo&id=15755"><img title="SETI.USA Stats" src="http://www.boincstats.com/signature/team_15755_project-1.gif" alt="Stats"></a";s:6:"nusers";s:2:"51";s:7:"country";s:13:"United States";s:12:"total_credit";s:15:"1034021.8322394";s:13:"expavg_credit";s:9:"21.225993";s:11:"expavg_time";s:16:"1316998502.75055";s:7:"seti_id";s:3:"147";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

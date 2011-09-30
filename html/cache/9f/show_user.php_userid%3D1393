@@ -1,0 +1,133 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1393";s:11:"create_time";s:10:"1266555166";s:10:"email_addr";s:24:"yamashin0802@yahoo.co.jp";s:4:"name";s:8:"yamashin";s:13:"authenticator";s:32:"d90f4ba2adb1aac044e5afba327dd23c";s:7:"country";s:5:"Japan";s:11:"postal_code";s:0:"";s:12:"total_credit";s:14:"629908.0323715";s:13:"expavg_credit";s:9:"21.082507";s:11:"expavg_time";s:16:"1317177710.47836";s:12:"global_prefs";s:5668:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1298333153</mod_time>
+    <run_on_batteries/>
+    <run_if_user_active/>
+    <idle_time_to_run>1</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <hangup_if_dialed/>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <work_buf_additional_days>2.0</work_buf_additional_days>
+    <max_cpus>16</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>30.0</disk_interval>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>1.5</disk_min_free_gb>
+    <vm_max_used_pct>90.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>100.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>100.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <dont_verify_images/>
+    <end_hour>0</end_hour>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <suspend_cpu_usage>0.0</suspend_cpu_usage>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+    <venue name="home">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <leave_apps_in_memory/>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <work_buf_additional_days>2.0</work_buf_additional_days>
+        <max_cpus>16</max_cpus>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>30.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <vm_max_used_pct>90.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>100.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>100.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images/>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>0.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+    <venue name="work">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <leave_apps_in_memory/>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <work_buf_additional_days>2.0</work_buf_additional_days>
+        <max_cpus>8</max_cpus>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>100.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>100.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images/>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>0.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+    <venue name="school">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <leave_apps_in_memory/>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.1</work_buf_additional_days>
+        <max_cpus>16</max_cpus>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0010</disk_min_free_gb>
+        <vm_max_used_pct>90.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>100.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>100.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images/>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>0.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"773";s:5:"venue";s:0:"";s:3:"url";s:30:"blog.livedoor.jp/yamashin0802/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"8075e212ed2d9e8d4b7b50949184ddfa";s:11:"passwd_hash";s:32:"b501df471e7deecfdacd983d590b8ed7";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1393";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"1";s:14:"thread_sorting";s:1:"6";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"1";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:12:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:8:"11534039";s:13:"expavg_credit";s:5:"10603";s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:4:"2203";s:11:"create_time";s:10:"1128203630";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"112";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:7:"8580140";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"342622";s:11:"create_time";s:10:"1176083066";s:7:"country";s:5:"Japan";s:7:"team_id";s:4:"6264";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:7:"8135626";s:13:"expavg_credit";d:0;s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:4:"1304";s:11:"create_time";s:10:"1136462018";s:7:"country";s:5:"Japan";s:7:"team_id";s:2:"19";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3709334";s:13:"expavg_credit";s:4:"3948";s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"10206";s:11:"create_time";s:10:"1240351007";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"328";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:6:"312339";s:13:"expavg_credit";d:0;s:4:"name";s:13:"proteins@home";s:3:"url";s:44:"http://bioc.polytechnique.fr/proteinsathome/";s:2:"id";s:3:"798";s:11:"create_time";s:10:"1165106292";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"115";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1032776";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:4:"2870";s:11:"create_time";s:10:"1206580253";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"125";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3020598";s:13:"expavg_credit";s:5:"15520";s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:4:"1903";s:11:"create_time";s:10:"1199756349";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"190";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"349650";s:13:"expavg_credit";d:0;s:4:"name";s:9:"Cels@Home";s:3:"url";s:40:"http://cels-at-home-dev.dyndns.org/cels/";s:2:"id";s:3:"989";s:11:"create_time";s:10:"1207104863";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"301";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:8:"43942885";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:4:"1388";s:11:"create_time";s:10:"1199977603";s:7:"country";s:5:"Japan";s:7:"team_id";s:1:"5";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:6:"629712";s:13:"expavg_credit";s:2:"13";s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1393";s:11:"create_time";s:10:"1266555166";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"773";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3597929";s:13:"expavg_credit";s:3:"246";s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"1246";s:11:"create_time";s:10:"1266090728";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"739";s:9:"team_name";s:38:"Protein structural analysis room Japan";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:6:"769817";s:13:"expavg_credit";s:4:"2604";s:4:"name";s:8:"DNA@Home";s:3:"url";s:30:"http://dnahome.cs.rpi.edu/dna/";s:2:"id";s:4:"3632";s:11:"create_time";s:10:"1304124252";s:7:"country";s:5:"Japan";s:7:"team_id";s:2:"56";s:9:"team_name";s:38:"Protein structural analysis room Japan";}}}s:3:"clo";O:8:"stdClass":4:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"773";s:11:"create_time";s:10:"1266154169";s:6:"userid";s:4:"1346";s:4:"name";s:38:"Protein structural analysis room Japan";s:7:"name_lc";s:38:"protein structural analysis room japan";s:3:"url";s:24:"wiki.livedoor.jp/refler/";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:181:"It is a present very small team. Don't those who consent to the grand plan to analyze the structure of the protein used as the foundation of a living thing make it develop together?";s:6:"nusers";s:2:"11";s:7:"country";s:5:"Japan";s:12:"total_credit";s:15:"728287.74861169";s:13:"expavg_credit";s:10:"127.866784";s:11:"expavg_time";s:16:"1317177720.48907";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}s:7:"friends";a:1:{i:0;O:9:"BoincUser":28:{s:2:"id";s:4:"2013";s:11:"create_time";s:10:"1273847607";s:10:"email_addr";s:16:"p3p11k@seznam.cz";s:4:"name";s:6:"pepiik";s:13:"authenticator";s:32:"2ea902da6ad1efd2cb5146f50aad379b";s:7:"country";s:14:"Czech Republic";s:11:"postal_code";s:5:"47002";s:12:"total_credit";s:11:"5001.968633";s:13:"expavg_credit";s:8:"0.053279";s:11:"expavg_time";s:16:"1310328902.42714";s:12:"global_prefs";N;s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"9";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"f7f03c70f6c6ea5bbac1a476986ab89a";s:11:"passwd_hash";s:32:"3a05b48918b1941cc79f9719f8fc7d3d";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}}}

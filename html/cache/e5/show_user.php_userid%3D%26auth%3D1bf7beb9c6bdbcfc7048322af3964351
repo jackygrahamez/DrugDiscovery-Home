@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1030</id>
+    <cpid>c33089e6f8cdfb27dc5950bd31e1374b</cpid>
+    <create_time>1258141677</create_time>
+    <name>Mutina</name>
+    <country>Italy</country>
+    <total_credit>52.638283</total_credit>
+    <expavg_credit>0.06266</expavg_credit>
+    <expavg_time>1307304602.98974</expavg_time>
+    <teamid>683</teamid>
+    <url>meteomontecenere.xoomer.it</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1362</id>
+        <create_time>1258384970</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>c0cc930b1b1d8961a52a098969314096</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258384970</expavg_time>
+        <domain_name>old-mutina</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [x86 Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1330547980.44765</p_fpops>
+        <p_iops>2187686229.87043</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4386</id>
+        <create_time>1277303860</create_time>
+        <rpc_seqno>341</rpc_seqno>
+        <host_cpid>76c06a5d026b6af079703636427e61ee</host_cpid>
+        <total_credit>52.638283</total_credit>
+        <expavg_credit>0.062661</expavg_credit>
+        <expavg_time>1307304603.1807</expavg_time>
+        <domain_name>MS-6743</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1318066236.82643</p_fpops>
+        <p_iops>2545772675.49077</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

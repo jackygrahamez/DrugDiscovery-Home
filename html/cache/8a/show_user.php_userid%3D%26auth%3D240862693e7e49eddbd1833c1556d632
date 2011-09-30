@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2363</id>
+    <cpid>0c8eb50cc5e760288d8b0edd4d6f526d</cpid>
+    <create_time>1280182623</create_time>
+    <name>soramame</name>
+    <country>Japan</country>
+    <total_credit>272.315413</total_credit>
+    <expavg_credit>0.069332</expavg_credit>
+    <expavg_time>1293913503.1175</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4812</id>
+        <create_time>1280182635</create_time>
+        <rpc_seqno>311</rpc_seqno>
+        <host_cpid>5697406a6a80bbe649c50bceb5162380</host_cpid>
+        <total_credit>235.35808</total_credit>
+        <expavg_credit>0.074139</expavg_credit>
+        <expavg_time>1293308703.45523</expavg_time>
+        <domain_name>Taro-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5405  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2031661887.5414</p_fpops>
+        <p_iops>5920289926.85281</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4912</id>
+        <create_time>1280921874</create_time>
+        <rpc_seqno>673</rpc_seqno>
+        <host_cpid>41cc6c804872f61546226c6a340b7e2a</host_cpid>
+        <total_credit>36.957333</total_credit>
+        <expavg_credit>0.054391</expavg_credit>
+        <expavg_time>1293308703.45685</expavg_time>
+        <domain_name>localhost</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2725020409.31465</p_fpops>
+        <p_iops>6300976139.49368</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7340</id>
+        <create_time>1295065948</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>3549545102cfaacfa6dbc69edcbabd4d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295065948</expavg_time>
+        <domain_name>Taro-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5405  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2097739788.59024</p_fpops>
+        <p_iops>4377611449.91073</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7607</id>
+        <create_time>1296655110</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>6178c41b7710ba2812b33f930ade08f3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296655110</expavg_time>
+        <domain_name>Taro-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5405  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2009771864.0357</p_fpops>
+        <p_iops>5797659109.69896</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

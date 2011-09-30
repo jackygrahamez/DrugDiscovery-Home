@@ -1,0 +1,62 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1746";s:11:"create_time";s:10:"1270214124";s:10:"email_addr";s:25:"john_yeatts@sbcglobal.net";s:4:"name";s:11:"Caring John";s:13:"authenticator";s:32:"c0a227d33145b8d22ccb1e475ee3a3b2";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"76088";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1270214124";s:12:"global_prefs";s:2650:"<global_preferences>
+    <source_project>http://aqua.dwavesys.com/</source_project>
+    <source_scheduler>http://aqua.dwavesys.com/aqua_cgi/cgi</source_scheduler>
+<mod_time>1274042386</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>60</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>100</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>75</ram_max_used_idle_pct>
+<work_buf_min_days>0.3</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>100000</max_bytes_sec_down>
+<max_bytes_sec_up>100000</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>1</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"8";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"753a377242435e550f85968801dd2d96";s:11:"passwd_hash";s:32:"aece783560a469d0fc0d665339a8e7a2";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1746";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:14:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:6:"154277";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"7822667";s:11:"create_time";s:9:"923182776";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"30230";s:9:"team_name";s:13:"BOINC Synergy";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:6:"203745";s:13:"expavg_credit";s:2:"27";s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"243700";s:11:"create_time";s:10:"1170431507";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"113";s:9:"team_name";s:13:"BOINC Synergy";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:6:"207451";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"184433";s:11:"create_time";s:10:"1145967894";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"93";s:9:"team_name";s:13:"BOINC Synergy";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:6:"150571";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:5:"38250";s:11:"create_time";s:10:"1134712779";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:13:"BOINC Synergy";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:6:"103697";s:13:"expavg_credit";d:0;s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"17814";s:11:"create_time";s:10:"1200777773";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:13:"BOINC Synergy";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:6:"201801";s:13:"expavg_credit";s:3:"663";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"254763";s:11:"create_time";s:10:"1155303372";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"6257";s:9:"team_name";s:13:"BOINC Synergy";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"23605";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:4:"7113";s:11:"create_time";s:10:"1170311223";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"6";s:9:"team_name";s:13:"BOINC Synergy";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"193995";s:13:"expavg_credit";s:4:"2572";s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"27854";s:11:"create_time";s:10:"1186067198";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"18";s:9:"team_name";s:13:"BOINC Synergy";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:6:"150138";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"71973";s:11:"create_time";s:10:"1258522462";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"10";s:9:"team_name";s:13:"BOINC Synergy";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:6:"150848";s:13:"expavg_credit";d:0;s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:4:"4827";s:11:"create_time";s:10:"1176126647";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"7";s:9:"team_name";s:13:"BOINC Synergy";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:6:"150759";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:4:"2060";s:11:"create_time";s:10:"1200692415";s:7:"country";s:13:"United States";s:7:"team_id";s:1:"6";s:9:"team_name";s:13:"BOINC Synergy";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:3:"116";s:13:"expavg_credit";d:0;s:4:"name";s:11:"Enigma@Home";s:3:"url";s:28:"http://www.enigmaathome.net/";s:2:"id";s:4:"7938";s:11:"create_time";s:10:"1256182252";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"12";s:9:"team_name";s:13:"BOINC Synergy";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:3:"141";s:13:"expavg_credit";d:0;s:4:"name";s:9:"yoyo@home";s:3:"url";s:32:"http://www.rechenkraft.net/yoyo/";s:2:"id";s:5:"18205";s:11:"create_time";s:10:"1241068731";s:7:"country";s:13:"United States";s:7:"team_id";s:2:"11";s:9:"team_name";s:13:"BOINC Synergy";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:3:"644";s:13:"expavg_credit";d:0;s:4:"name";s:17:"MindModeling@Home";s:3:"url";s:29:"http://mindmodeling.org/beta/";s:2:"id";s:4:"1420";s:11:"create_time";s:10:"1209618016";s:7:"country";s:13:"International";s:7:"team_id";s:2:"10";s:9:"team_name";s:13:"BOINC Synergy";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"8";s:11:"create_time";s:10:"1240319427";s:6:"userid";s:2:"19";s:4:"name";s:13:"BOINC Synergy";s:7:"name_lc";s:13:"boinc synergy";s:3:"url";s:20:"www.boincsynergy.com";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:765:"We have a <a href='http://www.boincsynergy.com/'>Fantastic Website</a>, with stacks of features including <a href="http://www.boincsynergy.com/stats/index.php">Extended Stats</a>, <a href="http://www.boincsynergy.com/forums/index.php">Forums</a>, <a href="http://www.boincsynergy.com/content/view/33/50/">Signature Images</a>, <a href="http://www.boincsynergy.com/forums/viewforum.php?f=28">Synergy Emails</a>, <a href="http://www.boincsynergy.com/forums/viewtopic.php?t=12121Articles">Synergy Toolbar</a>, FAQs, Newsletter, and much much more! People rave about our stats! They are absolutely the best anywhere!<br /><br/><br/><img src='http://www.boincsynergy.com/images/SynergySig2007.jpg'><br /><a href="http://www.boincsynergy.com/content/view/3288/190/"><br/>";s:6:"nusers";s:2:"65";s:7:"country";s:13:"International";s:12:"total_credit";s:15:"960009.29938145";s:13:"expavg_credit";s:9:"41.269496";s:11:"expavg_time";s:16:"1317295699.58044";s:7:"seti_id";s:3:"151";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

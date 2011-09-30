@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1676</id>
+    <cpid>9210555c058241c4b66e6063eec9af7f</cpid>
+    <create_time>1269343511</create_time>
+    <name>[VENETO] M@cro</name>
+    <country>Italy</country>
+    <total_credit>884.800405</total_credit>
+    <expavg_credit>0.056305</expavg_credit>
+    <expavg_time>1279339802.22991</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3104</id>
+        <create_time>1269343785</create_time>
+        <rpc_seqno>203</rpc_seqno>
+        <host_cpid>070e4adf98e549222ae679fb5eaac7d4</host_cpid>
+        <total_credit>623.306245</total_credit>
+        <expavg_credit>0.090416</expavg_credit>
+        <expavg_time>1278129903.63751</expavg_time>
+        <domain_name>User-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 920 Processor [AMD64 Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2294446564.88681</p_fpops>
+        <p_iops>7213381577.1034</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3674</id>
+        <create_time>1272541733</create_time>
+        <rpc_seqno>61</rpc_seqno>
+        <host_cpid>d5e7c1d3d9bd8ffda12bb0f3524b282b</host_cpid>
+        <total_credit>261.49416</total_credit>
+        <expavg_credit>0.064599</expavg_credit>
+        <expavg_time>1278735003.57653</expavg_time>
+        <domain_name>user-117b7a7a44</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2281339712.91866</p_fpops>
+        <p_iops>4662492885.60045</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3676</id>
+        <create_time>1272544374</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>5035cbdb1a5d4f29565fb4bca5be4bcd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272544374</expavg_time>
+        <domain_name>macbook.homenet.telecomitalia.it</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU T7200 @ 2.00GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1101408186.9894</p_fpops>
+        <p_iops>2459698041.58828</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.3.0</os_version>
+        <venue></venue>
+    </host>
+</user>

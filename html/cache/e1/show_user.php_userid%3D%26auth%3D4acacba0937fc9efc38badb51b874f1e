@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>679</id>
+    <cpid>9b392e3926d9e9112a933745c39d5834</cpid>
+    <create_time>1241136000</create_time>
+    <name>ocgbargas</name>
+    <country>Spain</country>
+    <total_credit>15846.053559519</total_credit>
+    <expavg_credit>0.080147</expavg_credit>
+    <expavg_time>1281154203.30291</expavg_time>
+    <teamid>501</teamid>
+    <url>www.titanesdc.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>476</id>
+        <create_time>1250706979</create_time>
+        <rpc_seqno>1035</rpc_seqno>
+        <host_cpid>ee0f0993e53b8c97d3c375191f09d840</host_cpid>
+        <total_credit>9213.3227301598</total_credit>
+        <expavg_credit>0.080063</expavg_credit>
+        <expavg_time>1281154204.99972</expavg_time>
+        <domain_name>cube-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2494831265.35285</p_fpops>
+        <p_iops>8064490649.03131</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>477</id>
+        <create_time>1250712322</create_time>
+        <rpc_seqno>570</rpc_seqno>
+        <host_cpid>0a893552c37cf04c96e654e9f5866539</host_cpid>
+        <total_credit>1180.23623053161</total_credit>
+        <expavg_credit>0.06701</expavg_credit>
+        <expavg_time>1275105603.42883</expavg_time>
+        <domain_name>oscar</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3400+ [x86 Family 15 Model 12 Stepping 0]</p_model>
+        <p_fpops>2432398753.89408</p_fpops>
+        <p_iops>4479218794.18534</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>609</id>
+        <create_time>1251875885</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>233fbe56b6c785c2a220dbac70031c9c</host_cpid>
+        <total_credit>224.49459882754</total_credit>
+        <expavg_credit>0.068313</expavg_credit>
+        <expavg_time>1273291202.3541</expavg_time>
+        <domain_name>oscar</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1250123374.12739</p_fpops>
+        <p_iops>2264979233.42034</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

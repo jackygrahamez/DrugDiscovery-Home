@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1450</id>
+    <cpid>de857ff40d2c2183692ca9fad62ba4ad</cpid>
+    <create_time>1266968452</create_time>
+    <name>Vim Fuego</name>
+    <country>Australia</country>
+    <total_credit>59.156407</total_credit>
+    <expavg_credit>0.068649</expavg_credit>
+    <expavg_time>1274500802.5003</expavg_time>
+    <teamid>15</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2606</id>
+        <create_time>1266970665</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>a091d7ddbace44c7d61c19e420805304</host_cpid>
+        <total_credit>51.529121</total_credit>
+        <expavg_credit>0.057181</expavg_credit>
+        <expavg_time>1274500802.75269</expavg_time>
+        <domain_name>p4-1600</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.60GHz [x86 Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>822857142.857143</p_fpops>
+        <p_iops>1500403895.05172</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2862</id>
+        <create_time>1267877296</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>239c6e9e8a232358123f38e8bf8a3592</host_cpid>
+        <total_credit>7.627286</total_credit>
+        <expavg_credit>0.058383</expavg_credit>
+        <expavg_time>1270267203.54252</expavg_time>
+        <domain_name>P41600Ubuntu</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.60GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>788148031.98426</p_fpops>
+        <p_iops>2115299977.11378</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-14-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8828</id>
+        <create_time>1305721357</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>82f5104a21ff51bc82fc2e5f15c7a5b4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305721357</expavg_time>
+        <domain_name>P416Ghz</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.60GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>798440545.808967</p_fpops>
+        <p_iops>1504245352.00326</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

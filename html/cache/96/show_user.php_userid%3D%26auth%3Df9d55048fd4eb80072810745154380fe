@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3602</id>
+    <cpid>9c7aaed3fe9155b0206dee28777d8966</cpid>
+    <create_time>1293744004</create_time>
+    <name>Dewayne Haun</name>
+    <country></country>
+    <total_credit>40.393605</total_credit>
+    <expavg_credit>0.051386</expavg_credit>
+    <expavg_time>1307909403.08193</expavg_time>
+    <teamid>1141</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7115</id>
+        <create_time>1293756851</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>72915fcfa98af4f35b2ed34d6600edf6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293756851</expavg_time>
+        <domain_name>Sylar</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3800+ [Family 15 Model 47 Stepping 2]</p_model>
+        <p_fpops>2202171249.09447</p_fpops>
+        <p_iops>10134100197.9042</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35.13-91.fc14.x86_64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7139</id>
+        <create_time>1293951095</create_time>
+        <rpc_seqno>126</rpc_seqno>
+        <host_cpid>146bb7c30fc680c8f7f8bca593a0db41</host_cpid>
+        <total_credit>25.745637</total_credit>
+        <expavg_credit>0.055067</expavg_credit>
+        <expavg_time>1304885404.72335</expavg_time>
+        <domain_name>uberstation-461</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 945 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>796549697.205494</p_fpops>
+        <p_iops>1817329495.34587</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8650</id>
+        <create_time>1304525440</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>9ed5fd42bc8638dfbad0ab9e408f9538</host_cpid>
+        <total_credit>14.647968</total_credit>
+        <expavg_credit>0.090077</expavg_credit>
+        <expavg_time>1307304603.30645</expavg_time>
+        <domain_name>Uber-PC-5-2011</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 945 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>811537530.843978</p_fpops>
+        <p_iops>1778675057.18366</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

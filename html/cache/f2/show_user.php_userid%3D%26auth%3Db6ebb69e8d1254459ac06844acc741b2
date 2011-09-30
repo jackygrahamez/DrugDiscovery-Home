@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3525</id>
+    <cpid>32ae858086c50997e3e981406a7321ed</cpid>
+    <create_time>1292344013</create_time>
+    <name>SaturdayS</name>
+    <country>Canada</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1292344013</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6882</id>
+        <create_time>1292389868</create_time>
+        <rpc_seqno>753</rpc_seqno>
+        <host_cpid>93bfbe535974dbec39eb8546f6703462</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292389868</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU 5150 @ 2.66GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2168627768.24103</p_fpops>
+        <p_iops>6744382271.14718</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.1</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8655</id>
+        <create_time>1304555534</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>e9f87ade4101b68002d218f326671eec</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1304555534</expavg_time>
+        <domain_name>Jarenbou</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2250  @ 1.73GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1598589565.51652</p_fpops>
+        <p_iops>3281824325.00686</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10012</id>
+        <create_time>1315428291</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>cd65c24edb7e6240ba37a4f8c4f7e37c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315428291</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2184601249.21488</p_fpops>
+        <p_iops>12358643547.8548</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10066</id>
+        <create_time>1315747936</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>cd65c24edb7e6240ba37a4f8c4f7e37c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315747936</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2179679031.20494</p_fpops>
+        <p_iops>12592483746.2141</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

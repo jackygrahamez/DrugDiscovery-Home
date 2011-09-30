@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2036</id>
+    <cpid>7335780c0c11366d47c341746d8d54ef</cpid>
+    <create_time>1274134762</create_time>
+    <name>llagos</name>
+    <country>Chile</country>
+    <total_credit>353.037483</total_credit>
+    <expavg_credit>0.09738</expavg_credit>
+    <expavg_time>1312143302.5531</expavg_time>
+    <teamid>910</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3906</id>
+        <create_time>1274134781</create_time>
+        <rpc_seqno>1215</rpc_seqno>
+        <host_cpid>ec7a6a0b14d689798ff74c28285775c9</host_cpid>
+        <total_credit>336.96187</total_credit>
+        <expavg_credit>0.059389</expavg_credit>
+        <expavg_time>1307304603.17982</expavg_time>
+        <domain_name>llagos1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8100  @ 2.10GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2105671679.65214</p_fpops>
+        <p_iops>4279017509.90836</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Enterprise x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8792</id>
+        <create_time>1305495489</create_time>
+        <rpc_seqno>213</rpc_seqno>
+        <host_cpid>419110b7cee07b71480f1c6b8fd26f2c</host_cpid>
+        <total_credit>7.248033</total_credit>
+        <expavg_credit>0.058402</expavg_credit>
+        <expavg_time>1309119003.58267</expavg_time>
+        <domain_name>C3000-100-Llagos</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor         1.50GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1382791586.99809</p_fpops>
+        <p_iops>2772714765.23602</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9452</id>
+        <create_time>1310166223</create_time>
+        <rpc_seqno>323</rpc_seqno>
+        <host_cpid>d3b00a4a8e43ac7dae107981f28ab6f1</host_cpid>
+        <total_credit>8.82758</total_credit>
+        <expavg_credit>0.058239</expavg_credit>
+        <expavg_time>1312748102.95735</expavg_time>
+        <domain_name>T410-llagos</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2435700784.35856</p_fpops>
+        <p_iops>7703341085.87709</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

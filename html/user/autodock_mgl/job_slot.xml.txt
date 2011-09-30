@@ -1,0 +1,52 @@
+<job_desc>
+    <task>
+        <application>unzip</application>
+        <command_line> -o "MGLToolsPckgs.zip" -d "."</command_line>
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>make_sitecustomize.py "."</command_line>
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/Support/sitecustomize.py"</command_line>
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py" -l ligand.mol2 -o ligand.pdbqt</command_line>    
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py" -U nphs_lps_waters -r receptor.pdb -o receptor.pdbqt</command_line>
+    </task>
+    <task>        
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/prepare_gpf4.py" -l ligand.pdbqt -r receptor.pdbqt -p custom_parameter_file=1 -p parameter_file=AD4_parameters.dat</command_line>    
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=1</command_line>
+    </task>
+    <task>
+        <application>autogrid</application>
+        <command_line> -p receptor.gpf -l out.glg </command_line>
+    </task>    
+    <task>
+        <application>autodock</application>        
+        <command_line> -p ligand_receptor.dpf -l out.dlg </command_line>
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/write_all_complexes.py" -d out.dlg -r receptor.pdbqt -o out </command_line>
+    </task>
+    <task>
+        <application>Python25/python.exe</application>
+        <command_line>"MGLToolsPckgs/AutoDockTools/Utilities24/summarize_results4.py" -d . -r receptor.pdbqt -o summary.txt </command_line>
+    </task>
+    <task>
+        <application>zip</application>
+        <command_line>out -q -r out . -i *.pdb *.dlg</command_line>
+    </task>
+</job_desc>
+
+

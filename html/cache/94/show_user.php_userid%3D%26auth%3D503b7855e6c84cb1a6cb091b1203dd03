@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2754</id>
+    <cpid>4660c24d7de7f87d3322d90af620a6dc</cpid>
+    <create_time>1285768737</create_time>
+    <name>Boligrafo</name>
+    <country>International</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1285768737</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5663</id>
+        <create_time>1285768946</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>fcfcc679e8c515c86570b8ba5ac65853</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285768946</expavg_time>
+        <domain_name>joseba-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1630889187.9107</p_fpops>
+        <p_iops>4522582261.8884</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5787</id>
+        <create_time>1286832390</create_time>
+        <rpc_seqno>409</rpc_seqno>
+        <host_cpid>ea244cbc017de94f1cabfdc61c87e8a2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286832390</expavg_time>
+        <domain_name>joseba-MacBook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1607373369.70479</p_fpops>
+        <p_iops>4785303645.81599</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5872</id>
+        <create_time>1287485315</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f907679c5bbd44cab60d69fd77efeace</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287485315</expavg_time>
+        <domain_name>pc10-a11</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2633664271.87094</p_fpops>
+        <p_iops>5252623951.37995</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

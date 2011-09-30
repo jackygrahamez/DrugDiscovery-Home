@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>209</id>
+    <cpid>3f7981f62bda2e1e316d82f279625796</cpid>
+    <create_time>1240320050</create_time>
+    <name>AL ADIM</name>
+    <country>Poland</country>
+    <total_credit>5184</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1240320050</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>442</id>
+        <create_time>1250238525</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>3afe9aaff9c05a7b25b9c34cc785a84e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1250238525</expavg_time>
+        <domain_name>DDSP3</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3000+ [x86 Family 15 Model 12 Stepping 0]</p_model>
+        <p_fpops>1891891891.89189</p_fpops>
+        <p_iops>3461488183.61821</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>690</id>
+        <create_time>1252298623</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>4cb8658e8ec16b093295514cee5c21ed</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1252298623</expavg_time>
+        <domain_name>komp1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4400+ [x86 Family 15 Model 35 Stepping 2]</p_model>
+        <p_fpops>1909796316.78272</p_fpops>
+        <p_iops>3408390013.73103</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2055</id>
+        <create_time>1265198245</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>f0d8099ea8abedbed22052a44ece70df</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265198245</expavg_time>
+        <domain_name>AL-State</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2617829614.6306</p_fpops>
+        <p_iops>8316712792.25127</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>
