@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4809</id>
+    <cpid>e89809637fc7f9caa0e8398b4ce4201c</cpid>
+    <create_time>1311536681</create_time>
+    <name>GastonRabbit</name>
+    <country>United States</country>
+    <total_credit>8.649265</total_credit>
+    <expavg_credit>0.09257</expavg_credit>
+    <expavg_time>1313957702.63063</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9576</id>
+        <create_time>1311537775</create_time>
+        <rpc_seqno>16</rpc_seqno>
+        <host_cpid>79f7454468a852a4796b7ce124b2e0de</host_cpid>
+        <total_credit>8.649265</total_credit>
+        <expavg_credit>0.092618</expavg_credit>
+        <expavg_time>1313957702.9928</expavg_time>
+        <domain_name>CN</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>372251488.776913</p_fpops>
+        <p_iops>1663214252.62406</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9577</id>
+        <create_time>1311541068</create_time>
+        <rpc_seqno>30</rpc_seqno>
+        <host_cpid>9599ca7390ed9b4eef82e879308aade0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311541068</expavg_time>
+        <domain_name>BB</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3000+ [Family 15 Model 47 Stepping 2]</p_model>
+        <p_fpops>1786572438.16254</p_fpops>
+        <p_iops>3224360481.04025</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

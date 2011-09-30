@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1541</id>
+    <cpid>ff8e7f86f6d78c515adeeb6ab59cdb45</cpid>
+    <create_time>1267992047</create_time>
+    <name>Hoshione</name>
+    <country>Germany</country>
+    <total_credit>436.602194</total_credit>
+    <expavg_credit>0.07997</expavg_credit>
+    <expavg_time>1295123103.11433</expavg_time>
+    <teamid>6</teamid>
+    <url>www.seti-germany.de</url>
+    <has_profile>1</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>3712</id>
+        <create_time>1272651944</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>389fa37824ce4f6f532a293cc988b0f1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272651944</expavg_time>
+        <domain_name>SurveyorA</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) 4     CPU 2.66GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>728652692.845838</p_fpops>
+        <p_iops>1395647896.37264</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>4185</id>
+        <create_time>1276110678</create_time>
+        <rpc_seqno>140</rpc_seqno>
+        <host_cpid>b839faa6d9fd4d2147cd14686d5e7197</host_cpid>
+        <total_credit>388.418437</total_credit>
+        <expavg_credit>0.051549</expavg_credit>
+        <expavg_time>1283457603.2075</expavg_time>
+        <domain_name>hoshi-home</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1592760180.99548</p_fpops>
+        <p_iops>3084865965.17083</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6531</id>
+        <create_time>1290713829</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>2a14db631c8931adb3027482efc7d01e</host_cpid>
+        <total_credit>48.183757</total_credit>
+        <expavg_credit>0.087711</expavg_credit>
+        <expavg_time>1295123103.71725</expavg_time>
+        <domain_name>WIN7-PC</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2186661003.01156</p_fpops>
+        <p_iops>8847819882.47195</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6592</id>
+        <create_time>1291023085</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>a1ffffe1f00ed5a953934008768759ba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291023085</expavg_time>
+        <domain_name>SurveyorA</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) 4     CPU 2.66GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1373189496.31089</p_fpops>
+        <p_iops>2647356830.37324</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

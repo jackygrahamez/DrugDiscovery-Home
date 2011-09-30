@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1479</id>
+    <cpid>9f13d42dab2606848a8a65691ff54619</cpid>
+    <create_time>1267185206</create_time>
+    <name>stef71000</name>
+    <country>France</country>
+    <total_credit>1053.908083</total_credit>
+    <expavg_credit>0.087266</expavg_credit>
+    <expavg_time>1295727902.99985</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>2683</id>
+        <create_time>1267185225</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>36a26608e747040f36b891534e1caf9f</host_cpid>
+        <total_credit>951.888584</total_credit>
+        <expavg_credit>0.062957</expavg_credit>
+        <expavg_time>1273896003.1347</expavg_time>
+        <domain_name>stephane</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2597031712.37891</p_fpops>
+        <p_iops>8306050840.59756</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-19-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3258</id>
+        <create_time>1270135350</create_time>
+        <rpc_seqno>139</rpc_seqno>
+        <host_cpid>9c36f967c6e8a73b344d1e581ce0c60d</host_cpid>
+        <total_credit>102.019499</total_credit>
+        <expavg_credit>0.087226</expavg_credit>
+        <expavg_time>1295727903.30177</expavg_time>
+        <domain_name>stephane</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2276176599.28691</p_fpops>
+        <p_iops>6977270554.47195</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9485</id>
+        <create_time>1310477788</create_time>
+        <rpc_seqno>41</rpc_seqno>
+        <host_cpid>743ef0d0dff5bbff160c6c4e8649dc30</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310477788</expavg_time>
+        <domain_name>stephane-1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2365873037.10538</p_fpops>
+        <p_iops>7277376785.72445</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

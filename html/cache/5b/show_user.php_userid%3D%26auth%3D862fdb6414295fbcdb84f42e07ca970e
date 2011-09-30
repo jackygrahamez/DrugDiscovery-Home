@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2087</id>
+    <cpid>872c0bd34a54c96480a5b067feca9675</cpid>
+    <create_time>1274960716</create_time>
+    <name>korni</name>
+    <country>Poland</country>
+    <total_credit>224.4624727815</total_credit>
+    <expavg_credit>0.0024725186258445</expavg_credit>
+    <expavg_time>1314641987</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4027</id>
+        <create_time>1274961398</create_time>
+        <rpc_seqno>522</rpc_seqno>
+        <host_cpid>053ab6bc64904131649305caa73b4907</host_cpid>
+        <total_credit>215.6738237815</total_credit>
+        <expavg_credit>0.00011097439820969</expavg_credit>
+        <expavg_time>1314641987</expavg_time>
+        <domain_name>korni</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4400  @ 2.00GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1867226890.7563</p_fpops>
+        <p_iops>3887455691.02038</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9262</id>
+        <create_time>1308376503</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>7101329c0d6fc16197b77aa0dedd2a27</host_cpid>
+        <total_credit>8.788649</total_credit>
+        <expavg_credit>0.067218</expavg_credit>
+        <expavg_time>1312748102.99643</expavg_time>
+        <domain_name>Komp</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4400  @ 2.00GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1857085892.43945</p_fpops>
+        <p_iops>3857051022.44936</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

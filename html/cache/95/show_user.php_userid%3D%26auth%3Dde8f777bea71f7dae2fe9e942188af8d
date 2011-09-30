@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1033</id>
+    <cpid>b0b34d95389059b23669ba6bf5042e6c</cpid>
+    <create_time>1258142264</create_time>
+    <name>CTPAHHNK</name>
+    <country>Russia</country>
+    <total_credit>7643.4884735639</total_credit>
+    <expavg_credit>0.090084</expavg_credit>
+    <expavg_time>1315851902.53665</expavg_time>
+    <teamid>4</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>1242</id>
+        <create_time>1258142491</create_time>
+        <rpc_seqno>808</rpc_seqno>
+        <host_cpid>b8a8e6df214def1e0227a964080ac687</host_cpid>
+        <total_credit>198.910554</total_credit>
+        <expavg_credit>0.069498</expavg_credit>
+        <expavg_time>1264814103.41382</expavg_time>
+        <domain_name>windowsxpsp3</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.40GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1115897435.89744</p_fpops>
+        <p_iops>2018165825.48201</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2271</id>
+        <create_time>1265925914</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>aea076153292dd0abc48470ab6dd608c</host_cpid>
+        <total_credit>7444.5779195639</total_credit>
+        <expavg_credit>0.090084</expavg_credit>
+        <expavg_time>1315851902.81849</expavg_time>
+        <domain_name>asus_p5qc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3517532467.53247</p_fpops>
+        <p_iops>11204204036.639</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4525</id>
+        <create_time>1278052460</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>9ff4485ea01ad305b9779b528a599a9f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278052460</expavg_time>
+        <domain_name>User-VAIO</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2348254967.44529</p_fpops>
+        <p_iops>8083740288.78412</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

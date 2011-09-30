@@ -1,0 +1,69 @@
+O:8:"stdClass":3:{s:10:"post_count";s:2:"17";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:3:"823";s:11:"create_time";s:10:"1253141650";s:10:"email_addr";s:22:"antonio.melro@fe.up.pt";s:4:"name";s:9:"Van Fanel";s:13:"authenticator";s:32:"1ba873184a9c4185e283ac1a9b239bf1";s:7:"country";s:8:"Portugal";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"103550.06846157";s:13:"expavg_credit";s:7:"0.06558";s:11:"expavg_time";s:16:"1289930628.71771";s:12:"global_prefs";s:2750:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1314880630</mod_time>
+    <run_on_batteries/>
+    <run_if_user_active/>
+    <idle_time_to_run>1</idle_time_to_run>
+    <leave_apps_in_memory/>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <max_cpus>2</max_cpus>
+    <disk_interval>60</disk_interval>
+    <disk_max_used_gb>10</disk_max_used_gb>
+    <disk_max_used_pct>50</disk_max_used_pct>
+    <disk_min_free_gb>1</disk_min_free_gb>
+    <vm_max_used_pct>75</vm_max_used_pct>
+    <max_bytes_sec_down>0</max_bytes_sec_down>
+    <max_bytes_sec_up>0</max_bytes_sec_up>
+    <venue name="school">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <max_cpus>2</max_cpus>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>1.0</disk_min_free_gb>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <end_hour>0</end_hour>
+        <daily_xfer_period_days>0</daily_xfer_period_days>
+        <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <suspend_cpu_usage>25.0</suspend_cpu_usage>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <work_buf_additional_days>0.0</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+    <venue name="home">
+        <run_on_batteries/>
+        <run_if_user_active/>
+        <idle_time_to_run>3</idle_time_to_run>
+        <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+        <work_buf_min_days>0</work_buf_min_days>
+        <max_cpus>2</max_cpus>
+        <disk_interval>60</disk_interval>
+        <disk_max_used_gb>10</disk_max_used_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_min_free_gb>1</disk_min_free_gb>
+        <vm_max_used_pct>75</vm_max_used_pct>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"8";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"03e15a890a9fd6d5f381cd537392cef5";s:11:"passwd_hash";s:32:"4ec942bb4165b088abd2091a7e5e3a71";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"8";s:11:"create_time";s:10:"1240319427";s:6:"userid";s:2:"19";s:4:"name";s:13:"BOINC Synergy";s:7:"name_lc";s:13:"boinc synergy";s:3:"url";s:20:"www.boincsynergy.com";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:765:"We have a <a href='http://www.boincsynergy.com/'>Fantastic Website</a>, with stacks of features including <a href="http://www.boincsynergy.com/stats/index.php">Extended Stats</a>, <a href="http://www.boincsynergy.com/forums/index.php">Forums</a>, <a href="http://www.boincsynergy.com/content/view/33/50/">Signature Images</a>, <a href="http://www.boincsynergy.com/forums/viewforum.php?f=28">Synergy Emails</a>, <a href="http://www.boincsynergy.com/forums/viewtopic.php?t=12121Articles">Synergy Toolbar</a>, FAQs, Newsletter, and much much more! People rave about our stats! They are absolutely the best anywhere!<br /><br/><br/><img src='http://www.boincsynergy.com/images/SynergySig2007.jpg'><br /><a href="http://www.boincsynergy.com/content/view/3288/190/"><br/>";s:6:"nusers";s:2:"65";s:7:"country";s:13:"International";s:12:"total_credit";s:15:"960009.29938145";s:13:"expavg_credit";s:9:"41.269496";s:11:"expavg_time";s:16:"1317295699.58044";s:7:"seti_id";s:3:"151";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

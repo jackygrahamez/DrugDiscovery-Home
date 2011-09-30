@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4136</id>
+    <cpid>166a99d892c90f0cdb4700f52911de34</cpid>
+    <create_time>1296592718</create_time>
+    <name>Alexandre FAUVEL</name>
+    <country>France</country>
+    <total_credit>82.771707</total_credit>
+    <expavg_credit>0.076766</expavg_credit>
+    <expavg_time>1314562503.47839</expavg_time>
+    <teamid>0</teamid>
+    <url>www.serveur-alex.fr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7606</id>
+        <create_time>1296652067</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>0f99d7e093edd1011024171a0d7e05ba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296652067</expavg_time>
+        <domain_name>PPCI-Alex01</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1607559055.11811</p_fpops>
+        <p_iops>3288722660.37889</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7596</id>
+        <create_time>1296611789</create_time>
+        <rpc_seqno>92</rpc_seqno>
+        <host_cpid>0a7baec302a02150488c3fd5cd41004c</host_cpid>
+        <total_credit>12.536575</total_credit>
+        <expavg_credit>0.05306</expavg_credit>
+        <expavg_time>1303071003.94314</expavg_time>
+        <domain_name>pc02-alexandre</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP Processor 3000+ [Family 15 Model 12 Stepping 0]</p_model>
+        <p_fpops>1531845841.78499</p_fpops>
+        <p_iops>2717528556.86887</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7597</id>
+        <create_time>1296613218</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>9917708286b9da1349b7d7b6bdbb5dcd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296613218</expavg_time>
+        <domain_name>Ordinateur-de-Alexandre-FAUVEL.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerMac10,1] [AltiVec]</p_model>
+        <p_fpops>779487179.48718</p_fpops>
+        <p_iops>2466515846.16309</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>7.9.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7605</id>
+        <create_time>1296651294</create_time>
+        <rpc_seqno>708</rpc_seqno>
+        <host_cpid>6135c5624ca6312a28e8de3c17bacde6</host_cpid>
+        <total_credit>10.591134</total_credit>
+        <expavg_credit>0.073539</expavg_credit>
+        <expavg_time>1302465904.2821</expavg_time>
+        <domain_name>PPCI-Alex02</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1613799027.47266</p_fpops>
+        <p_iops>3299554134.55894</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7631</id>
+        <create_time>1296926638</create_time>
+        <rpc_seqno>412</rpc_seqno>
+        <host_cpid>49a7096f6668e370bc861c3ba8184d92</host_cpid>
+        <total_credit>59.643998</total_credit>
+        <expavg_credit>0.076766</expavg_credit>
+        <expavg_time>1314562503.77815</expavg_time>
+        <domain_name>PPC-Alexandre03</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2  [Family 15 Model 72 Stepping 2]</p_model>
+        <p_fpops>1576094686.27742</p_fpops>
+        <p_iops>2819698078.43456</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

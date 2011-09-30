@@ -1,0 +1,24 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"427";s:11:"create_time";s:10:"1240406071";s:6:"userid";s:3:"442";s:4:"name";s:7:"TMAR.DE";s:7:"name_lc";s:7:"tmar.de";s:3:"url";s:11:"www.tmar.de";s:4:"type";s:1:"2";s:9:"name_html";s:0:"";s:11:"description";s:32:"Tempel Meinetsberger Architekten";s:6:"nusers";s:1:"1";s:7:"country";s:7:"Germany";s:12:"total_credit";s:10:"264.650038";s:13:"expavg_credit";s:8:"4.537189";s:11:"expavg_time";s:16:"1317220977.35595";s:7:"seti_id";s:3:"770";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"1";s:13:"nusers_active";s:1:"1";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:3:"442";s:11:"create_time";s:10:"1240406071";s:10:"email_addr";s:13:"boinc@tmar.de";s:4:"name";s:32:"Tempel Meinetsberger Architekten";s:13:"authenticator";s:32:"2994718ea5f5bed2407e1d37d65e2223";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"91052";s:12:"total_credit";s:10:"264.650038";s:13:"expavg_credit";s:8:"4.537188";s:11:"expavg_time";s:15:"1317220977.3555";s:12:"global_prefs";s:980:"<global_preferences>
+    <source_project>http://www.renderfarm.fi/</source_project>
+    <source_scheduler>http://www.renderfarm.fi/ORE_cgi/cgi</source_scheduler>
+<mod_time>1306129122</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>360</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"427";s:5:"venue";s:0:"";s:3:"url";s:7:"tmar.de";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"7249894bf62412164a01c5394cb53185";s:11:"passwd_hash";s:32:"3d00b8eead7d2dccceb47f4d4f06829f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

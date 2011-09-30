@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1262</id>
+    <cpid>2c8fce48751b37e623b100183ea549d6</cpid>
+    <create_time>1265314840</create_time>
+    <name>vkojlf</name>
+    <country>Finland</country>
+    <total_credit>14690.163299336</total_credit>
+    <expavg_credit>0.0039081262282448</expavg_credit>
+    <expavg_time>1314641983</expavg_time>
+    <teamid>756</teamid>
+    <url>jlf.fi/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2072</id>
+        <create_time>1265315074</create_time>
+        <rpc_seqno>48</rpc_seqno>
+        <host_cpid>5b474d9ddd57f2a62c39eed9dadba762</host_cpid>
+        <total_credit>77.957473</total_credit>
+        <expavg_credit>0.098067</expavg_credit>
+        <expavg_time>1269379502.69259</expavg_time>
+        <domain_name>core</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2253557046.97987</p_fpops>
+        <p_iops>4734899216.05403</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2238</id>
+        <create_time>1265791603</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>771e49738160191bc6b840e3dbb3ae2f</host_cpid>
+        <total_credit>78.10341</total_credit>
+        <expavg_credit>0.055864</expavg_credit>
+        <expavg_time>1270267203.48703</expavg_time>
+        <domain_name>burma</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1013962452.49657</p_fpops>
+        <p_iops>2671053013.36443</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-19-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2184</id>
+        <create_time>1265672085</create_time>
+        <rpc_seqno>1309</rpc_seqno>
+        <host_cpid>84393eb2af0ce8356d71a5e5f1536ad6</host_cpid>
+        <total_credit>2475.2908487156</total_credit>
+        <expavg_credit>0.080766</expavg_credit>
+        <expavg_time>1273291202.39416</expavg_time>
+        <domain_name>domu-dc.none.fi</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6000+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2438867757.2513</p_fpops>
+        <p_iops>8644245290.47169</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.26-2-xen-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2690</id>
+        <create_time>1267191423</create_time>
+        <rpc_seqno>3877</rpc_seqno>
+        <host_cpid>2e339facec6e3c32a0ba7b2b3d5f24d4</host_cpid>
+        <total_credit>12058.811567621</total_credit>
+        <expavg_credit>0.0039081262386692</expavg_credit>
+        <expavg_time>1314641983</expavg_time>
+        <domain_name>indy</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2660454618.41502</p_fpops>
+        <p_iops>9273785803.34769</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

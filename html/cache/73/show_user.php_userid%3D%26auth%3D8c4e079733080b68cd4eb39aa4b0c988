@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4576</id>
+    <cpid>2b6b91654f0c01dae309e8fcb41e5a73</cpid>
+    <create_time>1305887574</create_time>
+    <name>Mihail Kapareliotis</name>
+    <country>United States</country>
+    <total_credit>8.365989</total_credit>
+    <expavg_credit>0.076861</expavg_credit>
+    <expavg_time>1309724102.6791</expavg_time>
+    <teamid>1658</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9268</id>
+        <create_time>1308491441</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d4d16a971b35fa090437bf30785fd63d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308491441</expavg_time>
+        <domain_name>Super-Loptop</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 840  @ 1.87GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1812515208.52607</p_fpops>
+        <p_iops>3788078872.78321</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9269</id>
+        <create_time>1308491756</create_time>
+        <rpc_seqno>92</rpc_seqno>
+        <host_cpid>648f0c9b2af48c2b695bc511523d0f68</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308491756</expavg_time>
+        <domain_name>My-Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N280   @ 1.66GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>656699257.100059</p_fpops>
+        <p_iops>1347097495.39055</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9270</id>
+        <create_time>1308492047</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>d4343144dee3b43d9098befc30332f40</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308492047</expavg_time>
+        <domain_name>supercomputer</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 3.20GHz [Family 15 Model 4 Stepping 4]</p_model>
+        <p_fpops>1407950685.2925</p_fpops>
+        <p_iops>2374789839.00196</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Media Center x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9283</id>
+        <create_time>1308691725</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>e29a3585c0511e691a7085f9b27d216c</host_cpid>
+        <total_credit>8.365989</total_credit>
+        <expavg_credit>0.064053</expavg_credit>
+        <expavg_time>1310933703.01342</expavg_time>
+        <domain_name>XPS720</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2317628367.7819</p_fpops>
+        <p_iops>4689373085.67467</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Media Center x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,33 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"4903";s:11:"create_time";s:10:"1313695966";s:10:"email_addr";s:17:"sasapo87@yahoo.it";s:4:"name";s:8:"Saponara";s:13:"authenticator";s:32:"3fbe28101fa0ca1eecfedbd29d605c3f";s:7:"country";s:5:"Italy";s:11:"postal_code";s:5:"98047";s:12:"total_credit";s:9:"14.822749";s:13:"expavg_credit";s:8:"0.590943";s:11:"expavg_time";s:16:"1315687412.10463";s:12:"global_prefs";s:1427:"<global_preferences>
+    <source_project>http://boinc.umiacs.umd.edu/</source_project>
+    <source_scheduler>http://aspartate.umiacs.umd.edu/lattice_cgi/cgi</source_scheduler>
+<mod_time>1312368553</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>25</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"aba5737abd5472ed8cdf649ef5e1d333";s:11:"passwd_hash";s:32:"19a4c88fe990cdf355f7899a9ea8fb48";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"4903";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:13:{i:0;O:8:"stdClass":7:{s:12:"total_credit";s:3:"399";s:13:"expavg_credit";s:1:"3";s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"659635";s:11:"create_time";s:10:"1313158713";s:7:"country";s:5:"Italy";}i:1;O:8:"stdClass":7:{s:12:"total_credit";s:3:"511";s:13:"expavg_credit";s:2:"12";s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"427572";s:11:"create_time";s:10:"1313696165";s:7:"country";s:5:"Italy";}i:2;O:8:"stdClass":6:{s:12:"total_credit";s:3:"431";s:13:"expavg_credit";s:2:"14";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"765939";s:11:"create_time";s:10:"1313158687";}i:3;O:8:"stdClass":7:{s:12:"total_credit";s:4:"2801";s:13:"expavg_credit";s:2:"21";s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"78667";s:11:"create_time";s:10:"1312368610";s:7:"country";s:5:"Italy";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:2:"42";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Lattice Project";s:3:"url";s:28:"http://boinc.umiacs.umd.edu/";s:2:"id";s:5:"41681";s:11:"create_time";s:10:"1312368455";s:7:"country";s:5:"Italy";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:2:"93";s:13:"expavg_credit";s:1:"1";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"75089";s:11:"create_time";s:10:"1313696353";s:7:"country";s:5:"Italy";s:7:"team_id";s:3:"530";s:9:"team_name";s:11:"BOINC.Italy";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:2:"11";s:13:"expavg_credit";d:0;s:4:"name";s:10:"RALPH@Home";s:3:"url";s:26:"http://ralph.bakerlab.org/";s:2:"id";s:5:"17075";s:11:"create_time";s:10:"1313696694";s:7:"country";s:5:"Italy";s:7:"team_id";s:3:"560";s:9:"team_name";s:11:"BOINC.Italy";}i:7;O:8:"stdClass":7:{s:12:"total_credit";s:4:"1800";s:13:"expavg_credit";s:2:"49";s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"79645";s:11:"create_time";s:10:"1313158662";s:7:"country";s:5:"Italy";}i:8;O:8:"stdClass":7:{s:12:"total_credit";s:4:"1481";s:13:"expavg_credit";s:2:"39";s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"43017";s:11:"create_time";s:10:"1313158663";s:7:"country";s:5:"Italy";}i:9;O:8:"stdClass":7:{s:12:"total_credit";s:2:"14";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"4903";s:11:"create_time";s:10:"1313695966";s:7:"country";s:5:"Italy";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:3:"301";s:13:"expavg_credit";s:1:"1";s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"5080";s:11:"create_time";s:10:"1313696035";s:7:"country";s:5:"Italy";s:7:"team_id";s:3:"622";s:9:"team_name";s:11:"BOINC.Italy";}i:11;O:8:"stdClass":7:{s:12:"total_credit";s:3:"608";s:13:"expavg_credit";s:2:"14";s:4:"name";s:8:"CAS@home";s:3:"url";s:28:"http://casathome.ihep.ac.cn/";s:2:"id";s:4:"7995";s:11:"create_time";s:10:"1313695311";s:7:"country";s:5:"Italy";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:2:"96";s:13:"expavg_credit";s:1:"4";s:4:"name";s:8:"DNA@Home";s:3:"url";s:30:"http://dnahome.cs.rpi.edu/dna/";s:2:"id";s:4:"4846";s:11:"create_time";s:10:"1313695841";s:7:"country";s:5:"Italy";s:7:"team_id";s:2:"55";s:9:"team_name";s:11:"BOINC.Italy";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

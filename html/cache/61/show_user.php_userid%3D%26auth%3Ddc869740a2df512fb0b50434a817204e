@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1116</id>
+    <cpid>2bbaccd92d2dd48b23bf352b43477a49</cpid>
+    <create_time>1258481192</create_time>
+    <name>admone</name>
+    <country>Russia</country>
+    <total_credit>3719.77061</total_credit>
+    <expavg_credit>0.09391</expavg_credit>
+    <expavg_time>1295123103.13103</expavg_time>
+    <teamid>4</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1419</id>
+        <create_time>1258481275</create_time>
+        <rpc_seqno>363</rpc_seqno>
+        <host_cpid>4ce64f7dbe6fa018e0b92ada03c26592</host_cpid>
+        <total_credit>3705.242694</total_credit>
+        <expavg_credit>0.072972</expavg_credit>
+        <expavg_time>1279339802.42166</expavg_time>
+        <domain_name>admone-pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2621207991.14683</p_fpops>
+        <p_iops>4632421524.8518</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1596</id>
+        <create_time>1259488009</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>3cfa1fc0bad873b008cd5c660c027b3d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1259488009</expavg_time>
+        <domain_name>roma</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2334098081.82935</p_fpops>
+        <p_iops>4891282567.48684</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6945</id>
+        <create_time>1292742442</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>104033ca0163790a391e141159035ba0</host_cpid>
+        <total_credit>14.527916</total_credit>
+        <expavg_credit>0.073985</expavg_credit>
+        <expavg_time>1295727903.61347</expavg_time>
+        <domain_name>admone-pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2344955284.25901</p_fpops>
+        <p_iops>5845919712.38286</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

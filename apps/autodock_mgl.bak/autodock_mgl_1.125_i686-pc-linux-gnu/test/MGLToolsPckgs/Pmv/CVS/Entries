@@ -1,0 +1,71 @@
+/.packager.py/1.16/Thu Dec 18 21:53:19 2003/-kkv/
+/APBSCommands.py/1.154/Fri Apr 25 00:38:45 2008/-kkv/
+/Grid.py/1.30/Wed Aug  8 02:03:48 2007/-kkv/
+/LICENSE/1.2/Thu Jul  3 20:51:11 2008/-kkv/
+/NucleicBases.py/1.11/Tue Jul 24 17:30:38 2007/-kkv/
+/RELNOTES/1.9/Mon May 14 18:55:32 2007/-kkv/
+/Ribbon.py/1.13/Tue Jul 24 17:30:39 2007/-kkv/
+/SLCommands.py/1.31/Tue Jul 24 17:30:39 2007/-kkv/
+/__init__.py/1.40/Mon Jan 21 22:06:23 2008/-kkv/
+/_pmvrc/1.36/Fri Jun 27 23:19:19 2008/-kkv/
+/aboutCommands.py/1.4/Fri Nov 30 22:20:16 2007/-kkv/
+/amberCommands.py/1.42/Tue Dec  4 19:25:54 2007/-kkv/
+/bondsCommands.py/1.45/Thu Aug 16 21:12:13 2007/-kkv/
+/cmdlib.py/1.18/Wed Jan 26 22:22:39 2005/-kkv/
+/coarseMolSurfaceCommands.py/1.24/Mon May 12 20:00:52 2008/-kkv/
+/colorCommands.py/1.128/Fri Jun 20 20:08:08 2008/-kkv/
+/colorMap.py/1.2/Tue Jul 24 17:30:39 2007/-kkv/
+/colorPalette.py/1.9/Mon Oct 16 21:50:15 2006/-kk/
+/colorPaletteCommands.py/1.3/Thu Jun 15 00:36:23 2006/-kk/
+/computeIsovalue.py/1.6/Tue Jul 24 17:30:39 2007/-kkv/
+/controlPanelCommands.py/1.42/Tue Nov 20 23:16:48 2007/-kkv/
+/dashboard.py/1.25/Mon Oct 29 21:18:46 2007/-kkv/
+/dashboardCommands.py/1.21/Wed Jan 31 01:49:58 2007/-kkv/
+/deleteCommands.py/1.45/Mon Jun  2 23:34:33 2008/-kkv/
+/displayCommands.py/1.177/Thu Feb 14 20:52:17 2008/-kkv/
+/editCommands.py/1.117/Wed Sep 12 20:33:59 2007/-kkv/
+/extruder.py/1.31/Wed Oct  3 01:05:13 2007/-kkv/
+/extrusionCommands.py/1.40/Tue Jul 24 17:30:38 2007/-kkv/
+/fileCommands.py/1.111/Wed Apr 16 20:02:49 2008/-kkv/
+/genparserCommands.py/1.7/Mon Mar 22 19:29:39 2004/-kkv/
+/grid3DCommands.py/1.76/Fri May 16 18:26:57 2008/-kkv/
+/gridCommands.py/1.28/Tue Sep 25 22:44:24 2007/-kkv/
+/guiTools.py/1.13/Tue Jan 17 17:24:38 2006/-kkv/
+/hbondCommands.py/1.89/Wed Feb 13 19:27:00 2008/-kkv/
+/helpCommands.py/1.19/Thu Mar 27 20:02:29 2008/-kkv/
+/interactiveCommands.py/1.29/Fri Jan 26 01:37:41 2007/-kkv/
+/labelCommands.py/1.64/Tue Jul 31 00:40:04 2007/-kkv/
+/measureCommands.py/1.43/Tue Jul 24 17:30:38 2007/-kkv/
+/modlib.py/1.17/Wed Jan 19 22:50:11 2005/-kkv/
+/moleculeViewer.py/1.142/Wed Jun  4 23:24:46 2008/-kkv/
+/msmsCommands.py/1.124/Tue Apr  8 21:47:01 2008/-kkv/
+/msmsParser.py/1.9/Tue Jul 24 17:30:39 2007/-kkv/
+/mvCommand.py/1.43/Tue Jun 10 22:42:10 2008/-kkv/
+/picker.py/1.4/Fri Dec 17 19:21:23 2004/-kkv/
+/pmvPalettes.py/1.3/Tue Jun 13 22:06:16 2006/-kkv/
+/povrayCommands.py/1.4/Fri May 28 02:16:18 2004/-kkv/
+/qkollRes.py/1.1/Wed Aug  8 18:26:18 2001/-kkv/
+/qkollua.py/1.7/Mon Sep 29 18:27:36 2003/-kkv/
+/repairCommands.py/1.75/Thu Jun 19 20:59:59 2008/-kkv/
+/sdCommands.py/1.77/Fri Dec 21 21:32:36 2007/-kkv/
+/secondaryStructureCommands.py/1.94/Wed Oct  3 16:52:02 2007/-kkv/
+/selectionCommands.py/1.129/Fri Jan 25 19:57:49 2008/-kkv/
+/setangleCommands.py/1.37/Tue Jul 24 17:30:39 2007/-kkv/
+/splineCommands.py/1.51/Tue Dec  4 19:25:54 2007/-kkv/
+/stringSelectorGUI.py/1.15/Tue Jul 24 17:30:39 2007/-kkv/
+/superImposeCommands.py/1.23/Wed Nov 28 00:19:46 2007/-kkv/
+/superimposeCommandsNew.py/1.13/Fri Jun 20 18:08:05 2008/-kkv/
+/traceCommands.py/1.29/Mon Jun  2 19:56:27 2008/-kkv/
+/trajectoryCommands.py/1.13/Tue Dec  4 21:28:04 2007/-kkv/
+/updateCommands.py/1.6/Thu Jun 21 19:38:37 2007/-kkv/
+/vectfieldCommands.py/1.13/Mon Dec  3 19:17:15 2007/-kkv/
+/videoCommands.py/1.4/Wed Mar 14 21:50:12 2007/-kkv/
+/visionCommands.py/1.53/Fri Nov  9 23:11:06 2007/-kkv/
+/writeMsmsAsCommands.py/1.6/Wed Dec 27 18:27:00 2006/-kkv/
+D/Icons////
+D/Macros////
+D/Tests////
+D/VisionInterface////
+D/bin////
+D/data////
+D/doc////

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4515</id>
+    <cpid>74edc3fdc09548e2e3060c1d78ad0427</cpid>
+    <create_time>1304202916</create_time>
+    <name>curtis247</name>
+    <country>United Kingdom</country>
+    <total_credit>49.373589</total_credit>
+    <expavg_credit>0.080541</expavg_credit>
+    <expavg_time>1309119003.38797</expavg_time>
+    <teamid>150</teamid>
+    <url>www.curtis247.co.uk</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8609</id>
+        <create_time>1304203887</create_time>
+        <rpc_seqno>78</rpc_seqno>
+        <host_cpid>e9c2aade9bb1b8d85ab3766cf3f44ec3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1304203887</expavg_time>
+        <domain_name>ebuy</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E6600  @ 3.06GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2499844029.12792</p_fpops>
+        <p_iops>7482504059.85001</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-32-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8611</id>
+        <create_time>1304205431</create_time>
+        <rpc_seqno>104</rpc_seqno>
+        <host_cpid>0d7ec2d2370f0c14bfc5c95559916a29</host_cpid>
+        <total_credit>49.373589</total_credit>
+        <expavg_credit>0.080546</expavg_credit>
+        <expavg_time>1309119003.75968</expavg_time>
+        <domain_name>HP-XP</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.53GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1298256735.34073</p_fpops>
+        <p_iops>2297460262.46979</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

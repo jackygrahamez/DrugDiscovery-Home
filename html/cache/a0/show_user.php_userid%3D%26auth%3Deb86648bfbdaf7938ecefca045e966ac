@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1443</id>
+    <cpid>da0606431c17eb0660959b92c942fcd7</cpid>
+    <create_time>1266938317</create_time>
+    <name>Ricardo Magalhaes</name>
+    <country>Portugal</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1266938317</expavg_time>
+    <teamid>496</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5390</id>
+        <create_time>1284137520</create_time>
+        <rpc_seqno>168</rpc_seqno>
+        <host_cpid>2dd747f429d37de54dd3180985da50b3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284137520</expavg_time>
+        <domain_name>WEMBOM0405162</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2591630533.71652</p_fpops>
+        <p_iops>5429561087.9995</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5938</id>
+        <create_time>1287837574</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>5aedbcc8f7020ee90026f49e74c9ac46</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287837574</expavg_time>
+        <domain_name>Vicio</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2688477890.90256</p_fpops>
+        <p_iops>10230076126.8342</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

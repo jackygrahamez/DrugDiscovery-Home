@@ -1,0 +1,3 @@
+#!/bin/bash
+
+FreeON ${srcdir}/N2O.inp | ${srcdir}/../../parseTestResults.py --reference ${srcdir}/N2O.reference

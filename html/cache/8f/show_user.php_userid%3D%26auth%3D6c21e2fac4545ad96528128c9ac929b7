@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2553</id>
+    <cpid>755ffece11039e8ca9e728fcd65f8b6d</cpid>
+    <create_time>1282921701</create_time>
+    <name>hodata-hs</name>
+    <country>Germany</country>
+    <total_credit>738.516768</total_credit>
+    <expavg_credit>0.078326</expavg_credit>
+    <expavg_time>1289679902.79118</expavg_time>
+    <teamid>996</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>work</venue>
+    <host>
+        <id>5196</id>
+        <create_time>1282923157</create_time>
+        <rpc_seqno>280</rpc_seqno>
+        <host_cpid>4ffd51691e4408ba276f9ed721707966</host_cpid>
+        <total_credit>673.316878</total_credit>
+        <expavg_credit>0.073916</expavg_credit>
+        <expavg_time>1289679902.89866</expavg_time>
+        <domain_name>7HG-HODATA00</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2676034419.94421</p_fpops>
+        <p_iops>7792136425.19042</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5197</id>
+        <create_time>1282923247</create_time>
+        <rpc_seqno>230</rpc_seqno>
+        <host_cpid>7b81bbdbaabc797c8634aacbe2f77902</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282923247</expavg_time>
+        <domain_name>7HG-HODATA01</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  330   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>690008934.701755</p_fpops>
+        <p_iops>1648158662.73087</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5198</id>
+        <create_time>1282924091</create_time>
+        <rpc_seqno>85</rpc_seqno>
+        <host_cpid>55507c59eb48e0824aaae8742c0f5015</host_cpid>
+        <total_credit>65.19989</total_credit>
+        <expavg_credit>0.056623</expavg_credit>
+        <expavg_time>1287260703.37506</expavg_time>
+        <domain_name>SHG-HODATA01.hodata-hs.local</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.20GHz [Intel64 Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1270477507.44988</p_fpops>
+        <p_iops>4276483686.25543</p_iops>
+        <os_name>Microsoft Windows Server "Longhorn"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5214</id>
+        <create_time>1283012574</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>8f42e7817a2a83750a0cd0a3de712f26</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283012574</expavg_time>
+        <domain_name>7HG-HODATA05</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  330   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>699266711.067634</p_fpops>
+        <p_iops>1777968893.23412</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

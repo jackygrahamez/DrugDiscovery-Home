@@ -1,0 +1,5 @@
+topology /usr/local/NAMD_CVS_Linux-x86_64/c32b1/toppar/top_all22_prot.inp
+coordpdb /home/boincadm/projects/DrugDiscovery/tmp_vps/receptor.pdb
+guesscoord
+writepsf /home/boincadm/projects/DrugDiscovery/tmp_vps/receptor.psf
+exit

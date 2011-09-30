@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1893</id>
+    <cpid>2c28f73e933f3118cd1bef6b9b998320</cpid>
+    <create_time>1272150203</create_time>
+    <name>drtjstone</name>
+    <country>United Kingdom</country>
+    <total_credit>617.871572</total_credit>
+    <expavg_credit>0.05669</expavg_credit>
+    <expavg_time>1307909403.1104</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3605</id>
+        <create_time>1272150426</create_time>
+        <rpc_seqno>1867</rpc_seqno>
+        <host_cpid>bf6cb0c00a32f5b3a8827c4d23b1f91c</host_cpid>
+        <total_credit>582.62472</total_credit>
+        <expavg_credit>0.05669</expavg_credit>
+        <expavg_time>1307909403.52971</expavg_time>
+        <domain_name>tims-imac.freshwell-house.co.uk</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz [x86 Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3247169008.12321</p_fpops>
+        <p_iops>7640391354.71189</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.1.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3610</id>
+        <create_time>1272229294</create_time>
+        <rpc_seqno>432</rpc_seqno>
+        <host_cpid>560be06785e2233127fa34902fb4b584</host_cpid>
+        <total_credit>35.246852</total_credit>
+        <expavg_credit>0.050968</expavg_credit>
+        <expavg_time>1292703903.34452</expavg_time>
+        <domain_name>Tims-New-MacBookPro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T9600 @ 2.80GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3269478122.18916</p_fpops>
+        <p_iops>7328906848.78593</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.5.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3966</id>
+        <create_time>1274552672</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>16f9c2c93d70c66381d8cbd6c1c3edb2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274552672</expavg_time>
+        <domain_name>TimsMacbookPro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T7700 @ 2.40GHz [x86 Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>2649735454.79521</p_fpops>
+        <p_iops>6268981652.72744</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.5.0</os_version>
+        <venue></venue>
+    </host>
+</user>

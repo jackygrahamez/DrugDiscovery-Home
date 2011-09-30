@@ -1,0 +1,27 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"4916";s:11:"create_time";s:10:"1314236804";s:10:"email_addr";s:22:"shadowhunter@gmail.com";s:4:"name";s:11:"maverickbna";s:13:"authenticator";s:32:"e512a74398a6a0451da006e6b99b75e0";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"20165";s:12:"total_credit";s:9:"46.558877";s:13:"expavg_credit";s:8:"4.294191";s:11:"expavg_time";s:16:"1317227671.99971";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1314236806</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"1ec498ce1dec00d9c51d434fcbb617ba";s:11:"passwd_hash";s:32:"6e0cdca1f25dadf4acb6304b8bfb95e1";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"4916";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:9:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:5:"81501";s:13:"expavg_credit";s:3:"352";s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"1894012";s:11:"create_time";s:10:"1014839238";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"26606";s:9:"team_name";s:10:"Amazon.com";}i:1;O:8:"stdClass":7:{s:12:"total_credit";s:3:"119";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"101739";s:11:"create_time";s:10:"1124164965";s:7:"country";s:13:"United States";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12528";s:13:"expavg_credit";s:3:"393";s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:5:"86433";s:11:"create_time";s:10:"1149372674";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"2972";s:9:"team_name";s:33:"Middle Tennessee State University";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:4:"5333";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:4:"2390";s:11:"create_time";s:10:"1138357773";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"325";s:9:"team_name";s:33:"Middle Tennessee State University";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:4:"8721";s:13:"expavg_credit";s:2:"18";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"74652";s:11:"create_time";s:10:"1310333210";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"184";s:9:"team_name";s:24:"What&apos;s In Your Box?";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:5:"91632";s:13:"expavg_credit";s:3:"373";s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"42809";s:11:"create_time";s:10:"1204436792";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"103";s:9:"team_name";s:8:"SETI.USA";}i:6;O:8:"stdClass":7:{s:12:"total_credit";s:5:"20990";s:13:"expavg_credit";s:3:"804";s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"43350";s:11:"create_time";s:10:"1314236803";s:7:"country";s:13:"United States";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12817";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"24434";s:11:"create_time";s:10:"1242531188";s:7:"country";s:13:"United States";s:7:"team_id";s:3:"382";s:9:"team_name";s:3:"IBM";}i:8;O:8:"stdClass":7:{s:12:"total_credit";s:4:"6909";s:13:"expavg_credit";s:3:"206";s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"5102";s:11:"create_time";s:10:"1314236805";s:7:"country";s:13:"United States";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

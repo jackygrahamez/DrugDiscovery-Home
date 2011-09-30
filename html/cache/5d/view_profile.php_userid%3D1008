@@ -1,0 +1,44 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1008";s:11:"create_time";s:10:"1258073985";s:10:"email_addr";s:15:"jim@theflux.org";s:4:"name";s:7:"theflux";s:13:"authenticator";s:32:"978f2f14b058b15e1deab100f6384856";s:7:"country";s:13:"United States";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"37.599281036976";s:13:"expavg_credit";s:8:"0.085678";s:11:"expavg_time";s:16:"1262006702.90711";s:12:"global_prefs";s:1186:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1238965319</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:161:"<project_preferences>
+<resource_share>10000</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"5";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"11400b1bdb685efeff3e727c7c30f20f";s:11:"passwd_hash";s:32:"09f466a653c28cfc7bb852f49af9a49f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"5";s:11:"create_time";s:10:"1240319405";s:6:"userid";s:2:"16";s:4:"name";s:8:"SETI.USA";s:7:"name_lc";s:8:"seti.usa";s:3:"url";s:15:"www.setiusa.net";s:4:"type";s:1:"1";s:9:"name_html";s:50:"<img SRC='http://www.setiusa.net/images/logo.png'>";s:11:"description";s:1850:"<b>Welcome to Team SETI.USA!</b><br><br>
+<b>Our Motto</b>:<i>Together we will accomplish something amazing!</i><br><br>
+On March 24, 2005 Team SETI.USA was created to consolidate United States users and become the #1 SETI Team in the world.<br><br>This goal was achieved within 24 months of inception thanks to the extraordinary efforts of our dedicated membership.<br><br>To parlay that effort, and for the benefit of all BOINC distributed computing projects, Team SETI.USA’s commitment to extend beyond a single project has begun.<br><br><b> SETI.USA is now BOINCing the world!</b> Join with us as we boldly go where no team has gone before!<br><br>
+
+Be sure to visit <a title="SETI.USA Homepage" href="http://www.setiusa.net">setiusa.net</a> and join our community! You'll find team news and team graphics. If you need help setting up BOINC or joining our team, we have a friendly, active <a title="SETI.USA Message board" href="http://setiusa.net/forums/">Message Board</a> where our members are waiting to help.<br><br>
+
+Also, join us in our weekly evening of <a title="SETI.USA IRC Chat" href="http://setiusa.net/chat.html">chat!</a> Every Monday night at 8 PM CST.<br>(server/channel info: irc.icq.net #team_seti.usa)
+<br><br>
+<a title="SETI.USA follow us on twitter" href="http://twitter.com/setiusa"><img title="SETI.USA follow us on twitter" src="http://www.mpits.net/twitter_aqu_32.png" alt="Twitter">Twitter</a><br><a title="SETI.USA Facebook" href="http://www.facebook.com/group.php?gid=39475935417"><img title="SETI.USA Facebook" src="http://www.mpits.net/facebook_aqu_32.png" alt="Facebook">Facebook</a>
+<br><br>
+<a title="SETI.USA Stats" href="http://de.boincstats.com/stats/boinc_team_graph.php?pr=bo&id=15755"><img title="SETI.USA Stats" src="http://www.boincstats.com/signature/team_15755_project-1.gif" alt="Stats"></a";s:6:"nusers";s:2:"51";s:7:"country";s:13:"United States";s:12:"total_credit";s:15:"1035140.6791074";s:13:"expavg_credit";s:10:"108.380091";s:11:"expavg_time";s:16:"1317322754.39776";s:7:"seti_id";s:3:"147";s:9:"ping_user";s:4:"2457";s:9:"ping_time";s:10:"1317296302";s:8:"joinable";s:1:"1";}}

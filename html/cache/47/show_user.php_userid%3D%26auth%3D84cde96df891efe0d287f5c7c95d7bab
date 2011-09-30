@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1470</id>
+    <cpid>fb3c0191d7ea92374fd2bbc2cc4bf4d0</cpid>
+    <create_time>1267114149</create_time>
+    <name>limARQ</name>
+    <country>Portugal</country>
+    <total_credit>6026.592702</total_credit>
+    <expavg_credit>0.045968</expavg_credit>
+    <expavg_time>1304885403.51541</expavg_time>
+    <teamid>794</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2663</id>
+        <create_time>1267149112</create_time>
+        <rpc_seqno>66</rpc_seqno>
+        <host_cpid>507d19b29aade4f939af4903dba6ed77</host_cpid>
+        <total_credit>4705.117448</total_credit>
+        <expavg_credit>0.082487</expavg_credit>
+        <expavg_time>1304178467.95283</expavg_time>
+        <domain_name>ArmandoLima-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2446004830.84456</p_fpops>
+        <p_iops>4965828548.10905</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2664</id>
+        <create_time>1267154422</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>19345aed4ab406566ed12c4d33c23d0b</host_cpid>
+        <total_credit>25.387969</total_credit>
+        <expavg_credit>0.081298</expavg_credit>
+        <expavg_time>1270267203.5292</expavg_time>
+        <domain_name>PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2113584927.20625</p_fpops>
+        <p_iops>4750199399.83529</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2717</id>
+        <create_time>1267222211</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>5d4340591e6663e119846628c72ffb01</host_cpid>
+        <total_credit>19.32923</total_credit>
+        <expavg_credit>0.08337</expavg_credit>
+        <expavg_time>1270267203.53246</expavg_time>
+        <domain_name>limARQ.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3260777957.03918</p_fpops>
+        <p_iops>11648182580.2277</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.2.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5931</id>
+        <create_time>1287791493</create_time>
+        <rpc_seqno>1197</rpc_seqno>
+        <host_cpid>899c117d4b03fbdffcf667592bad3596</host_cpid>
+        <total_credit>1276.758055</total_credit>
+        <expavg_credit>0.075358</expavg_credit>
+        <expavg_time>1298837104.08438</expavg_time>
+        <domain_name>Windows</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8800  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1624777226.49816</p_fpops>
+        <p_iops>3342012801.5557</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

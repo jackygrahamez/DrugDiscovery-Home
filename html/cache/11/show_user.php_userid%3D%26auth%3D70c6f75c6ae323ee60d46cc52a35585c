@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1505</id>
+    <cpid>d2ba1846426099335fd80b6014e92fb9</cpid>
+    <create_time>1267540924</create_time>
+    <name>Lord Canis</name>
+    <country>Switzerland</country>
+    <total_credit>10991.2664385647</total_credit>
+    <expavg_credit>0.060614</expavg_credit>
+    <expavg_time>1294719480.05256</expavg_time>
+    <teamid>86</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2788</id>
+        <create_time>1267541416</create_time>
+        <rpc_seqno>616</rpc_seqno>
+        <host_cpid>e067566db60dd436a09a0964096a690b</host_cpid>
+        <total_credit>5992.14867</total_credit>
+        <expavg_credit>0.05431</expavg_credit>
+        <expavg_time>1284667204.07295</expavg_time>
+        <domain_name>test-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2575975244.16456</p_fpops>
+        <p_iops>5028881752.92406</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2789</id>
+        <create_time>1267541744</create_time>
+        <rpc_seqno>353</rpc_seqno>
+        <host_cpid>c2badf8e77ff3f8598d07b96bc9aafd2</host_cpid>
+        <total_credit>4992.0656345647</total_credit>
+        <expavg_credit>0.068255</expavg_credit>
+        <expavg_time>1280549403.07581</expavg_time>
+        <domain_name>HP30068227601</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1808262363.81411</p_fpops>
+        <p_iops>3711300351.15602</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7170</id>
+        <create_time>1294127224</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>be2667abb56f766026bec7d0777df00d</host_cpid>
+        <total_credit>7.052134</total_credit>
+        <expavg_credit>0.072376</expavg_credit>
+        <expavg_time>1296417903.24067</expavg_time>
+        <domain_name>laptop-507dd6f0</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5600  @ 1.83GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1752091254.75285</p_fpops>
+        <p_iops>3665866761.34691</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9878</id>
+        <create_time>1314190045</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>37ab224dee04cbb698c7b9c0bef38917</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314190045</expavg_time>
+        <domain_name>Vreni</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.70GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>873271028.037383</p_fpops>
+        <p_iops>1669626972.79167</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

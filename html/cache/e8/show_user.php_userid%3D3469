@@ -1,0 +1,56 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"3469";s:11:"create_time";s:10:"1291421998";s:10:"email_addr";s:17:"sivunu@rambler.ru";s:4:"name";s:8:"Юрий";s:13:"authenticator";s:32:"1fb2a9844a311258eb0e9166740ada2e";s:7:"country";s:6:"Russia";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"202.668253";s:13:"expavg_credit";s:8:"0.072729";s:11:"expavg_time";s:16:"1296417902.65705";s:12:"global_prefs";s:2167:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1291646139</mod_time>
+    <idle_time_to_run>15.0</idle_time_to_run>
+    <start_hour>22</start_hour>
+    <end_hour>8</end_hour>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <confirm_before_connecting/>
+    <work_buf_min_days>0.1</work_buf_min_days>
+    <max_cpus>16</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>2.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>5.0</disk_min_free_gb>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>70.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <suspend_cpu_usage>25.0</suspend_cpu_usage>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <work_buf_additional_days>0.0</work_buf_additional_days>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <venue name="home">
+        <idle_time_to_run>15</idle_time_to_run>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed/>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <max_cpus>16</max_cpus>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_interval>60</disk_interval>
+        <disk_max_used_gb>100</disk_max_used_gb>
+        <disk_max_used_pct>50</disk_max_used_pct>
+        <disk_min_free_gb>0.001</disk_min_free_gb>
+        <vm_max_used_pct>75</vm_max_used_pct>
+        <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>70</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:197:"<project_preferences>
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"32eae725a679a074353e3e3c59b3722c";s:11:"passwd_hash";s:32:"42bc3c9a539f3cb5f9adda146e47ce42";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"3469";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:15:{i:0;O:8:"stdClass":7:{s:12:"total_credit";s:5:"10741";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"494825";s:11:"create_time";s:10:"1267628567";s:7:"country";s:6:"Russia";}i:1;O:8:"stdClass":7:{s:12:"total_credit";s:4:"1951";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"328424";s:11:"create_time";s:10:"1248909280";s:7:"country";s:6:"Russia";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:6:"162747";s:13:"expavg_credit";s:1:"4";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"639785";s:11:"create_time";s:10:"1253650010";s:7:"country";s:18:"Russian Federation";s:7:"team_id";s:2:"99";s:9:"team_name";s:6:"Russia";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"13234";s:13:"expavg_credit";s:1:"1";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"61242";s:11:"create_time";s:10:"1256555584";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"54";s:9:"team_name";s:6:"Russia";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:4:"2649";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"66439";s:11:"create_time";s:10:"1253655985";s:7:"country";s:13:"International";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12464";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"75178";s:11:"create_time";s:10:"1277588262";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"58";s:9:"team_name";s:6:"Russia";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"59861";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"16375";s:11:"create_time";s:10:"1248950920";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"67";s:9:"team_name";s:6:"Russia";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"215916";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Gerasim@Home";s:3:"url";s:24:"http://gerasim.boinc.ru/";s:2:"id";s:4:"1215";s:11:"create_time";s:10:"1279625310";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"102";s:9:"team_name";s:6:"Russia";}i:8;O:8:"stdClass":7:{s:12:"total_credit";s:4:"4020";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:5:"28444";s:11:"create_time";s:10:"1283378558";s:7:"country";s:6:"Russia";}i:9;O:8:"stdClass":7:{s:12:"total_credit";s:2:"61";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"29080";s:11:"create_time";s:10:"1276077124";s:7:"country";s:6:"Russia";}i:10;O:8:"stdClass":7:{s:12:"total_credit";s:3:"213";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:5:"84975";s:11:"create_time";s:10:"1265881341";s:7:"country";s:13:"International";}i:11;O:8:"stdClass":7:{s:12:"total_credit";s:4:"1916";s:13:"expavg_credit";d:0;s:4:"name";s:9:"IBERCIVIS";s:3:"url";s:29:"http://registro.ibercivis.es/";s:2:"id";s:5:"49577";s:11:"create_time";s:10:"1256555719";s:7:"country";s:13:"International";}i:12;O:8:"stdClass":8:{s:12:"total_credit";s:5:"70679";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"55810";s:11:"create_time";s:10:"1264458802";s:7:"team_id";s:3:"231";s:9:"team_name";s:6:"Russia";}i:13;O:8:"stdClass":7:{s:12:"total_credit";s:3:"202";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"3469";s:11:"create_time";s:10:"1291421998";s:7:"country";s:6:"Russia";}i:14;O:8:"stdClass":6:{s:12:"total_credit";s:4:"6842";s:13:"expavg_credit";s:2:"75";s:4:"name";s:11:"Test4Theory";s:3:"url";s:35:"http://boinc01.cern.ch/test4theory/";s:2:"id";s:4:"2512";s:11:"create_time";s:10:"1312898014";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

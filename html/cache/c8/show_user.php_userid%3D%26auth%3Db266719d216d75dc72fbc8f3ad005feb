@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3582</id>
+    <cpid>fdc11b60cd31f3a5fd1afebc4e86ab1d</cpid>
+    <create_time>1293390079</create_time>
+    <name>B Johansson</name>
+    <country>Sweden</country>
+    <total_credit>403.386005</total_credit>
+    <expavg_credit>0.079826</expavg_credit>
+    <expavg_time>1300046703.23981</expavg_time>
+    <teamid>1739</teamid>
+    <url>www.boincbohus.se/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7056</id>
+        <create_time>1293390488</create_time>
+        <rpc_seqno>175</rpc_seqno>
+        <host_cpid>8836d8a01fba4b61a954e6333ffc2056</host_cpid>
+        <total_credit>271.825978</total_credit>
+        <expavg_credit>0.07907</expavg_credit>
+        <expavg_time>1299441904.89437</expavg_time>
+        <domain_name>Acer</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1035T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2612525155.77138</p_fpops>
+        <p_iops>7574141299.10481</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7058</id>
+        <create_time>1293391584</create_time>
+        <rpc_seqno>118</rpc_seqno>
+        <host_cpid>30b74b6e8229cddb70578bcefb442bcf</host_cpid>
+        <total_credit>14.020643</total_credit>
+        <expavg_credit>0.075078</expavg_credit>
+        <expavg_time>1298837104.08425</expavg_time>
+        <domain_name>compaq</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) M100 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1578812291.56413</p_fpops>
+        <p_iops>4772759148.39072</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7059</id>
+        <create_time>1293391595</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>13823d9fcce7e000d6dea7a5c5742b2b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293391595</expavg_time>
+        <domain_name>TobiasJohansson</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2643904571.62873</p_fpops>
+        <p_iops>9762131388.78769</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7061</id>
+        <create_time>1293393462</create_time>
+        <rpc_seqno>104</rpc_seqno>
+        <host_cpid>69a8a62d77d7ab2f86fc0fcdfa11856b</host_cpid>
+        <total_credit>117.539384</total_credit>
+        <expavg_credit>0.056965</expavg_credit>
+        <expavg_time>1298232302.89895</expavg_time>
+        <domain_name>bengt-ake-desktop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>1813156054.783</p_fpops>
+        <p_iops>9334627048.29885</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-24-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7320</id>
+        <create_time>1294885461</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>7d27f70a1409ba39e088db8cf415b647</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294885461</expavg_time>
+        <domain_name>kallare</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 3800+ [Family 15 Model 35 Stepping 2]</p_model>
+        <p_fpops>1609248683.70703</p_fpops>
+        <p_iops>8177935771.65265</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

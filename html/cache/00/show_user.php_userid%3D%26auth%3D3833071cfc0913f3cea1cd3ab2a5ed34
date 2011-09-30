@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2845</id>
+    <cpid>5a5b7faa2a7c38a431ed90e09cd617da</cpid>
+    <create_time>1287630656</create_time>
+    <name>Zann</name>
+    <country>Denmark</country>
+    <total_credit>1793.184084</total_credit>
+    <expavg_credit>0.066257</expavg_credit>
+    <expavg_time>1309724102.65939</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5896</id>
+        <create_time>1287630718</create_time>
+        <rpc_seqno>264</rpc_seqno>
+        <host_cpid>4ba9ae7a014b7196c18ae85ab24cfd81</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287630718</expavg_time>
+        <domain_name>gensrv</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2500+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>2030715014.7567</p_fpops>
+        <p_iops>3376626891.36438</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34-gentoo-r12</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5912</id>
+        <create_time>1287716903</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>32fb04472f1061d4d2447d1abe80d659</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287716903</expavg_time>
+        <domain_name>Heine-Pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2636435008.12612</p_fpops>
+        <p_iops>4913391215.32748</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5923</id>
+        <create_time>1287735329</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>522c6b3ae8ade5a7a21a6717ad2e613e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287735329</expavg_time>
+        <domain_name>pc102498</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2743312689.63809</p_fpops>
+        <p_iops>5789533542.714</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6257</id>
+        <create_time>1289603263</create_time>
+        <rpc_seqno>1442</rpc_seqno>
+        <host_cpid>d689fef832605e88a82570437b6b8673</host_cpid>
+        <total_credit>1793.184084</total_credit>
+        <expavg_credit>0.066257</expavg_credit>
+        <expavg_time>1309724102.84297</expavg_time>
+        <domain_name>Heine-Pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2759993437.307</p_fpops>
+        <p_iops>5383816298.25811</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

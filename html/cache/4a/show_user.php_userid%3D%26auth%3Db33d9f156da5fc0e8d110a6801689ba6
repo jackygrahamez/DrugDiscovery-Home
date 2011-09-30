@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1119</id>
+    <cpid>b40b3b1cd94f97874f5d0015776b03cf</cpid>
+    <create_time>1258513487</create_time>
+    <name>[B^S] fred</name>
+    <country>United States</country>
+    <total_credit>4413.831830543</total_credit>
+    <expavg_credit>0.052149</expavg_credit>
+    <expavg_time>1312748102.62484</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1425</id>
+        <create_time>1258514847</create_time>
+        <rpc_seqno>153</rpc_seqno>
+        <host_cpid>56a1943b1f9b10600b910c5b81360f5b</host_cpid>
+        <total_credit>1294.155849</total_credit>
+        <expavg_credit>0.063398</expavg_credit>
+        <expavg_time>1270267203.45788</expavg_time>
+        <domain_name>fred-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1789184363.29959</p_fpops>
+        <p_iops>3688997043.61366</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2225</id>
+        <create_time>1265702535</create_time>
+        <rpc_seqno>1089</rpc_seqno>
+        <host_cpid>434fbe219e5761d1e3bd998d909bc429</host_cpid>
+        <total_credit>3119.67598154301</total_credit>
+        <expavg_credit>0.052149</expavg_credit>
+        <expavg_time>1312748102.89808</expavg_time>
+        <domain_name>fred-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1808154362.82411</p_fpops>
+        <p_iops>3444451177.71349</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

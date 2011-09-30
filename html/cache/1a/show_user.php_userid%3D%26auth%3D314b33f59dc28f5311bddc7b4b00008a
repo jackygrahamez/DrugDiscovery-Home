@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4900</id>
+    <cpid>e91aa2c812f572d279fec4588d8cf068</cpid>
+    <create_time>1313641549</create_time>
+    <name>M_I_K</name>
+    <country>International</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1313641549</expavg_time>
+    <teamid>921</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9820</id>
+        <create_time>1313666366</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>37a16123a7bc2f070002fd1f6f3f2685</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313666366</expavg_time>
+        <domain_name>HOST119</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) CPU G620 @ 2.60GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2586410140.84127</p_fpops>
+        <p_iops>8238057023.67749</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9821</id>
+        <create_time>1313669676</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>4582263f66bdec7a5fca928994bf7567</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313669676</expavg_time>
+        <domain_name>fm1dc</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.66GHz [Family 15 Model 4 Stepping 9]</p_model>
+        <p_fpops>1195471698.11321</p_fpops>
+        <p_iops>3649774611.49427</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

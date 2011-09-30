@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3622</id>
+    <cpid>0134c8cf1ba26552d6054afa94b4ab65</cpid>
+    <create_time>1294070288</create_time>
+    <name>browren</name>
+    <country>United States</country>
+    <total_credit>180.356806</total_credit>
+    <expavg_credit>1.02274</expavg_credit>
+    <expavg_time>1315682345.16566</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7163</id>
+        <create_time>1294075404</create_time>
+        <rpc_seqno>366</rpc_seqno>
+        <host_cpid>1ac47b169197b3a7566095911bdb1710</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294075404</expavg_time>
+        <domain_name>ustr-romerbm-virthost</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2147796934.8659</p_fpops>
+        <p_iops>12123868144.6828</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7161</id>
+        <create_time>1294071199</create_time>
+        <rpc_seqno>26</rpc_seqno>
+        <host_cpid>26f5b0e09b895efaecafb4397ac92ceb</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294071199</expavg_time>
+        <domain_name>ustr-romerbm-svr</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1114328858.95782</p_fpops>
+        <p_iops>3387738930.36569</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7886</id>
+        <create_time>1298643331</create_time>
+        <rpc_seqno>238</rpc_seqno>
+        <host_cpid>7307072e66025236aab870833351fbb4</host_cpid>
+        <total_credit>78.000428</total_credit>
+        <expavg_credit>0.096816</expavg_credit>
+        <expavg_time>1306699803.75099</expavg_time>
+        <domain_name>fang</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 330  @ 2.13GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2149901380.67061</p_fpops>
+        <p_iops>12384746727.3762</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8514</id>
+        <create_time>1303480038</create_time>
+        <rpc_seqno>279</rpc_seqno>
+        <host_cpid>a081bd8a17445a83b01858ed582d4db7</host_cpid>
+        <total_credit>42.570553</total_credit>
+        <expavg_credit>0.628423</expavg_credit>
+        <expavg_time>1315682345.16593</expavg_time>
+        <domain_name>ustr-romerbm</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2124561307.91291</p_fpops>
+        <p_iops>12289811146.3172</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8615</id>
+        <create_time>1304220089</create_time>
+        <rpc_seqno>515</rpc_seqno>
+        <host_cpid>511fb975854adea0d000d2be1afbb944</host_cpid>
+        <total_credit>59.785825</total_credit>
+        <expavg_credit>0.066729</expavg_credit>
+        <expavg_time>1315851902.72189</expavg_time>
+        <domain_name>fang</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 330  @ 2.13GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2195977067.22261</p_fpops>
+        <p_iops>11742089511.24</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

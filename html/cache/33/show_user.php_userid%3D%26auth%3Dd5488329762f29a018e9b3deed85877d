@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4884</id>
+    <cpid>39938cc958efb96c0e5c4ab3f9567120</cpid>
+    <create_time>1313243605</create_time>
+    <name>mvaessen</name>
+    <country>Netherlands</country>
+    <total_credit>6.360756</total_credit>
+    <expavg_credit>0.078941</expavg_credit>
+    <expavg_time>1315851902.50408</expavg_time>
+    <teamid>0</teamid>
+    <url>uniqart.nl</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9765</id>
+        <create_time>1313245536</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>2ea232755c70d91acf9d2c85c4486063</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313245536</expavg_time>
+        <domain_name>server1.artificialdimension.net</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.06GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>629096261.260511</p_fpops>
+        <p_iops>789364840.775648</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.18-238.12.1.el5PAE</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9766</id>
+        <create_time>1313252536</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>c6302e416d9fcf0381bea51510d42870</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313252536</expavg_time>
+        <domain_name>Mac-mini-van-artificial-dimension.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2840322327.59244</p_fpops>
+        <p_iops>6456996432.03095</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.0.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9767</id>
+        <create_time>1313253425</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>a75a63abd208872ccc5524f0eb32a00c</host_cpid>
+        <total_credit>6.360756</total_credit>
+        <expavg_credit>0.079272</expavg_credit>
+        <expavg_time>1315851902.78203</expavg_time>
+        <domain_name>artificial-dimension.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7350 @ 2.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2371654621.7171</p_fpops>
+        <p_iops>4998759262.12461</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.0.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9768</id>
+        <create_time>1313254052</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>0c2050826c6cba5efc2d399fa9e7a3f5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313254052</expavg_time>
+        <domain_name>artiserver</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.60GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>842980935.875217</p_fpops>
+        <p_iops>1610347063.71131</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

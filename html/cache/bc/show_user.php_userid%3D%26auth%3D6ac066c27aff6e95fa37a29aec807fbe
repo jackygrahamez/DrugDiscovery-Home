@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4844</id>
+    <cpid>3365f3593e7950b2f472cb36ee527649</cpid>
+    <create_time>1312326505</create_time>
+    <name>James Butler</name>
+    <country>United Kingdom</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1312326505</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9662</id>
+        <create_time>1312328327</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>422752e95d10d1b8f479329a5abec3ec</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1312328327</expavg_time>
+        <domain_name>James-TOSH</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4300  @ 2.10GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2111802698.23233</p_fpops>
+        <p_iops>4245395358.04299</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10067</id>
+        <create_time>1315752188</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>637dfb1b97950ac77a29e97b7b0f4029</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315752188</expavg_time>
+        <domain_name>James-PC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) Processor LE-1620 [Family 15 Model 95 Stepping 3]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

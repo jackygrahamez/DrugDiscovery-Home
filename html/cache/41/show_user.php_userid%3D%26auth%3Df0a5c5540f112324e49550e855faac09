@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>738</id>
+    <cpid>a46cd1de28a3d11ef67b7a5d4e407ec0</cpid>
+    <create_time>1251305108</create_time>
+    <name>Fab36-Folding-Division</name>
+    <country>Germany</country>
+    <total_credit>2152.7381992762</total_credit>
+    <expavg_credit>0.07734</expavg_credit>
+    <expavg_time>1263329703.2149</expavg_time>
+    <teamid>566</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>556</id>
+        <create_time>1251833411</create_time>
+        <rpc_seqno>81</rpc_seqno>
+        <host_cpid>2b6dd892dbaa019f5939eb958f4784a1</host_cpid>
+        <total_credit>1960.9909101191</total_credit>
+        <expavg_credit>0.071578</expavg_credit>
+        <expavg_time>1263329703.30464</expavg_time>
+        <domain_name>Kunze</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 810 Processor [AMD64 Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2154944283.04772</p_fpops>
+        <p_iops>6633430246.94217</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>656</id>
+        <create_time>1252001935</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>fc48c156095b65ccdfca3f9a287158e9</host_cpid>
+        <total_credit>11.090083953492</total_credit>
+        <expavg_credit>0.088572</expavg_credit>
+        <expavg_time>1258564502.55129</expavg_time>
+        <domain_name>kunze</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [x86 Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>2183488168.27344</p_fpops>
+        <p_iops>4037346291.07231</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>678</id>
+        <create_time>1252143266</create_time>
+        <rpc_seqno>161</rpc_seqno>
+        <host_cpid>484926ecfa9d56cb3368dc0343f2b16e</host_cpid>
+        <total_credit>180.65543915271</total_credit>
+        <expavg_credit>0.079897</expavg_credit>
+        <expavg_time>1260499802.78092</expavg_time>
+        <domain_name>sevenofnine</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1431165429.94326</p_fpops>
+        <p_iops>2519966392.93167</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1007</id>
+        <create_time>1256496064</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>edc13449a866ef4874d32c8a2041bdd3</host_cpid>
+        <total_credit>0.0017660508507681</total_credit>
+        <expavg_credit>8.1319932190357e-05</expavg_credit>
+        <expavg_time>1258059857</expavg_time>
+        <domain_name>Kunze</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 810 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2148587766.52711</p_fpops>
+        <p_iops>6691496192.08652</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1016</id>
+        <create_time>1256580707</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>93bb5862569661b3faf7138025d932d0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1256580707</expavg_time>
+        <domain_name>Kunze</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [AMD64 Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>2022198013.35057</p_fpops>
+        <p_iops>4756100532.48117</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

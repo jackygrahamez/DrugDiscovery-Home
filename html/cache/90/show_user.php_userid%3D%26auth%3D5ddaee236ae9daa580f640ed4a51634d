@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4896</id>
+    <cpid>0697faa5e5586b202948cfebb38da4e9</cpid>
+    <create_time>1313488515</create_time>
+    <name>Toposam</name>
+    <country>Spain</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1313488515</expavg_time>
+    <teamid>1704</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9847</id>
+        <create_time>1313844695</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>bf7e44af24d41c7ad7084a8fe2d25b3f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313844695</expavg_time>
+        <domain_name>Hal-9000</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2260785743.53565</p_fpops>
+        <p_iops>6946166704.52866</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9803</id>
+        <create_time>1313490613</create_time>
+        <rpc_seqno>16</rpc_seqno>
+        <host_cpid>e855edea92a10ed99349a0008bea66e5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313490613</expavg_time>
+        <domain_name>Hal-9000</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2266442240.22129</p_fpops>
+        <p_iops>6993940052.28773</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9804</id>
+        <create_time>1313490807</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>983890be131a90ef97109b6d28739523</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313490807</expavg_time>
+        <domain_name>ChocolateSexi</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm)   2800+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1862910798.12207</p_fpops>
+        <p_iops>3234737501.39689</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

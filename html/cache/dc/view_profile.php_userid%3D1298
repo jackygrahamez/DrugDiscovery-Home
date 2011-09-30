@@ -1,0 +1,76 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1298";s:11:"create_time";s:10:"1265659483";s:10:"email_addr";s:27:"rolf.niederhaus@kielnet.net";s:4:"name";s:13:"[P3D]-ATARolf";s:13:"authenticator";s:32:"256151be838c6169d95b2ec01d91335b";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"24147";s:12:"total_credit";s:11:"3804.311476";s:13:"expavg_credit";s:8:"0.060078";s:11:"expavg_time";s:16:"1280549402.77809";s:12:"global_prefs";s:2334:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1269887807</mod_time>
+    <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>10.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.5</disk_min_free_gb>
+    <end_hour>0</end_hour>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <run_if_user_active/>
+    <start_hour>0</start_hour>
+    <cpu_usage_limit>60.0</cpu_usage_limit>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>0.3</work_buf_additional_days>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.5</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <leave_apps_in_memory/>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>16</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <work_buf_min_days>0.2</work_buf_min_days>
+        <work_buf_additional_days>0.3</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:119:"<project_preferences>
+
+
+<resource_share>25</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"566";s:5:"venue";s:0:"";s:3:"url";s:12:"gva-kiel.de/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"fc4b210c1f8f9313ea2186200f4bf27b";s:11:"passwd_hash";s:32:"c3aea7f3f99044cc009fedb0875b59b0";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"566";s:11:"create_time";s:10:"1251305198";s:6:"userid";s:3:"738";s:4:"name";s:13:"Planet 3DNow!";s:7:"name_lc";s:13:"planet 3dnow!";s:3:"url";s:18:"www.planet3dnow.de";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:2869:"<p>Von seinen Mitgliedern nur liebevoll „der Grüne Planet“ genannt, gehört das Distributed-Computing-Team der Hardware-Community Planet 3DNow! zu den größten weltweit und leistet damit einen maßgeblichen Beitrag zur Förderung wissenschaftlicher Arbeit durch unentgeltliche Bereitstellung von Rechenleistung im Sinne der Allgemeinheit.</p>
+
+<p>Wir fördern Projekte im medizinischen und bioinformatischen Bereich, Quantenchemie und Nanotechnik, bis hin zur Astrophysik und Mathematik. Unser Ziel ist es, die Möglichkeiten des verteilten Rechnens aufzuzeigen, seine Verbreitung voranzutreiben und den Bekanntheitsgrad zu steigern. Distributed Computing ist schließlich mehr als nur ein Konzept, denn es bringt Menschen zusammen, die sich gemeinsam für eine gute Sache engagieren.</p>
+
+<p>Wir, das Team von Planet 3DNow!, sind als lebendiger Teil dieser Kultur bekannt, und bieten unseren Mitgliedern eine umfassende Diskussionsplattform zur Entfaltung ihrer Interessen. Dass der Spaß dabei nicht zu kurz kommt, zeigen zum Beispiel unsere freundschaftlichen Wettkämpfe mit den Teams von SETI.USA oder der Electronic Sports League. Schaut doch einfach mal bei uns vorbei, und überzeugt euch selbst.</p>
+<p>In diesem Sinne: Herzlich Willkommen auf dem Grünen Planeten!</p>
+
+<strong>Links:</strong>
+<p><a href="http://dc.planet3dnow.de/wiki/index.php?title=DrugDiscovery%40Home" target="b">DrugDiscovery@Home Wikieintrag bei Planet 3DNow!</a>
+<br />
+<a href="http://www.planet3dnow.de/vbulletin/forumdisplay.php?f=87" target="b">Forum Planet 3DNow!</a>
+<br />
+<a href="http://www.planet3dnow.de" target="b">Planet 3DNow!</a></p>
+
+<strong>English</strong>
+
+<p>Lovingly called „The Green Planet“ by its supporters and team members, Planet 3DNow!’s distributed computing division is one of the biggest teams worldwide, and it invests a great deal of computing power in order to support scientific projects for the public good.</p>
+<p>From medicine to bioinformatics, from quantum chemistry to nanotechnology, and from astrophysics to math, we support all projects equally. Our self-defined mission is to highlight the possibilities that distributed computing can offer and to promote distributed computing in order to enhance its public level of awareness. After all, distributed computing is more than simply a theoretically constructed concept – it teams people in good cause.</p>
+<p>We are a vital part of this culture, and we offer our members an extensive community platform to discuss and unfold distributed computing interests. And since having fun is also part of our understanding of distributed computing, we regularly arrange amicable competitions with teams like SETI.USA or the Electronic Sports League.  Just stop by and have a look, you might like it.</p>
+The Green Planet puts forth a warm welcome to all our visitors.";s:6:"nusers";s:2:"16";s:7:"country";s:7:"Germany";s:12:"total_credit";s:16:"867756.309090212";s:13:"expavg_credit";s:10:"269.640362";s:11:"expavg_time";s:16:"1317255554.50394";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

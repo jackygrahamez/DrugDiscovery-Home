@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1343</id>
+    <cpid>6f55e65ea1597866b3baf7c21f33c8aa</cpid>
+    <create_time>1266104478</create_time>
+    <name>fractal</name>
+    <country>United States</country>
+    <total_credit>25402.21129</total_credit>
+    <expavg_credit>0.056483</expavg_credit>
+    <expavg_time>1277524803.69331</expavg_time>
+    <teamid>772</teamid>
+    <url>www.fractured.org</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2293</id>
+        <create_time>1266105203</create_time>
+        <rpc_seqno>3188</rpc_seqno>
+        <host_cpid>0e56d744babced5fe458d43be2c2f9a4</host_cpid>
+        <total_credit>17899.037992</total_credit>
+        <expavg_credit>0.097439</expavg_credit>
+        <expavg_time>1276920003.37722</expavg_time>
+        <domain_name>plum</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2148232262.05222</p_fpops>
+        <p_iops>6491185129.28733</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-11-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2305</id>
+        <create_time>1266178524</create_time>
+        <rpc_seqno>996</rpc_seqno>
+        <host_cpid>f8e43a145d9a700348893bdd89fd4b27</host_cpid>
+        <total_credit>5425.383489</total_credit>
+        <expavg_credit>0.084648</expavg_credit>
+        <expavg_time>1275105603.48189</expavg_time>
+        <domain_name>loquat</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>1916808552.13338</p_fpops>
+        <p_iops>5454049267.26164</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2379</id>
+        <create_time>1266352033</create_time>
+        <rpc_seqno>302</rpc_seqno>
+        <host_cpid>078f833686f780d41d2c6d126ab7ee65</host_cpid>
+        <total_credit>2077.789809</total_credit>
+        <expavg_credit>0.068109</expavg_credit>
+        <expavg_time>1274500802.74488</expavg_time>
+        <domain_name>dumbo</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1446714963.47249</p_fpops>
+        <p_iops>4611214231.76094</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-server</os_version>
+        <venue></venue>
+    </host>
+</user>

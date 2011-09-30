@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3721</id>
+    <cpid>b06698e007b7b2aface67ce37e32c129</cpid>
+    <create_time>1295902660</create_time>
+    <name>Peterus</name>
+    <country>Austria</country>
+    <total_credit>378.658665</total_credit>
+    <expavg_credit>0.070684</expavg_credit>
+    <expavg_time>1306095003.09125</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7495</id>
+        <create_time>1295903090</create_time>
+        <rpc_seqno>1244</rpc_seqno>
+        <host_cpid>0c3778b5abdae0ed8496dc1a4d8928f2</host_cpid>
+        <total_credit>378.658665</total_credit>
+        <expavg_credit>0.070684</expavg_credit>
+        <expavg_time>1306095003.63049</expavg_time>
+        <domain_name>Firebird</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>3088156838.09976</p_fpops>
+        <p_iops>7782920790.85917</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7516</id>
+        <create_time>1296079894</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6afe065d4bec0da07cd7938f0740d739</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296079894</expavg_time>
+        <domain_name>Peter-netbook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [x86 Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>739744224.876608</p_fpops>
+        <p_iops>1360611948.82472</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

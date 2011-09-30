@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1074</id>
+    <cpid>d397c322c932b01bfedf4a4b36f6778c</cpid>
+    <create_time>1258336193</create_time>
+    <name>Gumbo</name>
+    <country>New Zealand</country>
+    <total_credit>3320.155922</total_credit>
+    <expavg_credit>0.194889</expavg_credit>
+    <expavg_time>1315851902.55978</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1324</id>
+        <create_time>1258337882</create_time>
+        <rpc_seqno>732</rpc_seqno>
+        <host_cpid>8b3859bce40fe063fd288ac9cf61371e</host_cpid>
+        <total_credit>3170.496562</total_credit>
+        <expavg_credit>0.070576</expavg_credit>
+        <expavg_time>1269379502.65097</expavg_time>
+        <domain_name>Gumbos</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2264836969.51785</p_fpops>
+        <p_iops>6945682151.89969</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8633</id>
+        <create_time>1304398692</create_time>
+        <rpc_seqno>1582</rpc_seqno>
+        <host_cpid>fcd6bd6f988beb93d28c96efd622a771</host_cpid>
+        <total_credit>149.65936</total_credit>
+        <expavg_credit>0.194922</expavg_credit>
+        <expavg_time>1315851902.84239</expavg_time>
+        <domain_name>Gumbos</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3300435925.07824</p_fpops>
+        <p_iops>11407765794.6106</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

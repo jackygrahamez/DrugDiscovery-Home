@@ -1,0 +1,38 @@
+<job_desc>
+    <task>
+        <application>prepare_ligand4</application>
+        <command_line> -l  ligand.mol2 -o ligand.pdbqt</command_line>
+    </task>
+    <task>
+        <application>prepare_receptor4</application>
+        <command_line> -U nphs_lps_waters -r receptor.pdb -o receptor.pdbqt</command_line>
+    </task>
+    <task>
+        <application>prepare_gpf4</application>
+        <command_line> -l ligand.pdbqt -r receptor.pdbqt -p custom_parameter_file=1 -p parameter_file=AD4_parameters.dat</command_line>
+    </task>
+    <task>
+        <application>prepare_dpf4</application>
+        <command_line> -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=1</command_line>
+    </task>
+    <task>
+        <application>autogrid</application>
+        <command_line> -p receptor.gpf -l out.glg </command_line>
+    </task>
+    <task>
+        <application>autodock</application>
+        <command_line> -p ligand_receptor.dpf -l out.dlg </command_line>
+    </task>
+    <task>
+        <application>write_all_complexes</application>
+        <command_line> -d out.dlg -r receptor.pdbqt -o out </command_line>
+    </task>
+    <task>
+        <application>summarize_results4</application>
+        <command_line> -d . -r receptor.pdbqt -o summary.txt </command_line>
+    </task>
+    <task>
+        <application>zip.exe</application>
+        <command_line>out -q -r out . -i *.pdb *.dlg</command_line>
+    </task>
+</job_desc>

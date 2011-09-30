@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1162</id>
+    <cpid>b0a4f7f0c77762e19d70080a0d9f4697</cpid>
+    <create_time>1262202691</create_time>
+    <name>[BOINCstats] LostBoy</name>
+    <country>International</country>
+    <total_credit>2238.643693</total_credit>
+    <expavg_credit>0.076594</expavg_credit>
+    <expavg_time>1300046703.23897</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6991</id>
+        <create_time>1292951870</create_time>
+        <rpc_seqno>441</rpc_seqno>
+        <host_cpid>bc244f7bab33437b3c63694b79cbaf84</host_cpid>
+        <total_credit>1603.982109</total_credit>
+        <expavg_credit>0.055832</expavg_credit>
+        <expavg_time>1300046703.56449</expavg_time>
+        <domain_name>AURUB-I7-3-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3481262960.90964</p_fpops>
+        <p_iops>11173708917.8601</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>7011</id>
+        <create_time>1293039870</create_time>
+        <rpc_seqno>490</rpc_seqno>
+        <host_cpid>c571358ae9681cf8a31305a8542b1521</host_cpid>
+        <total_credit>562.631352</total_credit>
+        <expavg_credit>0.08337</expavg_credit>
+        <expavg_time>1298837104.15207</expavg_time>
+        <domain_name>aurub920-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>4201717720.63296</p_fpops>
+        <p_iops>12023272299.3723</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+</user>

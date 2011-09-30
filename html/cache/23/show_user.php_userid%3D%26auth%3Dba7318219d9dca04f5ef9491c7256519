@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1375</id>
+    <cpid>ed498ad59e66062a8337f9bddb2f3a7d</cpid>
+    <create_time>1266392923</create_time>
+    <name>Kruemel</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1266392923</expavg_time>
+    <teamid>778</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2394</id>
+        <create_time>1266395570</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>d9755789832b46a94dbb875248228e22</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266395570</expavg_time>
+        <domain_name>andr-</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(r) Celeron(tm) processor [Intel(r) Celeron(tm) processor]</p_model>
+        <p_fpops>550271764.799024</p_fpops>
+        <p_iops>812871389.22189</p_iops>
+        <os_name>Microsoft Windows Millennium</os_name>
+        <os_version>, (04.90.3000.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8335</id>
+        <create_time>1302128495</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>7ec6591afcbc141f776aca3aaf61d4fa</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302128495</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm)  [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1243492389.82657</p_fpops>
+        <p_iops>2067537678.49317</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

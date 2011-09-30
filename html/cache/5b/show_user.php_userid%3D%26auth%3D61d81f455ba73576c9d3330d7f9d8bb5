@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>788</id>
+    <cpid>ae4102ce38c38bc334dc7267462af02d</cpid>
+    <create_time>1251358772</create_time>
+    <name>[XTBA&gt;XTC] FRED</name>
+    <country>France</country>
+    <total_credit>12.384164130678</total_credit>
+    <expavg_credit>0.089459</expavg_credit>
+    <expavg_time>1258564502.48343</expavg_time>
+    <teamid>565</teamid>
+    <url>www.vivaqua.fr/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>698</id>
+        <create_time>1252425646</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c2b71d8a8d61852a1e8122310cc9bfbd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1252425646</expavg_time>
+        <domain_name>POSEIDON</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [EM64T Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2834288449.36213</p_fpops>
+        <p_iops>8798671824.36101</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Editon, (06.00.6000.00)</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>699</id>
+        <create_time>1252425915</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>00e55b01a5c0039e492c7d819a485e6a</host_cpid>
+        <total_credit>12.384164130678</total_credit>
+        <expavg_credit>0.069754</expavg_credit>
+        <expavg_time>1258932003.39783</expavg_time>
+        <domain_name>duow64</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [EM64T Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>3237856593.61784</p_fpops>
+        <p_iops>10521883395.3308</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Editon, Service Pack 1, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

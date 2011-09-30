@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1950</id>
+    <cpid>ab2812c5b80abfff9d611d21763fd621</cpid>
+    <create_time>1272894829</create_time>
+    <name>jrobertson</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1272894829</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3743</id>
+        <create_time>1272898602</create_time>
+        <rpc_seqno>227</rpc_seqno>
+        <host_cpid>e71a84eabec474266c0c8530a39b4083</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272898602</expavg_time>
+        <domain_name>joshua-netbook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>341618108.153757</p_fpops>
+        <p_iops>1355618200.19076</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-3-686</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5140</id>
+        <create_time>1282550838</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>bf7ec13b52c5226da908508a6f34d0dc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282550838</expavg_time>
+        <domain_name>Joshua-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>3172237135.23295</p_fpops>
+        <p_iops>7205592242.99868</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

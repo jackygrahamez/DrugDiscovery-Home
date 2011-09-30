@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2032</id>
+    <cpid>4f43734e3c12f4b30e45e04f56cec6f8</cpid>
+    <create_time>1274093627</create_time>
+    <name>cl_isenberg</name>
+    <country>United States</country>
+    <total_credit>382.666559</total_credit>
+    <expavg_credit>0.060787</expavg_credit>
+    <expavg_time>1313957702.56888</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5058</id>
+        <create_time>1281915824</create_time>
+        <rpc_seqno>1069</rpc_seqno>
+        <host_cpid>3e830247916ed35b8d5312adecf4f15f</host_cpid>
+        <total_credit>121.782969</total_credit>
+        <expavg_credit>0.098966</expavg_credit>
+        <expavg_time>1313352903.89719</expavg_time>
+        <domain_name>Corey-Isenbergs-Mac-Mini.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8700 @ 2.53GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2940191758.59825</p_fpops>
+        <p_iops>6281049374.57143</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5511</id>
+        <create_time>1284809452</create_time>
+        <rpc_seqno>3251</rpc_seqno>
+        <host_cpid>33c2b4114e2de68258a16eaf7c861636</host_cpid>
+        <total_credit>260.88359</total_credit>
+        <expavg_credit>0.088282</expavg_credit>
+        <expavg_time>1305490203.80068</expavg_time>
+        <domain_name>HP-6200</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.40GHz [x86 Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1690389644.35146</p_fpops>
+        <p_iops>2815003115.71332</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5683</id>
+        <create_time>1285897053</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>25c0720f93e171b5868d31844f1bac2b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285897053</expavg_time>
+        <domain_name>Corey-Isenbergs-Mac-Pro.local</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU 5150 @ 2.66GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2946294904.57338</p_fpops>
+        <p_iops>6643911683.44549</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,141 @@
+<?php
+
+// This is a sample project file.
+// Modify it to suit your project.
+// Put your version in html/project/project.inc
+
+require_once("../inc/util.inc");
+
+$master_url = parse_config(get_config(), "http://boinc.drugdiscoveryathome.com/");
+define("PROJECT", "DrugDiscovery@Home");
+define("URL_BASE", "http://boinc.drugdiscoveryathome.com/");
+define("IMAGE_PATH", "../user_profile/images/");
+define("IMAGE_URL", "user_profile/images/");
+define("PROFILE_PATH", "../user_profile/");
+define("PROFILE_URL", "user_profile/");
+define("LANGUAGE_FILE", "languages.txt");
+define("STYLESHEET", "white.css");
+define("FORUM_QA_MERGED_MODE", false); // Set to true to merge Message boards and Q&A section
+define("COPYRIGHT_HOLDER", "DRUGDISCOVERY@HOME");
+define("SYS_ADMIN_EMAIL", "admin@drugdiscoveryathome.com");
+define("UOTD_ADMIN_EMAIL", "admin@drugdiscoveryathome.com");
+//define('INVITE_CODES', '/Wellcome/');
+define("EMAIL_FROM",      "admin@drugdiscoveryathome.com");
+define("EMAIL_FROM_NAME", "DrugDiscovery@Home");
+define("PAYPAL_ADDRESS", "js@drugdiscoveryathome.com");
+define("DONATION_CURRENCY", "USD");
+
+// Authorize access to administrative pages.
+// You can check for login, IP address, or whatever you want.
+//
+function auth_ops() {
+    // if running from cmdline, skip checks
+    //
+    if (!$_SERVER['REMOTE_ADDR']) {
+        return;
+    }
+    // example: require login as a particular user (id 1 in this case)
+    //
+    if (0) {
+        auth_ops_userid(array(2));
+        return;
+    }
+    // example: require that logged-in user have ADMIN or DEV flags
+    // set in their forum_prefs.privilege
+    //
+    if (0) {
+        auth_ops_privilege();
+        return;
+    }
+    // default: deny access
+    //auth_ops_deny();
+}
+
+
+
+    // who gets user of the day pool running low e-mails?
+
+// Email addresses separated by pipe ( | ) that will receive user reported 
+// offensive forum posts.
+define("POST_REPORT_EMAILS", "moderator@drugdiscoveryathome.com");
+
+// set the following var if your project is behind a proxy.
+// This is used on ops/index.php to get the current SVN rev from BOINC
+//$project_http_proxy = "tcp://proxyname:port"
+
+function project_banner($title, $prefix) {
+    // Put your project title and logo here
+    // If you include any links, prepend URL with $prefix
+
+    echo "
+        <p>
+        <span class=\"page_title\">$title</span>
+        <p>
+    ";
+}
+
+function project_footer($show_return, $show_date, $prefix) {
+    // If you include any links, prepend URL with $prefix
+    echo "<br><hr noshade size=1><center>";
+    if ($show_return) {
+        echo "<a href=\"http://drugdiscoveryathome.com/\">Home</a> | <a href=".$prefix."index.php>Project</a> | <a href=".$prefix."home.php>My Account</a> | <a href=".$prefix."forum_index.php>Message Boards</a><br>\n";
+    }
+    echo "<br><br>Copyright &copy; ".date("Y ").COPYRIGHT_HOLDER."</center>\n";
+    if ($show_date) {
+        $t = time_str(time());
+        echo "<span class=\"note\">Generated $t</span>\n";
+    }
+}
+
+function show_profile_heading1() {
+    return "Your personal background.";
+}
+
+function show_profile_question1() {
+    return "
+        Tell us about yourself.
+        You could tell us where you're from, your age, occupation, hobbies,
+        or anything else about yourself.
+    ";
+}
+
+function show_profile_heading2() {
+    return "Your opinions about " . PROJECT;
+}
+
+function show_profile_question2() {
+    return "
+        Tell us your thoughts about " . PROJECT . "<ol>
+        <li>Why do you run " . PROJECT . "?
+        <li>What are your views about the project?
+        <li>Any suggestions?
+        </ol>
+    ";
+}
+
+function project_workunit($wu){
+    // shown in the workunit page
+}
+
+function project_user_summary($user){
+    // shown in the user summary page
+}
+
+function project_user_page_private($user){
+    // shown in the private account page
+}
+
+function project_user_credit($user){
+    // shown in the the private account page, credit area
+}
+
+function project_forum_post_rules() {
+    // additional forum post rules
+    return "";
+}
+
+function donations_intro() {echo "<p>".tra("DrugDiscovery@Home  is devoted to elaboration of new methodology for in silico drug design which can be used only with serious computational power. The task is to predict physiologically active compounds for new and prospective biotargets regulating adult stem cells molecular biology, which is very important for tissue enginneering and cancer research. The second step after in silico drug design will be collaboration with experimental biologists to test the compounds predicted.")."</p>";
+}
+
+
+?>

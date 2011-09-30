@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1947</id>
+    <cpid>c14fef8e4bff17840e443d141b94f0db</cpid>
+    <create_time>1272864619</create_time>
+    <name>KSMooney</name>
+    <country>United States</country>
+    <total_credit>5905.153582</total_credit>
+    <expavg_credit>1.711188</expavg_credit>
+    <expavg_time>1315906972.08206</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6208</id>
+        <create_time>1289487071</create_time>
+        <rpc_seqno>440</rpc_seqno>
+        <host_cpid>dc966182fde9fdd59cf6a797f0ba7871</host_cpid>
+        <total_credit>3647.587974</total_credit>
+        <expavg_credit>0.079581</expavg_credit>
+        <expavg_time>1312748103.02719</expavg_time>
+        <domain_name>Zathras</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2319183169.44503</p_fpops>
+        <p_iops>7799234620.97439</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3737</id>
+        <create_time>1272866012</create_time>
+        <rpc_seqno>376</rpc_seqno>
+        <host_cpid>26208d3bd18a9637a1540648309ba23e</host_cpid>
+        <total_credit>2257.565608</total_credit>
+        <expavg_credit>1.60946</expavg_credit>
+        <expavg_time>1315906972.08222</expavg_time>
+        <domain_name>DashDot</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1937327419.59443</p_fpops>
+        <p_iops>4022545165.57251</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

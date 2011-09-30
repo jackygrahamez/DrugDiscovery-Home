@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1691</id>
+    <cpid>340795de0a365b539f3ee9ca2b8efe7e</cpid>
+    <create_time>1269537458</create_time>
+    <name>lucazz</name>
+    <country>Czech Republic</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1269537458</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3130</id>
+        <create_time>1269537558</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>233ab7a5ca5dfd6685d0f372b130165e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1269537558</expavg_time>
+        <domain_name>ninja</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3102962500.25912</p_fpops>
+        <p_iops>8660880869.3646</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3131</id>
+        <create_time>1269537830</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>879e38b79a13bc6d179e5bbfb0ce64fe</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1269537830</expavg_time>
+        <domain_name>Gigabyte</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E6500  @ 2.93GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2975899509.6055</p_fpops>
+        <p_iops>8603847440.29473</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

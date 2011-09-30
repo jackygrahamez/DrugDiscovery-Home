@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>646</id>
+    <cpid>1c4af2e9b3b7b5dbc0d1ae46be26505f</cpid>
+    <create_time>1241136000</create_time>
+    <name>William Kahler</name>
+    <country>United States</country>
+    <total_credit>15003.688615668</total_credit>
+    <expavg_credit>0.05082</expavg_credit>
+    <expavg_time>1312748102.60095</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>377</id>
+        <create_time>1249924800</create_time>
+        <rpc_seqno>154</rpc_seqno>
+        <host_cpid>4cd28add57b3407c94b765eaf81ede90</host_cpid>
+        <total_credit>8869.60384466811</total_credit>
+        <expavg_credit>0.050808</expavg_credit>
+        <expavg_time>1312748102.85012</expavg_time>
+        <domain_name>E1405</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2500  @ 2.00GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1829257364.45671</p_fpops>
+        <p_iops>3228482468.68469</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8233</id>
+        <create_time>1301237778</create_time>
+        <rpc_seqno>78</rpc_seqno>
+        <host_cpid>4f97c5ebf68140adf860d48d245145b7</host_cpid>
+        <total_credit>27.084771</total_credit>
+        <expavg_credit>0.054285</expavg_credit>
+        <expavg_time>1305490203.59799</expavg_time>
+        <domain_name>E1405</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2500  @ 2.00GHz [x86 Family 6 Model 14 Stepping 8] [fpu tsc pae nx sse sse2 mmx]</p_model>
+        <p_fpops>1781335444.3235</p_fpops>
+        <p_iops>3608377245.3785</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

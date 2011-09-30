@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2496</id>
+    <cpid>e3663f74a0afb24b7ffd26b470d61e75</cpid>
+    <create_time>1282279170</create_time>
+    <name>rezecib</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1282279170</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5110</id>
+        <create_time>1282280567</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>bbaf872ac99381496ac1f31223210845</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282280567</expavg_time>
+        <domain_name>rrdhcp-64-326.redrover.cornell.edu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T9600 @ 2.80GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3271637923.92145</p_fpops>
+        <p_iops>6783267466.65067</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5120</id>
+        <create_time>1282339141</create_time>
+        <rpc_seqno>42</rpc_seqno>
+        <host_cpid>799a807d95276e2197cdf95bed04da65</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1282339141</expavg_time>
+        <domain_name>rrdhcp-167-37.redrover.cornell.edu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T9600 @ 2.80GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3267653921.59229</p_fpops>
+        <p_iops>7235721488.65131</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+</user>

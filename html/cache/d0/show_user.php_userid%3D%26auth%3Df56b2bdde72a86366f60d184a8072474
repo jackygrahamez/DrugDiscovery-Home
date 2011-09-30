@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2204</id>
+    <cpid>ce3220b5b6abb5d09ec10dddad311586</cpid>
+    <create_time>1277239872</create_time>
+    <name>arctic light</name>
+    <country>Germany</country>
+    <total_credit>5588.95865599999</total_credit>
+    <expavg_credit>3.709046</expavg_credit>
+    <expavg_time>1315561285.59061</expavg_time>
+    <teamid>6</teamid>
+    <url>www.arctic-light.de</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>4369</id>
+        <create_time>1277240411</create_time>
+        <rpc_seqno>962</rpc_seqno>
+        <host_cpid>c4a5825d3dea5e813b7b5f771a53651b</host_cpid>
+        <total_credit>5428.16521999999</total_credit>
+        <expavg_credit>1.627467</expavg_credit>
+        <expavg_time>1315561285.59083</expavg_time>
+        <domain_name>charlie</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2633275658.76415</p_fpops>
+        <p_iops>7885022792.53125</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4497</id>
+        <create_time>1277840090</create_time>
+        <rpc_seqno>68</rpc_seqno>
+        <host_cpid>89ef4dcb08b04c13894af5938caa390a</host_cpid>
+        <total_credit>160.793436</total_credit>
+        <expavg_credit>1.44828</expavg_credit>
+        <expavg_time>1315559018.23448</expavg_time>
+        <domain_name>woodstock</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5800  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1874502358.47362</p_fpops>
+        <p_iops>3726687935.31165</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,38 @@
+O:9:"BoincTeam":24:{s:2:"id";s:4:"1636";s:11:"create_time";s:10:"1303651362";s:6:"userid";s:4:"4486";s:4:"name";s:30:"Aberdeen University BOINC Team";s:7:"name_lc";s:30:"aberdeen university boinc team";s:3:"url";s:0:"";s:4:"type";s:1:"6";s:9:"name_html";s:0:"";s:11:"description";s:0:"";s:6:"nusers";s:1:"1";s:7:"country";s:14:"United Kingdom";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1303651362";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"0";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"4486";s:11:"create_time";s:10:"1303650673";s:10:"email_addr";s:18:"u21jb6@yahoo.co.uk";s:4:"name";s:14:"HippyPhysicist";s:13:"authenticator";s:32:"c30ab25412d7716041fac364e9c58af7";s:7:"country";s:14:"United Kingdom";s:11:"postal_code";s:0:"";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1303650673";s:12:"global_prefs";s:1416:"<global_preferences>
+    <source_project>http://www.primegrid.com/</source_project>
+    <source_scheduler>http://www.primegrid.com/cgi/cgi</source_scheduler>
+<mod_time>1307924456</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>480</cpu_scheduling_period_minutes>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>94</cpu_usage_limit>
+<disk_max_used_gb>2</disk_max_used_gb>
+<disk_min_free_gb>10</disk_min_free_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>84</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>94</ram_max_used_idle_pct>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>10</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>1</hangup_if_dialed>
+<max_bytes_sec_down>1000000</max_bytes_sec_down>
+<max_bytes_sec_up>384000</max_bytes_sec_up>
+<daily_xfer_limit_mb>100</daily_xfer_limit_mb>
+<daily_xfer_period_days>1</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:118:"<project_preferences>
+
+
+<resource_share>0</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:4:"1636";s:5:"venue";s:0:"";s:3:"url";s:15:"www.aubt.org.uk";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"a17290b5a017b1b0eb982cb790f4e39b";s:11:"passwd_hash";s:32:"1fe64a7722fa71d88894c9f1c87170c1";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

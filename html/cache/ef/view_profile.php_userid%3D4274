@@ -1,0 +1,38 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"4274";s:11:"create_time";s:10:"1299246768";s:10:"email_addr";s:22:"andy101@poczta.onet.pl";s:4:"name";s:15:"Jerzy_Przytocki";s:13:"authenticator";s:32:"f363a56c7b27db17dd7abeeb2356f701";s:7:"country";s:6:"Poland";s:11:"postal_code";s:0:"";s:12:"total_credit";s:9:"82.397308";s:13:"expavg_credit";s:8:"0.220202";s:11:"expavg_time";s:16:"1317154697.70783";s:12:"global_prefs";s:1076:"<global_preferences>
+    <source_project>http://qcn.stanford.edu/sensor/</source_project>
+    <source_scheduler>http://qcn.stanford.edu/sensor_cgi/cgi</source_scheduler>
+<mod_time>1302948944</mod_time>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<suspend_while_on_batteries>0</suspend_while_on_batteries>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>1</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>100</resource_share>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"103";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"c3d17dad0f9ead00f576d7df745efbfc";s:11:"passwd_hash";s:32:"0f656d05e3d4c18e1249616619ea8c82";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"103";s:11:"create_time";s:10:"1240319745";s:6:"userid";s:3:"114";s:4:"name";s:12:"BOINC@Poland";s:7:"name_lc";s:12:"boinc@poland";s:3:"url";s:21:"www.boincatpoland.org";s:4:"type";s:1:"9";s:9:"name_html";s:117:"<a href='http://www.boincatpoland.org'><img src='http://www.boincatpoland.org/images/3/38/BAPlogoOryginalne.gif'></a>";s:11:"description";s:851:"BOINC@Poland jest pierwszym prawdziwie wieloprojektowym Polskim zespołem. Umożliwiamy liczenie pod jedną nazwą we wszystkich aktywnych projektach BOINC, a także w większości projektów będących w fazie przygotowań. W niektórych jesteśmy wręcz jedynymi reprezentantami Polski.<br>
+Na naszej <a href="http://www.boincatpoland.org">stronie</a> znajdziesz dużo ciekawych materiałów o BOINC i poszczególnych projektach, <a href="http://www.boincatpoland.org/news.xml">najnowsze wiadomości</a> ze świata obliczeń rozproszonych oraz bardzo dynamiczne <a href="http://www.boincatpoland.org/smf">forum</a>, na którym żadne pytanie nie zostaje bez odpowiedzi.<br>
+<img src="http://www.boincatpoland.org/images/8/81/Userbar.png">
+
+<br>
+BOINC@Poland - W kwestii liczenia mamy najwięcej do powiedzenia<br>
+Dołącz, a nie pożałujesz.";s:6:"nusers";s:2:"88";s:7:"country";s:6:"Poland";s:12:"total_credit";s:15:"203506.32463745";s:13:"expavg_credit";s:9:"62.466546";s:11:"expavg_time";s:16:"1317240473.44223";s:7:"seti_id";s:3:"268";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

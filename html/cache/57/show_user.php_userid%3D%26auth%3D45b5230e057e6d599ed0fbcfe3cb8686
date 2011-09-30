@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4595</id>
+    <cpid>c0791a2c9440f283fa79ebab06ac91b6</cpid>
+    <create_time>1306271847</create_time>
+    <name>Spencer Dale Colton</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1306271847</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8913</id>
+        <create_time>1306272416</create_time>
+        <rpc_seqno>76</rpc_seqno>
+        <host_cpid>7c5379d41bf7d37f6660b6d585e463fd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306272416</expavg_time>
+        <domain_name>ToSaL455-S5975</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          900  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2179904872.83633</p_fpops>
+        <p_iops>4349449165.83816</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8914</id>
+        <create_time>1306272426</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>cb83b38595d16cb62022ae25a30b6a90</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306272426</expavg_time>
+        <domain_name>IBMTHINKPADT40</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1300MHz [Family 6 Model 9 Stepping 5]</p_model>
+        <p_fpops>1195821517.52653</p_fpops>
+        <p_iops>2388876653.94899</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

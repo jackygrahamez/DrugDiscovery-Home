@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3520</id>
+    <cpid>3354d04428b73778d10b0b88d92236c3</cpid>
+    <create_time>1292282457</create_time>
+    <name>jack_hmr</name>
+    <country>United States</country>
+    <total_credit>804.226422</total_credit>
+    <expavg_credit>0.050077</expavg_credit>
+    <expavg_time>1315247103.31561</expavg_time>
+    <teamid>748</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6869</id>
+        <create_time>1292283430</create_time>
+        <rpc_seqno>723</rpc_seqno>
+        <host_cpid>74abfa7bca88fb89589b20c4d0a5701a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292283430</expavg_time>
+        <domain_name>backup</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3000+ [Family 15 Model 47 Stepping 2]</p_model>
+        <p_fpops>1449676823.63804</p_fpops>
+        <p_iops>7624706983.20519</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-server</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6870</id>
+        <create_time>1292283469</create_time>
+        <rpc_seqno>1578</rpc_seqno>
+        <host_cpid>b9a53611e8aa8974f6b77862e750de75</host_cpid>
+        <total_credit>754.454433</total_credit>
+        <expavg_credit>0.050077</expavg_credit>
+        <expavg_time>1315247104.83405</expavg_time>
+        <domain_name>desk</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2358113201.64611</p_fpops>
+        <p_iops>7005203245.61471</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7774</id>
+        <create_time>1297931050</create_time>
+        <rpc_seqno>7476</rpc_seqno>
+        <host_cpid>e3ff31c7794b5f185bf9eb17274e54cb</host_cpid>
+        <total_credit>49.771989</total_credit>
+        <expavg_credit>0.07414</expavg_credit>
+        <expavg_time>1303071004.18076</expavg_time>
+        <domain_name>L3CR919</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) Duo CPU      T2300  @ 1.66GHz [x86 Family 6 Model 14 Stepping 12]</p_model>
+        <p_fpops>1550877192.98246</p_fpops>
+        <p_iops>3138856817.62745</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9971</id>
+        <create_time>1315016028</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>0c671108b3704e0692ff265169fd15ce</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315016028</expavg_time>
+        <domain_name>desk</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2665724984.51767</p_fpops>
+        <p_iops>13424723859.1731</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.0-7-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

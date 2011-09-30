@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3289</id>
+    <cpid>53c2ed867a996cc9624493b52fbec504</cpid>
+    <create_time>1289764756</create_time>
+    <name>pinetboy</name>
+    <country>France</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1289764756</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6299</id>
+        <create_time>1289769104</create_time>
+        <rpc_seqno>177</rpc_seqno>
+        <host_cpid>ce40871e81276079c5388e3990652975</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289769104</expavg_time>
+        <domain_name>PinetboyPC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2140  @ 1.60GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1149345292.98275</p_fpops>
+        <p_iops>3599579492.57535</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6300</id>
+        <create_time>1289769414</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>828f6eb8e926655e1aa25d5e022bf70b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289769414</expavg_time>
+        <domain_name>laptoppinetboy</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1626529311.9579</p_fpops>
+        <p_iops>3279365108.57748</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

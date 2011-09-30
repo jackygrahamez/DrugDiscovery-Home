@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2026</id>
+    <cpid>86f6fbd355d656650064849050878178</cpid>
+    <create_time>1274007055</create_time>
+    <name>Meirion</name>
+    <country>Netherlands</country>
+    <total_credit>67.096023</total_credit>
+    <expavg_credit>0.060001</expavg_credit>
+    <expavg_time>1278129903.31515</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3893</id>
+        <create_time>1274007225</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>edd4459a89866f8643636c9f8e19fa13</host_cpid>
+        <total_credit>67.096023</total_credit>
+        <expavg_credit>0.060006</expavg_credit>
+        <expavg_time>1278129903.67381</expavg_time>
+        <domain_name>meirion-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2108884927.94283</p_fpops>
+        <p_iops>8518042629.17588</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34-ARCH</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9574</id>
+        <create_time>1311502383</create_time>
+        <rpc_seqno>16</rpc_seqno>
+        <host_cpid>be5a847714335d2a119ce549605ff855</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311502383</expavg_time>
+        <domain_name>meirion-desktop.towell.net</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 630 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2673625096.27469</p_fpops>
+        <p_iops>12157685573.3635</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.39-ARCH</os_version>
+        <venue></venue>
+    </host>
+</user>

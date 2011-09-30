@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2563</id>
+    <cpid>9f6d1f0f2ad8a79abc9e5e7547e181bd</cpid>
+    <create_time>1283102221</create_time>
+    <name>sonicby</name>
+    <country>Belarus</country>
+    <total_credit>444.050373</total_credit>
+    <expavg_credit>0.053075</expavg_credit>
+    <expavg_time>1310328902.41416</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5226</id>
+        <create_time>1283103210</create_time>
+        <rpc_seqno>1237</rpc_seqno>
+        <host_cpid>b32c8517638ef4048129d6e434b9b6e1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283103210</expavg_time>
+        <domain_name>ubuntik</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  330   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>385368842.127929</p_fpops>
+        <p_iops>1488400375.37955</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-32-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5278</id>
+        <create_time>1283339304</create_time>
+        <rpc_seqno>10472</rpc_seqno>
+        <host_cpid>53092a4cf48b734d3c3c8f5d504bee27</host_cpid>
+        <total_credit>444.050373</total_credit>
+        <expavg_credit>0.053075</expavg_credit>
+        <expavg_time>1310328902.59589</expavg_time>
+        <domain_name>kolibenko</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2431724137.93103</p_fpops>
+        <p_iops>4733540396.23818</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

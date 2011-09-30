@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2687</id>
+    <cpid>4a60ccaa59c2f3ac00016c33ea7c24fa</cpid>
+    <create_time>1284840195</create_time>
+    <name>[B^S]ST47</name>
+    <country>International</country>
+    <total_credit>9180.326889</total_credit>
+    <expavg_credit>0.051124</expavg_credit>
+    <expavg_time>1299441903.47185</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5515</id>
+        <create_time>1284841112</create_time>
+        <rpc_seqno>1410</rpc_seqno>
+        <host_cpid>742254e56061af6163cab58e6c61841a</host_cpid>
+        <total_credit>9180.326889</total_credit>
+        <expavg_credit>0.051124</expavg_credit>
+        <expavg_time>1299441904.72163</expavg_time>
+        <domain_name>Tachyon</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>3057708240.52247</p_fpops>
+        <p_iops>9873850048.09761</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6596</id>
+        <create_time>1291046456</create_time>
+        <rpc_seqno>33</rpc_seqno>
+        <host_cpid>c99a1649e0590a24b56cb13089076afd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291046456</expavg_time>
+        <domain_name>Tachyon</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>2637874529.4813</p_fpops>
+        <p_iops>8100693466.33287</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6597</id>
+        <create_time>1291046469</create_time>
+        <rpc_seqno>38</rpc_seqno>
+        <host_cpid>732083caa79bfd5bc2372914974e9a2b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291046469</expavg_time>
+        <domain_name>bmelab</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1268537161.27854</p_fpops>
+        <p_iops>4830320969.59522</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

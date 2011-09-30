@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2498</id>
+    <cpid>82e16e6bee82d5fa21e150c2a2cd59a4</cpid>
+    <create_time>1282312153</create_time>
+    <name>Elmerfudd</name>
+    <country>United States</country>
+    <total_credit>929.893077</total_credit>
+    <expavg_credit>0.052147</expavg_credit>
+    <expavg_time>1310933702.46221</expavg_time>
+    <teamid>8</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5171</id>
+        <create_time>1282758552</create_time>
+        <rpc_seqno>362</rpc_seqno>
+        <host_cpid>8a9ac57b6613a32f69509678138175b7</host_cpid>
+        <total_credit>429.421506</total_credit>
+        <expavg_credit>0.05983</expavg_credit>
+        <expavg_time>1306095003.50788</expavg_time>
+        <domain_name>CRP07866</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1423548425.33516</p_fpops>
+        <p_iops>2443953469.44331</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5114</id>
+        <create_time>1282320461</create_time>
+        <rpc_seqno>122</rpc_seqno>
+        <host_cpid>be5a38e361f4423be15f3f2bf13755e3</host_cpid>
+        <total_credit>500.471571</total_credit>
+        <expavg_credit>0.070485</expavg_credit>
+        <expavg_time>1310328902.70482</expavg_time>
+        <domain_name>crp16305</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2555515802.02743</p_fpops>
+        <p_iops>5228519521.91235</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

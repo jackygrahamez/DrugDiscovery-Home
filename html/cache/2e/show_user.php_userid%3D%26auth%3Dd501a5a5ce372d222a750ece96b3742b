@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>756</id>
+    <cpid>dd3f8dacf7e35ec9b832eddb5a5d50fe</cpid>
+    <create_time>1251315814</create_time>
+    <name>pelvetia_polaris*</name>
+    <country>Norway</country>
+    <total_credit>76090.161940865</total_credit>
+    <expavg_credit>0.05273129611938</expavg_credit>
+    <expavg_time>1314641987</expavg_time>
+    <teamid>441</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>546</id>
+        <create_time>1251831446</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>35f7991fba729136b84e7d84902e8b95</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1251831446</expavg_time>
+        <domain_name>n1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1518800990.94642</p_fpops>
+        <p_iops>4646367675.8271</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>547</id>
+        <create_time>1251831593</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>142526d6b10fef05557d0f6c68d36eca</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1251831593</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2599368102.61672</p_fpops>
+        <p_iops>5318284433.44285</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>634</id>
+        <create_time>1251927303</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>1561b8e7f66f811922938d47fe9a837d</host_cpid>
+        <total_credit>1087.6631523713</total_credit>
+        <expavg_credit>0.099545</expavg_credit>
+        <expavg_time>1262383502.95819</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1553033982.36861</p_fpops>
+        <p_iops>4831755284.3124</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>682</id>
+        <create_time>1252193023</create_time>
+        <rpc_seqno>4927</rpc_seqno>
+        <host_cpid>2e6dac06d8c408397bfa984d3659d355</host_cpid>
+        <total_credit>4707.2624689425</total_credit>
+        <expavg_credit>0.098641</expavg_credit>
+        <expavg_time>1263695103.13476</expavg_time>
+        <domain_name>n3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2472440777.89642</p_fpops>
+        <p_iops>7781416216.90931</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-16-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>683</id>
+        <create_time>1252195716</create_time>
+        <rpc_seqno>36</rpc_seqno>
+        <host_cpid>f99bee5c786f7b0e16348f32964e477b</host_cpid>
+        <total_credit>11146.1973558101</total_credit>
+        <expavg_credit>0.066359</expavg_credit>
+        <expavg_time>1280549403.00663</expavg_time>
+        <domain_name>n4</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2450496889.00675</p_fpops>
+        <p_iops>9053233277.39018</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>944</id>
+        <create_time>1255046774</create_time>
+        <rpc_seqno>2198</rpc_seqno>
+        <host_cpid>3b63f4e494df765b4412de4f14591016</host_cpid>
+        <total_credit>805.83849914015</total_credit>
+        <expavg_credit>0.054624</expavg_credit>
+        <expavg_time>1264814103.40264</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2818731480.93553</p_fpops>
+        <p_iops>8088903235.67139</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>985</id>
+        <create_time>1255975087</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>f86241c7a0d5c0fbc75fdacba90c9fdb</host_cpid>
+        <total_credit>68.956766949786</total_credit>
+        <expavg_credit>0.080558</expavg_credit>
+        <expavg_time>1260904503.60248</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2485999028.68105</p_fpops>
+        <p_iops>7769966373.01341</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-16-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1068</id>
+        <create_time>1257480772</create_time>
+        <rpc_seqno>190</rpc_seqno>
+        <host_cpid>371452a90d9c4aebce52c550e0d6fbd0</host_cpid>
+        <total_credit>1864.059944</total_credit>
+        <expavg_credit>0.062619</expavg_credit>
+        <expavg_time>1280549403.03347</expavg_time>
+        <domain_name>n3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2457902722.60779</p_fpops>
+        <p_iops>9071917052.45</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1488</id>
+        <create_time>1258706541</create_time>
+        <rpc_seqno>455</rpc_seqno>
+        <host_cpid>4e40b5d7bae6893805caa91146ab1237</host_cpid>
+        <total_credit>469.416159</total_credit>
+        <expavg_credit>0.081832</expavg_credit>
+        <expavg_time>1266253503.7273</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2961868003.99566</p_fpops>
+        <p_iops>5973074361.10995</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1580</id>
+        <create_time>1259193334</create_time>
+        <rpc_seqno>122</rpc_seqno>
+        <host_cpid>f44db39a5816d87439f608977dfe8012</host_cpid>
+        <total_credit>7190.808577</total_credit>
+        <expavg_credit>0.061839</expavg_credit>
+        <expavg_time>1284062402.87438</expavg_time>
+        <domain_name>n6</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2457201648.80391</p_fpops>
+        <p_iops>8895788777.50518</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-23-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1646</id>
+        <create_time>1260130478</create_time>
+        <rpc_seqno>228</rpc_seqno>
+        <host_cpid>a4422edf298acdf457512d35be03f199</host_cpid>
+        <total_credit>231.778276765075</total_credit>
+        <expavg_credit>0.082918</expavg_credit>
+        <expavg_time>1266253503.7329</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2957607728.01616</p_fpops>
+        <p_iops>6000123301.3673</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2188</id>
+        <create_time>1265684034</create_time>
+        <rpc_seqno>805</rpc_seqno>
+        <host_cpid>a0edd1bd8cd49fe641709a88c69d377d</host_cpid>
+        <total_credit>5760.2396422002</total_credit>
+        <expavg_credit>0.051333</expavg_credit>
+        <expavg_time>1278735003.4861</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2588171578.92507</p_fpops>
+        <p_iops>7591419520.38646</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>2189</id>
+        <create_time>1265684065</create_time>
+        <rpc_seqno>615</rpc_seqno>
+        <host_cpid>a515b2a41b7b8fdea7ca95b5789f57e3</host_cpid>
+        <total_credit>5938.732208</total_credit>
+        <expavg_credit>0.063677</expavg_credit>
+        <expavg_time>1278735003.50315</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2886520301.20285</p_fpops>
+        <p_iops>8327013610.67872</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>2815</id>
+        <create_time>1267662906</create_time>
+        <rpc_seqno>206</rpc_seqno>
+        <host_cpid>bd7771d55b18cb4c9ca46cf9b9e2316e</host_cpid>
+        <total_credit>717.472409</total_credit>
+        <expavg_credit>0.066559</expavg_credit>
+        <expavg_time>1276315203.64981</expavg_time>
+        <domain_name>n1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 6 Stepping 4]</p_model>
+        <p_fpops>1149061400.16204</p_fpops>
+        <p_iops>4275302323.78676</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-21-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>2881</id>
+        <create_time>1267986927</create_time>
+        <rpc_seqno>35</rpc_seqno>
+        <host_cpid>371452a90d9c4aebce52c550e0d6fbd0</host_cpid>
+        <total_credit>11973.843518</total_credit>
+        <expavg_credit>0.059145</expavg_credit>
+        <expavg_time>1284667204.0735</expavg_time>
+        <domain_name>n3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2396562372.21752</p_fpops>
+        <p_iops>8754146433.26106</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>3666</id>
+        <create_time>1272533189</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>c9b4ab116a4a54d174b5a9e2196def8e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272533189</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2866074646.63197</p_fpops>
+        <p_iops>8238170409.10929</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3667</id>
+        <create_time>1272535988</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>334330459739097937948ff68e27c244</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272535988</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2873824332.76382</p_fpops>
+        <p_iops>8180472261.68442</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3739</id>
+        <create_time>1272889809</create_time>
+        <rpc_seqno>118</rpc_seqno>
+        <host_cpid>547cdd3849c65044e69fb0ffe9d005c6</host_cpid>
+        <total_credit>667.853692</total_credit>
+        <expavg_credit>0.064023</expavg_credit>
+        <expavg_time>1280549403.12179</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2935137825.37019</p_fpops>
+        <p_iops>5999759459.90225</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>3740</id>
+        <create_time>1272890130</create_time>
+        <rpc_seqno>149</rpc_seqno>
+        <host_cpid>a10cc3ab5927cb34ba548a2c069d9120</host_cpid>
+        <total_credit>216.208051</total_credit>
+        <expavg_credit>0.083879</expavg_credit>
+        <expavg_time>1278735003.57926</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2983069700.58886</p_fpops>
+        <p_iops>6102922847.48889</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8323</id>
+        <create_time>1302046749</create_time>
+        <rpc_seqno>46</rpc_seqno>
+        <host_cpid>ecc189b1e6b94681326867f0b1e4da2d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302046749</expavg_time>
+        <domain_name>st-3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2160182694.76207</p_fpops>
+        <p_iops>7865893851.23758</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-30-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>4183</id>
+        <create_time>1276098159</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>274613676a03188081f4e5de2a2d312d</host_cpid>
+        <total_credit>6106.276936</total_credit>
+        <expavg_credit>0.070144</expavg_credit>
+        <expavg_time>1300046703.4879</expavg_time>
+        <domain_name>n1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2947405850.27288</p_fpops>
+        <p_iops>8646505041.13157</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>4184</id>
+        <create_time>1276098189</create_time>
+        <rpc_seqno>1154</rpc_seqno>
+        <host_cpid>61bbd69bcfff97b3a03bbea21b412fc1</host_cpid>
+        <total_credit>3472.3352036861</total_credit>
+        <expavg_credit>0.0001251928554483</expavg_credit>
+        <expavg_time>1314641987</expavg_time>
+        <domain_name>n2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3041445275.88259</p_fpops>
+        <p_iops>6264768066.11441</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>4220</id>
+        <create_time>1276445095</create_time>
+        <rpc_seqno>472</rpc_seqno>
+        <host_cpid>87be163184643010270c2e92c1782fe3</host_cpid>
+        <total_credit>4826.489994</total_credit>
+        <expavg_credit>0.057455</expavg_credit>
+        <expavg_time>1300651503.37655</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2787423892.18556</p_fpops>
+        <p_iops>10231656014.5984</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-27-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>4546</id>
+        <create_time>1278199612</create_time>
+        <rpc_seqno>58</rpc_seqno>
+        <host_cpid>9c70adee2fb10e539758d3d4f06c96b2</host_cpid>
+        <total_credit>69.987525</total_credit>
+        <expavg_credit>0.081511</expavg_credit>
+        <expavg_time>1282248003.12285</expavg_time>
+        <domain_name>n5</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2215146771.56098</p_fpops>
+        <p_iops>7229897938.70746</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-23-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4736</id>
+        <create_time>1279547744</create_time>
+        <rpc_seqno>792</rpc_seqno>
+        <host_cpid>32a7b97520c7606900e88fe7f1ace9f4</host_cpid>
+        <total_credit>649.727863</total_credit>
+        <expavg_credit>0.064182</expavg_credit>
+        <expavg_time>1300651503.41221</expavg_time>
+        <domain_name>n4</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 6 Stepping 4]</p_model>
+        <p_fpops>1156530408.77368</p_fpops>
+        <p_iops>4232321539.39876</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-29-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>4891</id>
+        <create_time>1280843244</create_time>
+        <rpc_seqno>431</rpc_seqno>
+        <host_cpid>660732fa796ac9ef853094a2c2aea235</host_cpid>
+        <total_credit>644.5326</total_credit>
+        <expavg_credit>0.056936</expavg_credit>
+        <expavg_time>1300046703.53449</expavg_time>
+        <domain_name>n6</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2486790837.78859</p_fpops>
+        <p_iops>8898895873.97376</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-27-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>7925</id>
+        <create_time>1298940101</create_time>
+        <rpc_seqno>34</rpc_seqno>
+        <host_cpid>493e29a83a52489e744704d3041f7ce3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298940101</expavg_time>
+        <domain_name>winati</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2867723597.46632</p_fpops>
+        <p_iops>8353893299.36471</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5886</id>
+        <create_time>1287609798</create_time>
+        <rpc_seqno>304</rpc_seqno>
+        <host_cpid>371452a90d9c4aebce52c550e0d6fbd0</host_cpid>
+        <total_credit>3511.044174</total_credit>
+        <expavg_credit>0.057246</expavg_credit>
+        <expavg_time>1300651503.3764</expavg_time>
+        <domain_name>n3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2458242260.48484</p_fpops>
+        <p_iops>8872015908.3355</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-28-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6082</id>
+        <create_time>1288893571</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>f56f1951d95a3c70dd558247b433cf5d</host_cpid>
+        <total_credit>3761.201315</total_credit>
+        <expavg_credit>0.06182</expavg_credit>
+        <expavg_time>1300651503.40998</expavg_time>
+        <domain_name>n7</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2212990061.58161</p_fpops>
+        <p_iops>7993081305.53808</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-27-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8495</id>
+        <create_time>1303344220</create_time>
+        <rpc_seqno>236</rpc_seqno>
+        <host_cpid>69326a5e3e2bb4d98748be6f0648aa91</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303344220</expavg_time>
+        <domain_name>linvid3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2474566995.04217</p_fpops>
+        <p_iops>13858072782.8125</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7869</id>
+        <create_time>1298497302</create_time>
+        <rpc_seqno>239</rpc_seqno>
+        <host_cpid>427ac17bd74c46a8da7865446ff46f24</host_cpid>
+        <total_credit>7.691324</total_credit>
+        <expavg_credit>0.065166</expavg_credit>
+        <expavg_time>1300651503.41347</expavg_time>
+        <domain_name>winnvi</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2916619626.67245</p_fpops>
+        <p_iops>8622544365.12869</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8320</id>
+        <create_time>1302030587</create_time>
+        <rpc_seqno>377</rpc_seqno>
+        <host_cpid>89df0fe3be85b4ff85bee5d0e7b90f9c</host_cpid>
+        <total_credit>28.785731</total_credit>
+        <expavg_credit>0.050474</expavg_credit>
+        <expavg_time>1312143302.65748</expavg_time>
+        <domain_name>winati</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2868695340.48047</p_fpops>
+        <p_iops>8329273144.76978</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8322</id>
+        <create_time>1302031948</create_time>
+        <rpc_seqno>331</rpc_seqno>
+        <host_cpid>569375c57e9297e46952cf3bda8195a8</host_cpid>
+        <total_credit>76.67573</total_credit>
+        <expavg_credit>0.050882</expavg_credit>
+        <expavg_time>1312748102.89701</expavg_time>
+        <domain_name>winnvi</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2825223941.42779</p_fpops>
+        <p_iops>8283835997.14539</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8339</id>
+        <create_time>1302158258</create_time>
+        <rpc_seqno>55</rpc_seqno>
+        <host_cpid>068fcd21094065b21d6f6783ac7d5ad2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302158258</expavg_time>
+        <domain_name>linvid1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2451271039.05492</p_fpops>
+        <p_iops>8355925253.13641</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-30-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8341</id>
+        <create_time>1302159121</create_time>
+        <rpc_seqno>72</rpc_seqno>
+        <host_cpid>d366265c4a4e4a238bd9872712345f8a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302159121</expavg_time>
+        <domain_name>linvid2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2232384933.62149</p_fpops>
+        <p_iops>12660058779.3018</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8348</id>
+        <create_time>1302215446</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>b5d0644bd0bec89cf8dd9d036b66548c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302215446</expavg_time>
+        <domain_name>n6</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2404139784.92992</p_fpops>
+        <p_iops>8777837784.52888</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-30-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8407</id>
+        <create_time>1302739844</create_time>
+        <rpc_seqno>17</rpc_seqno>
+        <host_cpid>b95bd9e6b0bd7c6307e72906f62a0226</host_cpid>
+        <total_credit>8.665902</total_credit>
+        <expavg_credit>0.074378</expavg_credit>
+        <expavg_time>1304885404.89329</expavg_time>
+        <domain_name>linvid3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2411307935.67965</p_fpops>
+        <p_iops>8804075797.29741</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-30-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8503</id>
+        <create_time>1303411683</create_time>
+        <rpc_seqno>71</rpc_seqno>
+        <host_cpid>9b4070a9a1a6433c9e0c375870d59876</host_cpid>
+        <total_credit>7.580065</total_credit>
+        <expavg_credit>0.078631</expavg_credit>
+        <expavg_time>1305490203.73906</expavg_time>
+        <domain_name>linvid1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2519279070.37643</p_fpops>
+        <p_iops>14182549986.0797</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8457</id>
+        <create_time>1303067236</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>0dd64e0fe41c41bb882258166539930a</host_cpid>
+        <total_credit>7.521955</total_credit>
+        <expavg_credit>0.096097</expavg_credit>
+        <expavg_time>1304885405.03964</expavg_time>
+        <domain_name>linvid3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2473836116.88475</p_fpops>
+        <p_iops>14199632642.2764</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8507</id>
+        <create_time>1303426992</create_time>
+        <rpc_seqno>529</rpc_seqno>
+        <host_cpid>382b0b2731c0f50e206750458d094c09</host_cpid>
+        <total_credit>4.584194</total_credit>
+        <expavg_credit>0.050107</expavg_credit>
+        <expavg_time>1307909403.29908</expavg_time>
+        <domain_name>linvid2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2273182028.55936</p_fpops>
+        <p_iops>10930784529.7831</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8497</id>
+        <create_time>1303357958</create_time>
+        <rpc_seqno>159</rpc_seqno>
+        <host_cpid>84871569b4e10726b9a1cafa7479729e</host_cpid>
+        <total_credit>24.800888</total_credit>
+        <expavg_credit>0.061869</expavg_credit>
+        <expavg_time>1307909403.53946</expavg_time>
+        <domain_name>linvid4</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2494317948.26295</p_fpops>
+        <p_iops>14173700710.7045</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8596</id>
+        <create_time>1304075098</create_time>
+        <rpc_seqno>627</rpc_seqno>
+        <host_cpid>f6f9699072236d931821a0dd72e55b32</host_cpid>
+        <total_credit>22.392915</total_credit>
+        <expavg_credit>0.076817</expavg_credit>
+        <expavg_time>1313352903.67966</expavg_time>
+        <domain_name>winati2</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2633243677.74224</p_fpops>
+        <p_iops>8757954974.0442</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8729</id>
+        <create_time>1304929144</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>e9ed9aacd8fbac1f46d8ee55c18d90bd</host_cpid>
+        <total_credit>13.536906</total_credit>
+        <expavg_credit>0.069642</expavg_credit>
+        <expavg_time>1307909403.54201</expavg_time>
+        <domain_name>linvid4</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1684320541.68471</p_fpops>
+        <p_iops>4875206494.16077</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8816</id>
+        <create_time>1305642484</create_time>
+        <rpc_seqno>26</rpc_seqno>
+        <host_cpid>220b8cd95b8e211d7e6fb2881957d8f1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305642484</expavg_time>
+        <domain_name>linvid4</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2440696635.16357</p_fpops>
+        <p_iops>13788965666.0434</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9462</id>
+        <create_time>1310254455</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>20e97993e165e48d4f8448a530f96a92</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310254455</expavg_time>
+        <domain_name>linvid1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1851986814.72671</p_fpops>
+        <p_iops>5144132227.19622</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9566</id>
+        <create_time>1311377150</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>de5989812818fc2dce0bbd2c9301a897</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311377150</expavg_time>
+        <domain_name>linvid3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2477514372.61908</p_fpops>
+        <p_iops>14385863806.8709</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9809</id>
+        <create_time>1313540800</create_time>
+        <rpc_seqno>21</rpc_seqno>
+        <host_cpid>6c7f238d56b09da5f41ba1ade67d79af</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313540800</expavg_time>
+        <domain_name>linvid-3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6700  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1717875180.65124</p_fpops>
+        <p_iops>5755262928.14969</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

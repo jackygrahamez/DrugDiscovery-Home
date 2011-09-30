@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1513</id>
+    <cpid>49cf106018a959cd4a98f987f4e6cb7b</cpid>
+    <create_time>1267644365</create_time>
+    <name>KONM</name>
+    <country>Germany</country>
+    <total_credit>0.029911</total_credit>
+    <expavg_credit>0.000124</expavg_credit>
+    <expavg_time>1288563699.5853</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2814</id>
+        <create_time>1267647349</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>ba6e4aebdaf94783af876bce4c4338d5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1267647349</expavg_time>
+        <domain_name>KOW</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.66GHz [x86 Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1045190156.59955</p_fpops>
+        <p_iops>1847380074.49645</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5649</id>
+        <create_time>1285671907</create_time>
+        <rpc_seqno>154</rpc_seqno>
+        <host_cpid>d5fcfcaf3dd6ba5f6ae0b25311c887b0</host_cpid>
+        <total_credit>0.029911</total_credit>
+        <expavg_credit>0.000861</expavg_credit>
+        <expavg_time>1288563699.58544</expavg_time>
+        <domain_name>windoof</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.66GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>930019120.458891</p_fpops>
+        <p_iops>1596976513.31117</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

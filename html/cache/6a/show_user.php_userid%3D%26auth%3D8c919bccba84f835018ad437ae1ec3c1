@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>807</id>
+    <cpid>fdc7e04c70a57f8963fb823f619e8964</cpid>
+    <create_time>1251375540</create_time>
+    <name>Donn Pike (USAF Ret)</name>
+    <country>United States</country>
+    <total_credit>3122.85237065153</total_credit>
+    <expavg_credit>0.056553</expavg_credit>
+    <expavg_time>1283457602.60835</expavg_time>
+    <teamid>19</teamid>
+    <url>www.tnss.mysite.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>585</id>
+        <create_time>1251841660</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>a0760b40f71fd2e0de092fa0aae3f27d</host_cpid>
+        <total_credit>1251.47044525831</total_credit>
+        <expavg_credit>0.062834</expavg_credit>
+        <expavg_time>1282248002.91017</expavg_time>
+        <domain_name>l-laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 Mobile CPU 1.70GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>474703850.273822</p_fpops>
+        <p_iops>1294367976.20677</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.29.6-smp</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>645</id>
+        <create_time>1251972718</create_time>
+        <rpc_seqno>168</rpc_seqno>
+        <host_cpid>ed982703d5335514fae2fe731ad64da3</host_cpid>
+        <total_credit>83.17081139322</total_credit>
+        <expavg_credit>0.080037</expavg_credit>
+        <expavg_time>1260499802.77884</expavg_time>
+        <domain_name>w-laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          550  @ 2.00GHz [x86 Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>1831490091.18073</p_fpops>
+        <p_iops>3937279291.8789</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>school</venue>
+    </host>
+    <host>
+        <id>3156</id>
+        <create_time>1269719017</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>22b778a9ddd553666a9dfb519d61500e</host_cpid>
+        <total_credit>1788.211114</total_credit>
+        <expavg_credit>0.079047</expavg_credit>
+        <expavg_time>1282852803.7837</expavg_time>
+        <domain_name>w-laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          550  @ 2.00GHz [Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>798159105.884211</p_fpops>
+        <p_iops>1569249377.28472</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

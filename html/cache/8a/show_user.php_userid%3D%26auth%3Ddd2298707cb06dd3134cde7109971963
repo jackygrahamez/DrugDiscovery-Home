@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1533</id>
+    <cpid>e91ff55d9a7c759801fe153991d6dbf4</cpid>
+    <create_time>1267930005</create_time>
+    <name>MINOR</name>
+    <country>Japan</country>
+    <total_credit>764.451803</total_credit>
+    <expavg_credit>0.028601</expavg_credit>
+    <expavg_time>1307163606.3855</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2871</id>
+        <create_time>1267931953</create_time>
+        <rpc_seqno>418</rpc_seqno>
+        <host_cpid>ebf8e497b8d3d5abcfe2dbab8e2374ea</host_cpid>
+        <total_credit>490.578453</total_credit>
+        <expavg_credit>0.028601</expavg_credit>
+        <expavg_time>1307163606.41601</expavg_time>
+        <domain_name>k-idgyi3awrasyj</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8400  @ 2.66GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2692656036.46814</p_fpops>
+        <p_iops>4344142022.90642</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2983</id>
+        <create_time>1268564889</create_time>
+        <rpc_seqno>726</rpc_seqno>
+        <host_cpid>745b004f59f1a3ea19d93f44af1ba6c2</host_cpid>
+        <total_credit>273.87335</total_credit>
+        <expavg_credit>0.080858</expavg_credit>
+        <expavg_time>1276920003.40201</expavg_time>
+        <domain_name>ŠJ—z</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           U2300  @ 1.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1174726454.49097</p_fpops>
+        <p_iops>3408331556.31565</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8131</id>
+        <create_time>1300503657</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>9a854ad93a65f519280a06bfe2b9e1ed</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300503657</expavg_time>
+        <domain_name>fedora-server</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 3.20GHz [Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1327379622.80101</p_fpops>
+        <p_iops>3300835931.64134</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35.12-88.fc14.i686.PAE</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8167</id>
+        <create_time>1300800571</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f8f7516962e18477a9839a959a1cf13b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1300800571</expavg_time>
+        <domain_name>ubuntu-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2187345068.97648</p_fpops>
+        <p_iops>9167191713.05378</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9400</id>
+        <create_time>1309793704</create_time>
+        <rpc_seqno>86</rpc_seqno>
+        <host_cpid>4eab27f03a9ed041077d51411aa7568b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309793704</expavg_time>
+        <domain_name>fedora-server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2345541834.57037</p_fpops>
+        <p_iops>11074936276.886</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.40-4.fc15.i686.PAE</os_version>
+        <venue></venue>
+    </host>
+</user>

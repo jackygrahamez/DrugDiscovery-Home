@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<boinc>
+  <tasks>
+    <task>
+      <cmd>
+        run_in_ops ./update_forum_activities.php
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317417601
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./team_import.php
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317419401
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        db_dump -d 2 -dump_spec ../db_dump_spec.xml
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317419401
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        census
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317419401
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        archive
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317419401
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./update_uotd.php
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317344101
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        update_stats -update_users -update_teams -update_hosts
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1316998501
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./update_profile_pages.php
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317344101
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./notify.php
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317344101
+      </last_run>
+    </task>
+    <task>
+      <cmd>
+        logrotate
+      </cmd>
+      <prunable>
+        False
+      </prunable>
+      <last_run>
+        1317344101
+      </last_run>
+    </task>
+  </tasks>
+  <enabled>
+    1
+  </enabled>
+</boinc>
+

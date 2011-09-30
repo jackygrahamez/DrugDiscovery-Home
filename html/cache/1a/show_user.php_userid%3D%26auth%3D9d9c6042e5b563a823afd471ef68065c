@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>855</id>
+    <cpid>bc2ca5eab533f33c393ae4499f325d5f</cpid>
+    <create_time>1256564577</create_time>
+    <name>Meharts</name>
+    <country>Czech Republic</country>
+    <total_credit>5264.1415207618</total_credit>
+    <expavg_credit>0.058761</expavg_credit>
+    <expavg_time>1277524803.67318</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>1015</id>
+        <create_time>1256567492</create_time>
+        <rpc_seqno>212</rpc_seqno>
+        <host_cpid>2d932d05ed383eb1b179e48526c9b59b</host_cpid>
+        <total_credit>2378.3372742003</total_credit>
+        <expavg_credit>0.08768</expavg_credit>
+        <expavg_time>1264103702.40351</expavg_time>
+        <domain_name>Boban</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2823778137.00502</p_fpops>
+        <p_iops>13344713466.9572</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-16-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1025</id>
+        <create_time>1256796169</create_time>
+        <rpc_seqno>335</rpc_seqno>
+        <host_cpid>5dc0fe3ed1d7518de99fb41d53bd1d69</host_cpid>
+        <total_credit>1565.0722655615</total_credit>
+        <expavg_credit>0.054312</expavg_credit>
+        <expavg_time>1264814103.40517</expavg_time>
+        <domain_name>Boban</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2428925836.84258</p_fpops>
+        <p_iops>8092648498.7591</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-14-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2877</id>
+        <create_time>1267963955</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>b08af09cf94a1527aadf53070fe1e047</host_cpid>
+        <total_credit>1320.731981</total_credit>
+        <expavg_credit>0.059024</expavg_credit>
+        <expavg_time>1277524804.53492</expavg_time>
+        <domain_name>Meharts</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2847869288.96261</p_fpops>
+        <p_iops>8835646941.18398</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

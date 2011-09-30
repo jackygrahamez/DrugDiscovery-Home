@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3532</id>
+    <cpid>b1bbd2cde0a8a9a39227ce7efde726d0</cpid>
+    <create_time>1292458689</create_time>
+    <name>Dorel Adam</name>
+    <country>Canada</country>
+    <total_credit>232.883287</total_credit>
+    <expavg_credit>0.077837</expavg_credit>
+    <expavg_time>1298232302.69148</expavg_time>
+    <teamid>18</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6892</id>
+        <create_time>1292459688</create_time>
+        <rpc_seqno>306</rpc_seqno>
+        <host_cpid>873823bf842cc53e77fa225c66e60357</host_cpid>
+        <total_credit>232.883287</total_credit>
+        <expavg_credit>0.077838</expavg_credit>
+        <expavg_time>1298232302.99728</expavg_time>
+        <domain_name>Dorel-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2661470411.6876</p_fpops>
+        <p_iops>9644782717.01165</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7039</id>
+        <create_time>1293199074</create_time>
+        <rpc_seqno>27</rpc_seqno>
+        <host_cpid>8e6b74b29fc926955091fe415dde8e5a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293199074</expavg_time>
+        <domain_name>DCAS01224</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1858063959.76825</p_fpops>
+        <p_iops>5969430911.12812</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

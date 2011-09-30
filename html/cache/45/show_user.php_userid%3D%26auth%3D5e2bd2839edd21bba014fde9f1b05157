@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>743</id>
+    <cpid>cf337472476f5c8e93c5b86691febec7</cpid>
+    <create_time>1251307197</create_time>
+    <name>64chrysler300</name>
+    <country>United States</country>
+    <total_credit>10561.9864866827</total_credit>
+    <expavg_credit>1.354974</expavg_credit>
+    <expavg_time>1315710487.92291</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>562</id>
+        <create_time>1251835930</create_time>
+        <rpc_seqno>3499</rpc_seqno>
+        <host_cpid>81d671289c230487cf580ca1ff5ddb42</host_cpid>
+        <total_credit>10324.0050646827</total_credit>
+        <expavg_credit>0.053453</expavg_credit>
+        <expavg_time>1280549403.00445</expavg_time>
+        <domain_name>Roche-Trueman</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2210361067.50392</p_fpops>
+        <p_iops>6419162104.66499</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5852</id>
+        <create_time>1287349879</create_time>
+        <rpc_seqno>240</rpc_seqno>
+        <host_cpid>af4ea757a79b0ba5cdb9c12438e2bdc5</host_cpid>
+        <total_credit>210.808918</total_credit>
+        <expavg_credit>0.083685</expavg_credit>
+        <expavg_time>1296417903.09031</expavg_time>
+        <domain_name>Roche-Trueman</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2262602210.34557</p_fpops>
+        <p_iops>6381603863.07421</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9723</id>
+        <create_time>1312967898</create_time>
+        <rpc_seqno>132</rpc_seqno>
+        <host_cpid>ae3f8642d33fc554897ed5d83c2306ab</host_cpid>
+        <total_credit>27.172504</total_credit>
+        <expavg_credit>1.639996</expavg_credit>
+        <expavg_time>1315710487.9551</expavg_time>
+        <domain_name>Roche-Trueman</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2291898164.16511</p_fpops>
+        <p_iops>7214684572.33048</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

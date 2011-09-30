@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2731</id>
+    <cpid>9c2078802432a427c3c2465538be1d1e</cpid>
+    <create_time>1285643123</create_time>
+    <name>Maelgwyn</name>
+    <country>United States</country>
+    <total_credit>1255.062696</total_credit>
+    <expavg_credit>9.383369</expavg_credit>
+    <expavg_time>1315772541.95444</expavg_time>
+    <teamid>0</teamid>
+    <url>nerdcoast.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5642</id>
+        <create_time>1285643630</create_time>
+        <rpc_seqno>165</rpc_seqno>
+        <host_cpid>8e5a5de02ffd00999620587a92394d9a</host_cpid>
+        <total_credit>1090.153951</total_credit>
+        <expavg_credit>0.355476</expavg_credit>
+        <expavg_time>1315851902.85029</expavg_time>
+        <domain_name>Mistral</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2781482382.12445</p_fpops>
+        <p_iops>7489657864.61721</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8012</id>
+        <create_time>1299454087</create_time>
+        <rpc_seqno>208</rpc_seqno>
+        <host_cpid>7762f6eab327a9c824abe7996549d622</host_cpid>
+        <total_credit>164.908745</total_credit>
+        <expavg_credit>8.661469</expavg_credit>
+        <expavg_time>1315772541.95458</expavg_time>
+        <domain_name>SERVER2008</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2415758537.4589</p_fpops>
+        <p_iops>8449252021.86964</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8303</id>
+        <create_time>1301805958</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d5cd4a342ec993014736363f544bbecd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301805958</expavg_time>
+        <domain_name>fjord</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3400+ [x86 Family 15 Model 12 Stepping 0]</p_model>
+        <p_fpops>2290774907.74908</p_fpops>
+        <p_iops>4247023222.52715</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10064</id>
+        <create_time>1315728245</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>34613eb40823d001c6d215236a5915fe</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315728245</expavg_time>
+        <domain_name>Atoll</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5600+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2538353719.83493</p_fpops>
+        <p_iops>6610285568.19895</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

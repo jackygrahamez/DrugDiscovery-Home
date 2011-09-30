@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2041</id>
+    <cpid>9830b31a17ca3620a65e312ee7290423</cpid>
+    <create_time>1274201378</create_time>
+    <name>whaszat</name>
+    <country>United States</country>
+    <total_credit>2264.396536</total_credit>
+    <expavg_credit>0.0562</expavg_credit>
+    <expavg_time>1312748102.62566</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4181</id>
+        <create_time>1276091063</create_time>
+        <rpc_seqno>320</rpc_seqno>
+        <host_cpid>324eb5cd9da8a4e4035deaf43dc6c67e</host_cpid>
+        <total_credit>335.948371</total_credit>
+        <expavg_credit>0.086383</expavg_credit>
+        <expavg_time>1298232302.9996</expavg_time>
+        <domain_name>xCR2S</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) D CPU 3.46GHz [Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1680808080.80808</p_fpops>
+        <p_iops>2840050229.91933</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5592</id>
+        <create_time>1285423648</create_time>
+        <rpc_seqno>1080</rpc_seqno>
+        <host_cpid>1485a12d999bef379de78eaea6ff51e3</host_cpid>
+        <total_credit>1928.448165</total_credit>
+        <expavg_credit>0.056176</expavg_credit>
+        <expavg_time>1312748102.94493</expavg_time>
+        <domain_name>drnewpc</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2610608106.80426</p_fpops>
+        <p_iops>9626700561.19815</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5593</id>
+        <create_time>1285424914</create_time>
+        <rpc_seqno>148</rpc_seqno>
+        <host_cpid>16a4fd92cf8ec58240ff78ff721dbd2f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285424914</expavg_time>
+        <domain_name>tsrv</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1366063018.6963</p_fpops>
+        <p_iops>2562724209.68738</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

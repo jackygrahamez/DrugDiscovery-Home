@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3021</id>
+    <cpid>8776f01b9b5c34ea1efe9f70d82b2236</cpid>
+    <create_time>1289233350</create_time>
+    <name>Krzysztof Piszczek - wspieram Polski Projekt BOINC</name>
+    <country>Poland</country>
+    <total_credit>3371.126989</total_credit>
+    <expavg_credit>0.239906</expavg_credit>
+    <expavg_time>1315820771.5854</expavg_time>
+    <teamid>103</teamid>
+    <url>radioactiveathome.org</url>
+    <has_profile>1</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>6148</id>
+        <create_time>1289233669</create_time>
+        <rpc_seqno>458</rpc_seqno>
+        <host_cpid>8aaf8bbd5a2a49b8ebcec185e9e1f3f0</host_cpid>
+        <total_credit>225.665505</total_credit>
+        <expavg_credit>0.080589</expavg_credit>
+        <expavg_time>1294518303.13181</expavg_time>
+        <domain_name>krzysiek64</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>1759521018.41715</p_fpops>
+        <p_iops>3296771011.19332</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6150</id>
+        <create_time>1289236369</create_time>
+        <rpc_seqno>640</rpc_seqno>
+        <host_cpid>6b5b821cae0bc3ed349ffc146270b311</host_cpid>
+        <total_credit>335.383178</total_credit>
+        <expavg_credit>0.238395</expavg_credit>
+        <expavg_time>1315820771.59916</expavg_time>
+        <domain_name>LENOVO-DAZ</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7200  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2640909886.26422</p_fpops>
+        <p_iops>5141917193.30348</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6433</id>
+        <create_time>1290229090</create_time>
+        <rpc_seqno>5628</rpc_seqno>
+        <host_cpid>6f4de0bb104155e30885682f6f3729b5</host_cpid>
+        <total_credit>2581.247831</total_credit>
+        <expavg_credit>0.071155</expavg_credit>
+        <expavg_time>1310557454.32588</expavg_time>
+        <domain_name>Laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) M100 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1637567610.93807</p_fpops>
+        <p_iops>4790405110.27834</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6321</id>
+        <create_time>1289849338</create_time>
+        <rpc_seqno>203</rpc_seqno>
+        <host_cpid>1c60b130e5a3f45f53859a3c6ab5c603</host_cpid>
+        <total_credit>228.830475</total_credit>
+        <expavg_credit>0.063027</expavg_credit>
+        <expavg_time>1295727903.56475</expavg_time>
+        <domain_name>Ubuntu64</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>1914257228.31506</p_fpops>
+        <p_iops>10046775716.4572</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>9534</id>
+        <create_time>1311070930</create_time>
+        <rpc_seqno>74</rpc_seqno>
+        <host_cpid>fef72b0d59fc681d9f6c474c2f603571</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311070930</expavg_time>
+        <domain_name>lavondys</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            3065  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1462915381.44209</p_fpops>
+        <p_iops>4731709047.87401</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-31-server</os_version>
+        <venue>home</venue>
+    </host>
+</user>

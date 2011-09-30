@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2800</id>
+    <cpid>95d1e112815edab6eca97a6ab6fa1708</cpid>
+    <create_time>1286544433</create_time>
+    <name>[SG]Piet</name>
+    <country>Germany</country>
+    <total_credit>576.625397</total_credit>
+    <expavg_credit>0.055392</expavg_credit>
+    <expavg_time>1295727902.95407</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>5763</id>
+        <create_time>1286554754</create_time>
+        <rpc_seqno>370</rpc_seqno>
+        <host_cpid>322f2ae64fd5e0de3c88212e8ef5b51c</host_cpid>
+        <total_credit>576.625397</total_credit>
+        <expavg_credit>0.055392</expavg_credit>
+        <expavg_time>1295727903.53688</expavg_time>
+        <domain_name>Piet-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2253981024.95736</p_fpops>
+        <p_iops>6961528332.46895</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5764</id>
+        <create_time>1286556011</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>77b31923bd0eb9148baa878213e9395f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286556011</expavg_time>
+        <domain_name>Monsta-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2228273329.2316</p_fpops>
+        <p_iops>7001116690.56144</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

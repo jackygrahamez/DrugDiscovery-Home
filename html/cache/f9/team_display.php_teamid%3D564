@@ -1,0 +1,87 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"564";s:11:"create_time";s:10:"1249788136";s:6:"userid";s:3:"618";s:4:"name";s:12:"Georgia Tech";s:7:"name_lc";s:12:"georgia tech";s:3:"url";s:15:"www.gatech.edu/";s:4:"type";s:1:"6";s:9:"name_html";s:0:"";s:11:"description";s:55:"Students, faculty, alumni, and friends of Georgia Tech.";s:6:"nusers";s:1:"0";s:7:"country";s:13:"United States";s:12:"total_credit";s:12:"25167.448474";s:13:"expavg_credit";s:8:"0.055764";s:11:"expavg_time";s:16:"1262006703.12302";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:10:"1282460145";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"0";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:3:"618";s:11:"create_time";s:10:"1241136000";s:10:"email_addr";s:20:"jaguar9019@yahoo.com";s:4:"name";s:10:"Tim Turner";s:13:"authenticator";s:25:"977ad795ddc7ef48a3306668d";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"31909";s:12:"total_credit";s:15:"184321.98363727";s:13:"expavg_credit";s:17:"0.034844551578786";s:11:"expavg_time";s:10:"1314642001";s:12:"global_prefs";s:3628:"<global_preferences>
+    <source_project>http://boinc.bakerlab.org/rosetta/</source_project>
+    <source_scheduler>http://srv4.bakerlab.org/rosetta_cgi/cgi</source_scheduler>
+  <mod_time>1249358699</mod_time>
+  <venue name="home">
+    <run_on_batteries>1</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>1000000</cpu_scheduling_period_minutes>
+    <hangup_if_dialed>1</hangup_if_dialed>
+    <work_buf_min_days>0.0</work_buf_min_days>
+    <work_buf_additional_days>1.0</work_buf_additional_days>
+    <max_cpus>64</max_cpus>
+    <max_ncpus_pct>100</max_ncpus_pct>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.0010</disk_min_free_gb>
+    <vm_max_used_pct>75.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>65.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <dont_verify_images>0</dont_verify_images>
+  </venue>
+  <venue name="work">
+    <run_on_batteries>0</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>1000000</cpu_scheduling_period_minutes>
+    <hangup_if_dialed>1</hangup_if_dialed>
+    <work_buf_min_days>0.0</work_buf_min_days>
+    <work_buf_additional_days>1.5</work_buf_additional_days>
+    <max_cpus>64</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>100.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.0010</disk_min_free_gb>
+    <vm_max_used_pct>80.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>65.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <dont_verify_images>0</dont_verify_images>
+  </venue>
+  <cpu_scheduling_period_minutes>1000000</cpu_scheduling_period_minutes>
+  <start_hour>0</start_hour>
+  <end_hour>0</end_hour>
+  <run_if_user_active>1</run_if_user_active>
+  <idle_time_to_run>3</idle_time_to_run>
+  <run_gpu_if_user_active>1</run_gpu_if_user_active>
+  <run_on_batteries>0</run_on_batteries>
+  <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+  <cpu_usage_limit>100</cpu_usage_limit>
+  <max_cpus>64</max_cpus>
+  <max_ncpus_pct>100</max_ncpus_pct>
+  <disk_max_used_gb>100</disk_max_used_gb>
+  <disk_max_used_pct>50</disk_max_used_pct>
+  <disk_min_free_gb>0.001</disk_min_free_gb>
+  <disk_interval>60</disk_interval>
+  <ram_max_used_busy_pct>65</ram_max_used_busy_pct>
+  <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+  <vm_max_used_pct>75</vm_max_used_pct>
+  <work_buf_min_days>0</work_buf_min_days>
+  <work_buf_additional_days>1.5</work_buf_additional_days>
+  <net_start_hour>0</net_start_hour>
+  <net_end_hour>0</net_end_hour>
+  <confirm_before_connecting>0</confirm_before_connecting>
+  <hangup_if_dialed>1</hangup_if_dialed>
+  <max_bytes_sec_down>0</max_bytes_sec_down>
+  <max_bytes_sec_up>0</max_bytes_sec_up>
+  <dont_verify_images>1</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>300</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"557";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:2:"43";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"0b6b6f7743bf2677d9a8667c393db85b";s:11:"passwd_hash";s:32:"38372b1513670262dd0e9b98a4436df0";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1132</id>
+    <cpid>e5d2a2b3c23c428a00dcb9300d838058</cpid>
+    <create_time>1258578564</create_time>
+    <name>padamek</name>
+    <country>Czech Republic</country>
+    <total_credit>6976.4279395306</total_credit>
+    <expavg_credit>0.147862</expavg_credit>
+    <expavg_time>1315851902.55717</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1462</id>
+        <create_time>1258578764</create_time>
+        <rpc_seqno>712</rpc_seqno>
+        <host_cpid>c1092cacda58cc59b4fd5245c1827a8a</host_cpid>
+        <total_credit>1587.43577</total_credit>
+        <expavg_credit>0.065102</expavg_credit>
+        <expavg_time>1265904303.5357</expavg_time>
+        <domain_name>CZ_Z1_PC007</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Intel64 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>699938672.000256</p_fpops>
+        <p_iops>1966875444.94046</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1485</id>
+        <create_time>1258675607</create_time>
+        <rpc_seqno>56</rpc_seqno>
+        <host_cpid>5b93ee0086f350a8141731ed419afd9a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258675607</expavg_time>
+        <domain_name>mail3.tenzo.cz</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2000+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1017306680.56321</p_fpops>
+        <p_iops>2321659737.71065</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.23.17-88.fc7</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1966</id>
+        <create_time>1264282127</create_time>
+        <rpc_seqno>316</rpc_seqno>
+        <host_cpid>ffdf1c61960f92619dc6edfc2b65af82</host_cpid>
+        <total_credit>879.34548153059</total_credit>
+        <expavg_credit>0.059218</expavg_credit>
+        <expavg_time>1270872002.42556</expavg_time>
+        <domain_name>OCSserver</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5420  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2519458148.70838</p_fpops>
+        <p_iops>7383196772.6578</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2324</id>
+        <create_time>1266263204</create_time>
+        <rpc_seqno>279</rpc_seqno>
+        <host_cpid>0d7dc67863ed5b6ca40a282c1ba5f893</host_cpid>
+        <total_credit>4285.295793</total_credit>
+        <expavg_credit>0.077248</expavg_credit>
+        <expavg_time>1275105603.48258</expavg_time>
+        <domain_name>Edgeserver</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz [EM64T Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>2026792009.40071</p_fpops>
+        <p_iops>5820785143.34397</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2701</id>
+        <create_time>1267200311</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>315f70e04da1452f7f7aaa31b1a9dbe4</host_cpid>
+        <total_credit>73.779464</total_credit>
+        <expavg_credit>0.068951</expavg_credit>
+        <expavg_time>1271476803.39555</expavg_time>
+        <domain_name>IBM-R31</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Celeron(TM) CPU         1200MHz [x86 Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>1102706581.05089</p_fpops>
+        <p_iops>1853394431.98519</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8300</id>
+        <create_time>1301779874</create_time>
+        <rpc_seqno>763</rpc_seqno>
+        <host_cpid>e6431a203c4aab4ab17ecc2564e43e7d</host_cpid>
+        <total_credit>150.571431</total_credit>
+        <expavg_credit>0.147862</expavg_credit>
+        <expavg_time>1315851902.83842</expavg_time>
+        <domain_name>ocs</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5420  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2455754400.48947</p_fpops>
+        <p_iops>7481761889.79055</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2171</id>
+    <cpid>33ee8d8647585f529a9cf66e1d16623f</cpid>
+    <create_time>1276530637</create_time>
+    <name>DC</name>
+    <country>China</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1276530637</expavg_time>
+    <teamid>41</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4484</id>
+        <create_time>1277653406</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>742f4f3bd74835dc4fe3ad08021acf43</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277653406</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4600+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>1857825153.32562</p_fpops>
+        <p_iops>5832857142.37318</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4234</id>
+        <create_time>1276531019</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>698af8bdeadcf8cc302d61ba6d269cae</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276531019</expavg_time>
+        <domain_name>DC-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4600+ [x86 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2347235180.69687</p_fpops>
+        <p_iops>4163246957.86486</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

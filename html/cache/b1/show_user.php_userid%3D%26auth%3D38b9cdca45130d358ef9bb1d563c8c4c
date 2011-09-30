@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1871</id>
+    <cpid>e07253d86373a11a519c0af4aa0af4fd</cpid>
+    <create_time>1271814131</create_time>
+    <name>tonid</name>
+    <country>Poland</country>
+    <total_credit>326.382615</total_credit>
+    <expavg_credit>0.05479</expavg_credit>
+    <expavg_time>1282852803.17334</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3537</id>
+        <create_time>1271814702</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>ff30e39505645ff6f683b4161c7ec6c0</host_cpid>
+        <total_credit>26.164985</total_credit>
+        <expavg_credit>0.053021</expavg_credit>
+        <expavg_time>1279944603.25889</expavg_time>
+        <domain_name>nessus</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2530574712.64368</p_fpops>
+        <p_iops>4488953455.90836</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>3538</id>
+        <create_time>1271815512</create_time>
+        <rpc_seqno>213</rpc_seqno>
+        <host_cpid>908b6c67ff190a22d8c2702e70d84b31</host_cpid>
+        <total_credit>300.21763</total_credit>
+        <expavg_credit>0.05199</expavg_credit>
+        <expavg_time>1282852803.8081</expavg_time>
+        <domain_name>Harch</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1332082732.08273</p_fpops>
+        <p_iops>2589212237.70025</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

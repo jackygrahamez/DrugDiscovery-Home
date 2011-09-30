@@ -1,0 +1,36 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"3066";s:11:"create_time";s:10:"1289322766";s:10:"email_addr";s:20:"mwrchowe@uni-bonn.de";s:4:"name";s:12:"michael-u5a1";s:13:"authenticator";s:32:"2bc02aec75d363382866984016cf946a";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"53121";s:12:"total_credit";s:10:"754.266347";s:13:"expavg_credit";s:8:"0.482961";s:11:"expavg_time";s:16:"1316998502.42355";s:12:"global_prefs";s:1080:"<global_preferences>
+    <source_project>http://vcsc.cs.uh.edu/virtual-prairie/</source_project>
+    <source_scheduler>http://vcsc.cs.uh.edu/virtual-prairie_cgi/cgi</source_scheduler>
+<mod_time>1224682910</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>90000000</cpu_scheduling_period_minutes>
+<confirm_before_connecting/>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.05</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:181:"<project_preferences>
+<resource_share>999</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>100</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:2:"30";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"8e5f34ac08a70e199c776657b2704e95";s:11:"passwd_hash";s:32:"fce3028b78b8e4deefd60b3d57a8efb4";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"30";s:11:"create_time";s:10:"1240319486";s:6:"userid";s:4:"3159";s:4:"name";s:16:"BOINC@Heidelberg";s:7:"name_lc";s:16:"boinc@heidelberg";s:3:"url";s:17:"www.boinc-team.de";s:4:"type";s:1:"1";s:9:"name_html";s:206:"<a href='http://www.boinc-team.de/'><img src='http://www.boinc-team.de/portal/boinc/img/banner_top_all.png' border="0"></a><br><img src='http://www.boincstats.com/signature/team_6418_banner.gif' border="0">";s:11:"description";s:503:"Dies ist das Team von BOINC@Heidelberg, dem sympathischen Team aus Deutschland fuer jedermann. Wir sind bei nahezu allen BOINC Projekten vertreten. Besucht doch unser Portal mit vielen nuetzlichen Informationen und einem tollen Forum. ~~~ This is the team of BOINC@Heidelberg, the simpatico team from Germany for everyone. You can find us at almost every BOINC project around. Please visit our website with a lot of useful information and a great forum (also english boards).
+
+http://www.boinc-team.de";s:6:"nusers";s:2:"17";s:7:"country";s:7:"Germany";s:12:"total_credit";s:15:"189460.20284467";s:13:"expavg_credit";s:10:"122.113319";s:11:"expavg_time";s:16:"1317305443.08781";s:7:"seti_id";s:3:"187";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

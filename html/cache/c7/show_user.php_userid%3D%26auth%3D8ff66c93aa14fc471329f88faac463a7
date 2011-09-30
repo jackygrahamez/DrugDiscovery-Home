@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1442</id>
+    <cpid>b1de1dfe57918d36626cc9ec623ec7a3</cpid>
+    <create_time>1266935309</create_time>
+    <name>eagle00789</name>
+    <country>Netherlands</country>
+    <total_credit>2375.32872866251</total_credit>
+    <expavg_credit>0.055172</expavg_credit>
+    <expavg_time>1300046703.19715</expavg_time>
+    <teamid>101</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2592</id>
+        <create_time>1266936976</create_time>
+        <rpc_seqno>157</rpc_seqno>
+        <host_cpid>a7ecc3c3f6f4cd79a6f7db59d45916a1</host_cpid>
+        <total_credit>786.71904966251</total_credit>
+        <expavg_credit>0.098299</expavg_credit>
+        <expavg_time>1276920003.39449</expavg_time>
+        <domain_name>WS7381</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU            2160  @ 1.80GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1668643257.27558</p_fpops>
+        <p_iops>3519389432.77453</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2611</id>
+        <create_time>1266995428</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>39411cbff20a8043da85cccb19dbd248</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266995428</expavg_time>
+        <domain_name>WS7059</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 3.00GHz [x86 Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1461607142.85714</p_fpops>
+        <p_iops>2439725976.17871</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4276</id>
+        <create_time>1276811367</create_time>
+        <rpc_seqno>759</rpc_seqno>
+        <host_cpid>cf0a92119edb10825018297fbc57ea5f</host_cpid>
+        <total_credit>1588.609679</total_credit>
+        <expavg_credit>0.055172</expavg_credit>
+        <expavg_time>1300046703.50279</expavg_time>
+        <domain_name>PC-Chris</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>3250729053.94106</p_fpops>
+        <p_iops>8452039142.17827</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

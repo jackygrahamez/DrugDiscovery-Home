@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1102</id>
+    <cpid>e69683df60c545698812f9d824fdae7e</cpid>
+    <create_time>1258461039</create_time>
+    <name>-T.o.M.e.K-</name>
+    <country>Germany</country>
+    <total_credit>667.260227</total_credit>
+    <expavg_credit>0.081673</expavg_credit>
+    <expavg_time>1295727902.99933</expavg_time>
+    <teamid>700</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1397</id>
+        <create_time>1258461960</create_time>
+        <rpc_seqno>445</rpc_seqno>
+        <host_cpid>f79dd7c28baf90857bc650dc498c4b84</host_cpid>
+        <total_credit>593.406477</total_credit>
+        <expavg_credit>0.055544</expavg_credit>
+        <expavg_time>1272081603.11061</expavg_time>
+        <domain_name>pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8600  @ 3.33GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3481020045.25199</p_fpops>
+        <p_iops>7044060582.0718</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1964</id>
+        <create_time>1264217955</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>202a278f811476ca1a5f38156d526323</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1264217955</expavg_time>
+        <domain_name>Laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T2310  @ 1.46GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1392959732.44321</p_fpops>
+        <p_iops>3031986289.64772</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2920</id>
+        <create_time>1268104379</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>a3610ea54f9ec0c40e3ab30ed7c162d7</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1268104379</expavg_time>
+        <domain_name>pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8600  @ 3.33GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3444968389.23917</p_fpops>
+        <p_iops>7079139926.93484</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4725</id>
+        <create_time>1279447155</create_time>
+        <rpc_seqno>75</rpc_seqno>
+        <host_cpid>f59794ecd5cc2d91259f8e5d366bddfe</host_cpid>
+        <total_credit>73.85375</total_credit>
+        <expavg_credit>0.081827</expavg_credit>
+        <expavg_time>1295727903.34856</expavg_time>
+        <domain_name>PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8600  @ 3.33GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>4161967123.57356</p_fpops>
+        <p_iops>12285984817.5572</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>Generaleinstellung</venue>
+    </host>
+</user>

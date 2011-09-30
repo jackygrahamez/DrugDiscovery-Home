@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2189</id>
+    <cpid>c3fa4ed86a3c4aa26f42b781dd094780</cpid>
+    <create_time>1277019779</create_time>
+    <name>crimeR</name>
+    <country>Russia</country>
+    <total_credit>320.615851</total_credit>
+    <expavg_credit>0.097695</expavg_credit>
+    <expavg_time>1282248002.69566</expavg_time>
+    <teamid>921</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4294</id>
+        <create_time>1277020260</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>1bc5d3a3416fafdc73526c15beb08b40</host_cpid>
+        <total_credit>320.615851</total_credit>
+        <expavg_credit>0.0977</expavg_credit>
+        <expavg_time>1282248003.10246</expavg_time>
+        <domain_name>mycomp</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 20 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>3492406857.50294</p_fpops>
+        <p_iops>7087525104.83518</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4330</id>
+        <create_time>1277116877</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>74c878a49f2078c74da073a4b137bcbe</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277116877</expavg_time>
+        <domain_name>tcigikaloeg</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 4 Stepping 9]</p_model>
+        <p_fpops>1600000000</p_fpops>
+        <p_iops>2305063558.45929</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,40 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2788";s:11:"create_time";s:10:"1286280752";s:10:"email_addr";s:22:"suzumaru71@yahoo.co.jp";s:4:"name";s:15:"A.Mackie@hiyoko";s:13:"authenticator";s:32:"420be860979e0741ce2d2623a6b8908a";s:7:"country";s:5:"Japan";s:11:"postal_code";s:0:"";s:12:"total_credit";s:10:"101.337734";s:13:"expavg_credit";s:8:"0.065886";s:11:"expavg_time";s:16:"1297022703.31806";s:12:"global_prefs";s:1598:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1286253973</mod_time>
+    <run_on_batteries>0</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <idle_time_to_run>1</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+    <hangup_if_dialed>0</hangup_if_dialed>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>0.3</work_buf_additional_days>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>120.0</disk_interval>
+    <disk_max_used_gb>7.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.5</disk_min_free_gb>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>70.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>98.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <dont_verify_images>0</dont_verify_images>
+    <end_hour>0</end_hour>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <suspend_cpu_usage>25.0</suspend_cpu_usage>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+</global_preferences>
+";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>125</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:3:"498";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"d1a99f6be5181328ce37a42f43fc5296";s:11:"passwd_hash";s:32:"92ec3153f727ed269222a9ab21fb3a32";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2788";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:10:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:3:"167";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"402172";s:11:"create_time";s:10:"1290156044";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"454";s:9:"team_name";s:8:"Team 2ch";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4473";s:13:"expavg_credit";d:0;s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"69450";s:11:"create_time";s:10:"1286223241";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"194";s:9:"team_name";s:8:"Team 2ch";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1482";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"710836";s:11:"create_time";s:10:"1285577180";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"221";s:9:"team_name";s:8:"Team 2ch";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:3:"215";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"68217";s:11:"create_time";s:10:"1285793573";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"342";s:9:"team_name";s:8:"Team 2ch";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:3:"809";s:13:"expavg_credit";d:0;s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"69858";s:11:"create_time";s:10:"1286460658";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"240";s:9:"team_name";s:8:"Team 2ch";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1933";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"33753";s:11:"create_time";s:10:"1286725403";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"144";s:9:"team_name";s:8:"Team 2ch";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:3:"963";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"32116";s:11:"create_time";s:10:"1286725493";s:7:"country";s:5:"Japan";s:7:"team_id";s:2:"13";s:9:"team_name";s:8:"Team 2ch";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:3:"101";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2788";s:11:"create_time";s:10:"1286280752";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"498";s:9:"team_name";s:8:"Team 2ch";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:2:"23";s:13:"expavg_credit";d:0;s:4:"name";s:21:"Goldbach's Conjecture";s:3:"url";s:23:"http://www.goldbach.pl/";s:2:"id";s:4:"1288";s:11:"create_time";s:10:"1286725404";s:7:"country";s:5:"Japan";s:7:"team_id";s:2:"32";s:9:"team_name";s:8:"Team 2ch";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:2:"64";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"3216";s:11:"create_time";s:10:"1286198496";s:7:"country";s:5:"Japan";s:7:"team_id";s:3:"140";s:9:"team_name";s:8:"Team 2ch";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"498";s:11:"create_time";s:10:"1241728804";s:6:"userid";s:3:"775";s:4:"name";s:8:"Team 2ch";s:7:"name_lc";s:8:"team 2ch";s:3:"url";s:12:"www.2ch.net/";s:4:"type";s:1:"1";s:9:"name_html";s:8:"Team 2ch";s:11:"description";s:162:"'2ch' is Japanese Internet forum that have very wide topics, and it is the biggest in Japan. People who sympathize with volunteerism in '2ch' belong to this team.";s:6:"nusers";s:2:"75";s:7:"country";s:5:"Japan";s:12:"total_credit";s:15:"155380.17234175";s:13:"expavg_credit";s:7:"2.78929";s:11:"expavg_time";s:16:"1316998502.74748";s:7:"seti_id";s:4:"1037";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

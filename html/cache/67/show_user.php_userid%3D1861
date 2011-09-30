@@ -1,0 +1,32 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1861";s:11:"create_time";s:10:"1271618365";s:10:"email_addr";s:29:"marcos.gonzalez1961@gmail.com";s:4:"name";s:9:"gonz_marc";s:13:"authenticator";s:32:"54c159d92ef5409137d5f5a9725a3f46";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"33137";s:12:"total_credit";s:9:"63.627938";s:13:"expavg_credit";s:8:"0.099303";s:11:"expavg_time";s:15:"1276315202.9576";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1271618365</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"0";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"39dde4a47d044a96110e9165d4290361";s:11:"passwd_hash";s:32:"2039fcbdf471ea0210f6d1670770ddae";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1861";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:14:{i:0;O:8:"stdClass":7:{s:12:"total_credit";s:4:"6549";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"9249099";s:11:"create_time";s:10:"1271618488";s:7:"country";s:13:"United States";}i:1;O:8:"stdClass":7:{s:12:"total_credit";s:3:"753";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"500035";s:11:"create_time";s:10:"1271618372";s:7:"country";s:13:"United States";}i:2;O:8:"stdClass":7:{s:12:"total_credit";s:3:"595";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"620991";s:11:"create_time";s:10:"1271618349";s:7:"country";s:13:"International";}i:3;O:8:"stdClass":7:{s:12:"total_credit";d:0;s:13:"expavg_credit";d:0;s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:6:"189159";s:11:"create_time";s:10:"1271618398";s:7:"country";s:13:"United States";}i:4;O:8:"stdClass":7:{s:12:"total_credit";s:3:"467";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"377642";s:11:"create_time";s:10:"1271618472";s:7:"country";s:13:"United States";}i:5;O:8:"stdClass":7:{s:12:"total_credit";s:2:"24";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:5:"43319";s:11:"create_time";s:10:"1271616745";s:7:"country";s:13:"United States";}i:6;O:8:"stdClass":7:{s:12:"total_credit";s:3:"750";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"78844";s:11:"create_time";s:10:"1271618437";s:7:"country";s:13:"United States";}i:7;O:8:"stdClass":7:{s:12:"total_credit";s:3:"921";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"28258";s:11:"create_time";s:10:"1271618358";s:7:"country";s:13:"United States";}i:8;O:8:"stdClass":7:{s:12:"total_credit";s:3:"988";s:13:"expavg_credit";d:0;s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:5:"58995";s:11:"create_time";s:10:"1271618339";s:7:"country";s:13:"United States";}i:9;O:8:"stdClass":7:{s:12:"total_credit";s:3:"571";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"27813";s:11:"create_time";s:10:"1271618642";s:7:"country";s:13:"United States";}i:10;O:8:"stdClass":7:{s:12:"total_credit";s:3:"213";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:5:"99727";s:11:"create_time";s:10:"1271618403";s:7:"country";s:13:"United States";}i:11;O:8:"stdClass":7:{s:12:"total_credit";s:2:"63";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1861";s:11:"create_time";s:10:"1271618365";s:7:"country";s:13:"United States";}i:12;O:8:"stdClass":7:{s:12:"total_credit";s:3:"285";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"1909";s:11:"create_time";s:10:"1271618466";s:7:"country";s:13:"United States";}i:13;O:8:"stdClass":7:{s:12:"total_credit";s:3:"950";s:13:"expavg_credit";d:0;s:4:"name";s:17:"QuantumFIRE alpha";s:3:"url";s:29:"http://cah.tcm.phy.cam.ac.uk/";s:2:"id";s:4:"1922";s:11:"create_time";s:10:"1271617933";s:7:"country";s:13:"United States";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";b:0;}}

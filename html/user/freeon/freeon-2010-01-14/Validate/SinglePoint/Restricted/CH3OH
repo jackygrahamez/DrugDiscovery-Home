@@ -1,0 +1,3 @@
+#!/bin/bash
+
+FreeON ${srcdir}/CH3OH.inp | ${srcdir}/../../parseTestResults.py --reference ${srcdir}/CH3OH.reference

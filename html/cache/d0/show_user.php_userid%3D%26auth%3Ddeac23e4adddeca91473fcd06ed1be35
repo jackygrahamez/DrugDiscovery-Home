@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1360</id>
+    <cpid>f4f6073cd6d190581e4f1a77ebc5c90d</cpid>
+    <create_time>1266238403</create_time>
+    <name>Rigved</name>
+    <country>India</country>
+    <total_credit>131.21346</total_credit>
+    <expavg_credit>0.060096</expavg_credit>
+    <expavg_time>1279944602.76071</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2321</id>
+        <create_time>1266241480</create_time>
+        <rpc_seqno>1304</rpc_seqno>
+        <host_cpid>e07aec45e380b66d47412d0871e06f60</host_cpid>
+        <total_credit>131.21346</total_credit>
+        <expavg_credit>0.060096</expavg_credit>
+        <expavg_time>1279944603.18982</expavg_time>
+        <domain_name>Rigved-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Intel64 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2681173736.75146</p_fpops>
+        <p_iops>7840565005.95416</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3807</id>
+        <create_time>1273394323</create_time>
+        <rpc_seqno>67</rpc_seqno>
+        <host_cpid>acf4035bb86d6f362c4e629716bdb046</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273394323</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7300  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2560483870.96774</p_fpops>
+        <p_iops>8179314329.1872</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

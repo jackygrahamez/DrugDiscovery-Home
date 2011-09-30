@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1272</id>
+    <cpid>5321b5926e38053e184961fc7434876b</cpid>
+    <create_time>1265420256</create_time>
+    <name>AndyG_NH</name>
+    <country>Germany</country>
+    <total_credit>707.796806</total_credit>
+    <expavg_credit>0.053601</expavg_credit>
+    <expavg_time>1272081602.70091</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2086</id>
+        <create_time>1265422138</create_time>
+        <rpc_seqno>55</rpc_seqno>
+        <host_cpid>5851578cf5bb63a040860f64bf4b63c9</host_cpid>
+        <total_credit>106.313404</total_credit>
+        <expavg_credit>0.056075</expavg_credit>
+        <expavg_time>1270267203.4873</expavg_time>
+        <domain_name>nb0</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.73GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1203922971.64534</p_fpops>
+        <p_iops>3510820770.90523</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2087</id>
+        <create_time>1265423490</create_time>
+        <rpc_seqno>222</rpc_seqno>
+        <host_cpid>8967b30a7ee001b7a8a3232837f99a9b</host_cpid>
+        <total_credit>601.483402</total_credit>
+        <expavg_credit>0.092695</expavg_credit>
+        <expavg_time>1271476803.36761</expavg_time>
+        <domain_name>dt0</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5400+ [Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>1738443561.30583</p_fpops>
+        <p_iops>6124466026.68117</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-20-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2088</id>
+        <create_time>1265424650</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>bb55d961c653610c7b6c37c09fa869ba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265424650</expavg_time>
+        <domain_name>net0-win</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [x86 Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>669101763.476685</p_fpops>
+        <p_iops>1662896224.53608</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Starter x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2089</id>
+        <create_time>1265434629</create_time>
+        <rpc_seqno>36</rpc_seqno>
+        <host_cpid>9a58866ff3653944260b7f78ba65c327</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1265434629</expavg_time>
+        <domain_name>ap0</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook6,8] [AltiVec]</p_model>
+        <p_fpops>965657568.813295</p_fpops>
+        <p_iops>2985825627.68513</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.0</os_version>
+        <venue></venue>
+    </host>
+</user>

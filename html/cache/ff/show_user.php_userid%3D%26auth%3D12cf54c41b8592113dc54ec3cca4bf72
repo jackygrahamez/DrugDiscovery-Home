@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2590</id>
+    <cpid>c1ab0d69b07b5bf662b5d686fc1bca1c</cpid>
+    <create_time>1283534611</create_time>
+    <name>Mr Jenkins</name>
+    <country>Australia</country>
+    <total_credit>1145.0342018982</total_credit>
+    <expavg_credit>0.0030555212098889</expavg_credit>
+    <expavg_time>1314641949</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5291</id>
+        <create_time>1283534807</create_time>
+        <rpc_seqno>776</rpc_seqno>
+        <host_cpid>31c8524b664d6cead42987b86b6baf16</host_cpid>
+        <total_credit>531.63735989823</total_credit>
+        <expavg_credit>0.00027456074987842</expavg_credit>
+        <expavg_time>1314641949</expavg_time>
+        <domain_name>Roy</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2608088811.62621</p_fpops>
+        <p_iops>7983412003.9097</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5296</id>
+        <create_time>1283578801</create_time>
+        <rpc_seqno>827</rpc_seqno>
+        <host_cpid>825b81eb23b263448b647c1807da6b73</host_cpid>
+        <total_credit>41.554246</total_credit>
+        <expavg_credit>0.056654</expavg_credit>
+        <expavg_time>1306699803.46928</expavg_time>
+        <domain_name>Cat</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6850  @ 3.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2886654186.88757</p_fpops>
+        <p_iops>5858597460.36511</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5298</id>
+        <create_time>1283607076</create_time>
+        <rpc_seqno>784</rpc_seqno>
+        <host_cpid>84ac695aa910560fa85b96954872d323</host_cpid>
+        <total_credit>306.668391</total_credit>
+        <expavg_credit>0.068439</expavg_credit>
+        <expavg_time>1310933703.03648</expavg_time>
+        <domain_name>Moss</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1733280241.26429</p_fpops>
+        <p_iops>3918810562.16773</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5300</id>
+        <create_time>1283608196</create_time>
+        <rpc_seqno>239</rpc_seqno>
+        <host_cpid>61615b35768894aac026daaef1276c68</host_cpid>
+        <total_credit>265.174205</total_credit>
+        <expavg_credit>0.097318</expavg_credit>
+        <expavg_time>1297627502.9201</expavg_time>
+        <domain_name>Helen-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>2057218822.988</p_fpops>
+        <p_iops>4430283682.24211</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5302</id>
+        <create_time>1283614154</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0e1c6154577afd22b6100e9d8e058ead</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283614154</expavg_time>
+        <domain_name>Douglas</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [Intel64 Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>2046453716.90617</p_fpops>
+        <p_iops>6399270159.22511</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8723</id>
+        <create_time>1304830928</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>0e52974292852b48853e740911011914</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1304830928</expavg_time>
+        <domain_name>MinecraftServer</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz [Family 6 Model 15 Stepping 10]</p_model>
+        <p_fpops>1892528378.45557</p_fpops>
+        <p_iops>6368258872.82066</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

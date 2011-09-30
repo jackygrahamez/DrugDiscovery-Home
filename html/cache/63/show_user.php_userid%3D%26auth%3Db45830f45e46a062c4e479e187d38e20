@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1953</id>
+    <cpid>281a3bc2236a50a6a49402906ddc9719</cpid>
+    <create_time>1272967972</create_time>
+    <name>[boinc.at] wollomollow</name>
+    <country>Austria</country>
+    <total_credit>27525.689091575</total_credit>
+    <expavg_credit>5.339543</expavg_credit>
+    <expavg_time>1315771956.73227</expavg_time>
+    <teamid>196</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3746</id>
+        <create_time>1272968238</create_time>
+        <rpc_seqno>99</rpc_seqno>
+        <host_cpid>f711c0e74886d13308aaba4a4853a266</host_cpid>
+        <total_credit>23621.266957575</total_credit>
+        <expavg_credit>1.80764</expavg_credit>
+        <expavg_time>1315771956.73244</expavg_time>
+        <domain_name>lamar</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>2982992633.89499</p_fpops>
+        <p_iops>6984238912.0371</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5507</id>
+        <create_time>1284798246</create_time>
+        <rpc_seqno>1608</rpc_seqno>
+        <host_cpid>4676ef47d4a4eb47c759021a01375c24</host_cpid>
+        <total_credit>1957.90249</total_credit>
+        <expavg_credit>0.059939</expavg_credit>
+        <expavg_time>1297627502.82435</expavg_time>
+        <domain_name>lamarlaptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1951814730.89203</p_fpops>
+        <p_iops>5792904506.53587</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6165</id>
+        <create_time>1289298951</create_time>
+        <rpc_seqno>779</rpc_seqno>
+        <host_cpid>447549c04a24bf4f39fb960cdbf390dc</host_cpid>
+        <total_credit>1709.036571</total_credit>
+        <expavg_credit>0.075049</expavg_credit>
+        <expavg_time>1302465904.29566</expavg_time>
+        <domain_name>lamarr</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1801528770.1532</p_fpops>
+        <p_iops>3757118874.0098</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9044</id>
+        <create_time>1307259849</create_time>
+        <rpc_seqno>5297</rpc_seqno>
+        <host_cpid>c91d23f004d4cb3098f8a824e1ebc3be</host_cpid>
+        <total_credit>187.328594</total_credit>
+        <expavg_credit>0.05049</expavg_credit>
+        <expavg_time>1315247104.68282</expavg_time>
+        <domain_name>lamarlaptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>777835166.597259</p_fpops>
+        <p_iops>2053210855.2466</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9389</id>
+        <create_time>1309714175</create_time>
+        <rpc_seqno>249</rpc_seqno>
+        <host_cpid>2fede5d9b2302b512c988c25027aa9d0</host_cpid>
+        <total_credit>42.837232</total_credit>
+        <expavg_credit>2.890927</expavg_credit>
+        <expavg_time>1315570007.01971</expavg_time>
+        <domain_name>lamarr</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1781237628.3415</p_fpops>
+        <p_iops>3668284843.81801</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10031</id>
+        <create_time>1315544477</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>72939536cad338c14f77d1ad7e92ebbd</host_cpid>
+        <total_credit>7.317247</total_credit>
+        <expavg_credit>0.645231</expavg_credit>
+        <expavg_time>1315750901.39761</expavg_time>
+        <domain_name>rnai24</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>2085799730.52023</p_fpops>
+        <p_iops>4603437224.05112</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1992</id>
+    <cpid>5fa4d6a269be96cce8eab284e389d509</cpid>
+    <create_time>1273533487</create_time>
+    <name>grremm1</name>
+    <country>United States</country>
+    <total_credit>22.074332</total_credit>
+    <expavg_credit>0.072061</expavg_credit>
+    <expavg_time>1309724102.67846</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7042</id>
+        <create_time>1293220910</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>5801f93b800d5a36196e8746757ac6c3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293220910</expavg_time>
+        <domain_name>HP30394189102</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1330410342.88926</p_fpops>
+        <p_iops>2360570297.42665</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8519</id>
+        <create_time>1303511306</create_time>
+        <rpc_seqno>334</rpc_seqno>
+        <host_cpid>e184615e324d83cfcd5a5bff8d225b21</host_cpid>
+        <total_credit>22.074332</total_credit>
+        <expavg_credit>0.09447</expavg_credit>
+        <expavg_time>1309724102.90306</expavg_time>
+        <domain_name>HOME</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2742857142.85714</p_fpops>
+        <p_iops>5428208140.08404</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10049</id>
+        <create_time>1315607090</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>5e5c77a9f90cb465e1422d899c8e5895</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315607090</expavg_time>
+        <domain_name>Liz-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2521611936.71731</p_fpops>
+        <p_iops>4302122623.60305</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

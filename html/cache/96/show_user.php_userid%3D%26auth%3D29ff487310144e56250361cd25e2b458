@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2722</id>
+    <cpid>cc6708bc1bf3729a402c7a0298b6b62a</cpid>
+    <create_time>1285501962</create_time>
+    <name>LiSrt</name>
+    <country>United Kingdom</country>
+    <total_credit>14509.342201</total_credit>
+    <expavg_credit>0.059155</expavg_credit>
+    <expavg_time>1315851902.45748</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5619</id>
+        <create_time>1285529939</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>764f5fc58d6c09784b24a2d5328249db</host_cpid>
+        <total_credit>9.004166</total_credit>
+        <expavg_credit>0.079034</expavg_credit>
+        <expavg_time>1290889503.26948</expavg_time>
+        <domain_name>sadie-a993ace91</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.50GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>728073394.495413</p_fpops>
+        <p_iops>1284334157.77312</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5680</id>
+        <create_time>1285876395</create_time>
+        <rpc_seqno>38</rpc_seqno>
+        <host_cpid>6524b16c8888a56067c7ed06dd092540</host_cpid>
+        <total_credit>14500.338035</total_credit>
+        <expavg_credit>0.059155</expavg_credit>
+        <expavg_time>1315851902.704</expavg_time>
+        <domain_name>localhost</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         970  @ 3.20GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>2654162362.55849</p_fpops>
+        <p_iops>6741752727.25355</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.36.2-desktop-2mnb</os_version>
+        <venue></venue>
+    </host>
+</user>

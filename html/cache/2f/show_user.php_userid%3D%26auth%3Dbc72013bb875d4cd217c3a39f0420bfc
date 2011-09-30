@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2468</id>
+    <cpid>09263dce25069b82a492812759663267</cpid>
+    <create_time>1281805893</create_time>
+    <name>Ciechom</name>
+    <country>Poland</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1281805893</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5041</id>
+        <create_time>1281806405</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>67a77d6961cb0a3f028d1b9e9f010905</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281806405</expavg_time>
+        <domain_name>c13chom</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 240 Processor [Family 0 Model 0 Stepping 0]</p_model>
+        <p_fpops>3606679570.08613</p_fpops>
+        <p_iops>8059786111.20852</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6176</id>
+        <create_time>1289332959</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>09b881f90f6bbe62549594ff560f445f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289332959</expavg_time>
+        <domain_name>User-Komputer</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 240 Processor [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>3312901969.52223</p_fpops>
+        <p_iops>7324912057.03174</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

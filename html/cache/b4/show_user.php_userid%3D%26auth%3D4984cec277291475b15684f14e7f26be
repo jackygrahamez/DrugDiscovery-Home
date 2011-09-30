@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1951</id>
+    <cpid>c41c8228c576c2d19dcfede170ad9568</cpid>
+    <create_time>1272897135</create_time>
+    <name>Michael Huenicke</name>
+    <country>Germany</country>
+    <total_credit>14501.365286</total_credit>
+    <expavg_credit>0.072519</expavg_credit>
+    <expavg_time>1310328902.49175</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>3741</id>
+        <create_time>1272897376</create_time>
+        <rpc_seqno>1332</rpc_seqno>
+        <host_cpid>0f63c577e4f39054d7955fc3285515fd</host_cpid>
+        <total_credit>10025.234445</total_credit>
+        <expavg_credit>0.054361</expavg_credit>
+        <expavg_time>1285876803.15481</expavg_time>
+        <domain_name>SCALEO2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9500 Quad-Core Processor [Family 16 Model 2 Stepping 2]</p_model>
+        <p_fpops>2137367203.52044</p_fpops>
+        <p_iops>4601288531.49872</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3742</id>
+        <create_time>1272898349</create_time>
+        <rpc_seqno>1697</rpc_seqno>
+        <host_cpid>1c25409a1a4108eb74b3c6218a632ddf</host_cpid>
+        <total_credit>4431.392817</total_credit>
+        <expavg_credit>0.066808</expavg_credit>
+        <expavg_time>1295123103.61366</expavg_time>
+        <domain_name>kampfkater</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3132261806.1309</p_fpops>
+        <p_iops>6450642307.86758</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7745</id>
+        <create_time>1297788680</create_time>
+        <rpc_seqno>225</rpc_seqno>
+        <host_cpid>33ae3da29af2ce26ee79034c3820c704</host_cpid>
+        <total_credit>44.738024</total_credit>
+        <expavg_credit>0.072519</expavg_credit>
+        <expavg_time>1310328902.72034</expavg_time>
+        <domain_name>Kampfkater</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3012124798.56872</p_fpops>
+        <p_iops>8822297422.71267</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9374</id>
+        <create_time>1309553235</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>31444128aacbc2423597b238a7d64b3a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309553235</expavg_time>
+        <domain_name>KAMPFKATER</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>3332996728.5523</p_fpops>
+        <p_iops>11636604940.1598</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

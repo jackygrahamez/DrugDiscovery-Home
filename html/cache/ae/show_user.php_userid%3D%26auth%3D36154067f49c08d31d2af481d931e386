@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4361</id>
+    <cpid>28eedbf6f51f6ff98f6e74ca10003beb</cpid>
+    <create_time>1301013097</create_time>
+    <name>hoodwink</name>
+    <country>United States</country>
+    <total_credit>42.978824</total_credit>
+    <expavg_credit>0.097948</expavg_credit>
+    <expavg_time>1313352903.35904</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8249</id>
+        <create_time>1301352548</create_time>
+        <rpc_seqno>397</rpc_seqno>
+        <host_cpid>e8ac70b7dd173cfe0ce52e373288b025</host_cpid>
+        <total_credit>42.978824</total_credit>
+        <expavg_credit>0.097949</expavg_credit>
+        <expavg_time>1313352903.89026</expavg_time>
+        <domain_name>Testbox-7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6850  @ 3.00GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2620387577.71858</p_fpops>
+        <p_iops>7856353632.46784</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8259</id>
+        <create_time>1301392504</create_time>
+        <rpc_seqno>26</rpc_seqno>
+        <host_cpid>fdff8a1c97d146f1195db3de461ab1ee</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301392504</expavg_time>
+        <domain_name>XPS-Studio</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2524223905.43827</p_fpops>
+        <p_iops>7816581500.89201</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

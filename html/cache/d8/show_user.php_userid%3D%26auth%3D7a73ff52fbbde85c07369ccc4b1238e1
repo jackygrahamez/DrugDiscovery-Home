@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4352</id>
+    <cpid>cf6f107cd0806cf07a82a10b32133336</cpid>
+    <create_time>1300829837</create_time>
+    <name>lebast!lle</name>
+    <country>Germany</country>
+    <total_credit>6.231429</total_credit>
+    <expavg_credit>0.050954</expavg_credit>
+    <expavg_time>1303071003.191</expavg_time>
+    <teamid>1604</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8172</id>
+        <create_time>1300830984</create_time>
+        <rpc_seqno>4709</rpc_seqno>
+        <host_cpid>58f3ce66216a51091aa1f4e14f2de963</host_cpid>
+        <total_credit>6.231429</total_credit>
+        <expavg_credit>0.050987</expavg_credit>
+        <expavg_time>1303071003.89847</expavg_time>
+        <domain_name>lebastille</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       L 620  @ 2.00GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>1793290228.26149</p_fpops>
+        <p_iops>6355518823.90563</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8199</id>
+        <create_time>1301005074</create_time>
+        <rpc_seqno>205</rpc_seqno>
+        <host_cpid>895106a3dba25b379a2d120498bf5f9e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301005074</expavg_time>
+        <domain_name>lebastille</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1160069645.83948</p_fpops>
+        <p_iops>2555842745.95696</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

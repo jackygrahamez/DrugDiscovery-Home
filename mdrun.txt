@@ -1,0 +1,18 @@
+"my" variable $orig_dir masks earlier declaration in same scope at bin/mdrun4.pl line 169.
+"my" variable $pid masks earlier declaration in same scope at bin/mdrun4.pl line 412.
+"my" variable $pid masks earlier declaration in same scope at bin/mdrun4.pl line 443.
+Name "main::job_file" used only once: possible typo at bin/mdrun4.pl line 27.
+Name "main::md_param" used only once: possible typo at bin/mdrun4.pl line 200.
+Name "main::protein_lig" used only once: possible typo at bin/mdrun4.pl line 44.
+Name "main::TOP_SCORE" used only once: possible typo at bin/mdrun4.pl line 524.
+Name "main::make_ndx" used only once: possible typo at bin/mdrun4.pl line 43.
+Name "main::rsc_memory_bound" used only once: possible typo at bin/mdrun4.pl line 19.
+Name "main::g_energy" used only once: possible typo at bin/mdrun4.pl line 45.
+Thu Sep 29 03:11:36 BST 2011
+1
+Checking if script is running
+Thu Sep 29 03:11:36 BST 2011
+1
+Checking if script is running
+file size21807
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/autodock_ga_run_10_bt_1ijy_w_md1_Autodock.pdb_lig_23874_ChemDiv_000A-0_ts_1317085731302380000.7z

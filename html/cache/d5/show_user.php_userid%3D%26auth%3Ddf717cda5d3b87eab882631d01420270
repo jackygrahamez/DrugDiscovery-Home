@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>103</id>
+    <cpid>81f64c3dd85542a6e31123efd42779da</cpid>
+    <create_time>1240319698</create_time>
+    <name>stardust</name>
+    <country></country>
+    <total_credit>273.088482</total_credit>
+    <expavg_credit>0.057319</expavg_credit>
+    <expavg_time>1295727902.95446</expavg_time>
+    <teamid>92</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>226</id>
+        <create_time>1249397166</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>7b821fe2cda7130328f4ec0a057f7cda</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1249397166</expavg_time>
+        <domain_name>coral</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 1.70GHz [x86 Family 15 Model 1 Stepping 3]</p_model>
+        <p_fpops>756989247.311828</p_fpops>
+        <p_iops>1291899070.38513</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2662</id>
+        <create_time>1267131203</create_time>
+        <rpc_seqno>329</rpc_seqno>
+        <host_cpid>f83239e2ff75b815b51aa0ede253bd86</host_cpid>
+        <total_credit>264.088482</total_credit>
+        <expavg_credit>0.057319</expavg_credit>
+        <expavg_time>1295727903.26498</expavg_time>
+        <domain_name>universe</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 240 Processor [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>2110161273.09366</p_fpops>
+        <p_iops>8424365990.26731</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.36.2-desktop-2mnb</os_version>
+        <venue>home</venue>
+    </host>
+</user>

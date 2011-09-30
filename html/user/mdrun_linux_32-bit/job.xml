@@ -1,0 +1,15 @@
+
+<job_desc>
+    <task>
+        <application>mdrun.exe</application>
+        <command_line> -v -x -c -o -e -cpo -cpi -deffnm md</command_line>
+        <weight>100</weight>
+        <fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <weight>1</weight>
+        <command_line> a -t7z "-ms=off" "-mmt=off" out.7z md.log md.tpr md.gro md.mdp md.edr</command_line>
+    </task>
+</job_desc>
+

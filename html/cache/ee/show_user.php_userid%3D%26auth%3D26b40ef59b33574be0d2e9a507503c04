@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2577</id>
+    <cpid>ae228c399c8655b01a54d78aa454e8b0</cpid>
+    <create_time>1283245071</create_time>
+    <name>sieger82</name>
+    <country>Netherlands</country>
+    <total_credit>211.934068</total_credit>
+    <expavg_credit>0.078724</expavg_credit>
+    <expavg_time>1292703903.1151</expavg_time>
+    <teamid>779</teamid>
+    <url>www.veenhoven.net</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5255</id>
+        <create_time>1283245181</create_time>
+        <rpc_seqno>2378</rpc_seqno>
+        <host_cpid>24868cd02b9f5f702c8245b1f455c3b7</host_cpid>
+        <total_credit>211.934068</total_credit>
+        <expavg_credit>0.078724</expavg_credit>
+        <expavg_time>1292703903.36908</expavg_time>
+        <domain_name>nlalmd4161</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1713856543.12865</p_fpops>
+        <p_iops>3279707565.2513</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5269</id>
+        <create_time>1283274383</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>3e526060336fb0a13ce597596f346cff</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283274383</expavg_time>
+        <domain_name>sieger-desktop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1074069405.73319</p_fpops>
+        <p_iops>2283001631.41112</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-686</os_version>
+        <venue></venue>
+    </host>
+</user>

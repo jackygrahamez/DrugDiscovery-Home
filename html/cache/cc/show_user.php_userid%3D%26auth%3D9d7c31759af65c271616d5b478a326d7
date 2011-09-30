@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2454</id>
+    <cpid>e274fd073500d2c55f3fd593bc5863f7</cpid>
+    <create_time>1281704092</create_time>
+    <name>specialwork</name>
+    <country>Netherlands</country>
+    <total_credit>21.590363</total_credit>
+    <expavg_credit>0.059186</expavg_credit>
+    <expavg_time>1314198764.88506</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5021</id>
+        <create_time>1281717910</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>87efac7f002e8ad0c1c73ca89acf7975</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281717910</expavg_time>
+        <domain_name>Media-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2021052631.57895</p_fpops>
+        <p_iops>4409009753.5494</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5022</id>
+        <create_time>1281721458</create_time>
+        <rpc_seqno>4091</rpc_seqno>
+        <host_cpid>c3f07a23c1674f63ca5d6500af8e8c4c</host_cpid>
+        <total_credit>21.590363</total_credit>
+        <expavg_credit>0.059186</expavg_credit>
+        <expavg_time>1314198764.91633</expavg_time>
+        <domain_name>DB-BLOM</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 430  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2386048168.22206</p_fpops>
+        <p_iops>5363330709.45641</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10089</id>
+        <create_time>1316030475</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>c3f94f51e40cc0be55cfcb15f2d42d19</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1316030475</expavg_time>
+        <domain_name>CGK-LT-0054</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 450  @ 2.40GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2401565991.93105</p_fpops>
+        <p_iops>7289677543.98164</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4599</id>
+    <cpid>d4cdefe262bbfdb6b030c2a67e2ae4cf</cpid>
+    <create_time>1306310560</create_time>
+    <name>mattmcdm</name>
+    <country>United Kingdom</country>
+    <total_credit>12.817825</total_credit>
+    <expavg_credit>0.080836</expavg_credit>
+    <expavg_time>1312748102.76348</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9312</id>
+        <create_time>1309009644</create_time>
+        <rpc_seqno>502</rpc_seqno>
+        <host_cpid>9b5ff7264f4ad97b6584a0114a120a42</host_cpid>
+        <total_credit>12.817825</total_credit>
+        <expavg_credit>0.074698</expavg_credit>
+        <expavg_time>1313352903.67306</expavg_time>
+        <domain_name>Binary</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1861705059.31981</p_fpops>
+        <p_iops>5621526785.90704</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9472</id>
+        <create_time>1310361746</create_time>
+        <rpc_seqno>198</rpc_seqno>
+        <host_cpid>06dcde2b12cf5fcd4ea1a51e90403aff</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310361746</expavg_time>
+        <domain_name>Sherman</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6400+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>2925128452.78387</p_fpops>
+        <p_iops>6446123124.44299</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

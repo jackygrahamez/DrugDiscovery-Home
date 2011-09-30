@@ -1,0 +1,1695 @@
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 473.
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 505.
+Name "main::make_ndx" used only once: possible typo at bin/rcs_mdrun.pl line 53.
+Name "main::rsc_memory_bound" used only once: possible typo at bin/rcs_mdrun.pl line 28.
+Name "main::g_energy" used only once: possible typo at bin/rcs_mdrun.pl line 55.
+Name "main::protein_lig" used only once: possible typo at bin/rcs_mdrun.pl line 54.
+date
+Sun Jan 10 21:59:56 GMT 2010
+12
+Checking if script is running
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp
+mv /home/boincadm/projects/DrugDiscovery/sample_results/rcs_*.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp
+date
+Sun Jan 10 21:59:56 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1932179
+Compressed: 97987
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       969287
+Compressed: 48322
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1236250
+Compressed: 65304
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1219093
+Compressed: 63898
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1262951
+Compressed: 69141
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_26160_ChemDiv_5267-1198_ts_1262705169030277000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+
+Extracting  out.dlg
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1760909
+Compressed: 87317
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+date
+Sun Jan 10 21:59:57 GMT 2010
+12
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1338013
+Compressed: 66451
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_36443_ChemDiv_C201-0052_ts_1262756066640652000
+date
+Sun Jan 10 21:59:57 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1165465
+Compressed: 59976
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/*_score.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.txt
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.txt | sort -k2n -t, > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.sort
+cat all_scores.txt | awk '{ print substr($1, 0, match($0, ", ") - 1) }' | head > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rank.sort
+cp /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.sort /home/boincadm/projects/DrugDiscovery/sample_results/scores_1263160796471260000.txt
+date
+Sun Jan 10 21:59:57 GMT 2010
+Random Number: 412572
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1932179
+Compressed: 97987
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 24205_ChemDiv_5754-2873
+ts: 1263004110202172000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263160797370180000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_6.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_6.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_6.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/ligand_BE.pdbqt
+
+Filesize: 3505
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+85 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+DEBUG: PID: 26370, PIDS: 26370 26373 26375
+==> Timed out! Process 26370 26373 26375 killed, max exec time (120s) exceeded
+ACPYPI FAILED: MOPAC taking too long to finish... aborting!
+  File "/usr/local/bin/acpypi", line 3003, in ?
+    molecule.createACTopol()
+  File "/usr/local/bin/acpypi", line 1199, in createACTopol
+    if self.execTleap():
+  File "/usr/local/bin/acpypi", line 1053, in execTleap
+    if self.execAntechamber():
+  File "/usr/local/bin/acpypi", line 935, in execAntechamber
+    out = p.stdout.read()
+  File "/usr/local/bin/acpypi", line 951, in signal_handler
+    raise Exception("MOPAC taking too long to finish... aborting!")
+Total time of execution: 2m
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Scanning
+
+Updating archive /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+
+
+System error:
+E_NOTIMPL                
+7za a /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+rm -rf/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+rm: invalid option -- /
+Try `rm --help' for more information.
+date
+Sun Jan 10 22:01:58 GMT 2010
+Random Number: 177621
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       969287
+Compressed: 48322
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263160797370180000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 24411_ChemDiv_N043-0002
+ts: 1263009934628255000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263160918249025000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_1.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_1.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_1.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/ligand_BE.pdbqt
+
+Filesize: 1891
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+58 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Running: /usr/local/antechamber-1.27/exe/bondtype -i ANTECHAMBER_BOND_TYPE.AC0 -o ANTECHAMBER_BOND_TYPE.AC -f ac -j full
+
+Warning: the assigned bond types may be wrong, please : 
+(1) double check the structure (the connectivity) and/or 
+(2) adjust atom valence penalty parameters in APS.DAT, and/or 
+(3) increase MAXVASTATE in define.h and recompile bondtype.C
+(4) increase PSCUTOFF in define.h and recompile bondtype.C
+    Be cautious, use a large value of PSCUTOFF (>10) will significantly increase the computer time
+Error: cannot run "/usr/local/antechamber-1.27/exe/bondtype -i ANTECHAMBER_BOND_TYPE.AC0 -o ANTECHAMBER_BOND_TYPE.AC -f ac -j full" in judgebondtype() of antechamber.c properly, exit
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Antechamber failed
+DEBUG: /usr/local/antechamber-1.27/exe/parmchk -i Ligand_bcc_gaff.mol2 -f mol2 -o Ligand_AC.frcmod
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Cannot open file Ligand_bcc_gaff.mol2, exit
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Parmchk failed
+ERROR: Tleap failed
+==> ... trying Sleap
+==> Executing Sleap...
+DEBUG: which: no sleap in (/usr/local/gromacs/bin/:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/antechamber-1.27:/usr/local/antechamber-1.27/exe:/home/boincadm/bin) -f sleap.in
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `which: no sleap in (/usr/local/gromacs/bin/:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/antechamber-1.27:/usr/local/antechamber-1.27/exe:/home/boincadm/bin) -f sleap.in'
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Sleap failed
+ACPYPI FAILED: [Errno 2] No such file or directory: 'Ligand_AC.prmtop'
+  File "/usr/local/bin/acpypi", line 3004, in ?
+    molecule.createMolTopol()
+  File "/usr/local/bin/acpypi", line 1214, in createMolTopol
+    self.topFileData = open(self.acTopFileName, 'r').readlines()
+Total time of execution: less than a second
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Scanning
+
+Updating archive /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+
+
+System error:
+E_NOTIMPL                
+7za a /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+rm -rf/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+rm: invalid option -- /
+Try `rm --help' for more information.
+date
+Sun Jan 10 22:01:59 GMT 2010
+Random Number: 451894
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1236250
+Compressed: 65304
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263160918249025000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 25088_ChemDiv_D004-0026
+ts: 1263027527977600000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263160919035936000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_7.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_7.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_7.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/ligand_BE.pdbqt
+
+Filesize: 2309
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+57 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+==> * Antechamber OK *
+DEBUG: /usr/local/antechamber-1.27/exe/parmchk -i Ligand_bcc_gaff.mol2 -f mol2 -o Ligand_AC.frcmod
+==> * Parmchk OK *
+==> Executing Tleap...
+DEBUG: /usr/local/antechamber-1.27/exe/tleap -f tleap.in
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Checking 'LIG'....
+Warning: Close contact of 2.144003 angstroms between .R<LIG 1>.A<O 4> and .R<LIG 1>.A<H4 27>
+Warning: Close contact of 2.107859 angstroms between .R<LIG 1>.A<C1 5> and .R<LIG 1>.A<C7 11>
+Warning: Close contact of 1.772513 angstroms between .R<LIG 1>.A<C5 9> and .R<LIG 1>.A<H1 24>
+Warning: Close contact of 1.800605 angstroms between .R<LIG 1>.A<C6 10> and .R<LIG 1>.A<H4 27>
+Warning: Close contact of 1.300307 angstroms between .R<LIG 1>.A<C8 12> and .R<LIG 1>.A<H5 28>
+Warning: Close contact of 1.363629 angstroms between .R<LIG 1>.A<C9 13> and .R<LIG 1>.A<H5 28>
+Warning: Close contact of 1.717466 angstroms between .R<LIG 1>.A<O2 15> and .R<LIG 1>.A<H 23>
+Warning: Close contact of 1.967171 angstroms between .R<LIG 1>.A<H1 24> and .R<LIG 1>.A<H2 25>
+Warning: Close contact of 2.012075 angstroms between .R<LIG 1>.A<H3 26> and .R<LIG 1>.A<H4 27>
+Checking parameters for unit 'LIG'.
+Checking for bond parameters.
+Checking for angle parameters.
+check:  Warnings: 9
+Unit is OK.
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+==> * Tleap OK *
+DEBUG: prmtop and inpcrd files loaded
+DEBUG: basename defined = 'Ligand'
+DEBUG: charge to be balanced: total -0.0000000005
+DEBUG: balanceCharges done
+DEBUG: getCoords done
+DEBUG: getABCOEFs done
+DEBUG: Balanced TotalCharge  0.0000000000
+DEBUG: PBC = 'None
+DEBUG: getAtoms done
+DEBUG: getBonds done
+DEBUG: getAngles done
+DEBUG: getDihedrals done
+==> Writing NEW PDB file
+
+==> Writing CNS/XPLOR files
+
+==> Writing GROMACS files
+
+DEBUG: writing GRO file
+DEBUG: Box size estimated
+DEBUG: atomTypes 14
+DEBUG: GMX atomtypes done
+DEBUG: atoms 33
+DEBUG: GMX atoms done
+DEBUG: bonds 37
+DEBUG: GMX bonds done
+DEBUG: atomPairs 72
+DEBUG: GMX pairs done
+DEBUG: angles 65
+DEBUG: GMX angles done
+DEBUG: setProperDihedralsCoefRB done
+DEBUG: properDihedralsCoefRB 109
+DEBUG: GMX proper dihedrals done
+DEBUG: improperDihedrals 11
+DEBUG: GMX improper dihedrals done
+==> Writing CHARMM files
+
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand_bcc_gaff.mol2 -fi mol2 -o Ligand_CHARMM -fo charmm -s 2 -df 0 -at gaff         -pf n -rn LIG
+==> Writing pickle file Ligand.pkl
+Total time of execution: 13s
+pdb2gmx -ff amber99sb -f out_7.pdb -o Protein2.pdb -p Protein.top -water spce -ignh
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                  Green Red Orange Magenta Azure Cyan Skyblue
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                               :-)  pdb2gmx  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f      out_7.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -o   Protein2.pdb  Output       Structure file: gro g96 pdb
+  -p    Protein.top  Output       Topology file
+  -i      posre.itp  Output       Include file for topology
+  -n      clean.ndx  Output, Opt. Index file
+  -q      clean.pdb  Output, Opt. Structure file: gro g96 pdb
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]merge   bool   no      Merge chains into one molecule definition
+-ff          string amber99sb  Force field, interactive by default. Use -h
+                            for information.
+-water       enum   spce    Water model to use: with GROMOS we recommend SPC,
+                            with OPLS, TIP4P: spc, spce, tip3p, tip4p, tip5p
+                            or f3c
+-[no]inter   bool   no      Set the next 8 options to interactive
+-[no]ss      bool   no      Interactive SS bridge selection
+-[no]ter     bool   no      Interactive termini selection, iso charged
+-[no]lys     bool   no      Interactive Lysine selection, iso charged
+-[no]arg     bool   no      Interactive Arganine selection, iso charged
+-[no]asp     bool   no      Interactive Aspartic Acid selection, iso charged
+-[no]glu     bool   no      Interactive Glutamic Acid selection, iso charged
+-[no]gln     bool   no      Interactive Glutamine selection, iso neutral
+-[no]his     bool   no      Interactive Histidine selection, iso checking
+                            H-bonds
+-angle       real   135     Minimum hydrogen-donor-acceptor angle for a
+                            H-bond (degrees)
+-dist        real   0.3     Maximum donor-acceptor distance for a H-bond (nm)
+-[no]una     bool   no      Select aromatic rings with united CH atoms on
+                            Phenylalanine, Tryptophane and Tyrosine
+-[no]ignh    bool   yes     Ignore hydrogen atoms that are in the pdb file
+-[no]missing bool   no      Continue when atoms are missing, dangerous
+-[no]v       bool   no      Be slightly more verbose in messages
+-posrefc     real   1000    Force constant for position restraints
+-vsite       enum   none    Convert atoms to virtual sites: none, hydrogens
+                            or aromatics
+-[no]heavyh  bool   no      Make hydrogen atoms heavy
+-[no]deuterate bool no      Change the mass of hydrogens to 2 amu
+
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/xlateat.dat
+26 out of 26 lines of xlateat.dat converted succesfully
+All occupancy fields zero. This is probably not an X-Ray structure
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.atp
+Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Residue 1Residue 2Residue 3Residue 4Residue 5Residue 6Residue 7Residue 8Residue 9Residue 10Residue 11Residue 12Residue 13Residue 14Residue 15Residue 16Residue 17Residue 18Residue 19Residue 20Residue 21Residue 22Residue 23Residue 24Residue 25Residue 26Residue 27Residue 28Residue 29Residue 30Residue 31Residue 32Residue 33Residue 34Residue 35Residue 36Residue 37Residue 38Residue 39Residue 40Residue 41Residue 42Residue 43Residue 44Residue 45Residue 46Residue 47Residue 48Residue 49Residue 50Residue 51Residue 52Residue 53Residue 54Residue 55Residue 56Residue 57Residue 58Residue 59Residue 60Residue 61Residue 62Residue 63Residue 64Residue 65Residue 66Residue 67Residue 68Residue 69Residue 70Residue 71Residue 72Residue 73Residue 74Residue 75Residue 76Residue 77Residue 78Residue 79Residue 80Residue 81Residue 82Residue 83Residue 84Residue 85Residue 86Residue 87Residue 88Residue 89Residue 90Residue 91Residue 92Residue 93Residue 94Residue 95Residue 96Residue 97Residue 98Residue 99Residue 100Residue 101Residue 102Residue 103Residue 104Residue 105Residue 106Residue 107Residue 108Residue 109Residue 110Residue 111Residue 112Residue 113Residue 114Residue 115Residue 116Residue 117Residue 118Residue 119Residue 120Residue 121Residue 122Residue 123Residue 124Residue 125Residue 126Residue 127Residue 128Residue 129Residue 130Residue 131Residue 132Residue 133Residue 134Residue 135Residue 136Residue 137Residue 138Residue 139Residue 140Residue 141
+Sorting it all out...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.hdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-n.tdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-c.tdb
+There are 308 donors and 304 acceptors
+There are 376 hydrogen bonds
+Opening library file /usr/local/gromacs/share/gromacs/top/specbond.dat
+7 out of 7 lines of specbond.dat converted succesfully
+Special Atom Distance matrix:
+                   MET19   MET53   MET79  MET123  MET157
+                   SD145   SD418   SD620   SD981  SD1254
+   MET53   SD418   1.357
+   MET79   SD620   2.314   1.129
+  MET123   SD981   3.906   3.903   4.848
+  MET157  SD1254   3.527   3.288   4.116   1.227
+  MET183  SD1456   4.541   3.989   4.567   2.094   1.278
+Making bonds...
+Warning: Long Bond (28-30 = 0.396244 nm)
+Warning: Long Bond (141-143 = 0.410905 nm)
+Warning: Long Bond (371-373 = 0.40186 nm)
+Warning: Long Bond (510-512 = 0.323461 nm)
+Warning: Long Bond (672-674 = 0.403294 nm)
+Warning: Long Bond (814-816 = 0.318088 nm)
+Warning: Long Bond (903-905 = 0.355581 nm)
+Warning: Long Bond (1041-1043 = 0.424275 nm)
+Warning: Long Bond (1095-1097 = 0.347007 nm)
+Warning: Long Bond (1192-1194 = 0.371545 nm)
+Warning: Long Bond (1473-1475 = 0.31877 nm)
+Warning: Long Bond (1488-1490 = 0.360565 nm)
+Warning: Long Bond (1546-1548 = 0.417171 nm)
+Warning: Long Bond (1614-1616 = 0.498261 nm)
+Warning: Long Bond (1668-1670 = 3.44603 nm)
+Warning: Long Bond (1695-1697 = 0.462501 nm)
+Warning: Long Bond (1808-1810 = 0.394043 nm)
+Warning: Long Bond (2038-2040 = 0.429452 nm)
+Warning: Long Bond (2177-2179 = 0.308299 nm)
+Warning: Long Bond (2339-2341 = 0.409908 nm)
+Warning: Long Bond (2481-2483 = 0.330817 nm)
+Warning: Long Bond (2570-2572 = 0.426814 nm)
+Warning: Long Bond (2708-2710 = 0.482843 nm)
+Warning: Long Bond (2762-2764 = 0.325158 nm)
+Warning: Long Bond (2859-2861 = 0.371098 nm)
+Warning: Long Bond (3140-3142 = 0.335143 nm)
+Warning: Long Bond (3155-3157 = 0.354735 nm)
+Warning: Long Bond (3213-3215 = 0.357977 nm)
+Warning: Long Bond (3281-3283 = 0.421817 nm)
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Number of bonds was 3380, now 3379
+Generating angles, dihedrals and pairs...
+Before cleaning: 8910 pairs
+Before cleaning: 9020 dihedrals
+Keeping all generated dihedrals
+There are 9020 dihedrals,  686 impropers, 6125 angles
+          8844 pairs,     3379 bonds and     0 virtual sites
+Total mass 23663.292 a.m.u.
+Total charge -3.000 e
+Writing topology
+
+Writing coordinate file...
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Reading out_7.pdb...
+Read 1672 atoms
+Analyzing pdb file
+There are 1 chains and 0 blocks of water and 208 residues with 1672 atoms
+
+  chain  #res #atoms
+  1 ' '   208   1672  
+
+Reading residue database... (ffamber99sb)
+Processing chain 1 (1672 atoms, 208 residues)
+Checking for duplicate atoms....
+N-terminus: none
+C-terminus: none
+Now there are 208 residues with 3336 atoms
+		--------- PLEASE NOTE ------------
+You have succesfully generated a topology from: out_7.pdb.
+The amber99sb force field and the spce water model are used.
+Note that the default mechanism for selecting a force fields has
+changed, starting from GROMACS version 3.2.0
+		--------- ETON ESAELP ------------
+
+gcq#226: "Jesus Not Only Saves, He Also Frequently Makes Backups." (Myron Bradshaw)
+
+grep -h ATOM Protein2.pdb Ligand.acpypi/Ligand_NEW.pdb >| Complex.pdb
+cp Ligand.acpypi/Ligand_GMX.itp Ligand.itp
+cp Protein.top Complex.top
+cat Complex.top | sed '/#include \"ffamber99sb.itp\"/a #include "Ligand.itp"' >| Complex2.top
+echo "Ligand   1" >> Complex2.top
+mv Complex2.top Complex.top
+cp /home/boincadm/projects/DrugDiscovery/bin/em.mdp .
+cp /home/boincadm/projects/DrugDiscovery/bin/em_r.mdp .
+cp /home/boincadm/projects/DrugDiscovery/bin/pr.mdp .
+editconf -bt triclinic -f Complex.pdb -o Complex.pdb -d 1.0
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                  Green Red Orange Magenta Azure Cyan Skyblue
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                               :-)  editconf  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f    Complex.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -o    Complex.pdb  Output, Opt! Structure file: gro g96 pdb
+-mead      mead.pqr  Output, Opt. Coordinate file for MEAD
+ -bf      bfact.dat  Input, Opt.  Generic data file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]w       bool   no      View output xvg, xpm, eps and pdb files
+-[no]ndef    bool   no      Choose output from default index groups
+-bt          enum   triclinic  Box type for -box and -d: triclinic, cubic,
+                            dodecahedron or octahedron
+-box         vector 0 0 0   Box vector lengths (a,b,c)
+-angles      vector 90 90 90  Angles between the box vectors (bc,ac,ab)
+-d           real   1       Distance between the solute and the box
+-[no]c       bool   no      Center molecule in box (implied by -box and -d)
+-center      vector 0 0 0   Coordinates of geometrical center
+-translate   vector 0 0 0   Translation
+-rotate      vector 0 0 0   Rotation around the X, Y and Z axes in degrees
+-[no]princ   bool   no      Orient molecule(s) along their principal axes
+-scale       vector 1 1 1   Scaling factor
+-density     real   1000    Density (g/l) of the output box achieved by
+                            scaling
+-[no]pbc     bool   no      Remove the periodicity (make molecule whole again)
+-[no]grasp   bool   no      Store the charge of the atom in the B-factor
+                            field and the radius of the atom in the occupancy
+                            field
+-rvdw        real   0.12    Default Van der Waals radius (in nm) if one can
+                            not be found in the database or if no parameters
+                            are present in the topology file
+-sig56       real   0       Use rmin/2 (minimum in the Van der Waals
+                            potential) rather than sigma/2 
+-[no]vdwread bool   no      Read the Van der Waals radii from the file
+                            vdwradii.dat rather than computing the radii
+                            based on the force field
+-[no]atom    bool   no      Force B-factor attachment per atom
+-[no]legend  bool   no      Make B-factor legend
+-label       string A       Add chain label for all residues
+
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+
+Back Off! I just backed up Complex.pdb to ./#Complex.pdb.1#
+
+gcq#226: "Jesus Not Only Saves, He Also Frequently Makes Backups." (Myron Bradshaw)
+
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Read 3369 atoms
+No velocities found
+    system size :  6.415  3.833  5.301 (nm)
+    center      :  4.887  2.916  3.010 (nm)
+    box vectors :  0.000  0.000  0.000 (nm)
+    box angles  :   0.00   0.00   0.00 (degrees)
+    box volume  :   0.00               (nm^3)
+    shift       : -0.679  0.000  0.641 (nm)
+new center      :  4.208  2.916  3.651 (nm)
+new box vectors :  8.415  5.833  7.301 (nm)
+new box angles  :  90.00  90.00  90.00 (degrees)
+new box volume  : 358.39               (nm^3)
+
+WARNING: No boxtype specified - distance condition applied in each dimension.
+If the molecule rotates the actual distance will be smaller. You might want
+to use a cubic box instead, or why not try a dodecahedron today?
+genbox -cp Complex.pdb -cs ffamber_tip3p.gro -o Complex_b4ion.pdb -p Complex.top
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                  Green Red Orange Magenta Azure Cyan Skyblue
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  genbox  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+ -cp    Complex.pdb  Input, Opt!  Structure file: gro g96 pdb tpr tpb tpa
+ -cs ffamber_tip3p.gro  Input, Opt!, Lib. Structure file: gro g96 pdb tpr tpb
+                                   tpa
+ -ci     insert.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -o Complex_b4ion.pdb  Output       Structure file: gro g96 pdb
+  -p    Complex.top  In/Out, Opt! Topology file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-box         vector 0 0 0   box size
+-nmol        int    0       no of extra molecules to insert
+-try         int    10      try inserting -nmol*-try times
+-seed        int    1997    random generator seed
+-vdwd        real   0.105   default vdwaals distance
+-shell       real   0       thickness of optional water layer around solute
+-maxsol      int    0       maximum number of solvent molecules to add if
+                            they fit in the box. If zero (default) this is
+                            ignored
+-[no]vel     bool   no      keep velocities from input solute and solvent
+
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+Reading solute configuration
+Green Red Orange Magenta Azure Cyan Skyblue
+Containing 3369 atoms in 209 residues
+Initialising van der waals distances...
+Reading solvent configuration
+"TIP3P "
+solvent configuration contains 1536 atoms in 512 residues
+
+Initialising van der waals distances...
+Will generate new solvent configuration of 4x3x3 boxes
+Generating configuration
+Sorting configuration
+Found 1 molecule type:
+    SOL (   3 atoms): 18432 residues
+Calculating Overlap...
+box_margin = 0.315
+Removed 15498 atoms that were outside the box
+Succesfully made neighbourlist
+nri = 80272, nrj = 2596958
+Checking Protein-Solvent overlap: tested 71957 pairs, removed 3582 atoms.
+Checking Solvent-Solvent overlap: tested 386219 pairs, removed 4149 atoms.
+Added 10689 molecules
+Generated solvent containing 32067 atoms in 10689 residues
+Writing generated configuration to Complex_b4ion.pdb
+Green Red Orange Magenta Azure Cyan Skyblue
+
+Output configuration contains 35436 atoms in 10898 residues
+Volume                 :     358.387 (nm^3)
+Density                :     1351.52 (g/l)
+Number of SOL molecules:  10689   
+
+Processing topology
+
+Back Off! I just backed up Complex.top to ./#Complex.top.1#
+
+gcq#334: "Aber wenn der Quarterback kommt, um dir die Brille abzunehmen Sag ihm: Danke die bleibt wo sie ist" (Wir sind Helden)
+
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Neighborsearching with a cut-off of 0.48
+Table routines are used for coulomb: FALSE
+Table routines are used for vdw:     FALSE
+Cut-off's:   NS: 0.48   Coulomb: 0.48   LJ: 0.48
+System total charge: 0.000
+Grid: 21 x 15 x 19 cells
+Adding line for 10689 solvent molecules to topology file (Complex.top)
+grompp -f em_r.mdp -c Complex_b4ion.pdb -p Complex.top -o Complex_b4ion.tpr
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f       em_r.mdp  Input, Opt!  grompp input file with MD parameters
+ -po      mdout.mdp  Output       grompp input file with MD parameters
+  -c Complex_b4ion.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -r       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+ -rb       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -p    Complex.top  Input        Topology file
+ -pp  processed.top  Output, Opt. Topology file
+  -o Complex_b4ion.tpr  Output       Run input file: tpr tpb tpa
+  -t       traj.trr  Input, Opt.  Full precision trajectory: trr trj cpt
+  -e       ener.edr  Input, Opt.  Energy file: edr ene
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]v       bool   yes     Be loud and noisy
+-time        real   -1      Take frame at or first after this time.
+-[no]rmvsbds bool   yes     Remove constant bonded interactions with virtual
+                            sites
+-maxwarn     int    0       Number of allowed warnings during input processing
+-[no]zero    bool   no      Set parameters for bonded interactions without
+                            defaults to zero instead of generating an error
+-[no]renum   bool   yes     Renumber atomtypes and minimize number of
+                            atomtypes
+
+checking input for internal consistency...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbnb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbbon.itp
+Generated 3828 of the 3828 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+Generated 3828 of the 3828 1-4 parameter combinations
+Opening library file /usr/local/gromacs/share/gromacs/top/spce.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ions.itp
+Excluding 3 bonded neighbours molecule type 'Protein'
+Excluding 3 bonded neighbours molecule type 'Ligand'
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+NOTE 1 [file Complex.top, line 31452]:
+  System has non-zero total charge: -2.999998e+00
+  
+
+
+processing coordinates...
+double-checking input for internal consistency...
+Reading position restraint coords from Complex_b4ion.pdb
+renumbering atomtypes...
+converting bonded parameters...
+initialising group options...
+processing index file...
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Making dummy/rest group for T-Coupling containing 35436 elements
+Making dummy/rest group for Acceleration containing 35436 elements
+Making dummy/rest group for Freeze containing 35436 elements
+Making dummy/rest group for Energy Mon. containing 35436 elements
+Making dummy/rest group for VCM containing 35436 elements
+Number of degrees of freedom in T-Coupling group rest is 70822.00
+Making dummy/rest group for User1 containing 35436 elements
+Making dummy/rest group for User2 containing 35436 elements
+Making dummy/rest group for XTC containing 35436 elements
+Making dummy/rest group for Or. Res. Fit containing 35436 elements
+Making dummy/rest group for QMMM containing 35436 elements
+T-Coupling       has 1 element(s): rest
+Energy Mon.      has 1 element(s): rest
+Acceleration     has 1 element(s): rest
+Freeze           has 1 element(s): rest
+User1            has 1 element(s): rest
+User2            has 1 element(s): rest
+VCM              has 1 element(s): rest
+XTC              has 1 element(s): rest
+Or. Res. Fit     has 1 element(s): rest
+QMMM             has 1 element(s): rest
+Checking consistency between energy and charge groups...
+Estimate for the relative computational load of the PME mesh part: 0.27
+writing run input file...
+
+There was 1 note
+
+gcq#97: "The Universe is Somewhere In Here" (J.G.E.M. Fraaije)
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+               Gromacs Runs One Microsecond At Cannonball Speeds
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  grompp  (-:
+
+processing topology...
+turning all bonds into constraints...
+turning all bonds into constraints...
+turning all bonds into constraints...
+Analysing residue names:
+There are: 10690      OTHER residues
+There are:   208    PROTEIN residues
+There are:     0        DNA residues
+Analysing Protein...
+Analysing Other...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x49x63, spacing 0.117 0.119 0.116
+This run will generate roughly 4 Mb of data
+cp Complex.top Complex_ion.top
+echo 13| genion -s Complex_b4ion.tpr -o Complex_b4em.pdb -neutral -conc 0.15 -p Complex_ion.top -norandom
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                          GROtesk MACabre and Sinister
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  genion  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -s Complex_b4ion.tpr  Input        Run input file: tpr tpb tpa
+-table    table.xvg  Input, Opt.  xvgr/xmgr file
+  -n      index.ndx  Input, Opt.  Index file
+  -o Complex_b4em.pdb  Output       Structure file: gro g96 pdb
+  -g     genion.log  Output       Log file
+-pot        pot.pdb  Output, Opt. Protein data bank file
+  -p Complex_ion.top  In/Out, Opt! Topology file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-[no]xvgr    bool   yes     Add specific codes (legends etc.) in the output
+                            xvg files for the xmgrace program
+-np          int    0       Number of positive ions
+-pname       string Na      Name of the positive ion
+-pq          int    1       Charge of the positive ion
+-nn          int    0       Number of negative ions
+-nname       string Cl      Name of the negative ion
+-nq          int    -1      Charge of the negative ion
+-rmin        real   0.6     Minimum distance between ions
+-[no]random  bool   no      Use random placement of ions instead of based on
+                            potential. The rmin option should still work
+-seed        int    1993    Seed for random number generator
+-scale       real   0.001   Scaling factor for the potential for -pot
+-conc        real   0.15    Specify salt concentration (mol/liter). This will
+                            add sufficient ions to reach up to the specified
+                            concentration as computed from the volume of the
+                            cell in the input tpr file. Overrides the -np and
+                            nn options.
+-[no]neutral bool   yes     This option will add enough ions to neutralize
+                            the system. In combination with the concentration
+                            option a neutral system at a given salt
+                            concentration will be generated.
+
+WARNING: turning of free energy, will use lambda=0
+Reading file Complex_b4ion.tpr, VERSION 4.0.5 (single precision)
+Using a coulomb cut-off of 1 nm
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Group     0 (      System) has 35436 elements
+Group     1 (     Protein) has  3336 elements
+Group     2 (   Protein-H) has  1672 elements
+Group     3 (     C-alpha) has   208 elements
+Group     4 (    Backbone) has   624 elements
+Group     5 (   MainChain) has   832 elements
+Group     6 (MainChain+Cb) has  1026 elements
+Group     7 ( MainChain+H) has  1022 elements
+Group     8 (   SideChain) has  2314 elements
+Group     9 ( SideChain-H) has   840 elements
+Group    10 ( Prot-Masses) has  3336 elements
+Group    11 ( Non-Protein) has 32100 elements
+Group    12 (         LIG) has    33 elements
+Group    13 (         SOL) has 32067 elements
+Group    14 (       Other) has 32100 elements
+Select a group: Number of (3-atomic) solvent molecules: 10689
+
+Back Off! I just backed up Complex_ion.top to ./#Complex_ion.top.1#
+Doing single force calculation...
+Replacing solvent molecule 6975 (atom 24294) with Na
+Doing single force calculation...
+Replacing solvent molecule 2970 (atom 12279) with Na
+Doing single force calculation...
+Replacing solvent molecule 5354 (atom 19431) with Na
+Doing single force calculation...
+Replacing solvent molecule 5528 (atom 19953) with Na
+Doing single force calculation...
+Replacing solvent molecule 7926 (atom 27147) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2415 (atom 10614) with Na
+Doing single force calculation...
+Replacing solvent molecule 124 (atom 3741) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8426 (atom 28647) with Na
+Doing single force calculation...
+Replacing solvent molecule 1329 (atom 7356) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2567 (atom 11070) with Na
+Doing single force calculation...
+Replacing solvent molecule 1709 (atom 8496) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8600 (atom 29169) with Na
+Doing single force calculation...
+Replacing solvent molecule 545 (atom 5004) with Cl
+Doing single force calculation...
+Replacing solvent molecule 5702 (atom 20475) with Na
+Doing single force calculation...
+Replacing solvent molecule 925 (atom 6144) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2719 (atom 11526) with Na
+Doing single force calculation...
+Replacing solvent molecule 2095 (atom 9654) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8774 (atom 29691) with Na
+Doing single force calculation...
+Replacing solvent molecule 10611 (atom 35202) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3737 (atom 14580) with Na
+Doing single force calculation...
+Replacing solvent molecule 10523 (atom 34938) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9693 (atom 32448) with Na
+Doing single force calculation...
+Replacing solvent molecule 10436 (atom 34677) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8937 (atom 30180) with Na
+Doing single force calculation...
+Replacing solvent molecule 9703 (atom 32478) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3555 (atom 14034) with Na
+Doing single force calculation...
+Replacing solvent molecule 10215 (atom 34014) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1802 (atom 8775) with Na
+Doing single force calculation...
+Replacing solvent molecule 9959 (atom 33246) with Cl
+Doing single force calculation...
+Replacing solvent molecule 6606 (atom 23187) with Na
+Doing single force calculation...
+Replacing solvent molecule 5660 (atom 20349) with Cl
+Doing single force calculation...
+Replacing solvent molecule 509 (atom 4896) with Na
+Doing single force calculation...
+Replacing solvent molecule 10144 (atom 33801) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9992 (atom 33345) with Na
+Doing single force calculation...
+Replacing solvent molecule 9389 (atom 31536) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3632 (atom 14265) with Na
+Doing single force calculation...
+Replacing solvent molecule 9888 (atom 33033) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3459 (atom 13746) with Na
+Doing single force calculation...
+Replacing solvent molecule 9133 (atom 30768) with Cl
+Doing single force calculation...
+Replacing solvent molecule 4709 (atom 17496) with Na
+Doing single force calculation...
+Replacing solvent molecule 6729 (atom 23556) with Cl
+Doing single force calculation...
+Replacing solvent molecule 798 (atom 5763) with Na
+Doing single force calculation...
+Replacing solvent molecule 7182 (atom 24915) with Cl
+Doing single force calculation...
+Replacing solvent molecule 6720 (atom 23529) with Na
+Doing single force calculation...
+Replacing solvent molecule 6303 (atom 22278) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3525 (atom 13944) with Na
+Doing single force calculation...
+Replacing solvent molecule 4111 (atom 15702) with Cl
+Doing single force calculation...
+Replacing solvent molecule 10082 (atom 33615) with Na
+Doing single force calculation...
+Replacing solvent molecule 3286 (atom 13227) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9071 (atom 30582) with Na
+Doing single force calculation...
+Replacing solvent molecule 9155 (atom 30834) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9826 (atom 32847) with Na
+Doing single force calculation...
+Replacing solvent molecule 9654 (atom 32331) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9327 (atom 31350) with Na
+Doing single force calculation...
+Replacing solvent molecule 9411 (atom 31602) with Cl
+Doing single force calculation...
+Replacing solvent molecule 10329 (atom 34356) with Na
+Doing single force calculation...
+Replacing solvent molecule 3665 (atom 14364) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9574 (atom 32091) with Na
+Doing single force calculation...
+Replacing solvent molecule 7823 (atom 26838) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3418 (atom 13623) with Na
+Doing single force calculation...
+Replacing solvent molecule 4507 (atom 16890) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3344 (atom 13401) with Na
+Doing single force calculation...
+Replacing solvent molecule 8947 (atom 30210) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1699 (atom 8466) with Na
+Doing single force calculation...
+Replacing solvent molecule 9460 (atom 31749) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1250 (atom 7119) with Na
+Doing single force calculation...
+Replacing solvent molecule 9204 (atom 30981) with Cl
+
+
+gcq#224: "Bad As This Shit Is, This Shit Ain't As Bad As You Think It Is." (Jackie Brown)
+
+Will try to add 35 Na ions and 32 Cl ions.
+Select a continuous group of solvent molecules
+Selected 13: 'SOL'
+
+Processing topology
+Replacing 10622 solute molecules in topology file (Complex_ion.top)  by 35 Na and 32 Cl ions.
+mv Complex_ion.top Complex.top
+grompp -f em.mdp -c Complex_b4em.pdb -p Complex.top -o em.tpr
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f         em.mdp  Input, Opt!  grompp input file with MD parameters
+ -po      mdout.mdp  Output       grompp input file with MD parameters
+  -c Complex_b4em.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -r       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+ -rb       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -p    Complex.top  Input        Topology file
+ -pp  processed.top  Output, Opt. Topology file
+  -o         em.tpr  Output       Run input file: tpr tpb tpa
+  -t       traj.trr  Input, Opt.  Full precision trajectory: trr trj cpt
+  -e       ener.edr  Input, Opt.  Energy file: edr ene
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]v       bool   yes     Be loud and noisy
+-time        real   -1      Take frame at or first after this time.
+-[no]rmvsbds bool   yes     Remove constant bonded interactions with virtual
+                            sites
+-maxwarn     int    0       Number of allowed warnings during input processing
+-[no]zero    bool   no      Set parameters for bonded interactions without
+                            defaults to zero instead of generating an error
+-[no]renum   bool   yes     Renumber atomtypes and minimize number of
+                            atomtypes
+
+
+Back Off! I just backed up mdout.mdp to ./#mdout.mdp.1#
+checking input for internal consistency...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbnb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbbon.itp
+Generated 3828 of the 3828 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+Generated 3828 of the 3828 1-4 parameter combinations
+Opening library file /usr/local/gromacs/share/gromacs/top/spce.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ions.itp
+Excluding 3 bonded neighbours molecule type 'Protein'
+Excluding 3 bonded neighbours molecule type 'Ligand'
+Excluding 2 bonded neighbours molecule type 'SOL'
+Excluding 1 bonded neighbours molecule type 'Na'
+Excluding 1 bonded neighbours molecule type 'Cl'
+processing coordinates...
+double-checking input for internal consistency...
+renumbering atomtypes...
+converting bonded parameters...
+initialising group options...
+processing index file...
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Making dummy/rest group for T-Coupling containing 35302 elements
+Making dummy/rest group for Acceleration containing 35302 elements
+Making dummy/rest group for Freeze containing 35302 elements
+Making dummy/rest group for Energy Mon. containing 35302 elements
+Making dummy/rest group for VCM containing 35302 elements
+Number of degrees of freedom in T-Coupling group rest is 105903.00
+Making dummy/rest group for User1 containing 35302 elements
+Making dummy/rest group for User2 containing 35302 elements
+Making dummy/rest group for XTC containing 35302 elements
+Making dummy/rest group for Or. Res. Fit containing 35302 elements
+Making dummy/rest group for QMMM containing 35302 elements
+T-Coupling       has 1 element(s): rest
+Energy Mon.      has 1 element(s): rest
+Acceleration     has 1 element(s): rest
+Freeze           has 1 element(s): rest
+User1            has 1 element(s): rest
+User2            has 1 element(s): rest
+VCM              has 1 element(s): rest
+XTC              has 1 element(s): rest
+Or. Res. Fit     has 1 element(s): rest
+QMMM             has 1 element(s): rest
+Checking consistency between energy and charge groups...
+Estimate for the relative computational load of the PME mesh part: 0.27
+writing run input file...
+
+gcq#333: "I used to be blond and stupid, but now I dyed it black" (Miss Li)
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                  Green Red Orange Magenta Azure Cyan Skyblue
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  grompp  (-:
+
+processing topology...
+Analysing residue names:
+There are: 10690      OTHER residues
+There are:   208    PROTEIN residues
+There are:     0        DNA residues
+Analysing Protein...
+Analysing Other...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x49x63, spacing 0.117 0.119 0.116
+This run will generate roughly 44 Mb of data
+                         :-)  G  R  O  M  A  C  S  (-:
+
+               Gromacs Runs One Microsecond At Cannonball Speeds
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  mdrun  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -s         em.tpr  Input        Run input file: tpr tpb tpa
+  -o         em.trr  Output       Full precision trajectory: trr trj cpt
+  -x         em.xtc  Output, Opt. Compressed trajectory (portable xdr format)
+-cpi         em.cpt  Input, Opt.  Checkpoint file
+-cpo         em.cpt  Output, Opt. Checkpoint file
+  -c         em.gro  Output       Structure file: gro g96 pdb
+  -e         em.edr  Output       Energy file: edr ene
+  -g         em.log  Output       Log file
+-dgdl        em.xvg  Output, Opt. xvgr/xmgr file
+-field       em.xvg  Output, Opt. xvgr/xmgr file
+-table       em.xvg  Input, Opt.  xvgr/xmgr file
+-tablep      em.xvg  Input, Opt.  xvgr/xmgr file
+-tableb      em.xvg  Input, Opt.  xvgr/xmgr file
+-rerun       em.xtc  Input, Opt.  Trajectory: xtc trr trj gro g96 pdb cpt
+-tpi         em.xvg  Output, Opt. xvgr/xmgr file
+-tpid        em.xvg  Output, Opt. xvgr/xmgr file
+ -ei         em.edi  Input, Opt.  ED sampling input
+ -eo         em.edo  Output, Opt. ED sampling output
+  -j         em.gct  Input, Opt.  General coupling stuff
+ -jo         em.gct  Output, Opt. General coupling stuff
+-ffout       em.xvg  Output, Opt. xvgr/xmgr file
+-devout      em.xvg  Output, Opt. xvgr/xmgr file
+-runav       em.xvg  Output, Opt. xvgr/xmgr file
+ -px         em.xvg  Output, Opt. xvgr/xmgr file
+ -pf         em.xvg  Output, Opt. xvgr/xmgr file
+-mtx         em.mtx  Output, Opt. Hessian matrix
+ -dn         em.ndx  Output, Opt. Index file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-deffnm      string em      Set the default filename for all file options
+-[no]xvgr    bool   yes     Add specific codes (legends etc.) in the output
+                            xvg files for the xmgrace program
+-[no]pd      bool   no      Use particle decompostion
+-dd          vector 0 0 0   Domain decomposition grid, 0 is optimize
+-npme        int    -1      Number of separate nodes to be used for PME, -1
+                            is guess
+-ddorder     enum   interleave  DD node order: interleave, pp_pme or cartesian
+-[no]ddcheck bool   yes     Check for all bonded interactions with DD
+-rdd         real   0       The maximum distance for bonded interactions with
+                            DD (nm), 0 is determine from initial coordinates
+-rcon        real   0       Maximum distance for P-LINCS (nm), 0 is estimate
+-dlb         enum   auto    Dynamic load balancing (with DD): auto, no or yes
+-dds         real   0.8     Minimum allowed dlb scaling of the DD cell size
+-[no]sum     bool   yes     Sum the energies at every step
+-[no]v       bool   yes     Be loud and noisy
+-[no]compact bool   yes     Write a compact log file
+-[no]seppot  bool   no      Write separate V and dVdl terms for each
+                            interaction type and node to the log file(s)
+-pforce      real   -1      Print all forces larger than this (kJ/mol nm)
+-[no]reprod  bool   no      Try to avoid optimizations that affect binary
+                            reproducibility
+-cpt         real   15      Checkpoint interval (minutes)
+-[no]append  bool   no      Append to previous output files when continuing
+                            from checkpoint
+-[no]addpart bool   yes     Add the simulation part number to all output
+                            files when continuing from checkpoint
+-maxh        real   1       Terminate after 0.99 times this time (hours)
+-multi       int    0       Do multiple simulations in parallel
+-replex      int    0       Attempt replica exchange every # steps
+-reseed      int    -1      Seed for replica exchange, -1 is generate a seed
+-[no]glas    bool   no      Do glass simulation with special long range
+                            corrections
+-[no]ionize  bool   no      Do a simulation including the effect of an X-Ray
+                            bombardment on your system
+
+Getting Loaded...
+Reading file em.tpr, VERSION 4.0.5 (single precision)
+Loaded with Money
+
+Polak-Ribiere Conjugate Gradients:
+   Tolerance (Fmax)   =  2.00000e+02
+   Number of steps    =        10000
+Warning: 1-4 interaction between 1656 and 1670 at distance 3.332 which is larger than the 1-4 table size 2.400 nm
+These are ignored for the rest of the simulation
+This usually means your system is exploding,
+if not, you should increase table-extension in your mdp file
+or with user tables increase the table size
+   F-max             =  6.99532e+06 on atom 2798
+   F-Norm            =  5.45788e+04
+
+Step 0, Epot=2.485735e+06, Fnorm=1.868e+04, Fmax=1.661e+06 (atom 2798)
+Step 1, Epot=2.468604e+06, Fnorm=1.511e+04, Fmax=1.361e+06 (atom 1668)
+Step 2, Epot=2.452301e+06, Fnorm=1.357e+04, Fmax=1.358e+06 (atom 1668)
+Step 3, Epot=2.428692e+06, Fnorm=1.246e+04, Fmax=1.352e+06 (atom 1668)
+Step 4, Epot=2.395423e+06, Fnorm=1.184e+04, Fmax=1.343e+06 (atom 1668)
+Step 5, Epot=2.345018e+06, Fnorm=1.143e+04, Fmax=1.327e+06 (atom 1668)
+Step 6, Epot=2.268076e+06, Fnorm=1.108e+04, Fmax=1.303e+06 (atom 1668)
+Step 7, Epot=2.150833e+06, Fnorm=1.069e+04, Fmax=1.265e+06 (atom 1668)
+Step 8, Epot=1.978125e+06, Fnorm=9.937e+03, Fmax=1.183e+06 (atom 1670)
+Step 9, Epot=1.774178e+06, Fnorm=1.334e+04, Fmax=1.323e+06 (atom 1661)
+Step 10, Epot=1.773928e+06, Fnorm=1.330e+04, Fmax=1.314e+06 (atom 1661)
+Step 11, Epot=1.652230e+06, Fnorm=8.916e+03, Fmax=1.086e+06 (atom 1668)
+Step 12, Epot=1.644638e+06, Fnorm=8.888e+03, Fmax=1.083e+06 (atom 1668)
+Step 13, Epot=1.449570e+06, Fnorm=7.824e+03, Fmax=9.764e+05 (atom 1668)
+Step 14, Epot=1.441577e+06, Fnorm=7.729e+03, Fmax=9.665e+05 (atom 1668)
+Step 15, Epot=1.396913e+06, Fnorm=6.603e+04, Fmax=8.522e+06 (atom 2589)
+Step 16, Epot=1.310886e+06, Fnorm=7.235e+03, Fmax=8.034e+05 (atom 1668)
+Step 17, Epot=1.265075e+06, Fnorm=6.747e+03, Fmax=8.390e+05 (atom 1668)
+Step 18, Epot=1.198164e+06, Fnorm=6.401e+03, Fmax=6.796e+05 (atom 1668)
+Step 19, Epot=1.092134e+06, Fnorm=6.191e+03, Fmax=7.181e+05 (atom 1668)
+Step 20, Epot=9.179719e+05, Fnorm=4.897e+03, Fmax=5.360e+05 (atom 1670)
+Step 21, Epot=7.682962e+05, Fnorm=4.336e+03, Fmax=4.377e+05 (atom 1670)
+Step 22, Epot=6.014089e+05, Fnorm=4.162e+03, Fmax=3.630e+05 (atom 1668)
+Step 23, Epot=4.065223e+05, Fnorm=3.097e+03, Fmax=3.368e+05 (atom 1669)
+Step 24, Epot=3.965689e+05, Fnorm=2.998e+03, Fmax=3.297e+05 (atom 1669)
+Step 25, Epot=3.909805e+05, Fnorm=2.931e+03, Fmax=3.213e+05 (atom 1669)
+Step 26, Epot=3.529179e+05, Fnorm=2.437e+04, Fmax=3.473e+06 (atom 1669)
+Step 27, Epot=1.347104e+08, Fnorm=1.937e+08, Fmax=2.574e+10 (atom 1665)
+Step 28, Epot=1.104532e+08, Fnorm=6.365e+07, Fmax=7.268e+09 (atom 6310)

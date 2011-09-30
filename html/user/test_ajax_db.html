@@ -1,0 +1,76 @@
+<script src="http://www.google.com/jsapi" language="javascript"></script>
+<script type="text/javascript" src="http://api.skyscanner.net/api.ashx?key=ca6900b0-fb45-4719-a939-627f6fec72b1"></script>
+<script type="text/javascript">
+
+var city = "";
+
+if (google.loader.ClientLocation != null) {
+  document.write("Your Location Is: " + google.loader.ClientLocation.address.city + ", " + google.loader.ClientLocation.address.region);
+  var lat = google.loader.ClientLocation.latitude;
+  var lon = google.loader.ClientLocation.longitude;
+  document.write(" Your coordinates: " + lat + ", " + lon);
+
+}
+
+else {
+  //document.write("Your Location Was Not Detected By Google Loader");
+  city = "US";
+}
+
+
+if (lat == "" || lon == "") {
+  str = "dist_calc.php";
+}
+else {
+  str = "dist_calc.php?lat="+lat+"&lon="+lon;
+  //document.write(" "+str);
+}
+
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET",str,true);
+xmlhttp.send();
+
+
+    skyscanner.load('snippets','1');
+    function main(){
+
+  if (xmlhttp.responseText == "") {
+     var city = "";
+   }
+  else {
+     var city = xmlhttp.responseText;
+   }
+
+        //var city = 'wasa';
+        var snippet=new skyscanner.snippets.SearchPanelControl();
+        snippet.setCurrency('USD');
+        snippet.setShape('box300x250');
+        //snippet.setDeparture('PAR');
+        snippet.setDeparture(city);
+        snippet.setDestination('jm');
+        snippet.draw(document.getElementById('snippet_searchpanel'));
+        }
+    skyscanner.setOnLoadCallback(main);
+
+
+</script>
+<!--<div id="txtHint">Customer info will be listed here...</div><br> --> 
+<!--<div id="snippet_searchpanel" style="width: auto; height:auto;"> -->
+    <!--  Please do not remove this line. It is necessary for proper functionality of Skyscanner Snippet and is also required by terms and conditions of service -->
+    <!-- <a href="http://www.skyscanner.net/flights-to/jm/cheap-flights-to-jamaica.html" target="_blank">Cheap Flights to Jamaica</a>
+</div>-->
+

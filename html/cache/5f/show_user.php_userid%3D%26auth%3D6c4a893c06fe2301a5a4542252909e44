@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2684</id>
+    <cpid>923695d73c4a25becd2b24fc82e3b095</cpid>
+    <create_time>1284766784</create_time>
+    <name>GRuppiTF</name>
+    <country>Germany</country>
+    <total_credit>34.568129</total_credit>
+    <expavg_credit>0.06721</expavg_credit>
+    <expavg_time>1306699803.29032</expavg_time>
+    <teamid>1026</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>5506</id>
+        <create_time>1284786767</create_time>
+        <rpc_seqno>49</rpc_seqno>
+        <host_cpid>6e39881a3f613721e2e9e733c6f0d987</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284786767</expavg_time>
+        <domain_name>TOBII-008FF70AB</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor         1.50GHz [x86 Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1209216589.86175</p_fpops>
+        <p_iops>2576502007.48396</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5879</id>
+        <create_time>1287521682</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>b986360a589808134d51e965866322f7</host_cpid>
+        <total_credit>34.568129</total_credit>
+        <expavg_credit>0.067211</expavg_credit>
+        <expavg_time>1306699803.55895</expavg_time>
+        <domain_name>TOBII-008FF70AB</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor         1.50GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1256727272.72727</p_fpops>
+        <p_iops>2565137944.46275</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>6496</id>
+        <create_time>1290552441</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>93379c05222df4f64cb906ba53db54a2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290552441</expavg_time>
+        <domain_name>GERD</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.53GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1367938931.29771</p_fpops>
+        <p_iops>2730655798.38488</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

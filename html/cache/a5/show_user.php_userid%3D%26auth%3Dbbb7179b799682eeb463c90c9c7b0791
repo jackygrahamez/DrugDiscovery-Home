@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1610</id>
+    <cpid>0826f156baf8bf32d51ea316b04177b5</cpid>
+    <create_time>1268865466</create_time>
+    <name>LChudzik</name>
+    <country>United Kingdom</country>
+    <total_credit>4690.600012</total_credit>
+    <expavg_credit>3.039496</expavg_credit>
+    <expavg_time>1315742878.0685</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3038</id>
+        <create_time>1268865644</create_time>
+        <rpc_seqno>891</rpc_seqno>
+        <host_cpid>6c3c039b33c8cc4adac5bcc6da5b35cb</host_cpid>
+        <total_credit>3495.642256</total_credit>
+        <expavg_credit>0.093039</expavg_credit>
+        <expavg_time>1278129903.63797</expavg_time>
+        <domain_name>COMPUTAM</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz [EM64T Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3087421730.22912</p_fpops>
+        <p_iops>7759537316.08663</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>3792</id>
+        <create_time>1273273354</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>7c3192a9a9607c098037831682ea9cb7</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273273354</expavg_time>
+        <domain_name>Station</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2986730277.04572</p_fpops>
+        <p_iops>9690114904.73313</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5309</id>
+        <create_time>1283642130</create_time>
+        <rpc_seqno>116</rpc_seqno>
+        <host_cpid>0076036071d3ce171aa913bdd152d3c8</host_cpid>
+        <total_credit>1194.957756</total_credit>
+        <expavg_credit>3.039497</expavg_credit>
+        <expavg_time>1315742878.06865</expavg_time>
+        <domain_name>L-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2666704980.05316</p_fpops>
+        <p_iops>6446540559.98485</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

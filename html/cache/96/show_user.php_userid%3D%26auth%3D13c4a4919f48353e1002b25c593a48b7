@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>804</id>
+    <cpid>ee01157eb895584affe596751161f0ee</cpid>
+    <create_time>1251369728</create_time>
+    <name>Piotr M. Zalewski</name>
+    <country>Poland</country>
+    <total_credit>266.64012102225</total_credit>
+    <expavg_credit>0.069781</expavg_credit>
+    <expavg_time>1262829602.36201</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>611</id>
+        <create_time>1251883186</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>3ce94a77e4e54130a12914a9f582167b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1251883186</expavg_time>
+        <domain_name>Komp240</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) 2800+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1639736591.9091</p_fpops>
+        <p_iops>4549255099.5333</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-15-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>685</id>
+        <create_time>1252222214</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>aba1861beda79fd3c93011f7863a9252</host_cpid>
+        <total_credit>266.64012102225</total_credit>
+        <expavg_credit>0.069785</expavg_credit>
+        <expavg_time>1262829602.44293</expavg_time>
+        <domain_name>pc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E6300  @ 2.80GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3983019309.78689</p_fpops>
+        <p_iops>8116623031.68279</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>686</id>
+        <create_time>1252238715</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>acb6136c494fa216489afa18d0015a17</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1252238715</expavg_time>
+        <domain_name>komp000</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 7750 Dual-Core Processor [AMD64 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2245784182.63755</p_fpops>
+        <p_iops>7001058783.48012</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Enterprise Server x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

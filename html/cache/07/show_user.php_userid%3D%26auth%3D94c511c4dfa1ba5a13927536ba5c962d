@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2838</id>
+    <cpid>5dbb472e5898558af95b21e588c68828</cpid>
+    <create_time>1287339091</create_time>
+    <name>Brunge</name>
+    <country>United Kingdom</country>
+    <total_credit>7.258692</total_credit>
+    <expavg_credit>0.068765</expavg_credit>
+    <expavg_time>1296439759.29919</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5851</id>
+        <create_time>1287340857</create_time>
+        <rpc_seqno>3835</rpc_seqno>
+        <host_cpid>e7a9dbdd989b098ce8243bf4fc38e2e1</host_cpid>
+        <total_credit>7.258692</total_credit>
+        <expavg_credit>0.068765</expavg_credit>
+        <expavg_time>1296439759.29937</expavg_time>
+        <domain_name>laptophp1</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M CPU        410  @ 1.46GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1318019801.9802</p_fpops>
+        <p_iops>2722802802.09539</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5853</id>
+        <create_time>1287352482</create_time>
+        <rpc_seqno>42</rpc_seqno>
+        <host_cpid>8abb67516ad300a6aa662718edbbbeff</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287352482</expavg_time>
+        <domain_name>charliePC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 2800+ [x86 Family 15 Model 44 Stepping 2]</p_model>
+        <p_fpops>1488372093.02326</p_fpops>
+        <p_iops>2982494265.36279</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9997</id>
+        <create_time>1315293340</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c554415aa57c67cbd7a1bccbf25fcece</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315293340</expavg_time>
+        <domain_name>charliePC</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 2800+ [Family 15 Model 44 Stepping 2]</p_model>
+        <p_fpops>1550173010.38062</p_fpops>
+        <p_iops>2796416450.59972</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

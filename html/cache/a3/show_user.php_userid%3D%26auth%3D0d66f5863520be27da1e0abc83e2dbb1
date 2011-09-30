@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>842</id>
+    <cpid>907b25bab01203e063240153b7658ef7</cpid>
+    <create_time>1254167937</create_time>
+    <name>[BOINC@Poland]emik</name>
+    <country>Poland</country>
+    <total_credit>1645.9935544445</total_credit>
+    <expavg_credit>0.079186</expavg_credit>
+    <expavg_time>1275105603.06498</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>875</id>
+        <create_time>1254167970</create_time>
+        <rpc_seqno>837</rpc_seqno>
+        <host_cpid>2a5eb5054fc8f6d0819ac63695484e83</host_cpid>
+        <total_credit>1645.9935544445</total_credit>
+        <expavg_credit>0.079186</expavg_credit>
+        <expavg_time>1275105603.43394</expavg_time>
+        <domain_name>suse</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1655568533.69284</p_fpops>
+        <p_iops>4754811130.55372</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31.12-0.2-desktop</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5420</id>
+        <create_time>1284407918</create_time>
+        <rpc_seqno>116</rpc_seqno>
+        <host_cpid>6d0b4a4e657fce3ce18bc2987673f275</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284407918</expavg_time>
+        <domain_name>laptok</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 430  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2332913843.22094</p_fpops>
+        <p_iops>5331509003.80899</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2895</id>
+    <cpid>79ac08318a327bacbe56b0cb5f31ac27</cpid>
+    <create_time>1288605745</create_time>
+    <name>Thomas Anderson</name>
+    <country>Germany</country>
+    <total_credit>218.811225</total_credit>
+    <expavg_credit>0.098587</expavg_credit>
+    <expavg_time>1304885403.61525</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6035</id>
+        <create_time>1288627131</create_time>
+        <rpc_seqno>308</rpc_seqno>
+        <host_cpid>c9c76d8c25fc078bf40a03d0c2e16010</host_cpid>
+        <total_credit>195.357197</total_credit>
+        <expavg_credit>0.084608</expavg_credit>
+        <expavg_time>1299441904.90737</expavg_time>
+        <domain_name>mjolnir</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2420907840.44017</p_fpops>
+        <p_iops>11724413700.5093</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7983</id>
+        <create_time>1299343905</create_time>
+        <rpc_seqno>141</rpc_seqno>
+        <host_cpid>bb3091126b37bf75c4c4142029565d7d</host_cpid>
+        <total_credit>23.454028</total_credit>
+        <expavg_credit>0.098276</expavg_credit>
+        <expavg_time>1304885405.03991</expavg_time>
+        <domain_name>mjolnir2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       M 620  @ 2.67GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2700321686.5373</p_fpops>
+        <p_iops>11462245686.3102</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

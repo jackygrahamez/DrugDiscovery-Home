@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2818</id>
+    <cpid>bb2542a32733d0e8c926657e1a6e061f</cpid>
+    <create_time>1286876300</create_time>
+    <name>DJ JJ</name>
+    <country>Italy</country>
+    <total_credit>68.663956</total_credit>
+    <expavg_credit>0.087197</expavg_credit>
+    <expavg_time>1296417902.67742</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5797</id>
+        <create_time>1286876632</create_time>
+        <rpc_seqno>311</rpc_seqno>
+        <host_cpid>db8b0e5b64fafbe384d98bb67b44de69</host_cpid>
+        <total_credit>68.663956</total_credit>
+        <expavg_credit>0.087197</expavg_credit>
+        <expavg_time>1296417903.08831</expavg_time>
+        <domain_name>DJJJ-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2181160638.72875</p_fpops>
+        <p_iops>4391489031.35214</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10113</id>
+        <create_time>1316163773</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0b61099e8a59ff9fdd9798e290d4456d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1316163773</expavg_time>
+        <domain_name>LUIGI2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1431219128.68106</p_fpops>
+        <p_iops>2847556570.18744</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

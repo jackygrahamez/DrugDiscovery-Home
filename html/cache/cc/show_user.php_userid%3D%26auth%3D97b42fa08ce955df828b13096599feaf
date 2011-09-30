@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2266</id>
+    <cpid>8ad160e49c69e2f8369d17ea05ab405e</cpid>
+    <create_time>1278314615</create_time>
+    <name>HannahLeyha</name>
+    <country>Germany</country>
+    <total_credit>4161.129458</total_credit>
+    <expavg_credit>0.087607</expavg_credit>
+    <expavg_time>1310933702.71605</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4556</id>
+        <create_time>1278314790</create_time>
+        <rpc_seqno>1498</rpc_seqno>
+        <host_cpid>4d42499566f9a372b6d150158f9a9526</host_cpid>
+        <total_credit>4161.129458</total_credit>
+        <expavg_credit>0.087607</expavg_credit>
+        <expavg_time>1310933703.11146</expavg_time>
+        <domain_name>Athene</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9950 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2317039337.33917</p_fpops>
+        <p_iops>12241756675.6984</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34.10-0.2-desktop</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5580</id>
+        <create_time>1285331076</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>dcaec1125db8ab78ed667b724008ca8d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285331076</expavg_time>
+        <domain_name>Circe</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [x86 Family 15 Model 75 Stepping 2]</p_model>
+        <p_fpops>2088745980.7074</p_fpops>
+        <p_iops>3839820104.12192</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

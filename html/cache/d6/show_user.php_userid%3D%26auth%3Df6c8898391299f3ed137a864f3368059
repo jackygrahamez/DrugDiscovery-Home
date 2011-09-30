@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2129</id>
+    <cpid>92cf1dab3713aa91dfc01af8e0ec891f</cpid>
+    <create_time>1275781583</create_time>
+    <name>STMahlberg</name>
+    <country>United States</country>
+    <total_credit>685.982559</total_credit>
+    <expavg_credit>0.053326</expavg_credit>
+    <expavg_time>1292703903.11435</expavg_time>
+    <teamid>1737</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4140</id>
+        <create_time>1275781764</create_time>
+        <rpc_seqno>423</rpc_seqno>
+        <host_cpid>64cad3f2580fb05b0c4e3d6703d5195b</host_cpid>
+        <total_credit>601.772384</total_credit>
+        <expavg_credit>0.045643</expavg_credit>
+        <expavg_time>1292703903.35022</expavg_time>
+        <domain_name>AMD6400</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>3154521337.44624</p_fpops>
+        <p_iops>6676263843.18682</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4726</id>
+        <create_time>1279448612</create_time>
+        <rpc_seqno>107</rpc_seqno>
+        <host_cpid>17e0d76b5f3e9b47e3f2b42cb67f8844</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1279448612</expavg_time>
+        <domain_name>Jettie</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1323395955.24074</p_fpops>
+        <p_iops>2541757261.17612</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4754</id>
+        <create_time>1279700228</create_time>
+        <rpc_seqno>145</rpc_seqno>
+        <host_cpid>9d9d146f2451678ffe44ae2f6a29cb77</host_cpid>
+        <total_credit>84.210175</total_credit>
+        <expavg_credit>0.089332</expavg_credit>
+        <expavg_time>1284062403.0684</expavg_time>
+        <domain_name>Optiplex745</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) D CPU 2.80GHz [Family 15 Model 4 Stepping 7]</p_model>
+        <p_fpops>1427801309.20293</p_fpops>
+        <p_iops>2342295004.14051</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6110</id>
+        <create_time>1289089363</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>a7b8e881e521de4fcc6c61ef7f7941f6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289089363</expavg_time>
+        <domain_name>d820</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2400  @ 1.83GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1691698864.3016</p_fpops>
+        <p_iops>3409173873.24861</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

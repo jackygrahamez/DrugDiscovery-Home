@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>797</id>
+    <cpid>99702a9e0eaafd04fa7941fc6e2e689b</cpid>
+    <create_time>1251365838</create_time>
+    <name>[XTBA&gt;XTC] truite19</name>
+    <country>France</country>
+    <total_credit>94767.3464183238</total_credit>
+    <expavg_credit>0.093728</expavg_credit>
+    <expavg_time>1315851902.5368</expavg_time>
+    <teamid>565</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>765</id>
+        <create_time>1253045441</create_time>
+        <rpc_seqno>538</rpc_seqno>
+        <host_cpid>c5b55db5409d09370f3dda119958ffa3</host_cpid>
+        <total_credit>6497.8939619672</total_credit>
+        <expavg_credit>0.07194</expavg_credit>
+        <expavg_time>1270872002.39769</expavg_time>
+        <domain_name>truite19-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Intel64 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2293525068.824</p_fpops>
+        <p_iops>6909746927.57342</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1006</id>
+        <create_time>1256489962</create_time>
+        <rpc_seqno>14538</rpc_seqno>
+        <host_cpid>b2ef6f761a421cb95288e08815bbc2c9</host_cpid>
+        <total_credit>35338.785407932</total_credit>
+        <expavg_credit>0.050604</expavg_credit>
+        <expavg_time>1275105603.435</expavg_time>
+        <domain_name>Ordi-Couti</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2457208910.87075</p_fpops>
+        <p_iops>5098000462.82687</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1022</id>
+        <create_time>1256752232</create_time>
+        <rpc_seqno>5273</rpc_seqno>
+        <host_cpid>cace1f9bec26350ea03d6e482a7cecd9</host_cpid>
+        <total_credit>8818.78181742401</total_credit>
+        <expavg_credit>0.05289</expavg_credit>
+        <expavg_time>1315247104.76375</expavg_time>
+        <domain_name>PC-de-Yo</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6400  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2012789451.13122</p_fpops>
+        <p_iops>5871916581.14391</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1665</id>
+        <create_time>1260387568</create_time>
+        <rpc_seqno>4292</rpc_seqno>
+        <host_cpid>74831ac74655e5ee6ae119ba441a0d34</host_cpid>
+        <total_credit>11391.259991</total_credit>
+        <expavg_credit>0.069817</expavg_credit>
+        <expavg_time>1270267203.46648</expavg_time>
+        <domain_name>WIN-6MSU47TU4TE</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 8354 [x86 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2241014630.18125</p_fpops>
+        <p_iops>5039444822.19139</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1831</id>
+        <create_time>1262251131</create_time>
+        <rpc_seqno>396</rpc_seqno>
+        <host_cpid>31927b2724a6dab38f2f09ac50c5feeb</host_cpid>
+        <total_credit>3530.031791</total_credit>
+        <expavg_credit>0.081165</expavg_credit>
+        <expavg_time>1270872002.41954</expavg_time>
+        <domain_name>truite19-desktop</domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 8354 [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1664562772.81965</p_fpops>
+        <p_iops>4933028906.3362</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-14-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3074</id>
+        <create_time>1269161459</create_time>
+        <rpc_seqno>60725</rpc_seqno>
+        <host_cpid>754fa7a7efee6667f7d3699552c7fd77</host_cpid>
+        <total_credit>9622.74853899999</total_credit>
+        <expavg_credit>0.052352</expavg_credit>
+        <expavg_time>1287260703.37362</expavg_time>
+        <domain_name>AMDSTROYER</domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 8356 [AMD64 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1931886731.61123</p_fpops>
+        <p_iops>5008337138.10379</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3393</id>
+        <create_time>1270883382</create_time>
+        <rpc_seqno>2620</rpc_seqno>
+        <host_cpid>e909f02b147a81bf304aefdb8f04f203</host_cpid>
+        <total_credit>7522.742419</total_credit>
+        <expavg_credit>0.067704</expavg_credit>
+        <expavg_time>1315851902.73336</expavg_time>
+        <domain_name>Flodjo-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6320  @ 1.86GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1778886032.25923</p_fpops>
+        <p_iops>5448257376.15517</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3394</id>
+        <create_time>1270885241</create_time>
+        <rpc_seqno>1431</rpc_seqno>
+        <host_cpid>3bdf76e1b98ea4f58dbf5d90676390d4</host_cpid>
+        <total_credit>12045.102491</total_credit>
+        <expavg_credit>0.097541</expavg_credit>
+        <expavg_time>1279944603.25498</expavg_time>
+        <domain_name>rachael-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2289715314.79262</p_fpops>
+        <p_iops>7259724639.54511</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

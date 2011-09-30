@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>202</id>
+    <cpid>edaab00a34482a13a7bb75501500f5f3</cpid>
+    <create_time>1240320028</create_time>
+    <name>BOINC@Odessa</name>
+    <country>Ukraine</country>
+    <total_credit>236.51570150506</total_credit>
+    <expavg_credit>3.3285173819308e-05</expavg_credit>
+    <expavg_time>1314641999</expavg_time>
+    <teamid>191</teamid>
+    <url>boincstats.com/search/all_projects.php?teamid=83f5f2a0b8e443eb58c1f500e674e1f1</url>
+    <has_profile>1</has_profile>
+   <venue>work</venue>
+    <host>
+        <id>26</id>
+        <create_time>1240342797</create_time>
+        <rpc_seqno>142</rpc_seqno>
+        <host_cpid>eb32dac9bbaa7318444ee272d5019244</host_cpid>
+        <total_credit>45.810274</total_credit>
+        <expavg_credit>6.9e-05</expavg_credit>
+        <expavg_time>1250104203.14482</expavg_time>
+        <domain_name>yuri-hsh-0</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          4400  @ 2.00GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1974121874.16111</p_fpops>
+        <p_iops>4334947270.79571</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>31</id>
+        <create_time>1240390438</create_time>
+        <rpc_seqno>2678</rpc_seqno>
+        <host_cpid>160d263f0f9f87620c8068856f78bc34</host_cpid>
+        <total_credit>68.676894505055</total_credit>
+        <expavg_credit>3.3285173844551e-05</expavg_credit>
+        <expavg_time>1314641999</expavg_time>
+        <domain_name>YuRi</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          430  @ 1.80GHz [Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>1980000000</p_fpops>
+        <p_iops>4194447259.88414</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>195</id>
+        <create_time>1241532302</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6b5134b8c15bed21ba561ac4bdb47188</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1241532302</expavg_time>
+        <domain_name>YuRi.odessa.avtozazbank</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU          430  @ 1.80GHz [x86 Family 6 Model 22 Stepping 1]</p_model>
+        <p_fpops>1796129032.25806</p_fpops>
+        <p_iops>3861367354.72067</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+</user>

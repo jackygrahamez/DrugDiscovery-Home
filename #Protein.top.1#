@@ -1,0 +1,12 @@
+;
+;	File 'Protein.top' was generated
+;	By user: boincadm (501)
+;	On host: vps
+;	At date: Thu Jan 28 03:05:26 2010
+;
+;	This is your topology file
+;	CSD ENTRY UNKNWN
+;
+; Include forcefield parameters
+#include "ffamber99sb.itp"
+

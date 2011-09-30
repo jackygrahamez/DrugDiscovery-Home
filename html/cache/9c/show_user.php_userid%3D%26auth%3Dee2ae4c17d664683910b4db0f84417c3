@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3630</id>
+    <cpid>d16fcbf555b873bc50a1ceb065f0bfde</cpid>
+    <create_time>1294202047</create_time>
+    <name>TABwebmaster</name>
+    <country>United States</country>
+    <total_credit>16.915909</total_credit>
+    <expavg_credit>0.055156</expavg_credit>
+    <expavg_time>1309724102.63395</expavg_time>
+    <teamid>12</teamid>
+    <url>www.seti-teamartbell.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7181</id>
+        <create_time>1294202967</create_time>
+        <rpc_seqno>53</rpc_seqno>
+        <host_cpid>a484afaa88442186cf6f819c20875f57</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294202967</expavg_time>
+        <domain_name>tabnet001</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 2800+ [x86 Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1909677419.35484</p_fpops>
+        <p_iops>3757601174.25037</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7182</id>
+        <create_time>1294204740</create_time>
+        <rpc_seqno>80</rpc_seqno>
+        <host_cpid>544f840f1c4b80161aedb5b7f69c7303</host_cpid>
+        <total_credit>16.915909</total_credit>
+        <expavg_credit>0.055157</expavg_credit>
+        <expavg_time>1309724102.80587</expavg_time>
+        <domain_name>TABNET</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1500MHz [Family 15 Model 0 Stepping 10]</p_model>
+        <p_fpops>778997613.365155</p_fpops>
+        <p_iops>1575576879.42761</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

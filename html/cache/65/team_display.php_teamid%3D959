@@ -1,0 +1,28 @@
+O:9:"BoincTeam":24:{s:2:"id";s:3:"959";s:11:"create_time";s:10:"1279690271";s:6:"userid";s:4:"2335";s:4:"name";s:3:"NOC";s:7:"name_lc";s:3:"noc";s:3:"url";s:0:"";s:4:"type";s:1:"2";s:9:"name_html";s:0:"";s:11:"description";s:17:"...da CapMan's ;)";s:6:"nusers";s:1:"2";s:7:"country";s:13:"International";s:12:"total_credit";s:10:"350.845739";s:13:"expavg_credit";s:9:"24.201374";s:11:"expavg_time";s:16:"1317376665.12288";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"2";s:13:"nusers_active";s:1:"1";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"2335";s:11:"create_time";s:10:"1279690240";s:10:"email_addr";s:19:"jerexster@gmail.com";s:4:"name";s:5:"Jaque";s:13:"authenticator";s:32:"db4beeac936e42f0649f6140247401ed";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:8:"7.428254";s:13:"expavg_credit";s:8:"0.054531";s:11:"expavg_time";s:16:"1291459779.52785";s:12:"global_prefs";s:900:"<global_preferences>
+    <source_project>http://setiathome.berkeley.edu/</source_project>
+    <source_scheduler>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</source_scheduler>
+<mod_time>1180598090</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>24</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"959";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"0";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"4d114573a665ba16d5a4f56be2ce23ca";s:11:"passwd_hash";s:32:"eb92ce1e370ff14dcf58593eaf3aa122";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

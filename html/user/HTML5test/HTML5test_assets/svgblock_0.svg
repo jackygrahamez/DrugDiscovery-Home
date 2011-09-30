@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='2000px' height='125px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<defs>
+		<linearGradient id="grad0" gradientUnits="userSpaceOnUse" x1="-1478.5" y1="50" x2="521.5" y2="50">
+		<stop offset="0.392157%" stop-color="#C8CBE4"/>
+		<stop offset="25.4902%" stop-color="#CACDE5"/>
+		<stop offset="34.5098%" stop-color="#D1D3E8"/>
+		<stop offset="41.1765%" stop-color="#DCDEEE"/>
+		<stop offset="46.2745%" stop-color="#EDEEF6"/>
+		<stop offset="49.8039%" stop-color="#FFFFFF"/>
+		<stop offset="53.7255%" stop-color="#EDEEF6"/>
+		<stop offset="58.8235%" stop-color="#DCDEEE"/>
+		<stop offset="65.4902%" stop-color="#D1D3E8"/>
+		<stop offset="74.5098%" stop-color="#CACDE5"/>
+		<stop offset="100%" stop-color="#C8CBE4"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(1000,61.9859)">
+		<path d="M 521.5 91 L -1478.5 91 L -1478.5 9 L 521.5 9 Z" transform="translate(478.5,-75.6) scale(1,1.51268)" fill="url(#grad0)"/>
+	</g>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2833</id>
+    <cpid>e411a6abdd366f59ec5bd26cb483c9a8</cpid>
+    <create_time>1287250488</create_time>
+    <name>miaou</name>
+    <country>United Kingdom</country>
+    <total_credit>2312.346928</total_credit>
+    <expavg_credit>0.099191</expavg_credit>
+    <expavg_time>1311538503.22517</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5838</id>
+        <create_time>1287251469</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>250ee8b4f0b7a483412d24ebb3efc0ca</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287251469</expavg_time>
+        <domain_name>MAKINE</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 6400+ [Family 15 Model 67 Stepping 3]</p_model>
+        <p_fpops>3135931351.47354</p_fpops>
+        <p_iops>5700876172.41444</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6002</id>
+        <create_time>1288330051</create_time>
+        <rpc_seqno>1610</rpc_seqno>
+        <host_cpid>d848aad9790f959a2d75a81e4f2f3823</host_cpid>
+        <total_credit>2312.346928</total_credit>
+        <expavg_credit>0.099191</expavg_credit>
+        <expavg_time>1311538503.5496</expavg_time>
+        <domain_name>mikali</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3398110173.57898</p_fpops>
+        <p_iops>7673673704.4561</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6484</id>
+        <create_time>1290465796</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>9a6102ffe0019deafa6a520b5a7d623c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290465796</expavg_time>
+        <domain_name>minimaki</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>659763938.781055</p_fpops>
+        <p_iops>1696398081.14481</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

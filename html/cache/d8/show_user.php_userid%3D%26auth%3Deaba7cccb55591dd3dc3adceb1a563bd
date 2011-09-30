@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>977</id>
+    <cpid>4bce70dc6d6282d37408249e977bc9c5</cpid>
+    <create_time>1258007768</create_time>
+    <name>Geltops</name>
+    <country>Spain</country>
+    <total_credit>2082.0496344601</total_credit>
+    <expavg_credit>0.074023</expavg_credit>
+    <expavg_time>1289075102.90074</expavg_time>
+    <teamid>501</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>1692</id>
+        <create_time>1260738713</create_time>
+        <rpc_seqno>268</rpc_seqno>
+        <host_cpid>e3529e718bb8debb521b9e29ab09fd3f</host_cpid>
+        <total_credit>166.955376</total_credit>
+        <expavg_credit>0.089384</expavg_credit>
+        <expavg_time>1265412904.06535</expavg_time>
+        <domain_name>COSMOSVista64Bi</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2562725776.32718</p_fpops>
+        <p_iops>8164177194.30217</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1866</id>
+        <create_time>1262478287</create_time>
+        <rpc_seqno>171</rpc_seqno>
+        <host_cpid>127e84b58ea6da03269bc4f8180530ad</host_cpid>
+        <total_credit>1848.5058224601</total_credit>
+        <expavg_credit>0.07627</expavg_credit>
+        <expavg_time>1270267203.47045</expavg_time>
+        <domain_name>COSMOSVista32Bi</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [x86 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2657909266.33823</p_fpops>
+        <p_iops>6459112736.30426</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1867</id>
+        <create_time>1262478303</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>64757af423dad152d3579a631ca568ec</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1262478303</expavg_time>
+        <domain_name>STACKERVista32B</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [x86 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2663784812.48064</p_fpops>
+        <p_iops>6540623929.81286</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>1914</id>
+        <create_time>1263687037</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>7813905561d10a14fbe2a1f6a3fe67ea</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1263687037</expavg_time>
+        <domain_name>STACKER64Bits</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 2356 [AMD64 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5908</id>
+        <create_time>1287706529</create_time>
+        <rpc_seqno>57</rpc_seqno>
+        <host_cpid>ae8fb7dd39130256bdefefb774af3f57</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287706529</expavg_time>
+        <domain_name>StackerVista32</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 2356 [x86 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1000000000</p_fpops>
+        <p_iops>1000000000</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5892</id>
+        <create_time>1287616934</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>b4c22355323f66f36fea31275eba7fed</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287616934</expavg_time>
+        <domain_name>Stacker32BITS</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 2356 [x86 Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2200015407.74343</p_fpops>
+        <p_iops>4772520944.19813</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5889</id>
+        <create_time>1287615949</create_time>
+        <rpc_seqno>177</rpc_seqno>
+        <host_cpid>fff90aaf5b17de3dd7099f6401c1d586</host_cpid>
+        <total_credit>66.588436</total_credit>
+        <expavg_credit>0.08488</expavg_credit>
+        <expavg_time>1291494302.90223</expavg_time>
+        <domain_name>LIANLI32</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         975  @ 3.33GHz [x86 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3308416069.47819</p_fpops>
+        <p_iops>8048562032.95651</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5891</id>
+        <create_time>1287616165</create_time>
+        <rpc_seqno>220</rpc_seqno>
+        <host_cpid>b6f97aaa6dc53a76274e064dc09a39ae</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287616165</expavg_time>
+        <domain_name>COSMOSServer2008</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         960  @ 3.20GHz [x86 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>3177853996.64313</p_fpops>
+        <p_iops>7803755376.746</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>5903</id>
+        <create_time>1287686212</create_time>
+        <rpc_seqno>62</rpc_seqno>
+        <host_cpid>586981cbcac9ad698333a75f416540a8</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287686212</expavg_time>
+        <domain_name>TV32</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 620 Processor [x86 Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2590924138.10123</p_fpops>
+        <p_iops>5868674087.07109</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

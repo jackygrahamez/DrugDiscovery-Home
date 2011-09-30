@@ -1,0 +1,22 @@
+<platforms>
+  <platform>
+    <platform_name>i686-apple-darwin</platform_name>
+    <user_friendly_name>Mac OS 10.4 or later running on Intel</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>i686-pc-linux-gnu</platform_name>
+    <user_friendly_name>Linux running on an Intel x86-compatible CPU</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>powerpc-apple-darwin</platform_name>
+    <user_friendly_name>Mac OS X 10.3 or later running on Motorola PowerPC</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>windows_intelx86</platform_name>
+    <user_friendly_name>Microsoft Windows (98 or later) running on an Intel x86-compatible CPU</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>x86_64-pc-linux-gnu</platform_name>
+    <user_friendly_name>Linux running on an AMD x86_64 or Intel EM64T CPU</user_friendly_name>
+  </platform>
+</platforms>

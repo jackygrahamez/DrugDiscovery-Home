@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>555</id>
+    <cpid>c8e59872ae312873effbab3d3ca89421</cpid>
+    <create_time>1241136000</create_time>
+    <name>Lazarus-uk</name>
+    <country>United Kingdom</country>
+    <total_credit>21086.853266118</total_credit>
+    <expavg_credit>0.087331</expavg_credit>
+    <expavg_time>1298232302.70604</expavg_time>
+    <teamid>29</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>693</id>
+        <create_time>1252353962</create_time>
+        <rpc_seqno>187</rpc_seqno>
+        <host_cpid>d24075c1fb367cc54093cab1d54d665a</host_cpid>
+        <total_credit>1469.73469858821</total_credit>
+        <expavg_credit>0.074541</expavg_credit>
+        <expavg_time>1298232302.99617</expavg_time>
+        <domain_name>Home</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9450  @ 2.66GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>3051944316.15357</p_fpops>
+        <p_iops>8855601103.72254</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>694</id>
+        <create_time>1252354746</create_time>
+        <rpc_seqno>1234</rpc_seqno>
+        <host_cpid>f0d5d9dd3e28b09acb2e7a0c66205477</host_cpid>
+        <total_credit>13426.45554153</total_credit>
+        <expavg_credit>0.064903</expavg_credit>
+        <expavg_time>1272081603.09568</expavg_time>
+        <domain_name>home</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2918120698.17048</p_fpops>
+        <p_iops>10074751015.176</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2714</id>
+        <create_time>1267211328</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6c7c9c5399127e4adfe629bf7d66c572</host_cpid>
+        <total_credit>641.663026</total_credit>
+        <expavg_credit>0.079323</expavg_credit>
+        <expavg_time>1295123103.55859</expavg_time>
+        <domain_name>Home</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2958135347.61547</p_fpops>
+        <p_iops>8965324931.18492</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

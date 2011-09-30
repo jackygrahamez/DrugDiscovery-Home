@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>51</id>
+    <cpid>2a6a043a0c30bcc6d327d7e3c840b65d</cpid>
+    <create_time>1240319527</create_time>
+    <name>nate77af</name>
+    <country></country>
+    <total_credit>182.743553</total_credit>
+    <expavg_credit>0.090887</expavg_credit>
+    <expavg_time>1285876802.56234</expavg_time>
+    <teamid>40</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4208</id>
+        <create_time>1276299062</create_time>
+        <rpc_seqno>117</rpc_seqno>
+        <host_cpid>57df78e3692ad5690c39853880126a58</host_cpid>
+        <total_credit>182.743553</total_credit>
+        <expavg_credit>0.097975</expavg_credit>
+        <expavg_time>1285876803.17255</expavg_time>
+        <domain_name>trpfly3-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9750 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1815905800.60673</p_fpops>
+        <p_iops>11166975126.5918</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-22-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4218</id>
+        <create_time>1276385224</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>2ff399eb317c806bc6943a52a1319661</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276385224</expavg_time>
+        <domain_name>TRPFLY1</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) D CPU 3.20GHz [x86 Family 15 Model 6 Stepping 4]</p_model>
+        <p_fpops>1554131534.56998</p_fpops>
+        <p_iops>2199676978.6563</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

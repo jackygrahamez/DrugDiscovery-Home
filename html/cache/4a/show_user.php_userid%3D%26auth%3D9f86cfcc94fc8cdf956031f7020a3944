@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2175</id>
+    <cpid>9871c7eb9ba55c48c5393ee300853b30</cpid>
+    <create_time>1276619206</create_time>
+    <name>UBT - NomadicShock</name>
+    <country>United Kingdom</country>
+    <total_credit>87.630137</total_credit>
+    <expavg_credit>0.027858</expavg_credit>
+    <expavg_time>1315885512.54361</expavg_time>
+    <teamid>551</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4258</id>
+        <create_time>1276620747</create_time>
+        <rpc_seqno>476</rpc_seqno>
+        <host_cpid>9501b23a546ed44fa7b1f5b780eb8dc3</host_cpid>
+        <total_credit>87.630137</total_credit>
+        <expavg_credit>0.027858</expavg_credit>
+        <expavg_time>1315885512.62895</expavg_time>
+        <domain_name>BREAKDOWNTRAIN4</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>508459005.483603</p_fpops>
+        <p_iops>972327420.575453</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5798</id>
+        <create_time>1286883631</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>9e766ece81dc19d2fe3394a20e75cc5f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286883631</expavg_time>
+        <domain_name>Coventry03</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5320  @ 1.86GHz [x86 Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>1821466176.43832</p_fpops>
+        <p_iops>3987559439.66071</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

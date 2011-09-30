@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4444</id>
+    <cpid>baea6b1e9de19a560a5df55c92fd5391</cpid>
+    <create_time>1302619850</create_time>
+    <name>[AF&gt;Libristes]Msg_dracula</name>
+    <country>France</country>
+    <total_credit>16.136896</total_credit>
+    <expavg_credit>0.08688</expavg_credit>
+    <expavg_time>1307304603.00121</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8393</id>
+        <create_time>1302623494</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>de5c7b0a6cc109d6580509dbd85971bf</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302623494</expavg_time>
+        <domain_name>neo</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 250 Processor [Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>1909212126.51836</p_fpops>
+        <p_iops>7099150493.51513</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8760</id>
+        <create_time>1305224062</create_time>
+        <rpc_seqno>109</rpc_seqno>
+        <host_cpid>77a50ea40106d0063c81c09887769605</host_cpid>
+        <total_credit>16.136896</total_credit>
+        <expavg_credit>0.075409</expavg_credit>
+        <expavg_time>1307909403.56367</expavg_time>
+        <domain_name>neo</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 250 Processor [Family 16 Model 6 Stepping 3]</p_model>
+        <p_fpops>3350220655.87698</p_fpops>
+        <p_iops>15944690832.4075</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.0-1-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9851</id>
+        <create_time>1313861192</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>31e57da2b8a22de482e8818e3572d004</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1313861192</expavg_time>
+        <domain_name>trinity</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU  230   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>348244173.732908</p_fpops>
+        <p_iops>1357299010.26494</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-686</os_version>
+        <venue></venue>
+    </host>
+</user>

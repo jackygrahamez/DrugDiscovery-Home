@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>93</id>
+    <cpid>c2a913add868e8941f3f3477833f5bed</cpid>
+    <create_time>1240319640</create_time>
+    <name>[AF&gt;BOINC@MONACO] NOVAK</name>
+    <country>Monaco</country>
+    <total_credit>8627.2667731368</total_credit>
+    <expavg_credit>0.08362</expavg_credit>
+    <expavg_time>1278735003.01244</expavg_time>
+    <teamid>7</teamid>
+    <url>members.shaw.ca/boincmonaco/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>962</id>
+        <create_time>1255497936</create_time>
+        <rpc_seqno>605</rpc_seqno>
+        <host_cpid>191df60d91ed9897bc46412d30e26214</host_cpid>
+        <total_credit>8162.8312791368</total_credit>
+        <expavg_credit>0.08362</expavg_credit>
+        <expavg_time>1278735003.42666</expavg_time>
+        <domain_name>ERIC-Q6600</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2880887633.9695</p_fpops>
+        <p_iops>9155244454.68201</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1732</id>
+        <create_time>1261369298</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>fb2f28f7e6be187732fa81cecbe25f43</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1261369298</expavg_time>
+        <domain_name>ERIC-Q6600-3</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2876842782.7578</p_fpops>
+        <p_iops>9061469822.86907</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

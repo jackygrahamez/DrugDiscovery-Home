@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2836</id>
+    <cpid>4eeb90b2c2414c38d02ed0e0a275a2f8</cpid>
+    <create_time>1287313343</create_time>
+    <name>gubkow</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1287313343</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5868</id>
+        <create_time>1287425207</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>f5bb8ff782a0f95fcae34b6129607f3a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287425207</expavg_time>
+        <domain_name>locke</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 720  @ 1.60GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1266494878.40917</p_fpops>
+        <p_iops>6182356990.15011</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5848</id>
+        <create_time>1287313563</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>2f3153b90bff6557bf5a09ceefb81a00</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287313563</expavg_time>
+        <domain_name>luedi</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2614542262.73587</p_fpops>
+        <p_iops>7996286487.0294</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

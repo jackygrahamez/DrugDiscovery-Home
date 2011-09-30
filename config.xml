@@ -1,0 +1,344 @@
+<?xml version="1.0" ?>
+<boinc>
+  <config>
+    <homogeneous_redundancy>
+      0
+    </homogeneous_redundancy>
+    <upload_dir>
+      /home/boincadm/projects/DrugDiscovery/upload
+    </upload_dir>
+    <enable_assignment>1</enable_assignment>
+    <resend_lost_results>
+      1
+    </resend_lost_results>
+    <send_result_abort>
+      1
+    </send_result_abort>
+    <long_name>
+      DrugDiscovery
+    </long_name>
+    <cgi_url>
+      http://boinc.drugdiscoveryathome.com/DrugDiscovery_cgi/
+    </cgi_url>
+    <sched_debug_level>
+      3
+    </sched_debug_level> 
+    <debug_send>1</debug_send>
+    <disable_account_creation>
+      0
+    </disable_account_creation>
+    <uldl_dir_fanout>
+      1024
+    </uldl_dir_fanout>
+    <download_url>
+      http://boinc.drugdiscoveryathome.com/DrugDiscovery/download
+    </download_url>
+    <db_user>
+      boincadm
+    </db_user>
+    <log_dir>
+      /home/boincadm/projects/DrugDiscovery/log_vps
+    </log_dir>
+    <app_dir>
+      /home/boincadm/projects/DrugDiscovery/apps
+    </app_dir>
+    <download_dir>
+      /home/boincadm/projects/DrugDiscovery/download
+    </download_dir>
+    <fuh_debug_level>
+      3
+    </fuh_debug_level>
+    <master_url>
+      http://boinc.drugdiscoveryathome.com/
+    </master_url>
+    <host>
+      vps
+    </host>
+    <db_name>
+      DrugDiscovery
+    </db_name>
+    <shmem_key>
+      0x11119a29
+    </shmem_key>
+    <show_results>
+      1
+    </show_results>
+    <key_dir>
+      /home/boincadm/projects/DrugDiscovery/keys/
+    </key_dir>
+    <upload_url>
+      http://boinc.drugdiscoveryathome.com/DrugDiscovery_cgi/file_upload_handler
+    </upload_url>
+    <db_passwd>
+     !QAZxsw2 
+      
+      
+      
+      
+    </db_passwd>
+    <min_sendwork_interval>
+      6
+    </min_sendwork_interval>
+    <db_host>
+     localhost
+    </db_host>
+    <daily_result_quota>
+      500
+    </daily_result_quota>
+    <one_result_per_user_per_wu>
+      1
+    </one_result_per_user_per_wu>
+    <one_result_per_host_per_wu/>
+    <max_wus_to_send>
+      25
+    </max_wus_to_send>
+    <max_wus_in_progress>
+      25
+    </max_wus_in_progress>      
+ </config>
+  <tasks>
+    <task>
+      <cmd>
+	/usr/bin/perl /home/boincadm/projects/DrugDiscovery/bin/mdrun.pl	
+      </cmd>
+      <period>
+        12 hours
+      </period>
+      <disabled>
+        1 
+      </disabled>
+      <output>
+        mdrun.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        autodock.pl 10 biotarget/fzd8min_renum_SS.pdb
+      </cmd>
+      <period>
+        5 days
+      </period>
+      <disabled>
+        1
+      </disabled>
+      <output>
+        autodock.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        db_dump -d 2 -dump_spec ../db_dump_spec.xml
+      </cmd>
+      <period>
+        1 days
+      </period>
+      <disabled>
+        0 
+      </disabled>
+      <output>
+        db_dump.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./update_uotd.php
+      </cmd>
+      <period>
+        1 days
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        update_uotd.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./update_forum_activities.php
+      </cmd>
+      <period>
+        1 hour
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        update_forum_activities.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        update_stats -update_users -update_teams -update_hosts
+      </cmd>
+      <period>
+        7 days
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        update_stats.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./update_profile_pages.php
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        update_profile_pages.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./team_import.php
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        team_import.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+        run_in_ops ./notify.php
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        notify.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+	census
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        census.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+	logrotate
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        logrotate.out
+      </output>
+    </task>
+    <task>
+      <cmd>
+	archive
+      </cmd>
+      <period>
+        24 hours
+      </period>
+      <disabled>
+        0
+      </disabled>
+      <output>
+        archive.out
+      </output>
+    </task>
+  </tasks>
+  <daemons>
+    <daemon>
+      <cmd>
+        feeder -d 1 
+      </cmd>
+      <disabled>
+        0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        transitioner -d 1 
+      </cmd>
+      <disabled>
+        0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        file_deleter -d 1 
+      </cmd>
+      <disabled>
+	0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        autodock_mgl_validator -d 1 -app vina
+      </cmd>
+      <disabled>
+        0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        autodock_mgl_assimilator -d 1 -app vina
+      </cmd>
+      <disabled>
+        0 
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        mdrun_validator -d 1 -app mdrun
+      </cmd>
+      <disabled>
+        0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        mdrun_assimilator -d 1 -app mdrun
+      </cmd>
+      <disabled>
+        0
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        mdrun_cuda_validator -d 1 -app mdrun_cuda
+      </cmd>
+      <disabled>
+        1
+      </disabled>
+    </daemon>
+    <daemon>
+      <cmd>
+        mdrun_cuda_assimilator -d 1 -app mdrun_cuda
+      </cmd>
+      <disabled>
+        1
+      </disabled>
+    </daemon>
+  </daemons>
+</boinc>
+

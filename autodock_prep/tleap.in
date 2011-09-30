@@ -1,0 +1,4 @@
+source /usr/local/antechamber-1.27/dat/leap/cmd/leaprc.ff99SB
+str1=loadpdb pdb100d.ent
+savepdb str1 receptor.pdb
+quit

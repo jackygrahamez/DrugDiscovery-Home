@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4315</id>
+    <cpid>8cfd5c4383276d0ad86a8ec7263eb8d8</cpid>
+    <create_time>1300304603</create_time>
+    <name>fthibaud0001</name>
+    <country>Switzerland</country>
+    <total_credit>99.282388</total_credit>
+    <expavg_credit>0.364709</expavg_credit>
+    <expavg_time>1315851902.5649</expavg_time>
+    <teamid>86</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8117</id>
+        <create_time>1300304910</create_time>
+        <rpc_seqno>851</rpc_seqno>
+        <host_cpid>bbf024508b01fbef5799da55c75916d4</host_cpid>
+        <total_credit>86.421593</total_credit>
+        <expavg_credit>0.12558</expavg_credit>
+        <expavg_time>1315851902.83592</expavg_time>
+        <domain_name>FPT12</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.73GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1262283737.02422</p_fpops>
+        <p_iops>2484617919.30024</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9015</id>
+        <create_time>1307042943</create_time>
+        <rpc_seqno>513</rpc_seqno>
+        <host_cpid>fe4120c8f60d4d6222fdd7f7342e8aad</host_cpid>
+        <total_credit>12.860795</total_credit>
+        <expavg_credit>0.136951</expavg_credit>
+        <expavg_time>1315851902.83723</expavg_time>
+        <domain_name>FPT04</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1313264200.58814</p_fpops>
+        <p_iops>1785987126.60404</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

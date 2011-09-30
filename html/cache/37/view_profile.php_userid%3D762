@@ -1,0 +1,105 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:3:"762";s:11:"create_time";s:10:"1251325088";s:10:"email_addr";s:14:"cagore@ono.com";s:4:"name";s:5:"efren";s:13:"authenticator";s:32:"d08ac906eda0e64524f2140dddf28b6d";s:7:"country";s:5:"Spain";s:11:"postal_code";s:5:"38000";s:12:"total_credit";s:15:"602.25886977058";s:13:"expavg_credit";s:8:"0.049414";s:11:"expavg_time";s:16:"1268940302.79265";s:12:"global_prefs";s:4517:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1261128969</mod_time>
+    <run_if_user_active/>
+    <idle_time_to_run>15</idle_time_to_run>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <work_buf_min_days>0.0</work_buf_min_days>
+    <work_buf_additional_days>1.0</work_buf_additional_days>
+    <max_cpus>3</max_cpus>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <disk_interval>600.0</disk_interval>
+    <disk_max_used_gb>4.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>5.0</disk_min_free_gb>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>70.0</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <end_hour>0</end_hour>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <start_hour>0</start_hour>
+    <venue name="work">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>600.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>1.0</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <idle_time_to_run>3.0</idle_time_to_run>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>3</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>60.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>40.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>60.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>30.0</vm_max_used_pct>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>3.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+    <venue name="home">
+        <idle_time_to_run>15.0</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <work_buf_min_days>0.1</work_buf_min_days>
+        <work_buf_additional_days>1.25</work_buf_additional_days>
+        <max_cpus>1</max_cpus>
+        <cpu_usage_limit>50.0</cpu_usage_limit>
+        <disk_interval>600.0</disk_interval>
+        <disk_max_used_gb>100.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.0</disk_min_free_gb>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>70.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <end_hour>0</end_hour>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+    <venue name="school">
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <disk_interval>600.0</disk_interval>
+        <disk_max_used_gb>4.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>5.0</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <idle_time_to_run>5.0</idle_time_to_run>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>3</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_on_batteries/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>60.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>40.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>60.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>30.0</vm_max_used_pct>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.25</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:179:"<project_preferences>
+<resource_share>50</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"501";s:5:"venue";s:0:"";s:3:"url";s:15:"www.mrboinc.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"d45136849805d9366d011de350e98037";s:11:"passwd_hash";s:32:"08c7be6192ffa13d7f60bc8ee1196a3d";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"501";s:11:"create_time";s:10:"1241728805";s:6:"userid";s:3:"570";s:4:"name";s:9:"TitanesDC";s:7:"name_lc";s:9:"titanesdc";s:3:"url";s:17:"www.titanesdc.com";s:4:"type";s:2:"11";s:9:"name_html";s:90:"<a href="http://www.titanesdc.com"><img src="http://www.titanesdc.com/imgs/ltidc.png"></a>";s:11:"description";s:0:"";s:6:"nusers";s:2:"13";s:7:"country";s:5:"Spain";s:12:"total_credit";s:16:"321713.245889809";s:13:"expavg_credit";s:10:"560.399801";s:11:"expavg_time";s:16:"1317332558.03212";s:7:"seti_id";s:3:"924";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

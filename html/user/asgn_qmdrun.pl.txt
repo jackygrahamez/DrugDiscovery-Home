@@ -1,0 +1,147 @@
+#!/usr/bin/perl -w
+#Check if already running
+
+$complexes=$ARGV[0];
+chomp($complexes);
+
+$ARG="date";
+print $ARG."\n";
+system($ARG);
+
+$check = system("ps ax | grep asgn_qmdrun.pl | wc -l");
+chomp($check);
+print "Checking if script is running\n";
+if ($check > 3) {
+print "Already running\n";
+exit 0;
+}
+
+#Set Variables
+#Project Directory
+#$steps=50000;
+$nsteps = 2500000;
+$steps=50000;
+$start=0;
+$end = $start + $steps;
+$nstxout=($steps * 0.10);
+$nstvout=($steps * 0.10);
+$nstxtcout=($steps * 0.10);
+$rsc_fpops_est = ($steps * 319500000);
+$rsc_fpops_bound = ($rsc_fpops_est * 1000);
+$rsc_memory_bound = 500000000;
+$delay_bound = ($steps * 7);
+#$delay_bound = ($steps * 70);
+$PROJECT="/home/boincadm/projects/DrugDiscovery";
+$OPS=$PROJECT."/html/ops";
+$qmdrun=$PROJECT."/qmdrun";
+$biotarget=$PROJECT."/biotarget";
+$complexes_index=$biotarget."/".$complexes;
+
+        $time=`date '+%s%N'`;
+        chomp ($time);
+
+$job_file = "
+<job_desc>
+    <task>
+        <application>mdrun.exe</application>
+        <command_line> -v -x -c -o md.pdb -e -cpo md.next -cpi md.cpt -deffnm md</command_line>
+        <weight>100</weight>
+        <fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <weight>1</weight>
+        <command_line> a -y -tzip out.7z *.log *.tpr *.gro *.mdp *.edr *.cpt job.xml *.top</command_line>
+    </task>
+</job_desc>
+";
+
+$make_ndx = "0 q ";
+$protein_lig = "protein LIG ";
+$g_energy = "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 ";
+
+open (COMPLEXES,$complexes_index) or die ("Error trying to open complexes.\n");
+
+ do {$new_complex = <COMPLEXES>;
+chomp($new_complex);
+#use the Cwd methods
+        use Cwd;
+#save the original directory path
+        my $orig_dir = Cwd::abs_path;
+#clean the path string
+        chomp($qmdrun);
+#change to new directory
+        chdir($qmdrun);
+
+#change to original 
+        chdir($orig_dir);
+
+$ARG="date";
+print $ARG."\n";
+system($ARG);
+
+#generate seed
+#  use strict;
+#  use warnings;
+  my $range = 1000000;
+  my $seed = int(rand($range));
+  print $seed . "\n";
+
+$md_param="integrator \= md
+nsteps \= ".$steps."
+dt \= 0.002
+nstvout \= ".$nstvout."
+nstlog \= 500
+nstenergy \= 250
+nstxtcout \= ".$nstxtcout."
+nstxout \= ".$nstxout."
+xtc_grps \= Protein
+energygrps \= Protein  SOL
+constraints \= all-bonds
+nstcomm \= 1
+ns_type \= grid
+rlist \= 1.2
+rcoulomb \= 1.1
+rvdw \= 1.0
+vdwtype \= shift
+rvdw-switch \= 0.9
+coulombtype \= PME-Switch
+Tcoupl \= v-rescale
+tau_t \= 0.1 0.1
+tc-grps \= protein non-protein
+ref_t \= 300 300
+Pcoupl \= parrinello-rahman
+PcOupltype \= isotropic
+tau_p \= 0.5
+compressibility \= 4.5e-5
+ref_p \= 1.0
+gen_vel \= yes
+lincs-iter \= 2
+DispCorr \= EnerPres
+optimize_fft \= yes
+gen_seed = ".$seed;
+
+
+$df=`df | head -n 3 | tail -n 1 | awk \'{ print substr( \$0, length(\$0) - 4, 2 ) }\'`;
+chomp($df);
+$df=$df-1;
+print $df."% full\n";
+if ($df >70) {
+print "over 70% full \n";
+sleep(5200);
+}
+
+$ENV{'PATH'} = '/usr/local/gromacs/bin/:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/antechamber-1.27:/usr/local/antechamber-1.27/exe:/home/boincadm/bin';
+$ENV{'ACHOME'} = '/usr/local/antechamber-1.27';
+$ENV{'AMBERHOME'} = '/usr/local/antechamber-1.27/exe';
+$results=$PROJECT."/sample_results";
+
+$ARG="cp ".$biotarget."/".$new_complex." .";
+print $ARG . "\n";
+system($ARG);
+
+#Prep the Protein2.pb useing pdb2gmx
+$ARG8="pdb2gmx -ff amber99sb -f ".$new_complex." -o Protein2.pdb -p Protein.top -water spce -ignh";
+        print $ARG8 . "\n";
+        system($ARG8);
+}

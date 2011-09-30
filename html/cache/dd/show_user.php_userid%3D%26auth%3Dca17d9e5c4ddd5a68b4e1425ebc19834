@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2185</id>
+    <cpid>e55fc06a489999a78039bfb70ac99601</cpid>
+    <create_time>1276945625</create_time>
+    <name>Shookity</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1276945625</expavg_time>
+    <teamid>30</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4290</id>
+        <create_time>1276946976</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>457041858edcecc7093ad33b78465b54</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276946976</expavg_time>
+        <domain_name>James</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1911433467.73599</p_fpops>
+        <p_iops>4202625431.10283</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5631</id>
+        <create_time>1285603248</create_time>
+        <rpc_seqno>77</rpc_seqno>
+        <host_cpid>2989d950e9c450edcc88afd29fa97c1a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285603248</expavg_time>
+        <domain_name>computer_1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>624922895.203097</p_fpops>
+        <p_iops>1346355741.79142</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9510</id>
+        <create_time>1310706935</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>865d9b3d254827a1b8330f7d11cb2c00</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310706935</expavg_time>
+        <domain_name>linuxmint</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3400  @ 2.16GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1756511473.33273</p_fpops>
+        <p_iops>5200908328.33192</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9559</id>
+        <create_time>1311319105</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>8866d118e72b445de3d7e1482d6ebf46</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311319105</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3400  @ 2.16GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1947855406.571</p_fpops>
+        <p_iops>7117166947.01994</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-10-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9558</id>
+        <create_time>1311317394</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>5792718e5c72088c51d54bbff70e4511</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311317394</expavg_time>
+        <domain_name>mine</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor         1.60GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1452482269.50355</p_fpops>
+        <p_iops>2919099676.43022</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

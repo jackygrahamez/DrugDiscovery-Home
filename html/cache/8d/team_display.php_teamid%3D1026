@@ -1,0 +1,41 @@
+O:9:"BoincTeam":24:{s:2:"id";s:4:"1026";s:11:"create_time";s:10:"1284768424";s:6:"userid";s:4:"2684";s:4:"name";s:17:"DGM-eV-Forums@WCG";s:7:"name_lc";s:17:"dgm-ev-forums@wcg";s:3:"url";s:31:"www.dgm.org/dgm-forum/index.php";s:4:"type";s:1:"8";s:9:"name_html";s:0:"";s:11:"description";s:77:"Members of the forums of the German society for muscle sick person (DGM e.V.)";s:6:"nusers";s:1:"1";s:7:"country";s:7:"Germany";s:12:"total_credit";s:9:"34.568129";s:13:"expavg_credit";s:8:"0.067211";s:11:"expavg_time";s:16:"1306699803.91454";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:1:"1";s:13:"nusers_active";s:1:"0";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:4:"2684";s:11:"create_time";s:10:"1284766784";s:10:"email_addr";s:15:"gerutf@arcor.de";s:4:"name";s:8:"GRuppiTF";s:13:"authenticator";s:32:"6c4a893c06fe2301a5a4542252909e44";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"14913";s:12:"total_credit";s:9:"34.568129";s:13:"expavg_credit";s:7:"0.06721";s:11:"expavg_time";s:16:"1306699803.29032";s:12:"global_prefs";s:1419:"<global_preferences>
+    <source_project>http://eon.ices.utexas.edu/eon2/</source_project>
+    <source_scheduler>http://eon.ices.utexas.edu/eon2_cgi/cgi</source_scheduler>
+<mod_time>1301440977</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>0</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>20</cpu_scheduling_period_minutes>
+<max_cpus>1</max_cpus>
+<max_ncpus_pct>50</max_ncpus_pct>
+<cpu_usage_limit>70</cpu_usage_limit>
+<disk_max_used_gb>5</disk_max_used_gb>
+<disk_min_free_gb>5</disk_min_free_gb>
+<disk_max_used_pct>5</disk_max_used_pct>
+<disk_interval>30</disk_interval>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>30</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>50</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>5</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>200000</max_bytes_sec_down>
+<max_bytes_sec_up>22000</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:216:"<project_preferences>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+
+<resource_share>50</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:4:"1026";s:5:"venue";s:4:"home";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"8037734e45b16a90f60f94436a13c043";s:11:"passwd_hash";s:32:"58cc6a692c670827da09f182e7707574";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

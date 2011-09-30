@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2248</id>
+    <cpid>93c01d538f4851945c69d2e303e1fff2</cpid>
+    <create_time>1277925525</create_time>
+    <name>bobdschingis</name>
+    <country>Germany</country>
+    <total_credit>1409.578043</total_credit>
+    <expavg_credit>0.088066</expavg_credit>
+    <expavg_time>1310328902.51019</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>4505</id>
+        <create_time>1277925538</create_time>
+        <rpc_seqno>411</rpc_seqno>
+        <host_cpid>1855b70b9ecd256d29eb491cb87f03ae</host_cpid>
+        <total_credit>1393.691198</total_credit>
+        <expavg_credit>0.073122</expavg_credit>
+        <expavg_time>1285272003.1118</expavg_time>
+        <domain_name>gaming</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>3642077339.04704</p_fpops>
+        <p_iops>8655564385.53614</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8315</id>
+        <create_time>1301995374</create_time>
+        <rpc_seqno>261</rpc_seqno>
+        <host_cpid>10d5e9dc87be86146dfd20e4efce4bac</host_cpid>
+        <total_credit>15.886845</total_credit>
+        <expavg_credit>0.053308</expavg_credit>
+        <expavg_time>1310933702.89767</expavg_time>
+        <domain_name>Timo-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2935413416.53666</p_fpops>
+        <p_iops>9015310009.40261</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8450</id>
+        <create_time>1302998099</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>7a3fac457bb475c103243a1f1bbf2f86</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302998099</expavg_time>
+        <domain_name>PoHeDa-Master01</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3700+ [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>2402056555.26992</p_fpops>
+        <p_iops>4379721326.33487</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8435</id>
+        <create_time>1302893785</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>57c936780115f06854b592bab768db17</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302893785</expavg_time>
+        <domain_name>PoHeDa-VM1</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3700+ [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>1105438895.11964</p_fpops>
+        <p_iops>4434779749.71152</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8455</id>
+        <create_time>1303055073</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>2b20b5a9f380a2e2e96232af5e17119b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303055073</expavg_time>
+        <domain_name>timo-VirtualBox</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2136016859.0412</p_fpops>
+        <p_iops>7737189944.14925</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic</os_version>
+        <venue>home</venue>
+    </host>
+</user>

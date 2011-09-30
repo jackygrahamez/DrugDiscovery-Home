@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1028</id>
+    <cpid>a437bc84b58fa69a34971cdf4797b3a8</cpid>
+    <create_time>1258141385</create_time>
+    <name>Montecenere</name>
+    <country>Italy</country>
+    <total_credit>6827.8251099978</total_credit>
+    <expavg_credit>0.0021333806248314</expavg_credit>
+    <expavg_time>1314641994</expavg_time>
+    <teamid>683</teamid>
+    <url>meteomontecenere.xoomer.it</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1280</id>
+        <create_time>1258249960</create_time>
+        <rpc_seqno>1436</rpc_seqno>
+        <host_cpid>75b6218d1c585a1c67788fb50c38b13a</host_cpid>
+        <total_credit>5911.3999689978</total_credit>
+        <expavg_credit>0.0008430160581611</expavg_credit>
+        <expavg_time>1314641994</expavg_time>
+        <domain_name>G31M-GS-C</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2431332087.79593</p_fpops>
+        <p_iops>5030772615.06123</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+    <host>
+        <id>1285</id>
+        <create_time>1258252763</create_time>
+        <rpc_seqno>98</rpc_seqno>
+        <host_cpid>8d99551d60dfd7fe3e7329d6abcb290f</host_cpid>
+        <total_credit>338.128012</total_credit>
+        <expavg_credit>0.083994</expavg_credit>
+        <expavg_time>1264814103.41638</expavg_time>
+        <domain_name>HP-CQ60</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon Dual-Core QL-65 [x86 Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>2101796628.07544</p_fpops>
+        <p_iops>3805634928.02866</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1724</id>
+        <create_time>1261063543</create_time>
+        <rpc_seqno>372</rpc_seqno>
+        <host_cpid>c5adf70f5c7df675657eca371b6727b3</host_cpid>
+        <total_credit>347.155117</total_credit>
+        <expavg_credit>0.098039</expavg_credit>
+        <expavg_time>1272081603.11821</expavg_time>
+        <domain_name>compaq</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon Dual-Core QL-65 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>2068788354.50264</p_fpops>
+        <p_iops>3747116457.49528</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1794</id>
+        <create_time>1261946752</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>fde7a988278e768d4d6d6cdfaf0ba814</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1261946752</expavg_time>
+        <domain_name>old-mutina</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [x86 Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>1287393840.48116</p_fpops>
+        <p_iops>2464807436.91899</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5672</id>
+        <create_time>1285852323</create_time>
+        <rpc_seqno>207</rpc_seqno>
+        <host_cpid>d6ecd5a94d130c2cb23485c501a52d30</host_cpid>
+        <total_credit>211.948853</total_credit>
+        <expavg_credit>0.051633</expavg_credit>
+        <expavg_time>1298232302.85922</expavg_time>
+        <domain_name>HP-meteo</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M CPU        420  @ 1.60GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1484639498.4326</p_fpops>
+        <p_iops>3082405520.3273</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7494</id>
+        <create_time>1295900534</create_time>
+        <rpc_seqno>819</rpc_seqno>
+        <host_cpid>eb70b5d50a9a84ff7494f10d1fb5efa6</host_cpid>
+        <total_credit>19.193159</total_credit>
+        <expavg_credit>0.056433</expavg_credit>
+        <expavg_time>1309724102.80674</expavg_time>
+        <domain_name>HP-meteo</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M CPU        420  @ 1.60GHz [Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1432835820.89552</p_fpops>
+        <p_iops>3034109036.69026</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>New:</venue>
+    </host>
+</user>

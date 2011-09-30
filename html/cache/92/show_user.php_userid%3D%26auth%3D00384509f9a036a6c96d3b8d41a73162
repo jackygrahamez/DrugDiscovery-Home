@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1958</id>
+    <cpid>7b5e414ad17aa868836f98c840c90489</cpid>
+    <create_time>1273043596</create_time>
+    <name>Hellsteeth</name>
+    <country>International</country>
+    <total_credit>1456.066789</total_credit>
+    <expavg_credit>0.076645</expavg_credit>
+    <expavg_time>1310328902.49264</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3760</id>
+        <create_time>1273070028</create_time>
+        <rpc_seqno>3714</rpc_seqno>
+        <host_cpid>4f2014eff54b013a3ec9f916f95781c0</host_cpid>
+        <total_credit>1434.042924</total_credit>
+        <expavg_credit>0.076645</expavg_credit>
+        <expavg_time>1310328902.75044</expavg_time>
+        <domain_name>WNLHAGXPP176</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>794152849.589023</p_fpops>
+        <p_iops>1584701804.34497</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3821</id>
+        <create_time>1273511325</create_time>
+        <rpc_seqno>935</rpc_seqno>
+        <host_cpid>41bcc16c49afcbc872ba0dda00cfffcf</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1273511325</expavg_time>
+        <domain_name>TH-EU-WXP-012</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.40GHz [x86 Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1277971473.85103</p_fpops>
+        <p_iops>2400628777.40738</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3822</id>
+        <create_time>1273511474</create_time>
+        <rpc_seqno>1377</rpc_seqno>
+        <host_cpid>a0dcc100f28f0b5d7c9846e97e347f27</host_cpid>
+        <total_credit>22.023865</total_credit>
+        <expavg_credit>0.09911</expavg_credit>
+        <expavg_time>1279339802.47897</expavg_time>
+        <domain_name>FLOCK4</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2800+ [x86 Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1905343511.45038</p_fpops>
+        <p_iops>3219189494.60955</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Editon, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

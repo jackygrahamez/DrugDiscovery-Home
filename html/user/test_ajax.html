@@ -1,0 +1,55 @@
+<html>
+<head>
+
+<script src="http://www.google.com/jsapi?key=ABQIAAAA8l_-NrzDOO5qLaklIcURXhSnr4CMa4c1fOE5c-MWWkyaKP3SThQAKYEq8sVmbAIfpv0XU5Ih06mkJw" type="text/javascript"></script>
+<script type="text/javascript" src="http://api.skyscanner.net/api.ashx?key=ca6900b0-fb45-4719-a939-627f6fec72b1"></script>  
+<script type="text/javascript">  
+    
+	function main(){  
+	//document.write(google.loader.ClientLocation.address.city);
+        var snippet=new skyscanner.snippets.SearchPanelControl();  
+        snippet.setCurrency('USD');  
+        snippet.setShape('box300x250');  
+        snippet.setDeparture('PAR');  
+        snippet.setDestination('jm');  
+        snippet.draw(document.getElementById('snippet_searchpanel'));  
+        }  
+    skyscanner.setOnLoadCallback(main);  
+
+function loadXMLDoc()
+{
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","ajax_info.txt",true);
+xmlhttp.send();
+}
+</script>
+</head>
+<body>
+
+<div id="myDiv"><h2>Let AJAX change this text</h2></div>
+<button type="button" onclick="loadXMLDoc()">Change Content</button>
+
+
+<div id="snippet_searchpanel" style="width: auto; height:auto;">
+    <!--  Please do not remove this line. It is necessary for proper functionality of Skyscanner Snippet and is also required by terms and conditions of service -->
+    <a href="http://www.skyscanner.net/flights-to/jm/cheap-flights-to-jamaica.html" target="_blank">Cheap Flights to Jamaica</a>
+</div>
+
+</body>
+</html>
+
+

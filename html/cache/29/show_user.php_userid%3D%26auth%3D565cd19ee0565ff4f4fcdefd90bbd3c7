@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3390</id>
+    <cpid>b356081f55339356aa13eb2be52fe0ae</cpid>
+    <create_time>1290334848</create_time>
+    <name>thinboab</name>
+    <country>United Kingdom</country>
+    <total_credit>94.262315</total_credit>
+    <expavg_credit>0.051229</expavg_credit>
+    <expavg_time>1310933702.46208</expavg_time>
+    <teamid>369</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6449</id>
+        <create_time>1290339143</create_time>
+        <rpc_seqno>310</rpc_seqno>
+        <host_cpid>ac686bae7d7eef225d12967f3ce61e17</host_cpid>
+        <total_credit>94.262315</total_credit>
+        <expavg_credit>0.051228</expavg_credit>
+        <expavg_time>1310933702.82559</expavg_time>
+        <domain_name>HP-Pavilion</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1287052341.5978</p_fpops>
+        <p_iops>2510081786.35751</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6547</id>
+        <create_time>1290781575</create_time>
+        <rpc_seqno>184</rpc_seqno>
+        <host_cpid>7401f1400f65be6f51e0b4889e62ee4c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290781575</expavg_time>
+        <domain_name>John-Dunlops-iMac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1500 @ 2.00GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1588442363.69406</p_fpops>
+        <p_iops>4212937928.50202</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.1</os_version>
+        <venue></venue>
+    </host>
+</user>

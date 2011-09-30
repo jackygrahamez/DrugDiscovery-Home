@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2633</id>
+    <cpid>4c810d372be80a5d7e51ef00b777c107</cpid>
+    <create_time>1284037359</create_time>
+    <name>Vlad</name>
+    <country>Belarus</country>
+    <total_credit>1948.506943</total_credit>
+    <expavg_credit>0.053374</expavg_credit>
+    <expavg_time>1300046703.17977</expavg_time>
+    <teamid>95</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5367</id>
+        <create_time>1284037374</create_time>
+        <rpc_seqno>348</rpc_seqno>
+        <host_cpid>a50d5d953f993afedcb4e6b054e9722f</host_cpid>
+        <total_credit>1711.911307</total_credit>
+        <expavg_credit>0.072139</expavg_credit>
+        <expavg_time>1299441904.84906</expavg_time>
+        <domain_name>Vlads-Mac-mini.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3116497471.27251</p_fpops>
+        <p_iops>6414330180.55748</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.6.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6979</id>
+        <create_time>1292894177</create_time>
+        <rpc_seqno>235</rpc_seqno>
+        <host_cpid>2152ec3d1c53c92e2ac01c336de0025d</host_cpid>
+        <total_credit>236.595636</total_credit>
+        <expavg_credit>0.067522</expavg_credit>
+        <expavg_time>1298837103.94915</expavg_time>
+        <domain_name>ppp-71-134-197-103.dsl.irvnca.pacbell.net</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU 540 @ 3.07GHz [x86 Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>3132005273.15147</p_fpops>
+        <p_iops>5102568392.69977</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.5.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7197</id>
+        <create_time>1294252537</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>80aa91d20ee89cab8d988a4dba29375d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1294252537</expavg_time>
+        <domain_name>tarkdebdeb</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 460  @ 2.53GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>1166616437.1428</p_fpops>
+        <p_iops>3020881093.55255</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.39-rc7-686-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7355</id>
+        <create_time>1295183884</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>37432f4cf1e41448ab0ce8424ff3d069</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295183884</expavg_time>
+        <domain_name>microsof-82a68b</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  T3200  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1879085622.01923</p_fpops>
+        <p_iops>3760434150.56788</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

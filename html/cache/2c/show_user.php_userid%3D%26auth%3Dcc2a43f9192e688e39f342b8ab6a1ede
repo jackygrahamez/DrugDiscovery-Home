@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2626</id>
+    <cpid>83db71e16fd5cbf66a8d42fa0677d4d5</cpid>
+    <create_time>1283970390</create_time>
+    <name>TemplarTCHI</name>
+    <country>China</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1283970390</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5356</id>
+        <create_time>1283975411</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>e89f111f3be05278443af2155fb67f14</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283975411</expavg_time>
+        <domain_name>TemplarTCHI-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2323852585.00118</p_fpops>
+        <p_iops>4739910258.97592</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5447</id>
+        <create_time>1284605732</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>03287e77153210c10bd3e52683da21ba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284605732</expavg_time>
+        <domain_name>templarqi</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6300  @ 1.86GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1772567342.38242</p_fpops>
+        <p_iops>3623407208.83728</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

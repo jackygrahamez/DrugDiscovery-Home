@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2598</id>
+    <cpid>7995cab915233db406a1d430edb143b8</cpid>
+    <create_time>1283632766</create_time>
+    <name>ShinePhantom</name>
+    <country>Russia</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1283632766</expavg_time>
+    <teamid>4</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5308</id>
+        <create_time>1283633721</create_time>
+        <rpc_seqno>193</rpc_seqno>
+        <host_cpid>e5897147af66fe88912aee7ed0b45f9c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283633721</expavg_time>
+        <domain_name>Skynet</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3209316238.93201</p_fpops>
+        <p_iops>6159960730.74009</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5328</id>
+        <create_time>1283747506</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>7600c19a08fc9a2eb3d7f617a6c2ad94</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1283747506</expavg_time>
+        <domain_name>R2-D2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2300440175.01128</p_fpops>
+        <p_iops>4565910202.72882</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

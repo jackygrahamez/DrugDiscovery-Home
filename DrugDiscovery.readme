@@ -1,0 +1,41 @@
+
+Steps to complete installation:
+
+-  Change Apache configuration (as root):
+
+   cat /home/boincadm/projects/DrugDiscovery/DrugDiscovery.httpd.conf >> /etc/apache/httpd.conf
+
+   (path to httpd.conf varies; try /etc/httpd/)
+   Then restart the web server:
+
+   /usr/sbin/apache2ctl restart
+   (or /usr/sbin/apachectl restart)
+
+-  Add to crontab (as boincadm)
+
+    0,5,10,15,20,25,30,35,40,45,50,55 * * * * /home/boincadm/projects/DrugDiscovery/bin/start --cron
+
+   (If cron cannot run "start", try using a helper script to set PATH and
+   PYTHONPATH)
+
+
+-  In the project home directory (/home/boincadm/projects/DrugDiscovery) run
+    bin/xadd
+
+To start, show status, and stop the project, run:
+    bin/start
+    bin/status
+    bin/stop
+
+The project's URLs are:
+Home page (and master URL): http://74.221.239.84/DrugDiscovery/
+Administrative page:        http://74.221.239.84/DrugDiscovery_ops/
+
+----------------------------
+
+To use this project for your own computations, you'll need to
+- Port your application(s) and add them
+- Develop programs to submit and handle jobs
+See the online documentation at http://boinc.berkeley.edu/
+
+

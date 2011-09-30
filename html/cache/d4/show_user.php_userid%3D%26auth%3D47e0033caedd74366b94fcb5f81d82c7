@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3426</id>
+    <cpid>d6679aa8677b71b633011af7e5e5756a</cpid>
+    <create_time>1290816647</create_time>
+    <name>Firith</name>
+    <country>International</country>
+    <total_credit>60.281581</total_credit>
+    <expavg_credit>0.088179</expavg_credit>
+    <expavg_time>1314562503.47951</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6555</id>
+        <create_time>1290818073</create_time>
+        <rpc_seqno>374</rpc_seqno>
+        <host_cpid>19ef3104e20617d5cbdb1b80bd637bd5</host_cpid>
+        <total_credit>60.281581</total_credit>
+        <expavg_credit>0.088179</expavg_credit>
+        <expavg_time>1314562503.79041</expavg_time>
+        <domain_name>Owner-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         550  @ 3.20GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2833921779.5131</p_fpops>
+        <p_iops>8730428598.71766</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6588</id>
+        <create_time>1291007964</create_time>
+        <rpc_seqno>257</rpc_seqno>
+        <host_cpid>be1c5f064d9f4da877c6da2ffe089d68</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291007964</expavg_time>
+        <domain_name>COLLINS-9ED722B</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1580672856.14455</p_fpops>
+        <p_iops>3351826050.6777</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

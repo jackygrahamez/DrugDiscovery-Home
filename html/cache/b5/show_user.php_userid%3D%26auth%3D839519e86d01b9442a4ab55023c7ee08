@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>65</id>
+    <cpid>9bb029f18e0316db91bcb4412e325863</cpid>
+    <create_time>1240319580</create_time>
+    <name>Rafa Hens El Califa [Cordoba]</name>
+    <country>Spain</country>
+    <total_credit>50114.2663245299</total_credit>
+    <expavg_credit>5.189135</expavg_credit>
+    <expavg_time>1315663672.44622</expavg_time>
+    <teamid>54</teamid>
+    <url>www.canalboinc.com</url>
+    <has_profile>1</has_profile>
+   <venue>work</venue>
+    <host>
+        <id>21</id>
+        <create_time>1240324391</create_time>
+        <rpc_seqno>4616</rpc_seqno>
+        <host_cpid>d0a48b4a549a392de58aa1636100b478</host_cpid>
+        <total_credit>6256.3437411257</total_credit>
+        <expavg_credit>0.061437</expavg_credit>
+        <expavg_time>1269379502.58308</expavg_time>
+        <domain_name>principal</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2353280806.57423</p_fpops>
+        <p_iops>5273846613.09625</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1445</id>
+        <create_time>1258540350</create_time>
+        <rpc_seqno>895</rpc_seqno>
+        <host_cpid>b4f7c69dc16e0c5d910e50270a84a814</host_cpid>
+        <total_credit>647.29155169507</total_credit>
+        <expavg_credit>0.064065</expavg_credit>
+        <expavg_time>1266784803.53995</expavg_time>
+        <domain_name>Califa-SUN</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2384850750.51046</p_fpops>
+        <p_iops>6945984295.72045</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1452</id>
+        <create_time>1258553235</create_time>
+        <rpc_seqno>7147</rpc_seqno>
+        <host_cpid>deb82d71522e4531159917a081ee5105</host_cpid>
+        <total_credit>9504.73763820759</total_credit>
+        <expavg_credit>0.093585</expavg_credit>
+        <expavg_time>1278129903.59763</expavg_time>
+        <domain_name>Webserver</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2376269453.44393</p_fpops>
+        <p_iops>6885623817.94047</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1491</id>
+        <create_time>1258723101</create_time>
+        <rpc_seqno>6156</rpc_seqno>
+        <host_cpid>f1ff638ad5078ab6af922a9980962f52</host_cpid>
+        <total_credit>11887.2305428964</total_credit>
+        <expavg_credit>0.045448</expavg_credit>
+        <expavg_time>1270267203.46272</expavg_time>
+        <domain_name>HERCULES</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2541404564.08671</p_fpops>
+        <p_iops>8134018054.54152</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1492</id>
+        <create_time>1258728069</create_time>
+        <rpc_seqno>3746</rpc_seqno>
+        <host_cpid>4ea4f25ecd6d8066f49c99993bd3e726</host_cpid>
+        <total_credit>10806.1962893167</total_credit>
+        <expavg_credit>0.046285</expavg_credit>
+        <expavg_time>1270267203.46284</expavg_time>
+        <domain_name>Hercules2</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2567807251.58904</p_fpops>
+        <p_iops>8168821228.43593</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1493</id>
+        <create_time>1258729532</create_time>
+        <rpc_seqno>3476</rpc_seqno>
+        <host_cpid>e0b859b3fcaed247dcd987899e9a55c3</host_cpid>
+        <total_credit>3898.343754</total_credit>
+        <expavg_credit>0.086873</expavg_credit>
+        <expavg_time>1267995003.1311</expavg_time>
+        <domain_name>CalifaHP2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Intel64 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2438453821.2441</p_fpops>
+        <p_iops>7945072255.14751</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x64 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1598</id>
+        <create_time>1259545256</create_time>
+        <rpc_seqno>4505</rpc_seqno>
+        <host_cpid>7c5063a296d379cc17196e7b89564df6</host_cpid>
+        <total_credit>4585.5879192883</total_credit>
+        <expavg_credit>4.405063</expavg_credit>
+        <expavg_time>1315663672.44646</expavg_time>
+        <domain_name>CalifaHP1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2341727359.85243</p_fpops>
+        <p_iops>7111955346.5555</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>1776</id>
+        <create_time>1261618916</create_time>
+        <rpc_seqno>19</rpc_seqno>
+        <host_cpid>3ed2e5839433e1944df96a871beef3df</host_cpid>
+        <total_credit>205.960442</total_credit>
+        <expavg_credit>0.058818</expavg_credit>
+        <expavg_time>1266784803.54722</expavg_time>
+        <domain_name>CalifaAsus</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2333731852.15313</p_fpops>
+        <p_iops>4906189474.10689</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>3506</id>
+        <create_time>1271456863</create_time>
+        <rpc_seqno>100</rpc_seqno>
+        <host_cpid>86dccd2a02fdddd570e960cd33a463e0</host_cpid>
+        <total_credit>1323.64821</total_credit>
+        <expavg_credit>0.073556</expavg_credit>
+        <expavg_time>1278129903.66413</expavg_time>
+        <domain_name>Usuario-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2026866685.0233</p_fpops>
+        <p_iops>7073365892.45543</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>6518</id>
+        <create_time>1290670737</create_time>
+        <rpc_seqno>516</rpc_seqno>
+        <host_cpid>dd6ebbb56e3eae942839c357ffc1e154</host_cpid>
+        <total_credit>33.372162</total_credit>
+        <expavg_credit>0.046827</expavg_credit>
+        <expavg_time>1310852320.00628</expavg_time>
+        <domain_name>SUN</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2365508490.03571</p_fpops>
+        <p_iops>6968701295.0822</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>7080</id>
+        <create_time>1293458211</create_time>
+        <rpc_seqno>4417</rpc_seqno>
+        <host_cpid>7f97fa815dfe38f5f73aa37e6055b8cf</host_cpid>
+        <total_credit>58.30984</total_credit>
+        <expavg_credit>0.098149</expavg_credit>
+        <expavg_time>1300651503.49004</expavg_time>
+        <domain_name>ICARO2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) CPU        P6100  @ 2.00GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>2121897398.66229</p_fpops>
+        <p_iops>4431543419.25842</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x86 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>7237</id>
+        <create_time>1294402731</create_time>
+        <rpc_seqno>271</rpc_seqno>
+        <host_cpid>d9229f74997da94e348e12c5592dbd51</host_cpid>
+        <total_credit>41.34199</total_credit>
+        <expavg_credit>0.079429</expavg_credit>
+        <expavg_time>1298232302.99755</expavg_time>
+        <domain_name>HERCULES</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2863803832.24239</p_fpops>
+        <p_iops>8179694256.5549</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>7335</id>
+        <create_time>1295052760</create_time>
+        <rpc_seqno>1646</rpc_seqno>
+        <host_cpid>cc13376c9ad07281579d514640dc7af2</host_cpid>
+        <total_credit>112.124906</total_credit>
+        <expavg_credit>0.091864</expavg_credit>
+        <expavg_time>1304885405.02011</expavg_time>
+        <domain_name>Secundario</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2697168190.61965</p_fpops>
+        <p_iops>5288014512.15061</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>7336</id>
+        <create_time>1295052854</create_time>
+        <rpc_seqno>870</rpc_seqno>
+        <host_cpid>f28a516eadeb5beedc8fe227110ab223</host_cpid>
+        <total_credit>690.138294</total_credit>
+        <expavg_credit>0.099372</expavg_credit>
+        <expavg_time>1312143302.89243</expavg_time>
+        <domain_name>Principal</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2798093303.75581</p_fpops>
+        <p_iops>6923576075.20471</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>7405</id>
+        <create_time>1295357877</create_time>
+        <rpc_seqno>3362</rpc_seqno>
+        <host_cpid>803cb23ef23f6e3c0818125beb0ae1aa</host_cpid>
+        <total_credit>46.415273</total_credit>
+        <expavg_credit>0.077309</expavg_credit>
+        <expavg_time>1300046703.58316</expavg_time>
+        <domain_name>pc-e96fc54652ce</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5500  @ 2.80GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2960820086.16847</p_fpops>
+        <p_iops>5938649343.51265</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>8554</id>
+        <create_time>1303743262</create_time>
+        <rpc_seqno>285</rpc_seqno>
+        <host_cpid>f24a564047c4b5630dc314ee009ea2c2</host_cpid>
+        <total_credit>16.67078</total_credit>
+        <expavg_credit>0.052871</expavg_credit>
+        <expavg_time>1315622921.2718</expavg_time>
+        <domain_name>PruebasWeb</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2556252225.63249</p_fpops>
+        <p_iops>8878496173.37621</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue>work</venue>
+    </host>
+</user>

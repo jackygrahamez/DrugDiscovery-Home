@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>238</id>
+    <cpid>b3ddb225bebdf7b321707f2c974668a0</cpid>
+    <create_time>1240320150</create_time>
+    <name>aztylen*</name>
+    <country>Norway</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1240320150</expavg_time>
+    <teamid>441</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6004</id>
+        <create_time>1288347908</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>eb8417189226b25c7abf238387c6a9dc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288347908</expavg_time>
+        <domain_name>WIN-NFN6KSQ1OSJ</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 2352 [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>1723966983.40532</p_fpops>
+        <p_iops>4967194211.12872</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6005</id>
+        <create_time>1288347944</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>39e24961ca6103b21219e3a0ace52d3a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288347944</expavg_time>
+        <domain_name>WIN-51TJUDNYIR2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2532430743.36101</p_fpops>
+        <p_iops>7880967646.43841</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6006</id>
+        <create_time>1288348138</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>d656efce46c939da8635e240ec73e077</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288348138</expavg_time>
+        <domain_name>dl360g51</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU            5130  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1901972821.88361</p_fpops>
+        <p_iops>5842857206.083</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6007</id>
+        <create_time>1288348478</create_time>
+        <rpc_seqno>73</rpc_seqno>
+        <host_cpid>0445604d7b5c16325127eceb3d5528f3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288348478</expavg_time>
+        <domain_name>z800</domain_name>
+        <p_ncpus>16</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X5560  @ 2.80GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2781354846.29781</p_fpops>
+        <p_iops>8083774232.32681</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, v.178, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

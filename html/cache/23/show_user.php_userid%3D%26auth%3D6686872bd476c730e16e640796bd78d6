@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2017</id>
+    <cpid>a473d28e0c5c18367f3e198c7ee973d8</cpid>
+    <create_time>1273883759</create_time>
+    <name>WANG QR</name>
+    <country>China</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1273883759</expavg_time>
+    <teamid>41</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4469</id>
+        <create_time>1277540611</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>1be298fd9ebcd1afebccc638431db9ba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277540611</expavg_time>
+        <domain_name>microsof-016af5</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.66GHz [x86 Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1350690335.30572</p_fpops>
+        <p_iops>2182911796.39874</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue>缺省参数</venue>
+    </host>
+    <host>
+        <id>7674</id>
+        <create_time>1297310897</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d6b5f83d2e68df0c33476124decf922e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297310897</expavg_time>
+        <domain_name>wang-c4a0e11122</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.66GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1330196078.43137</p_fpops>
+        <p_iops>2184081638.09169</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10052</id>
+        <create_time>1315639967</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>930ef56462c1ab87e6c5c75965f99b82</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315639967</expavg_time>
+        <domain_name>meijuanli-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_fpops>2444129658.32781</p_fpops>
+        <p_iops>8683275466.12679</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Basic x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4169</id>
+    <cpid>7922fd64d630ceafbba89340651c9974</cpid>
+    <create_time>1297226613</create_time>
+    <name>Serondrych</name>
+    <country>Uruguay</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1297226613</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7670</id>
+        <create_time>1297227744</create_time>
+        <rpc_seqno>131</rpc_seqno>
+        <host_cpid>9c03a4e668f00d2b8a50813b22decfde</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297227744</expavg_time>
+        <domain_name>Tycho.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2834796623.48258</p_fpops>
+        <p_iops>6363458679.51633</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>11.0.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8279</id>
+        <create_time>1301563559</create_time>
+        <rpc_seqno>111</rpc_seqno>
+        <host_cpid>afbc199b7ad35fa7d8a0c75c267c9c03</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301563559</expavg_time>
+        <domain_name>HAL.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7350 @ 2.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2272063253.46971</p_fpops>
+        <p_iops>5022950710.7927</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8472</id>
+        <create_time>1303178513</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>cb7b3ddbea40aff673affc491ed450d9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303178513</expavg_time>
+        <domain_name>Marvin.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerMac10,1] [AltiVec]</p_model>
+        <p_fpops>791569955.874372</p_fpops>
+        <p_iops>2318716803.70638</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>9.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

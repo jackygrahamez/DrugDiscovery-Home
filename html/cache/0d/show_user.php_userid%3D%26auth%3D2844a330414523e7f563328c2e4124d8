@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2698</id>
+    <cpid>08f9236e07069f7eabae96498e43891f</cpid>
+    <create_time>1285090243</create_time>
+    <name>james</name>
+    <country>United Kingdom</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1285090243</expavg_time>
+    <teamid>0</teamid>
+    <url>www.facebook.com/profile.php?id=516161853</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5545</id>
+        <create_time>1285090257</create_time>
+        <rpc_seqno>265</rpc_seqno>
+        <host_cpid>3d5b59c1a6b783466bc663129c10be34</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285090257</expavg_time>
+        <domain_name>debian</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>805705004.192921</p_fpops>
+        <p_iops>1851048273.30284</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-686</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5997</id>
+        <create_time>1288282950</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>190178acb5295b9956d64ccbf406ad03</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288282950</expavg_time>
+        <domain_name>debian</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) 4 - M CPU 2.20GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>829526302.589279</p_fpops>
+        <p_iops>2273755271.57607</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-686</os_version>
+        <venue></venue>
+    </host>
+</user>

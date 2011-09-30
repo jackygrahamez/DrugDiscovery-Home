@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1885</id>
+    <cpid>a14bf771574b23ccadb70bd7e24124a6</cpid>
+    <create_time>1272015686</create_time>
+    <name>SG2006</name>
+    <country>Germany</country>
+    <total_credit>1841.72062</total_credit>
+    <expavg_credit>0.055085</expavg_credit>
+    <expavg_time>1309724102.63382</expavg_time>
+    <teamid>880</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3581</id>
+        <create_time>1272026703</create_time>
+        <rpc_seqno>1099</rpc_seqno>
+        <host_cpid>828027dd240473ef4deae95d9cc6e9a1</host_cpid>
+        <total_credit>591.858156</total_credit>
+        <expavg_credit>0.054855</expavg_credit>
+        <expavg_time>1309724102.80572</expavg_time>
+        <domain_name>pl-server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 2.80GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1267558466.31781</p_fpops>
+        <p_iops>2336744665.54268</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3580</id>
+        <create_time>1272016887</create_time>
+        <rpc_seqno>323</rpc_seqno>
+        <host_cpid>dc2c694b7eb0a26c2bc0c173dda0d846</host_cpid>
+        <total_credit>234.885169</total_credit>
+        <expavg_credit>0.057069</expavg_credit>
+        <expavg_time>1304885404.75561</expavg_time>
+        <domain_name>cimlab81</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1550510908.58879</p_fpops>
+        <p_iops>2657863782.96338</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3582</id>
+        <create_time>1272028487</create_time>
+        <rpc_seqno>337</rpc_seqno>
+        <host_cpid>ca27bd2b662ba68b600704c218b29f2f</host_cpid>
+        <total_credit>227.892064</total_credit>
+        <expavg_credit>0.062354</expavg_credit>
+        <expavg_time>1285876803.15222</expavg_time>
+        <domain_name>poirot</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 2.40GHz [Family 15 Model 2 Stepping 5]</p_model>
+        <p_fpops>1121880295.23908</p_fpops>
+        <p_iops>2500271046.22037</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3615</id>
+        <create_time>1272264616</create_time>
+        <rpc_seqno>59</rpc_seqno>
+        <host_cpid>8b64b825c5574b4f5b7bd14ac4132272</host_cpid>
+        <total_credit>41.506982</total_credit>
+        <expavg_credit>0.077689</expavg_credit>
+        <expavg_time>1293308703.44031</expavg_time>
+        <domain_name>c052-scan</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.40GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1289922480.62015</p_fpops>
+        <p_iops>2599122586.8487</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3697</id>
+        <create_time>1272630728</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>eb6c1a0aec0fdabf49876473c1f056de</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272630728</expavg_time>
+        <domain_name>Greenspan</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [x86 Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1553059797.23781</p_fpops>
+        <p_iops>2809591821.39367</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3785</id>
+        <create_time>1273226393</create_time>
+        <rpc_seqno>58</rpc_seqno>
+        <host_cpid>4f561316a3116a059ff780fa50c74fac</host_cpid>
+        <total_credit>101.466876</total_credit>
+        <expavg_credit>0.000997</expavg_credit>
+        <expavg_time>1285894027.02055</expavg_time>
+        <domain_name>PL26</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3158866300.48465</p_fpops>
+        <p_iops>6648850810.91952</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3920</id>
+        <create_time>1274250542</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1b7c1d9d57f0d932fc13c9571d1be999</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274250542</expavg_time>
+        <domain_name>PL05</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1445405064.71932</p_fpops>
+        <p_iops>2905925798.46726</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3921</id>
+        <create_time>1274264013</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d2cf085127c62618412b4a0983bf30d5</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274264013</expavg_time>
+        <domain_name>PL04</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1456704833.49358</p_fpops>
+        <p_iops>3002595224.02529</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3933</id>
+        <create_time>1274340299</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>5ba338e320f823e6bc3caadf1476cd7e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274340299</expavg_time>
+        <domain_name>PL06</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1462463843.3583</p_fpops>
+        <p_iops>2885778165.21737</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3934</id>
+        <create_time>1274343647</create_time>
+        <rpc_seqno>28</rpc_seqno>
+        <host_cpid>f2041b06db44ceefdc709d5628218ec0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274343647</expavg_time>
+        <domain_name>PL20</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3173216271.58326</p_fpops>
+        <p_iops>6582782423.41987</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3922</id>
+        <create_time>1274282814</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>80ba90ac581206d33f15ec4e9c7bfd66</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274282814</expavg_time>
+        <domain_name>pl25</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.40GHz [x86 Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>1269421487.60331</p_fpops>
+        <p_iops>2446883667.14548</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3935</id>
+        <create_time>1274353105</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>99d603230ff08d10260b2019248ff098</host_cpid>
+        <total_credit>141.242953</total_credit>
+        <expavg_credit>0.067942</expavg_credit>
+        <expavg_time>1282248003.08914</expavg_time>
+        <domain_name>PL14</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3149270843.80972</p_fpops>
+        <p_iops>6524010567.53795</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3936</id>
+        <create_time>1274353876</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>2da5d2bf2abb4c30c0aefef8b7934eb2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274353876</expavg_time>
+        <domain_name>PL19</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3152139503.6888</p_fpops>
+        <p_iops>6642956164.59375</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3950</id>
+        <create_time>1274435459</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>6b97084a75ce19c6b255be8547fb97b9</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274435459</expavg_time>
+        <domain_name>PL22</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3124523623.56033</p_fpops>
+        <p_iops>6527115241.37716</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3996</id>
+        <create_time>1274773117</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>d7f989146538203c32cf4af8e368f0bd</host_cpid>
+        <total_credit>64.883415</total_credit>
+        <expavg_credit>0.086208</expavg_credit>
+        <expavg_time>1280549403.12758</expavg_time>
+        <domain_name>PL15</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3156422524.84358</p_fpops>
+        <p_iops>6461328092.83978</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4004</id>
+        <create_time>1274790798</create_time>
+        <rpc_seqno>54</rpc_seqno>
+        <host_cpid>c852f1b8cb3cf465fa4049edf21bbef3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274790798</expavg_time>
+        <domain_name>DEFORM-Server</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.40GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>958502340.093604</p_fpops>
+        <p_iops>1836268293.0534</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4007</id>
+        <create_time>1274797321</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>9134cf9d3435cfebadf500355c1319a6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274797321</expavg_time>
+        <domain_name>pl11</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1467215711.11815</p_fpops>
+        <p_iops>2971918411.96329</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4101</id>
+        <create_time>1275465025</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>8f364ebd44ad3d865ed702e1f75cae46</host_cpid>
+        <total_credit>63.382699</total_credit>
+        <expavg_credit>0.058921</expavg_credit>
+        <expavg_time>1281154205.24799</expavg_time>
+        <domain_name>PL17</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3170658736.59548</p_fpops>
+        <p_iops>6341764947.4435</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4082</id>
+        <create_time>1275372282</create_time>
+        <rpc_seqno>68</rpc_seqno>
+        <host_cpid>dc56fb7db9ac7e058419301bd55158f1</host_cpid>
+        <total_credit>195.507387</total_credit>
+        <expavg_credit>0.091107</expavg_credit>
+        <expavg_time>1284667204.12286</expavg_time>
+        <domain_name>PL16</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3157472613.45853</p_fpops>
+        <p_iops>6552742159.86469</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4088</id>
+        <create_time>1275383876</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>3a07da443a1d1f198e5d002c219f18a1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1275383876</expavg_time>
+        <domain_name>PL12</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1495232110.59618</p_fpops>
+        <p_iops>2842812545.97984</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4089</id>
+        <create_time>1275384238</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>e2865d6e953418584e8ec7e833691873</host_cpid>
+        <total_credit>129.44474</total_credit>
+        <expavg_credit>0.07281</expavg_credit>
+        <expavg_time>1283457603.20487</expavg_time>
+        <domain_name>PL24</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3145388740.98082</p_fpops>
+        <p_iops>6414492314.70797</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4102</id>
+        <create_time>1275465170</create_time>
+        <rpc_seqno>14</rpc_seqno>
+        <host_cpid>050e907e7ca11121205b525ba4b8a1c9</host_cpid>
+        <total_credit>41.518807</total_credit>
+        <expavg_credit>0.082371</expavg_credit>
+        <expavg_time>1280549403.13278</expavg_time>
+        <domain_name>PL23</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3181761218.92397</p_fpops>
+        <p_iops>6366827729.35389</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4228</id>
+        <create_time>1276517916</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>ec934883dea4b6ae0ca31a5ea5055aab</host_cpid>
+        <total_credit>8.131372</total_credit>
+        <expavg_credit>0.092953</expavg_credit>
+        <expavg_time>1278735003.59724</expavg_time>
+        <domain_name>PL25</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3157339212.51163</p_fpops>
+        <p_iops>6496217221.70551</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4362</id>
+        <create_time>1277215830</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>e514bd208156954e7a8174ccbdb8082b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1277215830</expavg_time>
+        <domain_name>Lenin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.40GHz [x86 Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1553664984.37876</p_fpops>
+        <p_iops>2790398763.4071</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

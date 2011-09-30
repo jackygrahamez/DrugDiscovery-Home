@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3506</id>
+    <cpid>1a944dc250047fcb880c00aac89f70a0</cpid>
+    <create_time>1292110065</create_time>
+    <name>Craig Stenger</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1292110065</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6849</id>
+        <create_time>1292114843</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0037a87dee2a0e9b3e154f5352a67a5e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292114843</expavg_time>
+        <domain_name>BadJuJu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5300  @ 1.73GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1687988848.17223</p_fpops>
+        <p_iops>3396233755.42043</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7562</id>
+        <create_time>1296490717</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c56bede9aeb397ec682fdd22fcd883fc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296490717</expavg_time>
+        <domain_name>198228771989</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5300  @ 1.73GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>459413727.88418</p_fpops>
+        <p_iops>1681738943.678</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8308</id>
+        <create_time>1301866143</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6c4eff1f336d77e8fa4476761568b59f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301866143</expavg_time>
+        <domain_name>OpenSUSE.CSBSCS</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5300  @ 1.73GHz [Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1932285542.54892</p_fpops>
+        <p_iops>9133178006.34436</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.37.1-1.2-desktop</os_version>
+        <venue></venue>
+    </host>
+</user>

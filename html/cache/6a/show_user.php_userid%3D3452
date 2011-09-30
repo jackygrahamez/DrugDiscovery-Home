@@ -1,0 +1,47 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"3452";s:11:"create_time";s:10:"1291233300";s:10:"email_addr";s:23:"russian_rus@hotmail.com";s:4:"name";s:8:"Deberian";s:13:"authenticator";s:32:"7b121d9f334a677e9cf7d82907df8674";s:7:"country";s:6:"Russia";s:11:"postal_code";s:6:"344002";s:12:"total_credit";s:11:"4806.082438";s:13:"expavg_credit";s:8:"0.787966";s:11:"expavg_time";s:16:"1316998502.42909";s:12:"global_prefs";s:1373:"<global_preferences>
+<source_project>http://gerasim.boinc.ru/</source_project>
+<source_scheduler>http://gerasim.boinc.ru/sched</source_scheduler>
+<mod_time>1294837394</mod_time>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>1</work_buf_min_days>
+<work_buf_additional_days>3</work_buf_additional_days>
+<max_cpus>64</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>600</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>2</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<run_if_user_active/>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<run_on_batteries/>
+<confirm_before_connecting/>
+<hangup_if_dialed/>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"4";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"ff6fe9d2010736ebb9a0dcf6c38d9019";s:11:"passwd_hash";s:32:"27d048f4d4073a0cdf23883ecee3fa37";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"3452";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:14:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:4:"9423";s:13:"expavg_credit";s:3:"123";s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"9372952";s:11:"create_time";s:10:"1291039537";s:7:"country";s:6:"Russia";s:7:"team_id";s:5:"32364";s:9:"team_name";s:6:"Russia";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:6:"215372";s:13:"expavg_credit";s:3:"810";s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"537986";s:11:"create_time";s:10:"1291051109";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"178";s:9:"team_name";s:6:"Russia";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:6:"300625";s:13:"expavg_credit";s:3:"883";s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"83143";s:11:"create_time";s:10:"1291848154";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"40";s:9:"team_name";s:6:"Russia";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:6:"266689";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Gerasim@Home";s:3:"url";s:24:"http://gerasim.boinc.ru/";s:2:"id";s:4:"1522";s:11:"create_time";s:10:"1294837394";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"102";s:9:"team_name";s:6:"Russia";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:5:"18480";s:13:"expavg_credit";s:2:"75";s:4:"name";s:14:"Cosmology@Home";s:3:"url";s:31:"http://www.cosmologyathome.org/";s:2:"id";s:5:"61267";s:11:"create_time";s:10:"1291481599";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"151";s:9:"team_name";s:6:"Russia";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3000";s:13:"expavg_credit";s:3:"110";s:4:"name";s:35:"Distributed Rainbow Table Generator";s:3:"url";s:46:"http://boinc.freerainbowtables.com/distrrtgen/";s:2:"id";s:5:"16333";s:11:"create_time";s:10:"1316267911";s:7:"country";s:6:"Russia";s:7:"team_id";s:4:"1096";s:9:"team_name";s:13:"Crystal Dream";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"14207";s:13:"expavg_credit";s:3:"391";s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"39604";s:11:"create_time";s:10:"1314281227";s:7:"country";s:6:"Russia";s:7:"team_id";s:4:"1566";s:9:"team_name";s:13:"Crystal Dream";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:6:"311582";s:13:"expavg_credit";s:4:"1735";s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:6:"138060";s:11:"create_time";s:10:"1290972900";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"82";s:9:"team_name";s:6:"Russia";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:6:"251727";s:13:"expavg_credit";s:4:"1553";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:5:"20392";s:11:"create_time";s:10:"1290845962";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"76";s:9:"team_name";s:6:"Russia";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4806";s:13:"expavg_credit";s:1:"2";s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"3452";s:11:"create_time";s:10:"1291233300";s:7:"country";s:6:"Russia";s:7:"team_id";s:1:"4";s:9:"team_name";s:6:"Russia";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:5:"34817";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:5:"21559";s:11:"create_time";s:10:"1291143561";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"78";s:9:"team_name";s:6:"Russia";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:5:"27370";s:13:"expavg_credit";s:2:"38";s:4:"name";s:10:"DNETC@Home";s:3:"url";s:17:"http://dnetc.net/";s:2:"id";s:4:"8004";s:11:"create_time";s:10:"1311072187";s:7:"country";s:6:"Russia";s:7:"team_id";s:3:"102";s:9:"team_name";s:6:"Russia";}i:12;O:8:"stdClass":7:{s:12:"total_credit";s:3:"419";s:13:"expavg_credit";d:0;s:4:"name";s:8:"Evo@home";s:3:"url";s:42:"http://boinc.run.montefiore.ulg.ac.be/evo/";s:2:"id";s:4:"1054";s:11:"create_time";s:10:"1295924508";s:7:"country";s:6:"Russia";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10574";s:13:"expavg_credit";s:3:"293";s:4:"name";s:10:"Correlizer";s:3:"url";s:55:"http://svahesrv2.bioquant.uni-heidelberg.de/correlizer/";s:2:"id";s:3:"154";s:11:"create_time";s:10:"1312564645";s:7:"country";s:6:"Russia";s:7:"team_id";s:2:"37";s:9:"team_name";s:13:"Crystal Dream";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"4";s:11:"create_time";s:10:"1240252392";s:6:"userid";s:2:"11";s:4:"name";s:6:"Russia";s:7:"name_lc";s:6:"russia";s:3:"url";s:0:"";s:4:"type";s:1:"9";s:9:"name_html";s:0:"";s:11:"description";s:389:"<p align='center'>
+The Team for all from Russia and ex-USSR.
+</p>
+<p align='center'>
+<a href='http://www.almodi.org/phpbb/viewforum.php?f=37'>
+<img border='0' src='http://www.almodi.org/phpbb/styles/subsilver2/imageset/site_logo.gif'>
+</a></p>
+<p align='center'>
+<a href='http://distributed.ru/'>
+<img border='0' src='http://distributed.ru/pics/logo/distributed-ru.png'>
+</a></p>";s:6:"nusers";s:2:"99";s:7:"country";s:6:"Russia";s:12:"total_credit";s:15:"1794644.3736201";s:13:"expavg_credit";s:9:"86.050351";s:11:"expavg_time";s:16:"1317206450.30212";s:7:"seti_id";s:3:"242";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

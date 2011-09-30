@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>715</id>
+    <cpid>21acf5af041db7b98b8bd79b87ec9e6d</cpid>
+    <create_time>1241136000</create_time>
+    <name>Markken</name>
+    <country>France</country>
+    <total_credit>43840.5531177002</total_credit>
+    <expavg_credit>0.057077</expavg_credit>
+    <expavg_time>1302465903.65392</expavg_time>
+    <teamid>7</teamid>
+    <url>www.boinc-af.org</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>691</id>
+        <create_time>1252342388</create_time>
+        <rpc_seqno>1374</rpc_seqno>
+        <host_cpid>a46ee1350d3b7b18810d000597416830</host_cpid>
+        <total_credit>12334.9339561495</total_credit>
+        <expavg_credit>0.08499</expavg_credit>
+        <expavg_time>1284667203.86783</expavg_time>
+        <domain_name>markken</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1911590088.37728</p_fpops>
+        <p_iops>4788648496.67881</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-11-generic</os_version>
+        <venue>Home</venue>
+    </host>
+    <host>
+        <id>1026</id>
+        <create_time>1256797848</create_time>
+        <rpc_seqno>83</rpc_seqno>
+        <host_cpid>7db4914958872e6047f51eafefad0173</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1256797848</expavg_time>
+        <domain_name>Noelle</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) III CPU - M   866MHz [x86 Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>751962578.095737</p_fpops>
+        <p_iops>1188797959.2378</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1296</id>
+        <create_time>1258280337</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1a9d8cda42fe2a4ac44fafc152547746</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258280337</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-52 [x86 Family 15 Model 72 Stepping 2]</p_model>
+        <p_fpops>1578761361.23441</p_fpops>
+        <p_iops>2707479280.52955</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1788</id>
+        <create_time>1261813233</create_time>
+        <rpc_seqno>210</rpc_seqno>
+        <host_cpid>2c02d106c375ad7d162ffb6f4718b369</host_cpid>
+        <total_credit>94.979722</total_credit>
+        <expavg_credit>0.072372</expavg_credit>
+        <expavg_time>1266253503.74098</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [x86 Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2394521841.79457</p_fpops>
+        <p_iops>4124085969.04897</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1846</id>
+        <create_time>1262372914</create_time>
+        <rpc_seqno>4137</rpc_seqno>
+        <host_cpid>cf7fe80092b7d133269c475fdd3101dc</host_cpid>
+        <total_credit>6088.207017108</total_credit>
+        <expavg_credit>0.073658</expavg_credit>
+        <expavg_time>1276315203.60408</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [x86 Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2299716194.38502</p_fpops>
+        <p_iops>3218093002.9024</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3137</id>
+        <create_time>1269579896</create_time>
+        <rpc_seqno>90</rpc_seqno>
+        <host_cpid>4340b0dadc56e263d3cc3be075569088</host_cpid>
+        <total_credit>103.97970544211</total_credit>
+        <expavg_credit>0.084005</expavg_credit>
+        <expavg_time>1273896003.14583</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [x86 Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2380868481.37233</p_fpops>
+        <p_iops>4330942034.13251</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3159</id>
+        <create_time>1269758369</create_time>
+        <rpc_seqno>208</rpc_seqno>
+        <host_cpid>c0677f55e15a23086f89e813960a1cf4</host_cpid>
+        <total_credit>1064.555402</total_credit>
+        <expavg_credit>0.057469</expavg_credit>
+        <expavg_time>1276920003.40568</expavg_time>
+        <domain_name>markken</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>1787213988.861</p_fpops>
+        <p_iops>4364972032.06753</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.31-21-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3219</id>
+        <create_time>1269972966</create_time>
+        <rpc_seqno>548</rpc_seqno>
+        <host_cpid>e171926baefebb85d8765eacc637f384</host_cpid>
+        <total_credit>2368.909945</total_credit>
+        <expavg_credit>0.053907</expavg_credit>
+        <expavg_time>1280549403.08565</expavg_time>
+        <domain_name>Valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2200479533.95677</p_fpops>
+        <p_iops>3689095248.08036</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3395</id>
+        <create_time>1270894156</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>669ae26c2af350f304c5cc9b33791e1f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1270894156</expavg_time>
+        <domain_name>noelle</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) III CPU - M   866MHz [x86 Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>779020055.092298</p_fpops>
+        <p_iops>1308621477.86276</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3597</id>
+        <create_time>1272098300</create_time>
+        <rpc_seqno>2032</rpc_seqno>
+        <host_cpid>a1f6c29e7fc05c651efcd574c22316d6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272098300</expavg_time>
+        <domain_name>noelle</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) III CPU - M   866MHz [Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>796832359.382288</p_fpops>
+        <p_iops>1337040406.87406</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4068</id>
+        <create_time>1275216434</create_time>
+        <rpc_seqno>1561</rpc_seqno>
+        <host_cpid>1bafca9ee1bbaf34c4e154e544a09618</host_cpid>
+        <total_credit>3618.173375</total_credit>
+        <expavg_credit>0.096337</expavg_credit>
+        <expavg_time>1285272003.097</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2379643209.20915</p_fpops>
+        <p_iops>4026089402.65212</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4537</id>
+        <create_time>1278137106</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>9640fbe48a554f849b6b62974e2e0e1d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278137106</expavg_time>
+        <domain_name>David</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>677832512.315271</p_fpops>
+        <p_iops>1543458949.56871</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5182</id>
+        <create_time>1282821729</create_time>
+        <rpc_seqno>4431</rpc_seqno>
+        <host_cpid>ca98b9a3e92d0389c7850391874e25fe</host_cpid>
+        <total_credit>4304.992344</total_credit>
+        <expavg_credit>0.099821</expavg_credit>
+        <expavg_time>1300046703.53766</expavg_time>
+        <domain_name>valentin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 15 Model 104 Stepping 2]</p_model>
+        <p_fpops>2404502643.28357</p_fpops>
+        <p_iops>4301340772.74042</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6256</id>
+        <create_time>1289602587</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>bd145665f4146a81b5882db765ca7a6b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289602587</expavg_time>
+        <domain_name>petit</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) III CPU - M   866MHz [Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>784584484.057243</p_fpops>
+        <p_iops>1327589859.43628</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7142</id>
+        <create_time>1293971469</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>4d676aa5ad034d7f378161a5d681a36b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293971469</expavg_time>
+        <domain_name>petit</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Mobile Intel(R) Pentium(R) III CPU - M   866MHz [Family 6 Model 11 Stepping 4]</p_model>
+        <p_fpops>782378529.556614</p_fpops>
+        <p_iops>1327058870.17288</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6835</id>
+        <create_time>1292010073</create_time>
+        <rpc_seqno>392</rpc_seqno>
+        <host_cpid>f917c4caf61eca22e0a99a7f09502b7b</host_cpid>
+        <total_credit>2938.523067</total_credit>
+        <expavg_credit>0.072677</expavg_credit>
+        <expavg_time>1299441904.87954</expavg_time>
+        <domain_name>David-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 740  @ 1.73GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1762658636.03715</p_fpops>
+        <p_iops>5706168481.73125</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7083</id>
+        <create_time>1293483438</create_time>
+        <rpc_seqno>1718</rpc_seqno>
+        <host_cpid>7256c497127c2966c687c00f32ae3be1</host_cpid>
+        <total_credit>4290.298584</total_credit>
+        <expavg_credit>0.097031</expavg_credit>
+        <expavg_time>1301861104.08429</expavg_time>
+        <domain_name>David-PC</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       Q 740  @ 1.73GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1812883466.01119</p_fpops>
+        <p_iops>8182530077.62777</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

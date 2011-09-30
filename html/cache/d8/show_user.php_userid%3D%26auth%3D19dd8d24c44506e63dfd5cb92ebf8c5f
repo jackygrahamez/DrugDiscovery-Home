@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3422</id>
+    <cpid>e01e6a9147601a2131103625336bc5c1</cpid>
+    <create_time>1290722727</create_time>
+    <name>[AF&gt;Libristes&gt;GNU-Linux] otax</name>
+    <country>France</country>
+    <total_credit>75.963635</total_credit>
+    <expavg_credit>0.056845</expavg_credit>
+    <expavg_time>1295123102.94823</expavg_time>
+    <teamid>7</teamid>
+    <url>linux.boinc-af.org</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6533</id>
+        <create_time>1290723889</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>9ed87886f31b8da4dd62c7e6041f0ca7</host_cpid>
+        <total_credit>75.963635</total_credit>
+        <expavg_credit>0.056849</expavg_credit>
+        <expavg_time>1295123103.71512</expavg_time>
+        <domain_name>otax-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2874839240.5495</p_fpops>
+        <p_iops>8977200743.7084</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6561</id>
+        <create_time>1290852123</create_time>
+        <rpc_seqno>104</rpc_seqno>
+        <host_cpid>75adc301c666281d7005d1770728e61f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290852123</expavg_time>
+        <domain_name>jp_mosc</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2459547669.11124</p_fpops>
+        <p_iops>4991182935.40604</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7723</id>
+        <create_time>1297620476</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>9adcfd25070ec1bcc7bd7ed180cd9e15</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297620476</expavg_time>
+        <domain_name>UBU-64-TV</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2407392562.54659</p_fpops>
+        <p_iops>7884279681.30212</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-27-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

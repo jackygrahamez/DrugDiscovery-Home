@@ -1,0 +1,90 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2577";s:11:"create_time";s:10:"1283245071";s:10:"email_addr";s:19:"veenhoven@gmail.com";s:4:"name";s:8:"sieger82";s:13:"authenticator";s:32:"26b40ef59b33574be0d2e9a507503c04";s:7:"country";s:11:"Netherlands";s:11:"postal_code";s:6:"7471DT";s:12:"total_credit";s:10:"211.934068";s:13:"expavg_credit";s:8:"0.078724";s:11:"expavg_time";s:15:"1292703903.1151";s:12:"global_prefs";s:3733:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1283932583</mod_time>
+    <run_on_batteries>0</run_on_batteries>
+    <run_if_user_active>1</run_if_user_active>
+    <run_gpu_if_user_active>0</run_gpu_if_user_active>
+    <idle_time_to_run>3</idle_time_to_run>
+    <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+    <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+    <hangup_if_dialed>1</hangup_if_dialed>
+    <work_buf_min_days>0</work_buf_min_days>
+    <work_buf_additional_days>1</work_buf_additional_days>
+    <max_cpus>2</max_cpus>
+    <max_ncpus_pct>100</max_ncpus_pct>
+    <cpu_usage_limit>100</cpu_usage_limit>
+    <disk_interval>60</disk_interval>
+    <disk_max_used_gb>10</disk_max_used_gb>
+    <disk_max_used_pct>90</disk_max_used_pct>
+    <disk_min_free_gb>1</disk_min_free_gb>
+    <vm_max_used_pct>50</vm_max_used_pct>
+    <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+    <max_bytes_sec_down>0</max_bytes_sec_down>
+    <max_bytes_sec_up>0</max_bytes_sec_up>
+    <dont_verify_images>0</dont_verify_images>
+    <venue name="work">
+        <run_if_user_active>1</run_if_user_active>
+        <run_gpu_if_user_active>0</run_gpu_if_user_active>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+        <cpu_scheduling_period_minutes>1440</cpu_scheduling_period_minutes>
+        <hangup_if_dialed>1</hangup_if_dialed>
+        <work_buf_min_days>0.0</work_buf_min_days>
+        <work_buf_additional_days>0.0</work_buf_additional_days>
+        <max_cpus>2</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>90.0</disk_max_used_pct>
+        <disk_min_free_gb>1.0</disk_min_free_gb>
+        <vm_max_used_pct>50.0</vm_max_used_pct>
+        <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <dont_verify_images>0</dont_verify_images>
+        <end_hour>0</end_hour>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <start_hour>0</start_hour>
+    </venue>
+    <venue name="home">
+        <run_on_batteries>0</run_on_batteries>
+        <run_if_user_active>1</run_if_user_active>
+        <run_gpu_if_user_active>0</run_gpu_if_user_active>
+        <idle_time_to_run>3</idle_time_to_run>
+        <suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+        <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+        <hangup_if_dialed>1</hangup_if_dialed>
+        <work_buf_min_days>0</work_buf_min_days>
+        <work_buf_additional_days>1</work_buf_additional_days>
+        <max_cpus>2</max_cpus>
+        <max_ncpus_pct>100</max_ncpus_pct>
+        <cpu_usage_limit>100</cpu_usage_limit>
+        <disk_interval>60</disk_interval>
+        <disk_max_used_gb>10</disk_max_used_gb>
+        <disk_max_used_pct>90</disk_max_used_pct>
+        <disk_min_free_gb>1</disk_min_free_gb>
+        <vm_max_used_pct>50</vm_max_used_pct>
+        <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+        <max_bytes_sec_down>0</max_bytes_sec_down>
+        <max_bytes_sec_up>0</max_bytes_sec_up>
+        <dont_verify_images>0</dont_verify_images>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:158:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>5</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"779";s:5:"venue";s:0:"";s:3:"url";s:17:"www.veenhoven.net";s:10:"send_email";s:1:"0";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"c70432dc29b21be07b542756c1b753df";s:11:"passwd_hash";s:32:"d7e506153e572c615e21ba4f310c15ad";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2577";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:14:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2816";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"1861743";s:11:"create_time";s:10:"1051356134";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:5:"30247";s:9:"team_name";s:5:"AMSAT";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:4:"5873";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"146652";s:11:"create_time";s:10:"1134424689";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"288";s:9:"team_name";s:23:"Amateur Radio Operators";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:4:"8756";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:6:"497034";s:11:"create_time";s:10:"1201036183";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"598";s:9:"team_name";s:23:"Amateur Radio Operators";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2974";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"237345";s:11:"create_time";s:10:"1201036083";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:4:"1849";s:9:"team_name";s:23:"Amateur Radio Operators";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:4:"7227";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"452972";s:11:"create_time";s:10:"1202843520";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"518";s:9:"team_name";s:23:"Amateur Radio Operators";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3769";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"67089";s:11:"create_time";s:10:"1283173276";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"192";s:9:"team_name";s:16:"Dutch Power Cows";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1862";s:13:"expavg_credit";d:0;s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"69236";s:11:"create_time";s:10:"1283173518";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:4:"1475";s:9:"team_name";s:23:"Amateur Radio Operators";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:2:"11";s:13:"expavg_credit";d:0;s:4:"name";s:10:"RALPH@Home";s:3:"url";s:26:"http://ralph.bakerlab.org/";s:2:"id";s:5:"15901";s:11:"create_time";s:10:"1283245578";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"542";s:9:"team_name";s:19:"Ham Radio Operators";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4687";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"32447";s:11:"create_time";s:10:"1283173070";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:2:"46";s:9:"team_name";s:16:"Dutch Power Cows";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:2:"62";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Hydrogen@Home";s:3:"url";s:26:"http://hydrogenathome.org/";s:2:"id";s:4:"7953";s:11:"create_time";s:10:"1283245368";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:2:"72";s:9:"team_name";s:16:"Dutch Power Cows";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3423";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"31147";s:11:"create_time";s:10:"1283163457";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"469";s:9:"team_name";s:19:"Ham Radio Operators";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:3:"211";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2577";s:11:"create_time";s:10:"1283245071";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"779";s:9:"team_name";s:16:"Dutch Power Cows";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:6:"156057";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:5:"16966";s:11:"create_time";s:10:"1283340800";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"965";s:9:"team_name";s:23:"Amateur Radio Operators";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:4:"3212";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"2692";s:11:"create_time";s:10:"1283245764";s:7:"country";s:11:"Netherlands";s:7:"team_id";s:3:"774";s:9:"team_name";s:16:"Dutch Power Cows";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"779";s:11:"create_time";s:10:"1266521683";s:6:"userid";s:4:"1390";s:4:"name";s:16:"Dutch Power Cows";s:7:"name_lc";s:16:"dutch power cows";s:3:"url";s:22:"www.dutchpowercows.org";s:4:"type";s:2:"10";s:9:"name_html";s:138:"<a href='http://boincstats.com/stats/user_stats.php?pr=drugd&amp;st=0&amp;ti=779'><IMG SRC='http://www.dutchpowercows.org/images/dpc.jpg'>";s:11:"description";s:513:"De '<a href='http://www.dutchpowercows.org/'>Dutch Power Cows</a>' is actief in talloze projecten en bestaat al sinds 1998.<p>
+Inmiddels zijn we uitgegroeid tot het grootste en meest succesvolle DC-team van Nederland.
+<p>
+Ben je nog geen lid?
+Kies dan voor gezelligheid en <a href='http://boinc.drugdiscoveryathome.com/team_join_form.php?id=779'>sluit je bij ons aan</a>!<p>
+Op ons <a href='http://gathering.tweakers.net/forum/list_topics/5'>forum</a> is altijd wel iemand te vinden die je verder kan helpen.";s:6:"nusers";s:1:"8";s:7:"country";s:11:"Netherlands";s:12:"total_credit";s:12:"16243.733899";s:13:"expavg_credit";s:8:"6.646303";s:11:"expavg_time";s:16:"1317216959.33636";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

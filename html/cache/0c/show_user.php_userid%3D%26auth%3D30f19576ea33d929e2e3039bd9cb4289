@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2261</id>
+    <cpid>9a852c94e68dc1178f1e4f632aff708e</cpid>
+    <create_time>1278159682</create_time>
+    <name>zerbi</name>
+    <country>International</country>
+    <total_credit>301.243264</total_credit>
+    <expavg_credit>0.02667</expavg_credit>
+    <expavg_time>1289220283.92563</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4540</id>
+        <create_time>1278159933</create_time>
+        <rpc_seqno>997</rpc_seqno>
+        <host_cpid>67a7228e149952d55b424304029a20fb</host_cpid>
+        <total_credit>233.55478</total_credit>
+        <expavg_credit>0.016051</expavg_credit>
+        <expavg_time>1289220283.92579</expavg_time>
+        <domain_name>name-4d1f69890f</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>3074075793.16786</p_fpops>
+        <p_iops>6572271044.95657</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4688</id>
+        <create_time>1279208642</create_time>
+        <rpc_seqno>558</rpc_seqno>
+        <host_cpid>67a7228e149952d55b424304029a20fb</host_cpid>
+        <total_credit>67.688484</total_credit>
+        <expavg_credit>0.043199</expavg_credit>
+        <expavg_time>1286655903.3302</expavg_time>
+        <domain_name>name-4d1f69890f</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>3068136482.93963</p_fpops>
+        <p_iops>6513666943.94583</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

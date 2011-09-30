@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4204</id>
+    <cpid>bb2cb019aeed76f4708e19949c445723</cpid>
+    <create_time>1297868773</create_time>
+    <name>hendry</name>
+    <country>Netherlands</country>
+    <total_credit>19.60405</total_credit>
+    <expavg_credit>0.075462</expavg_credit>
+    <expavg_time>1308677660.60918</expavg_time>
+    <teamid>809</teamid>
+    <url>www.scholing-online.nl</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7826</id>
+        <create_time>1298215527</create_time>
+        <rpc_seqno>22</rpc_seqno>
+        <host_cpid>5ae00dd711e3ebb95e5f75a09ecc5ca5</host_cpid>
+        <total_credit>7.01022</total_credit>
+        <expavg_credit>0.057893</expavg_credit>
+        <expavg_time>1308677660.64005</expavg_time>
+        <domain_name>PC_van_Hendry</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2041357946.73359</p_fpops>
+        <p_iops>4320925209.32034</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7766</id>
+        <create_time>1297870982</create_time>
+        <rpc_seqno>37</rpc_seqno>
+        <host_cpid>e6a76e05522cabd6c02d2f4191f062a7</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1297870982</expavg_time>
+        <domain_name>hendry-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8400  @ 2.26GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1422759897.74341</p_fpops>
+        <p_iops>5503360622.75001</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7768</id>
+        <create_time>1297887226</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>88e6228a7a2c8d8b0b24e1f639af3fe4</host_cpid>
+        <total_credit>12.59383</total_credit>
+        <expavg_credit>0.056024</expavg_credit>
+        <expavg_time>1300651503.35032</expavg_time>
+        <domain_name>am1-ig-test01</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2691443361.43242</p_fpops>
+        <p_iops>7453795307.3113</p_iops>
+        <os_name>Microsoft Windows Server 2008 "R2"</os_name>
+        <os_version>Standard x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7793</id>
+        <create_time>1298043669</create_time>
+        <rpc_seqno>31</rpc_seqno>
+        <host_cpid>80df1987a6ac0a564b1fc0b1ad698914</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298043669</expavg_time>
+        <domain_name>hendry-kantoor</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2039574345.40419</p_fpops>
+        <p_iops>11816489486.609</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

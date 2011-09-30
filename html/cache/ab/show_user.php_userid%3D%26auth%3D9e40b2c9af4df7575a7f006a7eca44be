@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2589</id>
+    <cpid>3ec8951898284b5702380592d7f05a6b</cpid>
+    <create_time>1283501645</create_time>
+    <name>Butteroven</name>
+    <country>Australia</country>
+    <total_credit>220.851625</total_credit>
+    <expavg_credit>0.067349</expavg_credit>
+    <expavg_time>1300046703.21864</expavg_time>
+    <teamid>1098</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue>home</venue>
+    <host>
+        <id>5288</id>
+        <create_time>1283502482</create_time>
+        <rpc_seqno>246</rpc_seqno>
+        <host_cpid>aafcf326bec098ca0f389fadf4a5f239</host_cpid>
+        <total_credit>76.598706</total_credit>
+        <expavg_credit>0.0672</expavg_credit>
+        <expavg_time>1300046703.53846</expavg_time>
+        <domain_name>pute</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1341939512.19512</p_fpops>
+        <p_iops>2509583118.62958</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>work</venue>
+    </host>
+    <host>
+        <id>5289</id>
+        <create_time>1283504405</create_time>
+        <rpc_seqno>26</rpc_seqno>
+        <host_cpid>614ffec20c9a12a15f6ea0844a2067f1</host_cpid>
+        <total_credit>144.252919</total_credit>
+        <expavg_credit>0.094724</expavg_credit>
+        <expavg_time>1288470303.68908</expavg_time>
+        <domain_name>tower</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1949574423.2024</p_fpops>
+        <p_iops>3922065556.2834</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

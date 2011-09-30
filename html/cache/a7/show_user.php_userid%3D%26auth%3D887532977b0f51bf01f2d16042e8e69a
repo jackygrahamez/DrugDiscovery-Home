@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>754</id>
+    <cpid>aa4578edcdd51c61a67011be038f72a7</cpid>
+    <create_time>1251314426</create_time>
+    <name>Ashish Vora</name>
+    <country>United States</country>
+    <total_credit>3369.3620829874</total_credit>
+    <expavg_credit>0.074239</expavg_credit>
+    <expavg_time>1268940302.79237</expavg_time>
+    <teamid>8</teamid>
+    <url>www.ashishvora.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>641</id>
+        <create_time>1251946208</create_time>
+        <rpc_seqno>747</rpc_seqno>
+        <host_cpid>b75bcd071dc70f2b769ddaa7d18e246f</host_cpid>
+        <total_credit>2448.5020035569</total_credit>
+        <expavg_credit>0.073719</expavg_credit>
+        <expavg_time>1268940303.76099</expavg_time>
+        <domain_name>avora-xp2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3115736263.06429</p_fpops>
+        <p_iops>6438992482.26082</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>695</id>
+        <create_time>1252392962</create_time>
+        <rpc_seqno>297</rpc_seqno>
+        <host_cpid>7cfeab3d3368cf71b3f52aca6f433d56</host_cpid>
+        <total_credit>920.86007943045</total_credit>
+        <expavg_credit>0.058582</expavg_credit>
+        <expavg_time>1264814103.39546</expavg_time>
+        <domain_name>guru</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1578499131.10383</p_fpops>
+        <p_iops>3542832724.9811</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,17 @@
+#!/bin/bash
+#wput /usr02/hydrogen/archives/* ftp://shultzex:piscator@shultzexpeditions.org/Storage/H2/
+#wput /usr02/hydrogen/archives/* ftp://boinc_backup:bup_backup@69.12.216.85/home/boinc_backup/
+#scp -r -i rsync/mirror-rsync-key /usr02/hydrogen/archives d0r1hy@puredigitalthought.com:/home/d0r1hy/
+project=/home/boincadm/projects/DrugDiscovery/
+BACKUP=`date --utc +backup_%Y_%m_%d`
+#scp -rf -i ${project}keys/mirror.hydrogenathome.org-key ${project}archives/* root@mirror.hydrogenathome.org:/usr02/hydrogen/archives/
+#scp -r -i ${project}keys/mirror.hydrogenathome.org-key ${project}archives/stats* root@mirror.hydrogenathome.org:/usr02/hydrogen/archives/
+#scp -r -i ${project}keys/mirror.hydrogenathome.org-key ${project}archives/*.sql.* root@mirror.hydrogenathome.org:/usr02/db_archives
+#scp -r -i ${project}keys/mirror.hydrogenathome.org-key ${project}sample_results/*.pdb root@mirror.hydrogenathome.org:/usr02/hydrogen/pdb_results
+#scp -r -i ${project}keys/mirror.hydrogenathome.org-key ${project}sample_results/*.txt  root@mirror.hydrogenathome.org:/usr02/hydrogen/txt_results
+#rm -f /usr02/hydrogen/sample_results/*
+#7za a ${project}sample_results/${BACKUP}.7z *.zip
+#rm -f ${project}log_vps/*
+find ${project}sample_results/ -daystart -mtime +2 -exec rm {} \;
+find ${project}backup -mtime +2 -exec rm {} \;
+echo "archived ${project}${BACKUP}.7z"

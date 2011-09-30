@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2090</id>
+    <cpid>bed20fcd2902c618e2f4613dd288aa78</cpid>
+    <create_time>1275094497</create_time>
+    <name>MMR1988</name>
+    <country>Germany</country>
+    <total_credit>78.654812</total_credit>
+    <expavg_credit>0.784194</expavg_credit>
+    <expavg_time>1315833737.20609</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8375</id>
+        <create_time>1302393426</create_time>
+        <rpc_seqno>203</rpc_seqno>
+        <host_cpid>daf44a6e557e44af125cd9ec7655b949</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1302393426</expavg_time>
+        <domain_name>T60_1951PSG</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5600  @ 1.83GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1537469477.95839</p_fpops>
+        <p_iops>4663124572.1271</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8553</id>
+        <create_time>1303738487</create_time>
+        <rpc_seqno>1292</rpc_seqno>
+        <host_cpid>cc330c1e58f78291ff88fb04ae86841e</host_cpid>
+        <total_credit>78.654812</total_credit>
+        <expavg_credit>0.784195</expavg_credit>
+        <expavg_time>1315833737.22117</expavg_time>
+        <domain_name>TP_T60_1951PSG</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5600  @ 1.83GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1306222025.29251</p_fpops>
+        <p_iops>4695702785.87616</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8891</id>
+        <create_time>1306069099</create_time>
+        <rpc_seqno>1178</rpc_seqno>
+        <host_cpid>64fa9549d5be293ffa04e18029891794</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306069099</expavg_time>
+        <domain_name>TP_X61_7763CTO</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     L7700  @ 1.80GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>1596348523.87302</p_fpops>
+        <p_iops>4878329554.42465</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

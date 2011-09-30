@@ -1,0 +1,4 @@
+topology /usr/local/NAMD_CVS_Linux-x86_64/c32b1/toppar/top_all22_prot.inp
+coordpdb receptor.pdb RECEPTOR
+guesscoord
+writepsf receptor.psf

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4623</id>
+    <cpid>d10f27fb55bce4c8176b7e2b5924a57a</cpid>
+    <create_time>1306712746</create_time>
+    <name>Ryan L</name>
+    <country>United States</country>
+    <total_credit>15.353913</total_credit>
+    <expavg_credit>0.789775</expavg_credit>
+    <expavg_time>1315606992.08697</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9019</id>
+        <create_time>1307061182</create_time>
+        <rpc_seqno>247</rpc_seqno>
+        <host_cpid>09cbaf401fa02c994f85b244e76eeb19</host_cpid>
+        <total_credit>15.353913</total_credit>
+        <expavg_credit>0.792358</expavg_credit>
+        <expavg_time>1315606992.0872</expavg_time>
+        <domain_name>RLEBLANC1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2478110128.58773</p_fpops>
+        <p_iops>7193623956.92483</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8962</id>
+        <create_time>1306713708</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>3bbf9401411ba053132d9b5d6aabb21f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306713708</expavg_time>
+        <domain_name>RLEBLANC1</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2566921074.86632</p_fpops>
+        <p_iops>5110250112.35932</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,37 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2900";s:11:"create_time";s:10:"1288750972";s:10:"email_addr";s:17:"bagrossi@ncsu.edu";s:4:"name";s:8:"LemurDoc";s:13:"authenticator";s:32:"69f34d834b93a578ad5d65b3d5d90251";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"27707";s:12:"total_credit";s:10:"260.844781";s:13:"expavg_credit";s:8:"0.067239";s:11:"expavg_time";s:16:"1296417902.65632";s:12:"global_prefs";s:1419:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1291153798</mod_time>
+    <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>10.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.5</disk_min_free_gb>
+    <end_hour>0</end_hour>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <leave_apps_in_memory/>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <suspend_cpu_usage>50.0</suspend_cpu_usage>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <run_if_user_active/>
+    <start_hour>0</start_hour>
+    <cpu_usage_limit>60.0</cpu_usage_limit>
+    <ram_max_used_busy_pct>50.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>75.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>50.0</vm_max_used_pct>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>0.3</work_buf_additional_days>
+    <suspend_if_no_recent_input>20.0</suspend_if_no_recent_input>
+</global_preferences>
+";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>200</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:4:"1096";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"5eed39febf8396f7dfbb292106aac508";s:11:"passwd_hash";s:32:"2b5f78a3d3586fb74ff56853985562bf";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2900";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:6:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2701";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"400082";s:11:"create_time";s:10:"1288751185";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"10530";s:9:"team_name";s:23:"For good or for awesome";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:3:"928";s:13:"expavg_credit";d:0;s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"73801";s:11:"create_time";s:10:"1290224053";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"2765";s:9:"team_name";s:23:"For good or for awesome";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:3:"815";s:13:"expavg_credit";d:0;s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"720784";s:11:"create_time";s:10:"1290388218";s:7:"country";s:13:"United States";s:7:"team_id";s:5:"26465";s:9:"team_name";s:23:"For good or for awesome";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:4:"8295";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"69762";s:11:"create_time";s:10:"1289886872";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"2630";s:9:"team_name";s:23:"For good or for awesome";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:4:"4659";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"32653";s:11:"create_time";s:10:"1288751103";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"1689";s:9:"team_name";s:23:"For good or for awesome";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:3:"260";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2900";s:11:"create_time";s:10:"1288750972";s:7:"country";s:13:"United States";s:7:"team_id";s:4:"1096";s:9:"team_name";s:23:"For good or for awesome";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:4:"1096";s:11:"create_time";s:10:"1290223680";s:6:"userid";s:4:"2900";s:4:"name";s:23:"For good or for awesome";s:7:"name_lc";s:23:"for good or for awesome";s:3:"url";s:0:"";s:4:"type";s:1:"6";s:9:"name_html";s:0:"";s:11:"description";s:0:"";s:6:"nusers";s:1:"1";s:7:"country";s:13:"International";s:12:"total_credit";s:10:"200.705292";s:13:"expavg_credit";s:8:"0.064671";s:11:"expavg_time";s:16:"1296417903.35819";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

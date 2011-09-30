@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1935</id>
+    <cpid>9c0de0d980a7f262755daf807cd6102d</cpid>
+    <create_time>1272737313</create_time>
+    <name>[AF] yom</name>
+    <country>France</country>
+    <total_credit>2081.7828853275</total_credit>
+    <expavg_credit>0.86216</expavg_credit>
+    <expavg_time>1315644678.68353</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3717</id>
+        <create_time>1272737711</create_time>
+        <rpc_seqno>534</rpc_seqno>
+        <host_cpid>3ba5310a740ca83e6e1a5f4d50414cd4</host_cpid>
+        <total_credit>278.756124</total_credit>
+        <expavg_credit>0.094429</expavg_credit>
+        <expavg_time>1278735003.57595</expavg_time>
+        <domain_name>dur</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X3360  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2926926356.01495</p_fpops>
+        <p_iops>7043634028.27915</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5606</id>
+        <create_time>1285462623</create_time>
+        <rpc_seqno>642</rpc_seqno>
+        <host_cpid>923e56de1c8b8f5b72a65a2c656bdc52</host_cpid>
+        <total_credit>1803.0267613275</total_credit>
+        <expavg_credit>0.86216</expavg_credit>
+        <expavg_time>1315644678.69948</expavg_time>
+        <domain_name>DUR</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X3360  @ 2.83GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2831239426.64611</p_fpops>
+        <p_iops>7688374395.18001</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue>home</venue>
+    </host>
+</user>

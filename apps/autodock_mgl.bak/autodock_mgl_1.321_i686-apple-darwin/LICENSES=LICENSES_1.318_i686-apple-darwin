@@ -1,0 +1,182 @@
+	        MGLTools LICENSE AGREEMENTS:
+----------------------------------------------------------------------------
+
+Unless otherwise specified, this software is licensed by 
+Michel F. SANNER and The Scripps Research Institute.
+Certain pieces of software in this package provide their own licensing 
+scheme which you will find below.
+
+    ______________________________________________________________
+    |Packages 	|        SOFTWARE LICENSES 	                  | 
+    |           |_________________________________________________|      
+    |           |   ACADEMIC 	        |       COMMERCIAL        |
+    |___________|_______________________|_________________________|
+    |mslib 	|  Free for Academic    | Contact Michel Sanner   |
+    |           |                       | (sanner@scripps.edu)    |
+    |___________|_______________________|_________________________|
+    |UTpackages |  Free for Academic    | Contact Chandrajit Bajaj|
+    |           |                       |(bajaj@cs.utexas.edu)    |
+    |___________|_______________________|_________________________| 
+
+All the components not specifying their own license are under the
+Mozilla open source license.
+
+Although this licensing scheme allows the re-distribution of this software
+we would appreciate if people using it would download it from our site.
+This helps us keep track of who is using it which is a strong argument when
+trying to get money to work on this. Thanks !
+If you have any questions please contact Michel SANNER (sanner@scripps.edu).
+
+---------------------------------------------------------------------------
+       MGLTOOLS SOFTWARE LICENSE AGREEMENT.
+---------------------------------------------------------------------------
+
+  1. Grant Of Limited License; Software Use Restrictions. The programs
+     received by you will be used only for NON COMMERCIAL purposes.
+     This license is issued to you as an individual.
+
+     For COMMERCIAL use done with the software please contact Michel F. 
+     Sanner for details about commercial usage license agreements.
+     
+     For any question regarding license agreements, please contact
+             Michel Sanner:
+	     TSRI, Molecular Biology Department, TCP 26,
+	     10550 North Torrey Pines Road, La Jolla, CA 92037
+	     sanner@scripps.edu
+	     tel (858) 784-7742
+	     fax (858) 784-2341
+
+  2. COMMERCIAL USAGE is defined as revenues generating activities. These
+     include using this software for consulting activities and selling
+     applications built on top of, or using this software. Scientific 
+     research in an academic environment and teaching are considered 
+     NON COMMERCIAL.
+
+  3.  Copying Restrictions. You will not sell or otherwise distribute commercially 
+     these programs or derivatives to any other party, whether with or without 
+     consideration.
+
+  4. Ownership of Software. You will not obtain, and will not attempt to 
+     obtain copyright coverage thereon without the express purpose written 
+     consent of The Scripps Research Institute and Dr. Sanner.
+
+  5. IN NO EVENT SHALL THE AUTHORS OR DISTRIBUTORS BE LIABLE TO ANY PARTY
+     FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
+     ARISING OUT OF THE USE OF THIS SOFTWARE, ITS DOCUMENTATION, OR ANY
+     DERIVATIVES THEREOF, EVEN IF THE AUTHORS HAVE BEEN ADVISED OF THE
+     POSSIBILITY OF SUCH DAMAGE.
+
+  6. THE AUTHORS AND DISTRIBUTORS SPECIFICALLY DISCLAIM ANY WARRANTIES,
+     INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY,
+     FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  THIS SOFTWARE
+     IS PROVIDED ON AN "AS IS" BASIS, AND THE AUTHORS AND DISTRIBUTORS HAVE
+     NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR
+     MODIFICATIONS.
+
+
+----------------------------------------------------------------------------
+MOZILLA OPEN SOURCE LICENSE AGREEMENT
+----------------------------------------------------------------------------
+Mozilla open source license version 1.1
+http://www.opensource.org/licenses/mozilla1.1.php
+
+
+----------------------------------------------------------------------------
+MSLIB LICENSE AGREEMENT
+----------------------------------------------------------------------------
+FOR COMMERCIAL USE OF MSLIB PLEASE CONTACT Michel SANNER (sanner@scripps.edu)
+  
+THE SCRIPPS RESEARCH INSTITUTE SOFTWARE LICENSE AGREEMENT
+  
+1. Grant Of Limited License: Software Use Restrictions. You are free to use the
+ program (MSMS) ONLY FOR NON-COMMERCIAL SCIENTIFIC RESEARCH. This license is 
+issued to you as an individual. For institution wide use or commercial use of 
+the software you will have to follow the official registration procedure. To do
+ so you can contact us by e-mail (sanner@scripps.edu), mail (Michel Sanner, 
+TSRI,Molecular Biology Department, TCP26, 10550 North Torrey Pines Road, 92037 
+La Jolla) or fax (858) 784-2341.
+
+2.Credits: WE REQUEST THAT YOU AGREE TO ACKNOWLEDGE THE USE OF THE MSMS 
+SOFTWARE THAT RESULTS IN ANY PUBLISHED WORK, INCLUDING SCIENTIFIC PAPERS,
+FILMS AND VIDEOTAPES BY CITING THE FOLLOWING REFERENCE:
+Sanner, M.F., Spehner, J.-C., and Olson, A.J. (1996) Reduced surface: an 
+efficient way to compute molecular surfaces. Biopolymers, Vol. 38, (3), 
+305-320.
+
+3. Copying Restrictions: You will not sell or otherwise distribute commercially 
+these programs  or derivatives to any other party, whether with or without 
+consideration.
+
+4. Ownership of Software: You will not obtain, and will not attempt to obtain 
+copyright coverage thereon without the express purpose written consent of The 
+Scripps Research Institute.
+
+5. Limitation Of Liability: You will hold harmless from all or any expenses you
+may incur as a result of or arising from your use, direct or indirect, of 
+these materials. You understand that no other right or license to this program 
+or its derivatives is granted or implied as a result of our transmission of 
+same to you. 
+
+
+END OF TERMS AND CONDITIONS
+
+------------------------------------------------------------------------------
+PYTHON IMAGING LIBRARY (PIL) LICENSE AGREEMENT
+-------------------------------------------------------------------------------
+The Python Imaging Library (PIL) is
+    Copyright © 1997-2004 by Secret Labs AB
+    Copyright © 1995-2004 by Fredrik Lundh
+
+By obtaining, using, and/or copying this software and/or its associated 
+documentation, you agree that you have read, understood, and will comply with 
+the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its 
+associated documentation for any purpose and without fee is hereby granted, 
+provided that the above copyright notice appears in all copies, and that both 
+that copyright notice and this permission notice appear in supporting 
+documentation, and that the name of Secret Labs AB or the author not be used 
+in advertising or publicity pertaining to distribution of the software without 
+specific, written prior permission.
+
+SECRET LABS AB AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS 
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN 
+NO EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR ANY SPECIAL, 
+INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE 
+OF THIS SOFTWARE.
+
+
+------------------------------------------------------------------------------
+ APBS License
+------------------------------------------------------------------------------
+
+Primary author: Nathan A. Baker <http://agave.wustl.edu/>
+(baker@biochem.wustl.edu <mailto:baker@biochem.wustl.edu>)
+Department of Biochemistry and Molecular Biophysics
+Center for Computational Biology
+Washington University in St. Louis
+Additional contributing authors <authors.html> listed in the code
+documentation.
+
+Copyright (c) 2002-2005. Washington University in St. Louis.
+All Rights Reserved.
+Copyright (c) 1999-2002. The Regents of the University of California.
+Portions Copyright (c) 1995. Michael Holst.
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License
+<http://www.gnu.org/licenses/gpl.html> as published by the Free Software
+Foundation; either version 2 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+Public License <http://www.gnu.org/licenses/gpl.html> for more details.
+
+You should have received a copy of the GNU General Public License
+<http://www.gnu.org/licenses/gpl.html> along with this program; if not,
+write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330,
+Boston, MA 02111-1307 USA

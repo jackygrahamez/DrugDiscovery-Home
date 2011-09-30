@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3457</id>
+    <cpid>0f69ad60b535f4750510f44430dd5503</cpid>
+    <create_time>1291307459</create_time>
+    <name>Brian Stansbury</name>
+    <country>United States</country>
+    <total_credit>492.5465</total_credit>
+    <expavg_credit>0.063653</expavg_credit>
+    <expavg_time>1313352903.30139</expavg_time>
+    <teamid>8</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6680</id>
+        <create_time>1291308341</create_time>
+        <rpc_seqno>764</rpc_seqno>
+        <host_cpid>6d1426ed15a29f3cb3929d7e4063a75f</host_cpid>
+        <total_credit>464.540776</total_credit>
+        <expavg_credit>0.060496</expavg_credit>
+        <expavg_time>1305490203.65358</expavg_time>
+        <domain_name>Brian-PC-new</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2345872556.05345</p_fpops>
+        <p_iops>5186496510.2157</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9043</id>
+        <create_time>1307253909</create_time>
+        <rpc_seqno>211</rpc_seqno>
+        <host_cpid>45fb54538268e9f163000b5a3f4b627d</host_cpid>
+        <total_credit>15.419004</total_credit>
+        <expavg_credit>0.090471</expavg_credit>
+        <expavg_time>1310328902.79166</expavg_time>
+        <domain_name>Brian-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2325798999.83156</p_fpops>
+        <p_iops>4789769926.11553</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9071</id>
+        <create_time>1307493968</create_time>
+        <rpc_seqno>447</rpc_seqno>
+        <host_cpid>1ab2d0b5bdc93f1bfa8f283a5940b349</host_cpid>
+        <total_credit>12.58672</total_credit>
+        <expavg_credit>0.093095</expavg_credit>
+        <expavg_time>1312748103.03232</expavg_time>
+        <domain_name>Brian-Laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 Mobile Technology ML-32 [Family 15 Model 36 Stepping 2]</p_model>
+        <p_fpops>1760517799.35275</p_fpops>
+        <p_iops>1755882903.80241</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

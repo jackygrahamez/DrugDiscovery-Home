@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4620</id>
+    <cpid>a91bbb8279f2d24222d89d89a27908ed</cpid>
+    <create_time>1306678994</create_time>
+    <name>William Finch</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1306678994</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9308</id>
+        <create_time>1308974684</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>d44fa5e64bd414be6ebb65d6e93c61d2</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308974684</expavg_time>
+        <domain_name>TerriFinch-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N280   @ 1.66GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>678400017.186307</p_fpops>
+        <p_iops>1575536287.00188</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Starter x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9309</id>
+        <create_time>1308977696</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>2471ac3be267febad9005125da95aaed</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308977696</expavg_time>
+        <domain_name>LAPTOP3</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor         1.50GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1382578397.21254</p_fpops>
+        <p_iops>2696490082.77473</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

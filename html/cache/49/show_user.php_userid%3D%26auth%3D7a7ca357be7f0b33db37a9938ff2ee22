@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1145</id>
+    <cpid>714818ac410487333d57089d93152c73</cpid>
+    <create_time>1258705076</create_time>
+    <name>cominet</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1258705076</expavg_time>
+    <teamid>0</teamid>
+    <url>www.dikof.net</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2437</id>
+        <create_time>1266597339</create_time>
+        <rpc_seqno>64</rpc_seqno>
+        <host_cpid>0b043f1c285b809f80c7e7191a57825b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266597339</expavg_time>
+        <domain_name>MedTest</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [x86 Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>1370003344.73473</p_fpops>
+        <p_iops>2478096612.42544</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2438</id>
+        <create_time>1266597528</create_time>
+        <rpc_seqno>44</rpc_seqno>
+        <host_cpid>e81705db5d37dbe693404519f837c77a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1266597528</expavg_time>
+        <domain_name>MedNT1Test</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.80GHz [x86 Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1230529371.99221</p_fpops>
+        <p_iops>1313295082.21939</p_iops>
+        <os_name>Microsoft Windows Server 2003 "R2"</os_name>
+        <os_version>Standard Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3255</id>
+        <create_time>1270122714</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>8d8c1e83ea2f343096e6e360220843d3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1270122714</expavg_time>
+        <domain_name>Win7</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ [AMD64 Family 15 Model 107 Stepping 2]</p_model>
+        <p_fpops>2448915187.37673</p_fpops>
+        <p_iops>4135061563.69995</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4824</id>
+        <create_time>1280255274</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>93e21a533b3389851662b719d0264f0a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1280255274</expavg_time>
+        <domain_name>p4</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1306763351.53824</p_fpops>
+        <p_iops>2576387821.32149</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

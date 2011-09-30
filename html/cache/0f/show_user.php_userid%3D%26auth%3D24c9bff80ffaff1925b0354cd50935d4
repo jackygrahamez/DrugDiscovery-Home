@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>532</id>
+    <cpid>ff5ff66fdbb5daf8fed8a30db8c99be5</cpid>
+    <create_time>1241294098</create_time>
+    <name>Heavy Metal Dungeon Keeper</name>
+    <country>United Kingdom</country>
+    <total_credit>81216.3930604151</total_credit>
+    <expavg_credit>0.765893</expavg_credit>
+    <expavg_time>1315677393.96235</expavg_time>
+    <teamid>495</teamid>
+    <url>www.metalhammer.co.uk/</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9676</id>
+        <create_time>1312446966</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>cc036aca5aac9f39a9d5dd194804ac12</host_cpid>
+        <total_credit>28958.493405414</total_credit>
+        <expavg_credit>0.879831</expavg_credit>
+        <expavg_time>1315677393.96251</expavg_time>
+        <domain_name>SciTechPrime01</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>3108630665.30565</p_fpops>
+        <p_iops>9803776617.15725</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10098</id>
+        <create_time>1316086324</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>61d0c823f1bda3a3cd5682f47bd50c89</host_cpid>
+        <total_credit>1743.712299</total_credit>
+        <expavg_credit>1.5290186525184e-06</expavg_credit>
+        <expavg_time>1316088602</expavg_time>
+        <domain_name>SciTechPrime00</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II Dual-Core M320 [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1548448143.01125</p_fpops>
+        <p_iops>6282678950.73502</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

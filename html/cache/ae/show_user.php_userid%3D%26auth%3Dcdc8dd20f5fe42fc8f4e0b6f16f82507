@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2664</id>
+    <cpid>d8af3506370c99690975649da940f139</cpid>
+    <create_time>1284494546</create_time>
+    <name>Jack1982</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1284494546</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5439</id>
+        <create_time>1284534497</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>ba2c05bf5acfa3b91deb6d3dee868192</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284534497</expavg_time>
+        <domain_name>jack-mobil</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.73GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1509433962.26415</p_fpops>
+        <p_iops>3028005195.33587</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5434</id>
+        <create_time>1284494680</create_time>
+        <rpc_seqno>42</rpc_seqno>
+        <host_cpid>cf11cc01b156943012f773ecb49b9872</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1284494680</expavg_time>
+        <domain_name>Jack-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad  CPU   Q9550  @ 2.83GHz [Family 6 Model 23 Stepping 7]</p_model>
+        <p_fpops>2580875075.77345</p_fpops>
+        <p_iops>7627622196.4489</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

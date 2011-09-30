@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1325</id>
+    <cpid>3e4e5ee66e0105c11dff0eed0519cf2f</cpid>
+    <create_time>1265944178</create_time>
+    <name>Boliver</name>
+    <country>United States</country>
+    <total_credit>344.849252</total_credit>
+    <expavg_credit>0.075839</expavg_credit>
+    <expavg_time>1295727902.98247</expavg_time>
+    <teamid>767</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2275</id>
+        <create_time>1265945823</create_time>
+        <rpc_seqno>763</rpc_seqno>
+        <host_cpid>10291196c1c74741bcba9a771e8bbf74</host_cpid>
+        <total_credit>268.926077</total_credit>
+        <expavg_credit>0.068133</expavg_credit>
+        <expavg_time>1275710403.16675</expavg_time>
+        <domain_name>CX423566-A</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3400+ [Family 15 Model 4 Stepping 8]</p_model>
+        <p_fpops>1849710982.65896</p_fpops>
+        <p_iops>3494026680.73351</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6497</id>
+        <create_time>1290576500</create_time>
+        <rpc_seqno>247</rpc_seqno>
+        <host_cpid>1b7ea47e855487f9c9cf0a498b4166a6</host_cpid>
+        <total_credit>75.923175</total_credit>
+        <expavg_credit>0.079632</expavg_credit>
+        <expavg_time>1295727903.5706</expavg_time>
+        <domain_name>ChrisG-PC</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>3112184405.78495</p_fpops>
+        <p_iops>9624443945.2884</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

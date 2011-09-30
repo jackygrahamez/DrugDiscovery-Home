@@ -1,0 +1,94 @@
+O:9:"BoincTeam":24:{s:2:"id";s:1:"4";s:11:"create_time";s:10:"1240252392";s:6:"userid";s:2:"11";s:4:"name";s:6:"Russia";s:7:"name_lc";s:6:"russia";s:3:"url";s:0:"";s:4:"type";s:1:"9";s:9:"name_html";s:0:"";s:11:"description";s:389:"<p align='center'>
+The Team for all from Russia and ex-USSR.
+</p>
+<p align='center'>
+<a href='http://www.almodi.org/phpbb/viewforum.php?f=37'>
+<img border='0' src='http://www.almodi.org/phpbb/styles/subsilver2/imageset/site_logo.gif'>
+</a></p>
+<p align='center'>
+<a href='http://distributed.ru/'>
+<img border='0' src='http://distributed.ru/pics/logo/distributed-ru.png'>
+</a></p>";s:6:"nusers";s:2:"99";s:7:"country";s:6:"Russia";s:12:"total_credit";s:15:"1795060.4959761";s:13:"expavg_credit";s:10:"123.171191";s:11:"expavg_time";s:14:"1317238802.646";s:7:"seti_id";s:3:"242";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:13:"nusers_worked";s:2:"68";s:13:"nusers_active";s:2:"14";s:5:"forum";b:0;s:11:"new_members";a:0:{}s:6:"admins";a:0:{}s:7:"founder";O:9:"BoincUser":28:{s:2:"id";s:2:"11";s:11:"create_time";s:10:"1240248210";s:10:"email_addr";s:19:"saharovna@gmail.com";s:4:"name";s:18:"Nikolay A. Saharov";s:13:"authenticator";s:32:"f8733dabb27cba18fd82cfd3cbabf741";s:7:"country";s:6:"Russia";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"18938.230827754";s:13:"expavg_credit";s:8:"0.253403";s:11:"expavg_time";s:16:"1316998502.41953";s:12:"global_prefs";s:3241:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1316533013</mod_time>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0000000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<leave_apps_in_memory/>
+<confirm_before_connecting/>
+<venue name="home">
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0000000</work_buf_min_days>
+<work_buf_additional_days>0.5000000</work_buf_additional_days>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>75</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<confirm_before_connecting/>
+</venue>
+<venue name="work">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>1.0000000</work_buf_min_days>
+<work_buf_additional_days>2.0000000</work_buf_additional_days>
+<max_cpus>0</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>90</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>95</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>10</net_start_hour>
+<net_end_hour>17</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<leave_apps_in_memory/>
+<confirm_before_connecting/>
+</venue>
+</global_preferences>";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"557";s:5:"venue";s:4:"home";s:3:"url";s:14:"distributed.ru";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"ceaae558c5fe6759437fa3a225c24d32";s:11:"passwd_hash";s:32:"d9634023ed6f3df75fafa501b5ddbd41";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}

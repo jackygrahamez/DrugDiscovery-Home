@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>96</id>
+    <cpid>c843714b32e467b97d2571d1af9971f8</cpid>
+    <create_time>1240319656</create_time>
+    <name>Bok</name>
+    <country>United Kingdom</country>
+    <total_credit>116421</total_credit>
+    <expavg_credit>0.087196</expavg_credit>
+    <expavg_time>1252437603.34538</expavg_time>
+    <teamid>85</teamid>
+    <url>stats.free-dc.org</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>155</id>
+        <create_time>1241294775</create_time>
+        <rpc_seqno>4</rpc_seqno>
+        <host_cpid>cc7c719ae114cee1f0f94647404c5ed9</host_cpid>
+        <total_credit>812.554129</total_credit>
+        <expavg_credit>0.004115</expavg_credit>
+        <expavg_time>1250104203.5979</expavg_time>
+        <domain_name>Orange</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU           @ 2.40GHz [Intel64 Family 6 Model 15 Stepping 7]</p_model>
+        <p_fpops>2496544676.13002</p_fpops>
+        <p_iops>7948104923.02876</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>156</id>
+        <create_time>1241294827</create_time>
+        <rpc_seqno>700</rpc_seqno>
+        <host_cpid>b49cf932fe6cc0397f2fed62cef40927</host_cpid>
+        <total_credit>1116.732117</total_credit>
+        <expavg_credit>0.005433</expavg_credit>
+        <expavg_time>1250104203.59989</expavg_time>
+        <domain_name>quad875</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual Core AMD Opteron(tm) Processor 875 [Family 15 Model 33 Stepping 0]</p_model>
+        <p_fpops>1737715193.00928</p_fpops>
+        <p_iops>3915289939.23825</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.18-8.el5</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>175</id>
+        <create_time>1241444989</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>e02b8c26215c3c7c3c66e37ea5ab270c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1241444989</expavg_time>
+        <domain_name>ubuntu64-1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Processor model unknown [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2421215895.60755</p_fpops>
+        <p_iops>6723740872.8482</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-7-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>176</id>
+        <create_time>1241460185</create_time>
+        <rpc_seqno>288</rpc_seqno>
+        <host_cpid>2ef1885385ce556ce5c0c2c9527653bd</host_cpid>
+        <total_credit>515.466888</total_credit>
+        <expavg_credit>0.086537</expavg_credit>
+        <expavg_time>1252437604.35168</expavg_time>
+        <domain_name>Phil-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5300  @ 1.73GHz [x86 Family 6 Model 15 Stepping 2]</p_model>
+        <p_fpops>1688068314.46863</p_fpops>
+        <p_iops>3580222421.55651</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Ultimate x86 Editon, Service Pack 1, (06.00.6001.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

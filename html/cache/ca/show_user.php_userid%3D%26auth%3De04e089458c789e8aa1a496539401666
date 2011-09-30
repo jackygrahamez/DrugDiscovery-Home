@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2344</id>
+    <cpid>e07e38f55def834ee8337fc4de082bac</cpid>
+    <create_time>1279808819</create_time>
+    <name>Nupar</name>
+    <country>Iceland</country>
+    <total_credit>210.497934</total_credit>
+    <expavg_credit>0.107694</expavg_credit>
+    <expavg_time>1315672646.63825</expavg_time>
+    <teamid>566</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4769</id>
+        <create_time>1279808831</create_time>
+        <rpc_seqno>672</rpc_seqno>
+        <host_cpid>7308796f01a94e403bb9943729430482</host_cpid>
+        <total_credit>80.993433</total_credit>
+        <expavg_credit>0.088801</expavg_credit>
+        <expavg_time>1297627502.91673</expavg_time>
+        <domain_name>AMATO-PC1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2656404466.22107</p_fpops>
+        <p_iops>9158532874.2773</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6106</id>
+        <create_time>1289071024</create_time>
+        <rpc_seqno>229</rpc_seqno>
+        <host_cpid>65e8f21d178708f051b7ef8d47dc9fed</host_cpid>
+        <total_credit>56.10292</total_credit>
+        <expavg_credit>0.09238</expavg_credit>
+        <expavg_time>1295727903.54852</expavg_time>
+        <domain_name>Emilie-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Dual-Core Mobile RM-75 [AMD64 Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>2176159513.39536</p_fpops>
+        <p_iops>3865622732.86832</p_iops>
+        <os_name>Microsoft</os_name>
+        <os_version>x64 Editon, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6012</id>
+        <create_time>1288438797</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>49a1f0b625b7a36daa33071d8193afe6</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288438797</expavg_time>
+        <domain_name>PC-de-Alexandre</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5670  @ 1.80GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1736301398.95654</p_fpops>
+        <p_iops>3794322101.25092</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7825</id>
+        <create_time>1298206533</create_time>
+        <rpc_seqno>612</rpc_seqno>
+        <host_cpid>e67bba2ae2e1de91b1bcd9b78537298c</host_cpid>
+        <total_credit>73.401581</total_credit>
+        <expavg_credit>0.107694</expavg_credit>
+        <expavg_time>1315672646.63842</expavg_time>
+        <domain_name>Jean-Claude-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P7450  @ 2.13GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2110195105.05606</p_fpops>
+        <p_iops>6109160518.45971</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8737</id>
+        <create_time>1305051192</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>8392c6ad00ea5987b41461ed3180f62f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305051192</expavg_time>
+        <domain_name>Alexandre-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2792534585.7876</p_fpops>
+        <p_iops>6351667400.26253</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

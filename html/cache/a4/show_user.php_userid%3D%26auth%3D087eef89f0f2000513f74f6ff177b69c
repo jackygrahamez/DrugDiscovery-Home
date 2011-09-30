@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1094</id>
+    <cpid>9e59eae73d893e01f4c71e3d22e2c5f2</cpid>
+    <create_time>1258433484</create_time>
+    <name>Novalor</name>
+    <country>Germany</country>
+    <total_credit>361.396354355221</total_credit>
+    <expavg_credit>0.040741</expavg_credit>
+    <expavg_time>1268940302.80024</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1383</id>
+        <create_time>1258434269</create_time>
+        <rpc_seqno>75</rpc_seqno>
+        <host_cpid>19c7c15e8c9dbc1fcbcecaafac0054bc</host_cpid>
+        <total_credit>361.396354355221</total_credit>
+        <expavg_credit>0.040741</expavg_credit>
+        <expavg_time>1268940303.77805</expavg_time>
+        <domain_name>Holger</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-50 [x86 Family 15 Model 72 Stepping 2]</p_model>
+        <p_fpops>1619618292.7373</p_fpops>
+        <p_iops>2859915164.30756</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9305</id>
+        <create_time>1308946583</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f6ff4700366ca6d4914881b053a8e6c3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308946583</expavg_time>
+        <domain_name>Holger-msi</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2003089529.61024</p_fpops>
+        <p_iops>6857363188.90488</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

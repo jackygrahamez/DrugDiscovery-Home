@@ -1,0 +1,69 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"1012";s:11:"create_time";s:10:"1258083220";s:10:"email_addr";s:16:"ledled95@msn.com";s:4:"name";s:6:"ledled";s:13:"authenticator";s:32:"f4cdfda62b6d93e3842a648623d8083a";s:7:"country";s:5:"China";s:11:"postal_code";s:6:"523000";s:12:"total_credit";s:11:"3160.175479";s:13:"expavg_credit";s:8:"0.057217";s:11:"expavg_time";s:16:"1298837103.10487";s:12:"global_prefs";s:2516:"<global_preferences>
+    <source_project>http://www.worldcommunitygrid.org/</source_project>
+    <source_scheduler>https://grid.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</source_scheduler>
+    <mod_time>1294584610</mod_time>
+    <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+    <disk_interval>60.0</disk_interval>
+    <disk_max_used_gb>10.0</disk_max_used_gb>
+    <disk_max_used_pct>50.0</disk_max_used_pct>
+    <disk_min_free_gb>0.5</disk_min_free_gb>
+    <end_hour>0</end_hour>
+    <idle_time_to_run>3.0</idle_time_to_run>
+    <max_bytes_sec_down>0.0</max_bytes_sec_down>
+    <max_bytes_sec_up>0.0</max_bytes_sec_up>
+    <max_cpus>16</max_cpus>
+    <max_ncpus_pct>100.0</max_ncpus_pct>
+    <net_end_hour>0</net_end_hour>
+    <net_start_hour>0</net_start_hour>
+    <run_if_user_active/>
+    <start_hour>0</start_hour>
+    <cpu_usage_limit>100.0</cpu_usage_limit>
+    <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+    <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+    <vm_max_used_pct>75.0</vm_max_used_pct>
+    <work_buf_min_days>0.2</work_buf_min_days>
+    <work_buf_additional_days>0.3</work_buf_additional_days>
+    <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    <leave_apps_in_memory/>
+    <daily_xfer_period_days>0</daily_xfer_period_days>
+    <daily_xfer_limit_mb>0.0</daily_xfer_limit_mb>
+    <suspend_cpu_usage>0.0</suspend_cpu_usage>
+    <venue name="home">
+        <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+        <disk_interval>60.0</disk_interval>
+        <disk_max_used_gb>10.0</disk_max_used_gb>
+        <disk_max_used_pct>50.0</disk_max_used_pct>
+        <disk_min_free_gb>0.5</disk_min_free_gb>
+        <end_hour>0</end_hour>
+        <leave_apps_in_memory/>
+        <max_bytes_sec_down>0.0</max_bytes_sec_down>
+        <max_bytes_sec_up>0.0</max_bytes_sec_up>
+        <max_cpus>16</max_cpus>
+        <max_ncpus_pct>100.0</max_ncpus_pct>
+        <net_end_hour>0</net_end_hour>
+        <net_start_hour>0</net_start_hour>
+        <run_if_user_active/>
+        <start_hour>0</start_hour>
+        <cpu_usage_limit>100.0</cpu_usage_limit>
+        <ram_max_used_busy_pct>75.0</ram_max_used_busy_pct>
+        <ram_max_used_idle_pct>90.0</ram_max_used_idle_pct>
+        <vm_max_used_pct>75.0</vm_max_used_pct>
+        <work_buf_min_days>0.2</work_buf_min_days>
+        <work_buf_additional_days>0.3</work_buf_additional_days>
+        <suspend_if_no_recent_input>0.0</suspend_if_no_recent_input>
+    </venue>
+</global_preferences>
+";s:13:"project_prefs";s:180:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+<no_gpus>1</no_gpus>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:2:"41";s:5:"venue";s:0:"";s:3:"url";s:12:"www.equn.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"7c9d42a3a281e074b147a73848e2ca33";s:11:"passwd_hash";s:32:"0d4c92fcb1f34bdb5f6e2784d6b5eec2";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"41";s:11:"create_time";s:10:"1240319533";s:6:"userid";s:2:"52";s:4:"name";s:10:"Team China";s:7:"name_lc";s:10:"team china";s:3:"url";s:18:"www.equn.com/forum";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:323:"Welcome all from China mainland, TaiWan, HongKong, Macau.
+</br></br>
+Welcome all Chinese all over the world.
+</br></br>
+Welcome all BOINC users!
+</br></br></br>
+欢迎所有 BOINC 用户加入 Team China 团队 (<a href='http://www.boincstats.com/signature/team_banner_bam42.gif' target="new">团队签名图片</a>)!";s:6:"nusers";s:2:"26";s:7:"country";s:5:"China";s:12:"total_credit";s:16:"11447.7728017906";s:13:"expavg_credit";s:7:"0.05134";s:11:"expavg_time";s:16:"1307304603.39516";s:7:"seti_id";s:3:"200";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:10:"1268790561";s:8:"joinable";s:1:"1";}}

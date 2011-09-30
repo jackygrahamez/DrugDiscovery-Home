@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1413</id>
+    <cpid>a1c8ef9fb592fc9612a2dacd6d3bf64c</cpid>
+    <create_time>1266680306</create_time>
+    <name>Davidoff</name>
+    <country>Portugal</country>
+    <total_credit>135.54932</total_credit>
+    <expavg_credit>0.09997</expavg_credit>
+    <expavg_time>1271476803.05767</expavg_time>
+    <teamid>496</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2459</id>
+        <create_time>1266680392</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d9afc26d7024d001dc25ab75ce69cdd3</host_cpid>
+        <total_credit>135.54932</total_credit>
+        <expavg_credit>0.09997</expavg_credit>
+        <expavg_time>1271476803.36535</expavg_time>
+        <domain_name>utilizador-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [x86 Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2285453799.13842</p_fpops>
+        <p_iops>4997156651.74304</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5820</id>
+        <create_time>1287067235</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>1449c4aff190586fc81cc4456f0e1ba3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287067235</expavg_time>
+        <domain_name>utilizador-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2202290148.66191</p_fpops>
+        <p_iops>4594247132.1966</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

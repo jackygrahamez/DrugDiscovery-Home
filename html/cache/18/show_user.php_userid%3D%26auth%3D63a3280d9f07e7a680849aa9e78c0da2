@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1173</id>
+    <cpid>f2f9b5da084d0c4742409932926d0519</cpid>
+    <create_time>1264990515</create_time>
+    <name>KWSN - A Shrubbery</name>
+    <country>Tajikistan</country>
+    <total_credit>476.14083</total_credit>
+    <expavg_credit>0.07811</expavg_credit>
+    <expavg_time>1270872002.27793</expavg_time>
+    <teamid>552</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1999</id>
+        <create_time>1265003213</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>d5da5b0c9e27161281cbf59aecdc4d00</host_cpid>
+        <total_credit>476.14083</total_credit>
+        <expavg_credit>0.078115</expavg_credit>
+        <expavg_time>1270872002.42724</expavg_time>
+        <domain_name>Opterons</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual Core AMD Opteron(tm) Processor 270 [AMD64 Family 15 Model 33 Stepping 2]</p_model>
+        <p_fpops>2048700785.9393</p_fpops>
+        <p_iops>3754476050.12106</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4064</id>
+        <create_time>1275182284</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>1570e5bf30d080ab9c211035a98e3ea7</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1275182284</expavg_time>
+        <domain_name>Opterons</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual Core AMD Opteron(tm) Processor 270 [Family 15 Model 33 Stepping 2]</p_model>
+        <p_fpops>2046150662.61872</p_fpops>
+        <p_iops>3716798573.89848</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

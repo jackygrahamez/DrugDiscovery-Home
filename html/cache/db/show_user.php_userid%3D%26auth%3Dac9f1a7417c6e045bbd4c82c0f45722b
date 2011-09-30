@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>542</id>
+    <cpid>b03c51d18de4fbe82a996d65721b927a</cpid>
+    <create_time>1241474262</create_time>
+    <name>PoHeDa</name>
+    <country>Germany</country>
+    <total_credit>863.387215</total_credit>
+    <expavg_credit>0.051658</expavg_credit>
+    <expavg_time>1252071303.39148</expavg_time>
+    <teamid>6</teamid>
+    <url>vr.poheda.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>180</id>
+        <create_time>1241474618</create_time>
+        <rpc_seqno>329</rpc_seqno>
+        <host_cpid>31823076d110b606d2b676495671da75</host_cpid>
+        <total_credit>32.189555</total_credit>
+        <expavg_credit>0.051648</expavg_credit>
+        <expavg_time>1252071303.7639</expavg_time>
+        <domain_name>PC1-H1-P1-WI-H</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2500+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1765517241.37931</p_fpops>
+        <p_iops>2938991170.53558</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>190</id>
+        <create_time>1241514084</create_time>
+        <rpc_seqno>47</rpc_seqno>
+        <host_cpid>8e16373bb9d1582b4efe80d4f4315f56</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1241514084</expavg_time>
+        <domain_name>PC2-H1P3-LU-H</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) Processor [Family 6 Model 4 Stepping 4]</p_model>
+        <p_fpops>1045016867.80168</p_fpops>
+        <p_iops>2110639120.12882</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.28-11-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>191</id>
+        <create_time>1241516269</create_time>
+        <rpc_seqno>70</rpc_seqno>
+        <host_cpid>545841f0f97708def1a2c4c9833e1719</host_cpid>
+        <total_credit>10.878943</total_credit>
+        <expavg_credit>5.8e-05</expavg_credit>
+        <expavg_time>1250104203.64675</expavg_time>
+        <domain_name>PC5-LU-H</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.66GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>870646522.518075</p_fpops>
+        <p_iops>2263702108.4064</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-11-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>192</id>
+        <create_time>1241517150</create_time>
+        <rpc_seqno>171</rpc_seqno>
+        <host_cpid>094afe9bcc0fed003587e79fd59a2be1</host_cpid>
+        <total_credit>7.416516</total_credit>
+        <expavg_credit>3.9e-05</expavg_credit>
+        <expavg_time>1250104203.64872</expavg_time>
+        <domain_name>PC3-H1-P3-WI-S</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2000+ [x86 Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1650955414.01274</p_fpops>
+        <p_iops>2754269767.20692</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>193</id>
+        <create_time>1241519125</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>c0783d87669769d35de3c398515aefa4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1241519125</expavg_time>
+        <domain_name>PC4-H1P3-LU-K</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.00GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>970119106.117959</p_fpops>
+        <p_iops>2350934302.29475</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27-11-generic</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>378</id>
+        <create_time>1249926874</create_time>
+        <rpc_seqno>15</rpc_seqno>
+        <host_cpid>4ecf314a289142ab6a792d80f0399f8e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1249926874</expavg_time>
+        <domain_name>PC4-WI-K</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 2.00GHz [x86 Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>1056603773.58491</p_fpops>
+        <p_iops>1974618393.54229</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x86 Editon, (06.01.7100.00)</os_version>
+        <venue>home</venue>
+    </host>
+    <host>
+        <id>8558</id>
+        <create_time>1303765880</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>c7c08c6d686e0d7f00816a6f933372dd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303765880</expavg_time>
+        <domain_name>PoHeDa-Master01</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 Processor 3700+ [Family 15 Model 4 Stepping 10]</p_model>
+        <p_fpops>2423829787.23404</p_fpops>
+        <p_iops>4449324436.55063</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

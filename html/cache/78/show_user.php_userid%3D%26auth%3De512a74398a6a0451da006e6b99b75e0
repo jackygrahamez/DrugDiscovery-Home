@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4916</id>
+    <cpid>fbd5f9184d74fdf4e888a0b12fc71feb</cpid>
+    <create_time>1314236804</create_time>
+    <name>maverickbna</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1314236804</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9898</id>
+        <create_time>1314323013</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>62397387292f6c52a95e144933dd1a0d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314323013</expavg_time>
+        <domain_name>endeavour</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>SUNW,Sun-Fire-V240</p_vendor>
+        <p_model>sparcv9+vis2</p_model>
+        <p_fpops>381346597.415428</p_fpops>
+        <p_iops>2197502568.85518</p_iops>
+        <os_name>SunOS</os_name>
+        <os_version>5.11</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9887</id>
+        <create_time>1314237501</create_time>
+        <rpc_seqno>48</rpc_seqno>
+        <host_cpid>5944d43b470b44e8b4851d32644a3804</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314237501</expavg_time>
+        <domain_name>cassini</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 3.60GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1165610976.07318</p_fpops>
+        <p_iops>2962235374.35541</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.18-238.19.1.el5</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9888</id>
+        <create_time>1314237536</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>f54b511a0c2d3708e4fa52133c22585c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314237536</expavg_time>
+        <domain_name>pioneer.dmz.reversespace.com</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual Core AMD Opteron(tm) Processor 270 [Family 15 Model 33 Stepping 2]</p_model>
+        <p_fpops>1498864690.09797</p_fpops>
+        <p_iops>3945511774.28579</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.18-238.19.1.el5.centos.plus</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9889</id>
+        <create_time>1314238237</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>140764f54977c5771759c89fe27a3d20</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314238237</expavg_time>
+        <domain_name>spirit</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Quad-Core AMD Opteron(tm) Processor 1352 [Family 16 Model 2 Stepping 2]</p_model>
+        <p_fpops>1536192048.69687</p_fpops>
+        <p_iops>4751984162.80347</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.18-238.19.1.el5.centos.plus</os_version>
+        <venue></venue>
+    </host>
+</user>

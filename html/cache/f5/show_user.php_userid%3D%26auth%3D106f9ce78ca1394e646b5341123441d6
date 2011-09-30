@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1241</id>
+    <cpid>9029a9b59cf5b736692278d5b2f440c3</cpid>
+    <create_time>1265116053</create_time>
+    <name>Krzysztof Rozicki</name>
+    <country>Poland</country>
+    <total_credit>6793.987944</total_credit>
+    <expavg_credit>0.054666</expavg_credit>
+    <expavg_time>1314562503.2854</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2028</id>
+        <create_time>1265117783</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>05a5ac90fb2e136d1d717899fe71deaf</host_cpid>
+        <total_credit>7.59691</total_credit>
+        <expavg_credit>0.05712</expavg_credit>
+        <expavg_time>1267418403.60902</expavg_time>
+        <domain_name>Obsadmstr-2</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz [x86 Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1743599075.8334</p_fpops>
+        <p_iops>3789209462.51624</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2620</id>
+        <create_time>1267013810</create_time>
+        <rpc_seqno>2580</rpc_seqno>
+        <host_cpid>62bf797a0b4b1de461442947443bb0a0</host_cpid>
+        <total_credit>6786.391034</total_credit>
+        <expavg_credit>0.054666</expavg_credit>
+        <expavg_time>1314562503.57689</expavg_time>
+        <domain_name>obsadmstr-2</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz [x86 Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3000946604.1799</p_fpops>
+        <p_iops>7381044977.48276</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Dodatek Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

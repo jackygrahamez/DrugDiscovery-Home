@@ -1,0 +1,38 @@
+<file_info>	
+    <number>0</number>
+</file_info>
+<file_info>
+    <number>1</number>
+</file_info>
+<file_info>
+    <number>2</number>
+</file_info>
+<workunit>
+    <file_ref>
+        <file_number>0</file_number>
+        <open_name>job.xml</open_name>
+        <sticky/>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+	<file_number>1</file_number>
+        <open_name>md.tpr</open_name>
+        <sticky/>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_number>2</file_number>
+        <open_name>md.gro</open_name>
+        <sticky/>
+        <copy_file/>
+    </file_ref>
+    <rsc_fpops_bound>1000000000000000</rsc_fpops_bound>
+    <rsc_fpops_est>100000000000000</rsc_fpops_est>
+    <rsc_disk_bound>2000000000</rsc_disk_bound>
+    <target_nresults>3</target_nresults>
+    <max_error_results>3</max_error_results>
+    <max_total_results>8</max_total_results>
+    <max_success_results>5</max_success_results>
+    <min_quorum>3</min_quorum>
+    <delay_bound>432000</delay_bound>
+</workunit>

@@ -1,0 +1,63 @@
+<job_desc>
+    <task>
+        <application>unzip.exe</application>
+        <command_line> -qq -o "./MGLTools*.zip" -d "."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>make_sitecustomize.py "."</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>"./MGLToolsPckgs/Support/sitecustomize.py"</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py" -l ligand.mol2 -o ligand.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <command_line>"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py" -U nphs_lps_waters -r receptor.pdb -o receptor.pdbqt</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_gpf4.py" -l ligand.pdbqt -r receptor.pdbqt -p custom_parameter_file=1 -p parameter_file=AD4_parameters.dat</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>./Python25/python.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line>"./MGLToolsPckgs/AutoDockTools/Utilities24/prepare_dpf4.py" -l ligand.pdbqt -r receptor.pdbqt -p compute_unbound_extended_flag=0 -p ga_run=1 -p seed=267366</command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autogrid</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p receptor.gpf -l out.glg </command_line>
+        <weight>1</weight>
+    </task>
+    <task>
+        <application>autodock</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> -p ligand_receptor.dpf -l out.dlg</command_line>
+        <weight>10</weight>
+        <fraction_done_filename>progress.txt</fraction_done_filename>
+    </task>
+    <task>
+        <application>7za.exe</application>
+        <stdout_filename>stdout</stdout_filename>
+        <stderr_filename>stderr</stderr_filename>
+        <command_line> a out.7z out.dlg out.glg receptor.gpf ligand_receptor.dpf job.xml</command_line>
+        <weight>1</weight>
+    </task>
+</job_desc>

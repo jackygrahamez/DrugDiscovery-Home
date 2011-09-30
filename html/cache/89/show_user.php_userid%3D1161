@@ -1,0 +1,152 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"1161";s:11:"create_time";s:10:"1262202496";s:10:"email_addr";s:14:"mmegele@gmx.de";s:4:"name";s:5:"Marty";s:13:"authenticator";s:32:"d9b34c1ed167ba05ccd2f343acd3350e";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"81735";s:12:"total_credit";s:9:"11.510279";s:13:"expavg_credit";s:8:"0.061883";s:11:"expavg_time";s:16:"1264814103.32564";s:12:"global_prefs";s:5087:"<global_preferences>
+    <source_project>http://wuprop.boinc-af.org/</source_project>
+    <source_scheduler>http://wuprop.boinc-af.org/wuproj_cgi/cgi</source_scheduler>
+<mod_time>1288905490</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>4</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>4</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="work">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>4</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0.05</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+<venue name="school">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<leave_apps_in_memory>1</leave_apps_in_memory>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_max_used_gb>4</disk_max_used_gb>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<disk_max_used_pct>90</disk_max_used_pct>
+<disk_interval>60</disk_interval>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>90</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<confirm_before_connecting>0</confirm_before_connecting>
+<hangup_if_dialed>0</hangup_if_dialed>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+<daily_xfer_period_days>0</daily_xfer_period_days>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:590:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+<venue name="home">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+<venue name="work">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+<venue name="school">
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</venue>
+</project_preferences>
+";s:6:"teamid";s:2:"29";s:5:"venue";s:4:"home";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"fe3206db6209aa878768922252931478";s:11:"passwd_hash";s:32:"25ddbed4962cc7c6a2a06b1996824187";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"1161";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:44:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:6:"170798";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:4:"5432";s:11:"create_time";s:9:"962894476";s:7:"country";s:7:"Germany";s:7:"team_id";s:5:"30883";s:9:"team_name";s:10:"BOINCstats";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:5:"94430";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:5:"23464";s:11:"create_time";s:10:"1108900072";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"134";s:9:"team_name";s:10:"BOINCstats";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:6:"190258";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:5:"52569";s:11:"create_time";s:10:"1107644266";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"97";s:9:"team_name";s:10:"BOINCstats";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"38026";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"104421";s:11:"create_time";s:10:"1155383553";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"130";s:9:"team_name";s:10:"BOINCstats";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:6:"167141";s:13:"expavg_credit";s:3:"245";s:4:"name";s:8:"NFS@Home";s:3:"url";s:36:"http://escatter11.fullerton.edu/nfs/";s:2:"id";s:3:"699";s:11:"create_time";s:10:"1252493347";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"27";s:9:"team_name";s:10:"BOINCstats";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:8:"46853929";s:13:"expavg_credit";s:6:"110771";s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:4:"9981";s:11:"create_time";s:10:"1185017226";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"1";s:9:"team_name";s:10:"BOINCstats";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:6:"441706";s:13:"expavg_credit";s:3:"518";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"282804";s:11:"create_time";s:10:"1162409686";s:7:"country";s:7:"Germany";s:7:"team_id";s:4:"6917";s:9:"team_name";s:10:"BOINCstats";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:3:"206";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:5:"29984";s:11:"create_time";s:10:"1227922206";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"59";s:9:"team_name";s:10:"BOINCstats";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10882";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"55558";s:11:"create_time";s:10:"1260706853";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"85";s:9:"team_name";s:10:"BOINCstats";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:3:"357";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Lattice Project";s:3:"url";s:28:"http://boinc.umiacs.umd.edu/";s:2:"id";s:5:"16994";s:11:"create_time";s:10:"1227951631";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"22";s:9:"team_name";s:10:"BOINCstats";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3367861";s:13:"expavg_credit";s:4:"2976";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:4:"2600";s:11:"create_time";s:10:"1139468282";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"26";s:9:"team_name";s:10:"BOINCstats";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:5:"17702";s:13:"expavg_credit";d:0;s:4:"name";s:14:"SETI@home Beta";s:3:"url";s:37:"http://setiweb.ssl.berkeley.edu/beta/";s:2:"id";s:4:"6914";s:11:"create_time";s:10:"1184917985";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"70";s:9:"team_name";s:10:"BOINCstats";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1053";s:13:"expavg_credit";d:0;s:4:"name";s:16:"Leiden Classical";s:3:"url";s:26:"http://boinc.gorlaeus.net/";s:2:"id";s:5:"19604";s:11:"create_time";s:10:"1234025935";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"7";s:9:"team_name";s:10:"BOINCstats";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:3:"232";s:13:"expavg_credit";d:0;s:4:"name";s:10:"RALPH@Home";s:3:"url";s:26:"http://ralph.bakerlab.org/";s:2:"id";s:4:"3283";s:11:"create_time";s:10:"1183999342";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"79";s:9:"team_name";s:10:"BOINCstats";}i:14;O:8:"stdClass":9:{s:12:"total_credit";s:6:"160097";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:4:"6549";s:11:"create_time";s:10:"1148157845";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"53";s:9:"team_name";s:10:"BOINCstats";}i:15;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25540";s:13:"expavg_credit";d:0;s:4:"name";s:8:"vtu@home";s:3:"url";s:30:"http://boinc.vtu.lt/vtuathome/";s:2:"id";s:4:"3022";s:11:"create_time";s:10:"1235246516";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"44";s:9:"team_name";s:10:"BOINCstats";}i:16;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25876";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:4:"9751";s:11:"create_time";s:10:"1162716134";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"252";s:9:"team_name";s:10:"BOINCstats";}i:17;O:8:"stdClass":9:{s:12:"total_credit";s:3:"188";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:3:"817";s:11:"create_time";s:10:"1220981210";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"37";s:9:"team_name";s:10:"BOINCstats";}i:18;O:8:"stdClass":9:{s:12:"total_credit";s:6:"428032";s:13:"expavg_credit";d:0;s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:4:"7645";s:11:"create_time";s:10:"1185012640";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"40";s:9:"team_name";s:10:"BOINCstats";}i:19;O:8:"stdClass":9:{s:12:"total_credit";s:5:"87420";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Cosmology@Home";s:3:"url";s:31:"http://www.cosmologyathome.org/";s:2:"id";s:4:"1407";s:11:"create_time";s:10:"1191657298";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"11";s:9:"team_name";s:10:"BOINCstats";}i:20;O:8:"stdClass":9:{s:12:"total_credit";s:5:"16370";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:5:"11935";s:11:"create_time";s:10:"1227951627";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"43";s:9:"team_name";s:10:"BOINCstats";}i:21;O:8:"stdClass":9:{s:12:"total_credit";s:6:"119746";s:13:"expavg_credit";s:3:"341";s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"14767";s:11:"create_time";s:10:"1230717578";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"38";s:9:"team_name";s:10:"BOINCstats";}i:22;O:8:"stdClass":9:{s:12:"total_credit";s:5:"64636";s:13:"expavg_credit";d:0;s:4:"name";s:11:"Enigma@Home";s:3:"url";s:28:"http://www.enigmaathome.net/";s:2:"id";s:4:"4596";s:11:"create_time";s:10:"1234641875";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"15";s:9:"team_name";s:10:"BOINCstats";}i:23;O:8:"stdClass":9:{s:12:"total_credit";s:7:"3330800";s:13:"expavg_credit";s:4:"1181";s:4:"name";s:9:"yoyo@home";s:3:"url";s:32:"http://www.rechenkraft.net/yoyo/";s:2:"id";s:4:"5121";s:11:"create_time";s:10:"1221120434";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"54";s:9:"team_name";s:10:"BOINCstats";}i:24;O:8:"stdClass":9:{s:12:"total_credit";s:8:"26778200";s:13:"expavg_credit";s:5:"24643";s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:4:"6038";s:11:"create_time";s:10:"1214730190";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"42";s:9:"team_name";s:10:"BOINCstats";}i:25;O:8:"stdClass":9:{s:12:"total_credit";s:3:"175";s:13:"expavg_credit";d:0;s:4:"name";s:17:"MindModeling@Home";s:3:"url";s:29:"http://mindmodeling.org/beta/";s:2:"id";s:4:"2452";s:11:"create_time";s:10:"1221120467";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"55";s:9:"team_name";s:10:"BOINCstats";}i:26;O:8:"stdClass":7:{s:12:"total_credit";s:5:"26850";s:13:"expavg_credit";d:0;s:4:"name";s:9:"Cels@Home";s:3:"url";s:40:"http://cels-at-home-dev.dyndns.org/cels/";s:2:"id";s:4:"2720";s:11:"create_time";s:10:"1221120581";s:7:"country";s:7:"Germany";}i:27;O:8:"stdClass":9:{s:12:"total_credit";s:3:"147";s:13:"expavg_credit";d:0;s:4:"name";s:15:"Virtual Prairie";s:3:"url";s:38:"http://vcsc.cs.uh.edu/virtual-prairie/";s:2:"id";s:4:"2793";s:11:"create_time";s:10:"1234645314";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"51";s:9:"team_name";s:10:"BOINCstats";}i:28;O:8:"stdClass":9:{s:12:"total_credit";s:3:"182";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Magnetism@home";s:3:"url";s:38:"http://kinetic.dnsalias.org/magnetism/";s:2:"id";s:4:"2426";s:11:"create_time";s:10:"1234025937";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"53";s:9:"team_name";s:10:"BOINCstats";}i:29;O:8:"stdClass":9:{s:12:"total_credit";s:6:"226961";s:13:"expavg_credit";d:0;s:4:"name";s:9:"IBERCIVIS";s:3:"url";s:29:"http://registro.ibercivis.es/";s:2:"id";s:5:"18201";s:11:"create_time";s:10:"1228210492";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"65";s:9:"team_name";s:10:"BOINCstats";}i:30;O:8:"stdClass":9:{s:12:"total_credit";s:5:"10930";s:13:"expavg_credit";d:0;s:4:"name";s:21:"AlmereGrid Boinc Grid";s:3:"url";s:27:"http://boinc.almeregrid.nl/";s:2:"id";s:4:"1117";s:11:"create_time";s:10:"1234024880";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"19";s:9:"team_name";s:10:"BOINCstats";}i:31;O:8:"stdClass":9:{s:12:"total_credit";s:6:"193310";s:13:"expavg_credit";s:3:"445";s:4:"name";s:11:"WUProp@Home";s:3:"url";s:27:"http://wuprop.boinc-af.org/";s:2:"id";s:4:"1394";s:11:"create_time";s:10:"1272000976";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"26";s:9:"team_name";s:10:"BOINCstats";}i:32;O:8:"stdClass":9:{s:12:"total_credit";s:7:"5413515";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:4:"9276";s:11:"create_time";s:10:"1226152742";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"24";s:9:"team_name";s:10:"BOINCstats";}i:33;O:8:"stdClass":9:{s:12:"total_credit";s:7:"5099675";s:13:"expavg_credit";s:4:"6030";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:3:"997";s:11:"create_time";s:10:"1225305737";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"47";s:9:"team_name";s:10:"BOINCstats";}i:34;O:8:"stdClass":9:{s:12:"total_credit";s:2:"11";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"1161";s:11:"create_time";s:10:"1262202496";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"29";s:9:"team_name";s:10:"BOINCstats";}i:35;O:8:"stdClass":9:{s:12:"total_credit";s:8:"25274340";s:13:"expavg_credit";s:2:"94";s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:3:"652";s:11:"create_time";s:10:"1247396753";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"25";s:9:"team_name";s:10:"BOINCstats";}i:36;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1424";s:13:"expavg_credit";d:0;s:4:"name";s:18:"RSA Lattice Siever";s:3:"url";s:30:"http://boinc.unsads.com/rsals/";s:2:"id";s:4:"1454";s:11:"create_time";s:10:"1293029655";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"57";s:9:"team_name";s:10:"BOINCstats";}i:37;O:8:"stdClass":9:{s:12:"total_credit";s:5:"95394";s:13:"expavg_credit";d:0;s:4:"name";s:10:"EDGeS@Home";s:3:"url";s:31:"http://home.edges-grid.eu/home/";s:2:"id";s:4:"2125";s:11:"create_time";s:10:"1260706230";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"25";s:9:"team_name";s:10:"BOINCstats";}i:38;O:8:"stdClass":9:{s:12:"total_credit";s:5:"63426";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"2167";s:11:"create_time";s:10:"1275117876";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"30";s:9:"team_name";s:10:"BOINCstats";}i:39;O:8:"stdClass":9:{s:12:"total_credit";s:5:"50312";s:13:"expavg_credit";d:0;s:4:"name";s:17:"QuantumFIRE alpha";s:3:"url";s:29:"http://cah.tcm.phy.cam.ac.uk/";s:2:"id";s:4:"1022";s:11:"create_time";s:10:"1268053818";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"25";s:9:"team_name";s:10:"BOINCstats";}i:40;O:8:"stdClass":9:{s:12:"total_credit";s:9:"108078641";s:13:"expavg_credit";s:6:"499653";s:4:"name";s:10:"DNETC@Home";s:3:"url";s:17:"http://dnetc.net/";s:2:"id";s:3:"980";s:11:"create_time";s:10:"1271704825";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"23";s:9:"team_name";s:10:"BOINCstats";}i:41;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2683";s:13:"expavg_credit";d:0;s:4:"name";s:3:"eOn";s:3:"url";s:32:"http://eon.ices.utexas.edu/eon2/";s:2:"id";s:4:"3392";s:11:"create_time";s:10:"1293302119";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"25";s:9:"team_name";s:10:"BOINCstats";}i:42;O:8:"stdClass":9:{s:12:"total_credit";s:8:"49893430";s:13:"expavg_credit";s:4:"3854";s:4:"name";s:8:"AndrOINC";s:3:"url";s:20:"http://androinc.net/";s:2:"id";s:3:"980";s:11:"create_time";s:10:"1271704825";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"23";s:9:"team_name";s:10:"BOINCstats";}i:43;O:8:"stdClass":9:{s:12:"total_credit";s:8:"41111735";s:13:"expavg_credit";s:6:"247443";s:4:"name";s:12:"Moo! Wrapper";s:3:"url";s:19:"http://moowrap.net/";s:2:"id";s:4:"1481";s:11:"create_time";s:10:"1304424510";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"44";s:9:"team_name";s:10:"BOINCstats";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"29";s:11:"create_time";s:10:"1240319486";s:6:"userid";s:2:"40";s:4:"name";s:10:"BOINCstats";s:7:"name_lc";s:10:"boincstats";s:3:"url";s:14:"boincstats.com";s:4:"type";s:1:"1";s:9:"name_html";s:110:"<a href='http://boincstats.com'><img src='http://www.boincstats.com/graphics/logo/BS-2007.png' border='0'></a>";s:11:"description";s:465:"BOINCstats provides great user, host, team and country stats for all BOINC projects.
+<br><br>
+Also try BAM!, the BOINC Account Manager.
+<br><br>
+Team members have access to the private SOFA forums on BOINCstats.com, filled with useful information.
+<br><br>
+Stats: <a href="http://boincstats.com">boincstats.com</a><br>
+Forum: <a href="http://boincstats.com/forum">boincstats.com/forum</a><br>
+BAM!: <a href="http://bam.boincstats.com">bam.boincstats.com</a>";s:6:"nusers";s:2:"73";s:7:"country";s:13:"International";s:12:"total_credit";s:16:"699181.612715348";s:13:"expavg_credit";s:9:"85.117877";s:11:"expavg_time";s:16:"1317277111.96599";s:7:"seti_id";s:3:"185";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

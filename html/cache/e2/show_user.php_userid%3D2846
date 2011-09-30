@@ -1,0 +1,71 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2846";s:11:"create_time";s:10:"1287641658";s:10:"email_addr";s:22:"ales.pokorny@gmail.com";s:4:"name";s:6:"xbrain";s:13:"authenticator";s:32:"bb49bd993451ccee5d489177151b9847";s:7:"country";s:14:"Czech Republic";s:11:"postal_code";s:5:"15000";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1287641658";s:12:"global_prefs";s:929:"<global_preferences>
+    <source_project>http://climateprediction.net/</source_project>
+    <source_scheduler>http://climateapps2.oucs.ox.ac.uk/cpdnboinc_cgi/cgi</source_scheduler>
+<mod_time>1192446884</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0.1</work_buf_min_days>
+<work_buf_additional_days>1</work_buf_additional_days>
+<max_cpus>3</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>20</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>200000</max_bytes_sec_down>
+<max_bytes_sec_up>200000</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:1:"9";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"98229fcfaf74b269bab994e05a40b6d9";s:11:"passwd_hash";s:32:"320e0991b21102967287bfe18a929330";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2846";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:3:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:7:"2032990";s:13:"expavg_credit";d:0;s:4:"name";s:21:"climateprediction.net";s:3:"url";s:29:"http://climateprediction.net/";s:2:"id";s:5:"67952";s:11:"create_time";s:10:"1112209231";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"54";s:9:"team_name";s:19:"Czech National Team";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:6:"352378";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"201301";s:11:"create_time";s:10:"1188203963";s:7:"country";s:14:"Czech Republic";s:7:"team_id";s:2:"46";s:9:"team_name";s:19:"Czech National Team";}i:2;O:8:"stdClass":7:{s:12:"total_credit";s:4:"1695";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:6:"130675";s:11:"create_time";s:10:"1287729818";s:7:"country";s:13:"International";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"9";s:11:"create_time";s:10:"1240319427";s:6:"userid";s:2:"20";s:4:"name";s:19:"Czech National Team";s:7:"name_lc";s:19:"czech national team";s:3:"url";s:24:"www.CzechNationalTeam.cz";s:4:"type";s:1:"1";s:9:"name_html";s:101:"<img src='http://www.czechnationalteam.cz/storage/200609221117_logo-cnt---boinc-CZ.jpg' alt='strom' >";s:11:"description";s:2964:"<p style="font-size:large"><big><b> 
+JSME TYM LIDI KTERI SE SNAZI PROSTREDNICTVIM SVYCH POCITACU POMOCI VEDE. 
+</b></big></p> 
+Co vse v nasem tymu naleznete? 
+<ul> 
+<li><a href="http://www.CzechNationalTeam.cz">Tymove stranky</a> - rozsahle informace o BOINC a jeho projektech v cestine 
+</li> 
+<li><a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=3">Clanky</a>, <a href="http://www.czechnationalteam.cz/view.php?cisloclanku=2004060001">odkazy</a>, <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=14">navody a tipy</a>, <a href="http://www.czechnationalteam.cz/download.php">download</a>, ... 
+</li> 
+<li>Velmi aktivni <a href="http://www.forum.czechnationalteam.cz/">forum</a> s diskuzemi vseho druhu (nejen o BOINC), vcetne anglicke sekce</li> 
+<li><a href="http://ibs.wu.cz/cnt/">Tymove statistiky</a> a <a href="http://gallery.czechnationalteam.cz/">galerie</a> 
+</li> 
+<li><a href="http://ibs.wu.cz/cnt/miniteams.htm">Minitymy</a> - prestup celych tymu se zachovanim statistik</li> 
+<li>Tymova tricka, letaky, samolepky, ...</li> 
+<li>Lokalni i republikove tymove srazy a akce</li> 
+<li>Nektere clanky v <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=19">anglictine</a></li> 
+<li> ... 
+</li> 
+</ul> 
+Chcete-li nas podporit, pripojte se k nasemu tymu ve vsech BOINC projektech, ktere pocitate. 
+<br><br> 
+<b>=========================================================</b> 
+<br> 
+
+
+<p style="font-size:large"><big><b> 
+THE PEOPLE IN OUR TEAM ARE TRYING TO HELP SCIENCE BY UTILIZING THEIR COMPUTERS. 
+</b></big></p> 
+
+What will you find in our team? 
+<ul> 
+<li> <a href="http://www.CzechNationalTeam.cz">Team pages</a> - extensive information about BOINC and its projects in Czech 
+</li> 
+<li> <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=3">Articles</a>, <a href="http://www.czechnationalteam.cz/view.php?cisloclanku=2004060001">references</a>, <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=14">guides and hints</a>, <a href="http://www.czechnationalteam.cz/download.php">downloads</a>, ... 
+</li> 
+<li> Very active <a href="http://www.forum.czechnationalteam.cz/">forum</a> with discussions of all kinds (not only BOINC) including English section 
+</li> 
+<li> <a href="http://ibs.wu.cz/cnt/">Team statistics</a> 
+& <a href="http://gallery.czechnationalteam.cz/">Gallery</a></li> 
+<li> <a href="http://ibs.wu.cz/cnt/miniteams.htm">Miniteams</a> - transfer of whole teams while keeping your stats 
+</li> 
+<li> Team t-shirts, flyers, stickers, ... 
+</li> 
+<li> Local and countrywide gatherings and events 
+</li> 
+<li>Some articles in <a href="http://www.czechnationalteam.cz/search.php?rstext=all-phpRS-all&rstema=19">English</a></li> 
+<li> ... 
+</li> </ul> 
+If you'd like to give us your support, please join our team in all BOINC projects you crunch.";s:6:"nusers";s:2:"71";s:7:"country";s:14:"Czech Republic";s:12:"total_credit";s:15:"1118928.8302679";s:13:"expavg_credit";s:11:"1638.083257";s:11:"expavg_time";s:16:"1315953753.37208";s:7:"seti_id";s:3:"153";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

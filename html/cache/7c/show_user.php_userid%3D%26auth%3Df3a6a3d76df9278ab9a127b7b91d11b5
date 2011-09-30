@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2778</id>
+    <cpid>ed0f10bf89d71fabb295cc72b4dc629b</cpid>
+    <create_time>1286105592</create_time>
+    <name>Anthony G. Todd</name>
+    <country>United States</country>
+    <total_credit>24.392951</total_credit>
+    <expavg_credit>0.063633</expavg_credit>
+    <expavg_time>1293913503.10909</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5706</id>
+        <create_time>1286106784</create_time>
+        <rpc_seqno>29</rpc_seqno>
+        <host_cpid>41f78a0552d53e957c1e355d47d2323d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286106784</expavg_time>
+        <domain_name>macpro.local</domain_name>
+        <p_ncpus>24</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU X5650 @ 2.67GHz [x86 Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>1638726856.49995</p_fpops>
+        <p_iops>2681858010.31229</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5961</id>
+        <create_time>1288004647</create_time>
+        <rpc_seqno>74</rpc_seqno>
+        <host_cpid>93112c3628c0c9711f228123c37c8bba</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288004647</expavg_time>
+        <domain_name>XP</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2363009480.08913</p_fpops>
+        <p_iops>4843656280.40808</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6206</id>
+        <create_time>1289458490</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>bf4d18f35e3e885b293619c3483efa55</host_cpid>
+        <total_credit>24.392951</total_credit>
+        <expavg_credit>0.079397</expavg_credit>
+        <expavg_time>1293913503.52068</expavg_time>
+        <domain_name>iMac-2.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P7450 @ 2.13GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2468855519.76989</p_fpops>
+        <p_iops>5646186079.00043</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.5.0</os_version>
+        <venue></venue>
+    </host>
+</user>

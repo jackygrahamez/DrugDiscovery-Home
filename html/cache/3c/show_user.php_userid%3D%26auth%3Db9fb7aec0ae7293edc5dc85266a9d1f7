@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1002</id>
+    <cpid>3bfbd1d346a36219b559da03f689c3a1</cpid>
+    <create_time>1258057151</create_time>
+    <name>TBirdTheYuri</name>
+    <country>France</country>
+    <total_credit>9.019464</total_credit>
+    <expavg_credit>0.086548</expavg_credit>
+    <expavg_time>1260641403.31852</expavg_time>
+    <teamid>7</teamid>
+    <url>www.tbirdtheyuri.fr</url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>1519</id>
+        <create_time>1259006278</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>9d63bc4524ae72b313704db16e1ee70e</host_cpid>
+        <total_credit>9.019464</total_credit>
+        <expavg_credit>0.086893</expavg_credit>
+        <expavg_time>1261065302.83209</expavg_time>
+        <domain_name>Polaris</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2726004404.17447</p_fpops>
+        <p_iops>8917666554.36719</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7100.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7982</id>
+        <create_time>1299335966</create_time>
+        <rpc_seqno>515</rpc_seqno>
+        <host_cpid>bb68be856d2db8e5d1ea60eabe83c327</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299335966</expavg_time>
+        <domain_name>Polaris</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2727990488.10798</p_fpops>
+        <p_iops>8659142600.97389</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

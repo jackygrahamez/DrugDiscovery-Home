@@ -1,0 +1,39 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2017";s:11:"create_time";s:10:"1273883759";s:10:"email_addr";s:19:"cheeriewang@126.com";s:4:"name";s:7:"WANG QR";s:13:"authenticator";s:32:"6686872bd476c730e16e640796bd78d6";s:7:"country";s:5:"China";s:11:"postal_code";s:0:"";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1273883759";s:12:"global_prefs";s:1114:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1277538648</mod_time>
+<cpu_scheduling_period_minutes>999</cpu_scheduling_period_minutes>
+<idle_time_to_run>0</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.1000000</work_buf_min_days>
+<work_buf_additional_days>10.0000000</work_buf_additional_days>
+<max_cpus>99</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<suspend_cpu_usage>0</suspend_cpu_usage>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100.0</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>1.0</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:2:"41";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"4800fdfc1a1b48fa495339e0177ff7e8";s:11:"passwd_hash";s:32:"fb5afc677d87dd83de9ec9711e762591";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2017";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:13:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:1:"5";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"214383";s:11:"create_time";s:10:"1193059328";s:7:"country";s:5:"China";s:7:"team_id";s:2:"47";s:9:"team_name";s:10:"Team China";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:2:"37";s:13:"expavg_credit";d:0;s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"13788";s:11:"create_time";s:10:"1193060744";s:7:"country";s:5:"China";s:7:"team_id";s:3:"124";s:9:"team_name";s:10:"Team China";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:3:"353";s:13:"expavg_credit";d:0;s:4:"name";s:19:"SZTAKI Desktop Grid";s:3:"url";s:32:"http://szdg.lpds.sztaki.hu/szdg/";s:2:"id";s:5:"20401";s:11:"create_time";s:10:"1193061905";s:7:"country";s:5:"China";s:7:"team_id";s:2:"63";s:9:"team_name";s:10:"Team China";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:2:"34";s:13:"expavg_credit";d:0;s:4:"name";s:7:"uFluids";s:3:"url";s:23:"http://www.ufluids.net/";s:2:"id";s:5:"16592";s:11:"create_time";s:10:"1193059535";s:7:"country";s:5:"China";s:7:"team_id";s:2:"48";s:9:"team_name";s:10:"Team China";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:2:"78";s:13:"expavg_credit";d:0;s:4:"name";s:16:"Leiden Classical";s:3:"url";s:26:"http://boinc.gorlaeus.net/";s:2:"id";s:5:"10213";s:11:"create_time";s:10:"1193061029";s:7:"country";s:5:"China";s:7:"team_id";s:2:"55";s:9:"team_name";s:10:"Team China";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:3:"121";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"33191";s:11:"create_time";s:10:"1193061319";s:7:"country";s:5:"China";s:7:"team_id";s:1:"6";s:9:"team_name";s:10:"Team China";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:2:"85";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Spinhenge@home";s:3:"url";s:28:"http://spin.fh-bielefeld.de/";s:2:"id";s:5:"32711";s:11:"create_time";s:10:"1193051994";s:7:"country";s:5:"China";s:7:"team_id";s:2:"32";s:9:"team_name";s:10:"Team China";}i:7;O:8:"stdClass":6:{s:12:"total_credit";s:2:"10";s:13:"expavg_credit";d:0;s:4:"name";s:27:"SHA-1 Collision Search Graz";s:3:"url";s:45:"http://boinc.iaik.tugraz.at/sha1_coll_search/";s:2:"id";s:4:"4440";s:11:"create_time";s:10:"1193061986";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:1:"2";s:13:"expavg_credit";d:0;s:4:"name";s:21:"Quake Catcher Network";s:3:"url";s:33:"http://qcn.stanford.edu/qcnalpha/";s:2:"id";s:5:"26913";s:11:"create_time";s:10:"1278994432";s:7:"country";s:5:"China";s:7:"team_id";s:2:"46";s:9:"team_name";s:10:"Team China";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:2:"18";s:13:"expavg_credit";d:0;s:4:"name";s:9:"IBERCIVIS";s:3:"url";s:29:"http://registro.ibercivis.es/";s:2:"id";s:5:"49437";s:11:"create_time";s:10:"1256376816";s:7:"country";s:5:"China";s:7:"team_id";s:2:"63";s:9:"team_name";s:10:"Team China";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:3:"100";s:13:"expavg_credit";d:0;s:4:"name";s:11:"WUProp@Home";s:3:"url";s:27:"http://wuprop.boinc-af.org/";s:2:"id";s:4:"1684";s:11:"create_time";s:10:"1273883802";s:7:"country";s:5:"China";s:7:"team_id";s:2:"39";s:9:"team_name";s:10:"Team China";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:4:"2569";s:13:"expavg_credit";d:0;s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:5:"16155";s:11:"create_time";s:10:"1278994434";s:7:"country";s:5:"China";s:7:"team_id";s:2:"80";s:9:"team_name";s:10:"Team China";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:1:"7";s:13:"expavg_credit";d:0;s:4:"name";s:23:"Distributed Data Mining";s:3:"url";s:59:"http://www.distributedDataMining.org/DistributedDataMining/";s:2:"id";s:4:"1383";s:11:"create_time";s:10:"1273883757";s:7:"country";s:5:"China";s:7:"team_id";s:2:"41";s:9:"team_name";s:10:"Team China";}}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:2:"41";s:11:"create_time";s:10:"1240319533";s:6:"userid";s:2:"52";s:4:"name";s:10:"Team China";s:7:"name_lc";s:10:"team china";s:3:"url";s:18:"www.equn.com/forum";s:4:"type";s:1:"1";s:9:"name_html";s:0:"";s:11:"description";s:323:"Welcome all from China mainland, TaiWan, HongKong, Macau.
+</br></br>
+Welcome all Chinese all over the world.
+</br></br>
+Welcome all BOINC users!
+</br></br></br>
+欢迎所有 BOINC 用户加入 Team China 团队 (<a href='http://www.boincstats.com/signature/team_banner_bam42.gif' target="new">团队签名图片</a>)!";s:6:"nusers";s:2:"26";s:7:"country";s:5:"China";s:12:"total_credit";s:16:"11447.7728017906";s:13:"expavg_credit";s:7:"0.05134";s:11:"expavg_time";s:16:"1307304603.39516";s:7:"seti_id";s:3:"200";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:10:"1268790561";s:8:"joinable";s:1:"1";}}}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1336</id>
+    <cpid>6678555e2f4210e031fcdc94604b4589</cpid>
+    <create_time>1266047664</create_time>
+    <name>debaernd</name>
+    <country>Germany</country>
+    <total_credit>916.461112</total_credit>
+    <expavg_credit>0.054651</expavg_credit>
+    <expavg_time>1310328902.42728</expavg_time>
+    <teamid>768</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2291</id>
+        <create_time>1266080458</create_time>
+        <rpc_seqno>743</rpc_seqno>
+        <host_cpid>01d8a568b0c7e8098f8a4df7215bf64e</host_cpid>
+        <total_credit>833.275256</total_credit>
+        <expavg_credit>0.077911</expavg_credit>
+        <expavg_time>1287865502.92796</expavg_time>
+        <domain_name>bernd-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) X2 Dual-Core Mobile RM-75 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>890527067.840093</p_fpops>
+        <p_iops>4279115128.88829</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2292</id>
+        <create_time>1266080614</create_time>
+        <rpc_seqno>313</rpc_seqno>
+        <host_cpid>8f64a55435f6778a0eb210760c1ee315</host_cpid>
+        <total_credit>47.186831</total_credit>
+        <expavg_credit>0.073685</expavg_credit>
+        <expavg_time>1271476803.37458</expavg_time>
+        <domain_name>bp-b4c0ec8b5477</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 5000+ [Family 15 Model 67 Stepping 2]</p_model>
+        <p_fpops>1815372286.51566</p_fpops>
+        <p_iops>3367355972.93366</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8564</id>
+        <create_time>1303843482</create_time>
+        <rpc_seqno>891</rpc_seqno>
+        <host_cpid>d7716dc06819df7d50c47ea0c3752634</host_cpid>
+        <total_credit>35.999025</total_credit>
+        <expavg_credit>0.05519</expavg_credit>
+        <expavg_time>1310328902.62711</expavg_time>
+        <domain_name>deBaernd-PC</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2309553637.46533</p_fpops>
+        <p_iops>7986983774.81508</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

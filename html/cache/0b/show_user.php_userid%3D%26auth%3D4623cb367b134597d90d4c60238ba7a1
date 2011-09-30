@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2292</id>
+    <cpid>10085d4a8ddaf7e579779bc59248a5b0</cpid>
+    <create_time>1278683765</create_time>
+    <name>marc1</name>
+    <country>Germany</country>
+    <total_credit>4338.456181</total_credit>
+    <expavg_credit>0.069731</expavg_credit>
+    <expavg_time>1296417902.65664</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4640</id>
+        <create_time>1278758531</create_time>
+        <rpc_seqno>77</rpc_seqno>
+        <host_cpid>a3a260fcca8c41c001eb67c0fc8b4c64</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1278758531</expavg_time>
+        <domain_name>marc1-netbook</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N450   @ 1.66GHz [Family 6 Model 28 Stepping 10]</p_model>
+        <p_fpops>349022515.543822</p_fpops>
+        <p_iops>1491820344.49634</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4708</id>
+        <create_time>1279298242</create_time>
+        <rpc_seqno>1086</rpc_seqno>
+        <host_cpid>0b1b244724df04708196c841cca5cfe2</host_cpid>
+        <total_credit>74.646036</total_credit>
+        <expavg_credit>0.08548</expavg_credit>
+        <expavg_time>1284062403.06671</expavg_time>
+        <domain_name>BÜRO</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.80GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>932534930.139721</p_fpops>
+        <p_iops>1644956035.91465</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4709</id>
+        <create_time>1279298955</create_time>
+        <rpc_seqno>3480</rpc_seqno>
+        <host_cpid>9135dff27073fb8829cb15d421a9f16c</host_cpid>
+        <total_credit>4253.980782</total_credit>
+        <expavg_credit>0.095521</expavg_credit>
+        <expavg_time>1289679902.90085</expavg_time>
+        <domain_name>Baerbel</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) D CPU 3.20GHz [x86 Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1625236593.05994</p_fpops>
+        <p_iops>2555833082.59229</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7219</id>
+        <create_time>1294324038</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>a8e27f187a70e75a2d33482dac93c872</host_cpid>
+        <total_credit>9.829363</total_credit>
+        <expavg_credit>0.092184</expavg_credit>
+        <expavg_time>1296417903.24204</expavg_time>
+        <domain_name>linux-dtex</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2539418849.49408</p_fpops>
+        <p_iops>8919800758.51133</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.34.7-0.5-desktop</os_version>
+        <venue></venue>
+    </host>
+</user>

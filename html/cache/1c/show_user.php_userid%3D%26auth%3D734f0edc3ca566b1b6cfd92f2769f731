@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3508</id>
+    <cpid>e048baa0bd1368ddac97d8ec5181885c</cpid>
+    <create_time>1292145582</create_time>
+    <name>davos</name>
+    <country>Netherlands</country>
+    <total_credit>378.330483</total_credit>
+    <expavg_credit>0.057849</expavg_credit>
+    <expavg_time>1298837103.11691</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6852</id>
+        <create_time>1292146240</create_time>
+        <rpc_seqno>220</rpc_seqno>
+        <host_cpid>9639ac09ae9eb7313333bb6312f9f446</host_cpid>
+        <total_credit>378.330483</total_credit>
+        <expavg_credit>0.057849</expavg_credit>
+        <expavg_time>1298837103.78472</expavg_time>
+        <domain_name>GEBRUIK-1S4CLAB</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X4 620 Processor [Family 16 Model 5 Stepping 2]</p_model>
+        <p_fpops>2582406369.23344</p_fpops>
+        <p_iops>5984726516.58604</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6854</id>
+        <create_time>1292147227</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>5c497a6ff76b3924b955195301f83509</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292147227</expavg_time>
+        <domain_name>dave-laptop</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) M processor          900MHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>404982064.817011</p_fpops>
+        <p_iops>1235330909.10068</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic-pae</os_version>
+        <venue></venue>
+    </host>
+</user>

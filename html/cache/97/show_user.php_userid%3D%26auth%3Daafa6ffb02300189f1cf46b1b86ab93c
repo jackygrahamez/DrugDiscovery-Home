@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1350</id>
+    <cpid>7367c3946b0024ee0c34de22cc783ccc</cpid>
+    <create_time>1266170059</create_time>
+    <name>Mad-Schlumpf</name>
+    <country>Germany</country>
+    <total_credit>1034.52756</total_credit>
+    <expavg_credit>0.085973</expavg_credit>
+    <expavg_time>1308787312.79203</expavg_time>
+    <teamid>778</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2300</id>
+        <create_time>1266173128</create_time>
+        <rpc_seqno>562</rpc_seqno>
+        <host_cpid>84c05c784966867ea2d8cd8b66bd74bd</host_cpid>
+        <total_credit>646.894081</total_credit>
+        <expavg_credit>0.071916</expavg_credit>
+        <expavg_time>1281759003.30893</expavg_time>
+        <domain_name>Netbook-001</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N280   @ 1.66GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>590194664.744052</p_fpops>
+        <p_iops>1351685144.06492</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>2299</id>
+        <create_time>1266172278</create_time>
+        <rpc_seqno>333</rpc_seqno>
+        <host_cpid>771e3f64f654dd44841332604db64307</host_cpid>
+        <total_credit>113.472145</total_credit>
+        <expavg_credit>0.080409</expavg_credit>
+        <expavg_time>1308787312.79218</expavg_time>
+        <domain_name>Laptop-001</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) X2 Dual-Core QL-62 [Family 17 Model 3 Stepping 1]</p_model>
+        <p_fpops>1984396441.19394</p_fpops>
+        <p_iops>3580160071.15472</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4467</id>
+        <create_time>1277535763</create_time>
+        <rpc_seqno>668</rpc_seqno>
+        <host_cpid>7d50d2b9a5e409b2d4c666475d8f8e95</host_cpid>
+        <total_credit>274.161334</total_credit>
+        <expavg_credit>0.098826</expavg_credit>
+        <expavg_time>1293913503.47243</expavg_time>
+        <domain_name>Netbook-001</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N450   @ 1.66GHz [Family 6 Model 28 Stepping 10]</p_model>
+        <p_fpops>652424695.721125</p_fpops>
+        <p_iops>1321679686.93791</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Starter x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

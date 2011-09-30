@@ -1,0 +1,112 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:4:"2211";s:11:"create_time";s:10:"1277284550";s:10:"email_addr";s:16:"darkpapa@gmx.net";s:4:"name";s:12:"[SG]Darkpapa";s:13:"authenticator";s:32:"674431edbca4cda74b5127dae4a4a2c6";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"35315";s:12:"total_credit";s:12:"21753.121249";s:13:"expavg_credit";s:8:"0.052476";s:11:"expavg_time";s:16:"1306095002.95975";s:12:"global_prefs";s:912:"<global_preferences>
+    <source_project>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/</source_project>
+    <source_scheduler>http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion_cgi/cgi</source_scheduler>
+<mod_time>1290139020</mod_time>
+<run_if_user_active/>
+<idle_time_to_run>3</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+<work_buf_min_days>2</work_buf_min_days>
+<max_cpus>4</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>2</disk_interval>
+<disk_max_used_gb>1</disk_max_used_gb>
+<disk_max_used_pct>2</disk_max_used_pct>
+<disk_min_free_gb>1</disk_min_free_gb>
+<vm_max_used_pct>2</vm_max_used_pct>
+<ram_max_used_busy_pct>2</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>2</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>200</resource_share>
+<no_ati>1</no_ati>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:19:"www.seti-germany.de";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"e9bdb9a7d195ebf32c587c587d4d55d6";s:11:"passwd_hash";s:32:"b4af25c08b2e4b0c8e18918078dac415";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:4:"2211";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:32:{i:0;O:8:"stdClass":9:{s:12:"total_credit";s:6:"276014";s:13:"expavg_credit";d:0;s:4:"name";s:9:"SETI@home";s:3:"url";s:31:"http://setiathome.berkeley.edu/";s:2:"id";s:7:"9154780";s:11:"create_time";s:10:"1254277406";s:7:"country";s:7:"Germany";s:7:"team_id";s:5:"30187";s:9:"team_name";s:12:"SETI.Germany";}i:1;O:8:"stdClass":9:{s:12:"total_credit";s:5:"90810";s:13:"expavg_credit";d:0;s:4:"name";s:13:"Einstein@Home";s:3:"url";s:29:"http://einstein.phys.uwm.edu/";s:2:"id";s:6:"474863";s:11:"create_time";s:10:"1254660826";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"49";s:9:"team_name";s:12:"SETI.Germany";}i:2;O:8:"stdClass":9:{s:12:"total_credit";s:5:"18199";s:13:"expavg_credit";s:3:"713";s:4:"name";s:8:"LHC@home";s:3:"url";s:35:"http://lhcathome.cern.ch/lhcathome/";s:2:"id";s:6:"179990";s:11:"create_time";s:10:"1262743137";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"42";s:9:"team_name";s:12:"SETI.Germany";}i:3;O:8:"stdClass":9:{s:12:"total_credit";s:5:"45284";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Rosetta@home";s:3:"url";s:34:"http://boinc.bakerlab.org/rosetta/";s:2:"id";s:6:"352819";s:11:"create_time";s:10:"1254659806";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"26";s:9:"team_name";s:12:"SETI.Germany";}i:4;O:8:"stdClass":9:{s:12:"total_credit";s:9:"120350420";s:13:"expavg_credit";s:6:"300861";s:4:"name";s:9:"PrimeGrid";s:3:"url";s:25:"http://www.primegrid.com/";s:2:"id";s:5:"50080";s:11:"create_time";s:10:"1258137266";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"11";s:9:"team_name";s:12:"SETI.Germany";}i:5;O:8:"stdClass":9:{s:12:"total_credit";s:5:"50490";s:13:"expavg_credit";d:0;s:4:"name";s:19:"SZTAKI Desktop Grid";s:3:"url";s:32:"http://szdg.lpds.sztaki.hu/szdg/";s:2:"id";s:5:"36170";s:11:"create_time";s:10:"1263594292";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"9";s:9:"team_name";s:12:"SETI.Germany";}i:6;O:8:"stdClass":9:{s:12:"total_credit";s:5:"74589";s:13:"expavg_credit";s:3:"453";s:4:"name";s:20:"World Community Grid";s:3:"url";s:34:"http://www.worldcommunitygrid.org/";s:2:"id";s:6:"675250";s:11:"create_time";s:10:"1268541442";s:7:"country";s:7:"Germany";s:7:"team_id";s:4:"6233";s:9:"team_name";s:12:"SETI.Germany";}i:7;O:8:"stdClass":9:{s:12:"total_credit";s:5:"26154";s:13:"expavg_credit";d:0;s:4:"name";s:18:"malariacontrol.net";s:3:"url";s:30:"http://www.malariacontrol.net/";s:2:"id";s:5:"72654";s:11:"create_time";s:10:"1296334841";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"11";s:9:"team_name";s:12:"SETI.Germany";}i:8;O:8:"stdClass":9:{s:12:"total_credit";s:5:"97841";s:13:"expavg_credit";s:2:"48";s:4:"name";s:5:"SIMAP";s:3:"url";s:39:"http://boinc.bio.wzw.tum.de/boincsimap/";s:2:"id";s:5:"71528";s:11:"create_time";s:10:"1294509842";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"29";s:9:"team_name";s:12:"SETI.Germany";}i:9;O:8:"stdClass":9:{s:12:"total_credit";s:5:"71472";s:13:"expavg_credit";s:3:"111";s:4:"name";s:10:"RALPH@Home";s:3:"url";s:26:"http://ralph.bakerlab.org/";s:2:"id";s:5:"16955";s:11:"create_time";s:10:"1310108181";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"50";s:9:"team_name";s:12:"SETI.Germany";}i:10;O:8:"stdClass":9:{s:12:"total_credit";s:5:"20730";s:13:"expavg_credit";d:0;s:4:"name";s:8:"QMC@HOME";s:3:"url";s:27:"http://qah.uni-muenster.de/";s:2:"id";s:5:"85300";s:11:"create_time";s:10:"1304469707";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"14";s:9:"team_name";s:12:"SETI.Germany";}i:11;O:8:"stdClass":9:{s:12:"total_credit";s:6:"100252";s:13:"expavg_credit";d:0;s:4:"name";s:12:"Docking@Home";s:3:"url";s:28:"http://docking.cis.udel.edu/";s:2:"id";s:5:"24363";s:11:"create_time";s:10:"1263598934";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"25";s:9:"team_name";s:12:"SETI.Germany";}i:12;O:8:"stdClass":9:{s:12:"total_credit";s:5:"12175";s:13:"expavg_credit";d:0;s:4:"name";s:8:"ABC@home";s:3:"url";s:21:"http://abcathome.com/";s:2:"id";s:5:"92840";s:11:"create_time";s:10:"1298101326";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"32";s:9:"team_name";s:12:"SETI.Germany";}i:13;O:8:"stdClass":9:{s:12:"total_credit";s:5:"23500";s:13:"expavg_credit";d:0;s:4:"name";s:18:"Superlink@Technion";s:3:"url";s:63:"http://cbl-boinc-server2.cs.technion.ac.il/superlinkattechnion/";s:2:"id";s:5:"28970";s:11:"create_time";s:10:"1286427490";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"24";s:9:"team_name";s:12:"SETI.Germany";}i:14;O:8:"stdClass":9:{s:12:"total_credit";s:5:"23386";s:13:"expavg_credit";d:0;s:4:"name";s:9:"POEM@HOME";s:3:"url";s:25:"http://boinc.fzk.de/poem/";s:2:"id";s:5:"29716";s:11:"create_time";s:10:"1278751353";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"3";s:9:"team_name";s:12:"SETI.Germany";}i:15;O:8:"stdClass":9:{s:12:"total_credit";s:6:"106641";s:13:"expavg_credit";d:0;s:4:"name";s:9:"yoyo@home";s:3:"url";s:32:"http://www.rechenkraft.net/yoyo/";s:2:"id";s:5:"23517";s:11:"create_time";s:10:"1285104497";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"3";s:9:"team_name";s:12:"SETI.Germany";}i:16;O:8:"stdClass":9:{s:12:"total_credit";s:5:"55897";s:13:"expavg_credit";d:0;s:4:"name";s:13:"MilkyWay@home";s:3:"url";s:36:"http://milkyway.cs.rpi.edu/milkyway/";s:2:"id";s:6:"137717";s:11:"create_time";s:10:"1290806060";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"9";s:9:"team_name";s:12:"SETI.Germany";}i:17;O:8:"stdClass":9:{s:12:"total_credit";s:5:"31957";s:13:"expavg_credit";d:0;s:4:"name";s:14:"Magnetism@home";s:3:"url";s:38:"http://kinetic.dnsalias.org/magnetism/";s:2:"id";s:5:"12463";s:11:"create_time";s:10:"1274775471";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"6";s:9:"team_name";s:12:"SETI.Germany";}i:18;O:8:"stdClass":9:{s:12:"total_credit";s:5:"24828";s:13:"expavg_credit";s:2:"48";s:4:"name";s:11:"WUProp@Home";s:3:"url";s:27:"http://wuprop.boinc-af.org/";s:2:"id";s:3:"929";s:11:"create_time";s:10:"1270188674";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"2";s:9:"team_name";s:12:"SETI.Germany";}i:19;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1660461";s:13:"expavg_credit";d:0;s:4:"name";s:7:"GPUGRID";s:3:"url";s:23:"http://www.gpugrid.net/";s:2:"id";s:5:"46978";s:11:"create_time";s:10:"1256592980";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"41";s:9:"team_name";s:12:"SETI.Germany";}i:20;O:8:"stdClass":9:{s:12:"total_credit";s:6:"516275";s:13:"expavg_credit";s:4:"1550";s:4:"name";s:8:"HAL@Home";s:3:"url";s:39:"http://www.freehal.net/freehal_at_home/";s:2:"id";s:5:"11499";s:11:"create_time";s:10:"1267172831";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"1";s:9:"team_name";s:12:"SETI.Germany";}i:21;O:8:"stdClass":9:{s:12:"total_credit";s:5:"21753";s:13:"expavg_credit";d:0;s:4:"name";s:18:"DrugDiscovery@Home";s:3:"url";s:37:"http://boinc.drugdiscoveryathome.com/";s:2:"id";s:4:"2211";s:11:"create_time";s:10:"1277284550";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"6";s:9:"team_name";s:12:"SETI.Germany";}i:22;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1115008";s:13:"expavg_credit";s:4:"4305";s:4:"name";s:18:"Collatz Conjecture";s:3:"url";s:37:"http://boinc.thesonntags.com/collatz/";s:2:"id";s:5:"11470";s:11:"create_time";s:10:"1273274241";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"2";s:9:"team_name";s:12:"SETI.Germany";}i:23;O:8:"stdClass":9:{s:12:"total_credit";s:5:"40253";s:13:"expavg_credit";d:0;s:4:"name";s:9:"RNA World";s:3:"url";s:32:"http://www.rnaworld.de/rnaworld/";s:2:"id";s:4:"2736";s:11:"create_time";s:10:"1283291518";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"2";s:9:"team_name";s:12:"SETI.Germany";}i:24;O:8:"stdClass":9:{s:12:"total_credit";s:5:"35866";s:13:"expavg_credit";d:0;s:4:"name";s:8:"CAS@home";s:3:"url";s:28:"http://casathome.ihep.ac.cn/";s:2:"id";s:4:"1459";s:11:"create_time";s:10:"1280810609";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"18";s:9:"team_name";s:12:"SETI.Germany";}i:25;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1084831";s:13:"expavg_credit";s:1:"2";s:4:"name";s:10:"DNETC@Home";s:3:"url";s:17:"http://dnetc.net/";s:2:"id";s:4:"3913";s:11:"create_time";s:10:"1283299735";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"10";s:9:"team_name";s:12:"SETI.Germany";}i:26;O:8:"stdClass":9:{s:12:"total_credit";s:6:"559600";s:13:"expavg_credit";s:1:"5";s:4:"name";s:11:"primaboinca";s:3:"url";s:27:"http://www.primaboinca.com/";s:2:"id";s:4:"2867";s:11:"create_time";s:10:"1303770474";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"8";s:9:"team_name";s:12:"SETI.Germany";}i:27;O:8:"stdClass":9:{s:12:"total_credit";s:5:"13568";s:13:"expavg_credit";s:2:"88";s:4:"name";s:13:"Constellation";s:3:"url";s:43:"http://aerospaceresearch.net/constellation/";s:2:"id";s:3:"352";s:11:"create_time";s:10:"1302764726";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"3";s:9:"team_name";s:12:"SETI.Germany";}i:28;O:8:"stdClass":9:{s:12:"total_credit";s:5:"25159";s:13:"expavg_credit";d:0;s:4:"name";s:3:"eOn";s:3:"url";s:32:"http://eon.ices.utexas.edu/eon2/";s:2:"id";s:4:"3545";s:11:"create_time";s:10:"1294135233";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"807";s:9:"team_name";s:12:"SETI.Germany";}i:29;O:8:"stdClass":9:{s:12:"total_credit";s:7:"1083964";s:13:"expavg_credit";d:0;s:4:"name";s:8:"AndrOINC";s:3:"url";s:20:"http://androinc.net/";s:2:"id";s:4:"3913";s:11:"create_time";s:10:"1283299735";s:7:"country";s:7:"Germany";s:7:"team_id";s:2:"10";s:9:"team_name";s:12:"SETI.Germany";}i:30;O:8:"stdClass":9:{s:12:"total_credit";s:5:"15215";s:13:"expavg_credit";s:2:"14";s:4:"name";s:13:"Mersenne@home";s:3:"url";s:26:"http://mersenneathome.net/";s:2:"id";s:4:"2066";s:11:"create_time";s:10:"1302472521";s:7:"country";s:7:"Germany";s:7:"team_id";s:3:"864";s:9:"team_name";s:12:"SETI.Germany";}i:31;O:8:"stdClass":9:{s:12:"total_credit";s:4:"1794";s:13:"expavg_credit";s:2:"18";s:4:"name";s:13:"Surveill@Home";s:3:"url";s:35:"http://surveill.dei.uc.pt/surveill/";s:2:"id";s:3:"103";s:11:"create_time";s:10:"1311412010";s:7:"country";s:7:"Germany";s:7:"team_id";s:1:"9";s:9:"team_name";s:12:"SETI.Germany";}}}s:3:"clo";O:8:"stdClass":4:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"6";s:11:"create_time";s:10:"1240319416";s:6:"userid";s:3:"537";s:4:"name";s:12:"SETI.Germany";s:7:"name_lc";s:12:"seti.germany";s:3:"url";s:19:"www.seti-germany.de";s:4:"type";s:1:"1";s:9:"name_html";s:124:"<a href='http://www.seti-germany.de/'><img src='http://www.seti-germany.de/sgwiki/images/a/a5/SG-Banner_official.png' /></a>";s:11:"description";s:1674:"SETI.Germany ist das groesste deutsche Team beim wissenschaftlichen Projekt SETI@home, der Suche nach ausserirdischer Intelligenz, durchgefuehrt an der Universitaet von Kalifornien, Berkeley. <br>
+<br>
+Neben Seti@home ist unser Team nun auch bei vielen anderen Projekten des Public Distributed Computing (Oeffentliches Verteiltes Rechnen) unter dem Namen SETI.Germany vertreten.
+Die Themen der Projekte reichen von Astrophysik und Molekularbiologie ueber Chemie, Mathematik, Medizin, Rendering, Verschluesselung bis zu angewandter Informatik. <br>
+<br>
+Auf unserer <a href="http://www.seti-germany.de/"> Webseite</a> bieten wir weiterfuehrende Informationen zu diesen Projekten u.a. in einem grossen <a href="http://www.seti-germany.de/forum"> Forensystem</a>. Das Angebot fuer unsere Mitglieder und Gaeste umfasst ausserdem eine grosse <a href="http://www.seti-germany.de/wiki"> Wiki</a>, wo die meisten Projekte bereits aufgefuehrt sind, weiterhin eine <a href="http://www.seti-germany.de/chatstats"> Chatfunktion</a>, ausfuehrliche Statistiken zu den meisten Projekten mit SETI.Germany-Beteiligung und mehr...<br>
+<br>
+Weiterhin helfen wir dabei, die SETI@home Berechnung auf deinem PC zu optimieren, wodurch eine Beschleunigung der Berechnung von bis zu 40% moeglich wird. <br>
+Schau doch mal bei uns vorbei, wir helfen gerne weiter... <br><br>
+Folge uns bei <a href="http://twitter.com/SETIGermany"> Twitter</a> oder schau auf unserer <a href="http://www.facebook.com/pages/SETIGermany/177588328907"> Facebook-Seite </a> vorbei.
+<br><br>
+In diesen Projekten ist SETI.Germany aktiv:
+<br><br>
+<img src="http://www.boincstats.com/signature/team_4_banner.gif">";s:6:"nusers";s:2:"98";s:7:"country";s:7:"Germany";s:12:"total_credit";s:15:"1203602.7348506";s:13:"expavg_credit";s:10:"422.277688";s:11:"expavg_time";s:16:"1317354157.69708";s:7:"seti_id";s:3:"148";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}s:7:"friends";a:1:{i:0;O:9:"BoincUser":28:{s:2:"id";s:3:"542";s:11:"create_time";s:10:"1241474262";s:10:"email_addr";s:29:"verteiltes-rechnen@poheda.com";s:4:"name";s:6:"PoHeDa";s:13:"authenticator";s:32:"ac9f1a7417c6e045bbd4c82c0f45722b";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"29342";s:12:"total_credit";s:10:"863.387215";s:13:"expavg_credit";s:8:"0.051658";s:11:"expavg_time";s:16:"1252071303.39148";s:12:"global_prefs";s:2329:"<global_preferences>
+    <source_project>http://spin.fh-bielefeld.de/</source_project>
+    <source_scheduler>http://spin.fh-bielefeld.de/spin_cgi/cgi</source_scheduler>
+<mod_time>1299732199</mod_time>
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>6000</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>20</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>0</disk_interval>
+<disk_max_used_gb>0</disk_max_used_gb>
+<disk_max_used_pct>0</disk_max_used_pct>
+<disk_min_free_gb>1</disk_min_free_gb>
+<vm_max_used_pct>0</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+<venue name="home">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>20</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+<venue name="school">
+<run_on_batteries/>
+<run_if_user_active/>
+<idle_time_to_run>1</idle_time_to_run>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<confirm_before_connecting/>
+<hangup_if_dialed/>
+<work_buf_min_days>0</work_buf_min_days>
+<max_cpus>0</max_cpus>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images/>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:157:"<project_preferences>
+<resource_share>1</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"6";s:5:"venue";s:0:"";s:3:"url";s:13:"vr.poheda.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"92ba3ca0be365fa75a197bb58c1b4e95";s:11:"passwd_hash";s:32:"e1c6b6e563e16f7d6b3b829561cf1b21";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}}}

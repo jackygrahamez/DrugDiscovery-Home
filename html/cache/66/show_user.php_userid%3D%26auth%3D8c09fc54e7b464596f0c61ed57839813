@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4271</id>
+    <cpid>dfcaa190da76bd756a278d2b9a6e98e4</cpid>
+    <create_time>1299185561</create_time>
+    <name>Michal Tichy</name>
+    <country>Czech Republic</country>
+    <total_credit>2207.615345</total_credit>
+    <expavg_credit>7.132508</expavg_credit>
+    <expavg_time>1315922233.03228</expavg_time>
+    <teamid>9</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7991</id>
+        <create_time>1299354409</create_time>
+        <rpc_seqno>52</rpc_seqno>
+        <host_cpid>20e84d5d8eb7b220a0988123a4f9640f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299354409</expavg_time>
+        <domain_name>Myshakuv-Server</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4000+ [Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>2026517582.60189</p_fpops>
+        <p_iops>3660594519.19784</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7955</id>
+        <create_time>1299225401</create_time>
+        <rpc_seqno>41</rpc_seqno>
+        <host_cpid>4be4a6a936d8ada8606decdfbefada91</host_cpid>
+        <total_credit>9.735675</total_credit>
+        <expavg_credit>0.092823</expavg_credit>
+        <expavg_time>1302465904.41342</expavg_time>
+        <domain_name>Zelva</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           E3110  @ 3.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3042564434.13509</p_fpops>
+        <p_iops>8448041943.38347</p_iops>
+        <os_name>Microsoft Windows Server 2008</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>Nonstop</venue>
+    </host>
+    <host>
+        <id>7952</id>
+        <create_time>1299204275</create_time>
+        <rpc_seqno>1866</rpc_seqno>
+        <host_cpid>e6b7438de54d308674311f5ac456aadd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299204275</expavg_time>
+        <domain_name>krtecek.Profiplast.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [x86 Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2334159024.39269</p_fpops>
+        <p_iops>5069637574.39406</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Standard Server Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue>Nonstop</venue>
+    </host>
+    <host>
+        <id>7953</id>
+        <create_time>1299204907</create_time>
+        <rpc_seqno>8341</rpc_seqno>
+        <host_cpid>beac545c135572c05a33752022db939d</host_cpid>
+        <total_credit>2197.87967</total_credit>
+        <expavg_credit>7.132508</expavg_credit>
+        <expavg_time>1315922233.03242</expavg_time>
+        <domain_name>ZAJIC.profiplast.local</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz [Intel64 Family 6 Model 26 Stepping 5]</p_model>
+        <p_fpops>2956634770.0927</p_fpops>
+        <p_iops>8595282645.17713</p_iops>
+        <os_name>Microsoft Windows Server "Longhorn"</os_name>
+        <os_version>Standard x64 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue>Nonstop</venue>
+    </host>
+</user>

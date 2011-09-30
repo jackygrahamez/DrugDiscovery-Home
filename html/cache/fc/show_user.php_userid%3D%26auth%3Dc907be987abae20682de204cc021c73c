@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1765</id>
+    <cpid>7e5b6e9e8f723ea0cd2a8d7f477cc575</cpid>
+    <create_time>1270393724</create_time>
+    <name>Diman</name>
+    <country>Russia</country>
+    <total_credit>9599.42975599998</total_credit>
+    <expavg_credit>0.062506</expavg_credit>
+    <expavg_time>1312748102.62715</expavg_time>
+    <teamid>4</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3315</id>
+        <create_time>1270394424</create_time>
+        <rpc_seqno>2678</rpc_seqno>
+        <host_cpid>649162c64d53afdef1822b2c048737ba</host_cpid>
+        <total_credit>7036.015282</total_credit>
+        <expavg_credit>0.062506</expavg_credit>
+        <expavg_time>1312748102.98251</expavg_time>
+        <domain_name>diman-pc</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 945 Processor [Family 16 Model 4 Stepping 3]</p_model>
+        <p_fpops>3484117891.36664</p_fpops>
+        <p_iops>8198631822.3571</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3433</id>
+        <create_time>1271096143</create_time>
+        <rpc_seqno>349</rpc_seqno>
+        <host_cpid>457ffbd86de4f001c6d334fd817d89f0</host_cpid>
+        <total_credit>2563.414474</total_credit>
+        <expavg_credit>0.057985</expavg_credit>
+        <expavg_time>1284667204.10859</expavg_time>
+        <domain_name>rudmdr-ws</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2077211066.7431</p_fpops>
+        <p_iops>5620989426.38511</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

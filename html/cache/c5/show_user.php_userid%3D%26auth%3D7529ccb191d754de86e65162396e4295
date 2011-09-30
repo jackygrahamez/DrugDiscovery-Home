@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1635</id>
+    <cpid>39f8ca41809701ef9d319377fdbedda4</cpid>
+    <create_time>1269170183</create_time>
+    <name>RisingPhoeniX</name>
+    <country>Germany</country>
+    <total_credit>7.771163</total_credit>
+    <expavg_credit>0.019752</expavg_credit>
+    <expavg_time>1303163217.42483</expavg_time>
+    <teamid>1</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3075</id>
+        <create_time>1269170354</create_time>
+        <rpc_seqno>150</rpc_seqno>
+        <host_cpid>cf16f801d616dea7f4e7ac71e650c2df</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1269170354</expavg_time>
+        <domain_name>linux-vonz</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2700+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1190998856.89183</p_fpops>
+        <p_iops>2513140085.2262</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.27.45-0.1-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7967</id>
+        <create_time>1299274350</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>5e23aee0a433a85a3147934c2de9f43d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1299274350</expavg_time>
+        <domain_name>phoenix</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2197508959.22612</p_fpops>
+        <p_iops>4677555611.12551</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8401</id>
+        <create_time>1302691267</create_time>
+        <rpc_seqno>26</rpc_seqno>
+        <host_cpid>5172ce8b1bcfe65288d100cf95d4f701</host_cpid>
+        <total_credit>7.771163</total_credit>
+        <expavg_credit>0.082575</expavg_credit>
+        <expavg_time>1304885404.92043</expavg_time>
+        <domain_name>phoenix2</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU 2.80GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1434482758.62069</p_fpops>
+        <p_iops>2446709120.39175</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9708</id>
+        <create_time>1312872382</create_time>
+        <rpc_seqno>40</rpc_seqno>
+        <host_cpid>246192da2fa25f64e9c0a85b2e8b9763</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1312872382</expavg_time>
+        <domain_name>Mo-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>2234678797.9388</p_fpops>
+        <p_iops>6632624450.6432</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,285 @@
+#!/usr/bin/perl -w
+#Set Variables
+#Project Directory
+$PROJECT="/home/boincadm/projects/DrugDiscovery";
+#Sample Results Directory
+$results=$PROJECT."/sample_results";
+#Priority List
+$PRIORITY="P*.7z";
+#All Priority groups in sample_results directory
+@files = </home/boincadm/projects/DrugDiscovery/sample_results/P*.7z>;
+
+#make sure all top scores are back in sample results directory
+$move_top_scores="find ".$PROJECT."/top_score_dir -name \"P*.7z\" -exec mv {} ".$PROJECT."/sample_results \\;";
+print $move_top_scores ."\n";
+system($move_top_scores);
+
+#Loop through the list of Priority results to generate top 100 scores
+foreach $file (@files) {
+#Calculate file size
+$filesize = -s $file;
+#Error handle: If file size is not greater than 0 bytes, skip this file
+  if ($filesize > 0) {
+  print $file."\n";
+#Extract the workunit name from the file path, removes the .7z file extension from name
+  $wu_name=substr($file,0,length($file)-3);
+#Remove existing analysis directory for this workunit if its still exists from last run
+  $ARG1="rm -rf ".$wu_name;
+  system($ARG1);
+  print $ARG1."\n";
+#Creates a working directory for this workunit
+  $ARG2="mkdir ".$wu_name;
+  system($ARG2);
+  print $ARG2."\n";
+#copy the receptor file pdb file to the working directory
+  $ARG3="cp ".$PROJECT."/sample_results/receptor.pdb ".$wu_name;
+  system($ARG3);
+  print $ARG3."\n";
+#Extract the result file into working directory
+  $ARG4="7za e -o".$wu_name." ".$file;
+  print $ARG4."\n";
+  system($ARG4);
+#summarize the results of the workunit to get the top docking complexes and interaction energy, prints the energy in workunitname_summary.txt
+  $ARG5="pythonsh /usr/local/MGLTools-1.5.2/mgltools_i86Linux2_1.5.2/MGLToolsPckgs/AutoDockTools/Utilities24/summarize_results4.py -v -d ".$wu_name." -r receptor.pdb -o ".$wu_name."_summary.txt";
+  print $ARG5."\n"; 
+  system($ARG5);
+#remove the workunit directory don't need it at this moment
+  $ARG6="rm -rf ".$wu_name;
+  print $ARG6."\n";
+  system($ARG6);
+	}
+}
+#write every summary file into summary_1.0.txt
+  $ARG7="cat ".$PROJECT."/sample_results/*_summary.txt > ".$PROJECT."/sample_results/summary_1.0.txt";
+  print $ARG7."\n";
+  system($ARG7);
+#remove the redundant lines such as headers from the file
+  $ARG8="sed \'\/\#dlgfn                      \#in cluster \#LE   \#rmsd \#ats \#tors/d\' ".$PROJECT."/sample_results/summary_1.0.txt > ".$PROJECT."/sample_results/summary_2.0.txt";
+  print $ARG8."\n";
+  system($ARG8);
+#Sort the file, ascending by LE
+  $ARG9="cat ".$PROJECT."/sample_results/summary_2.0.txt | sort -k3n -t, > ".$PROJECT."/sample_results/summary_2.0.sort";
+  print $ARG9."\n";
+  system($ARG9);
+#Remove the remaining summaries
+  $ARG10="rm -rf ".$PROJECT."/sample_results/*.txt";
+  print $ARG10."\n";
+  system($ARG10);
+#take the top 100 from summary_2.0.sort and print file summary_3.0.sort
+  $ARG11="cat ".$PROJECT."/sample_results/summary_2.0.sort | head -n 103 | tail -n 100 | awk \'{ print substr( \$0, 0, match(\$0, /,/) - 5 ) }\' | sed \-n \'G\; s\/\\n\/\&\&\/\; \/\^\\\(\[ \-\~\]\*\\n\\\).\*\\n\\1\/d\; s\/\\n\/\/\; h\; P\' > " .$PROJECT."/sample_results/summary_3.0.sort && echo EOF >> " .$PROJECT."/sample_results/summary_3.0.sort";
+  print $ARG11."\n";
+  system($ARG11);
+#make a top scores directory 
+#  $ARG12="mkdir ".$PROJECT."/top_score_dir";
+#  print $ARG12."\n";
+#  system($ARG12);
+
+
+$top_scores="/home/boincadm/projects/DrugDiscovery/sample_results/summary_3.0.sort";
+open (TOP_SCORES,$top_scores) or die ("Error trying to open top scores.\n");
+# process top scores
+
+ do {$new_score = <TOP_SCORES>;
+
+chomp ($new_score);
+print $new_score ."\n";
+
+#if not at the end of file
+	if ($new_score ne "EOF")
+	{
+	$time=`date '+%s%N'`;
+	chomp ($time);
+
+#create a new score directory
+	$ARG1="mkdir ".$new_score;
+	system($ARG1);
+	print $ARG1."\n";
+ 	$ARG2="7za e -o".$new_score." ".$new_score.".7z";
+  	system($ARG2);
+  	print $ARG2."\n";
+
+#name of workunit extracted again
+  	$wu_name=substr($new_score,53,length($new_score)-3);
+	print "\n".$wu_name."\n";
+
+#sub routine for preping lowest energy ligand in largest cluster, must change working directory to run, does all the preperation of file up to preparing the files for mdrun	
+	bc_complex($new_score);
+
+#copy the md.tpr used by mdrun workunit. Copy to the download directory using the dir_hier_path which sets the proper fanout directory
+	$ARG1="cp ".$new_score."/md.tpr \`bin/dir_hier_path md_".$wu_name."\`";
+        print $ARG1 . "\n";
+        system($ARG1);
+
+#create workunit using the mdrun application. The input parameters and workunits must be immutable. Template file will give the input file a logical name so when it is copied to the slot it will be called md.tpr
+	$ARG2=$PROJECT."/bin/create_work -appname mdrun -wu_name md_".$wu_name."_".$time." -wu_template templates/mdrun_wu -result_template templates/mdrun_result md_".$wu_name;
+        print $ARG2 . "\n";
+        system($ARG2);
+
+#Move the top scores archives to the top score directory
+	$ARG3="mv ".$PROJECT."/sample_results/".$new_score.".7z ".$PROJECT."/top_score_dir";
+        print $ARG3 . "\n";
+        system($ARG3);
+
+#Remove the top scores working directory
+	$ARG4="rm -rf  ".$new_score;
+        print $ARG4 . "\n";
+        system($ARG4);
+
+	}
+
+    } while ($new_score ne "EOF");
+
+close (TOP_SCORE);
+
+        $ARG1="find ".$PROJECT."/sample_results/ -name \"P_*.7z\" -exec rm -rf \{\} \\\;";
+        print $ARG1 . "\n";
+        system($ARG1);
+
+        $ARG2="mv ".$PROJECT."/top_score_dir/* ".$PROJECT."/sample_results/";
+        print $ARG2 . "\n";
+        system($ARG2);
+
+
+	sub bc_complex {
+#use the Cwd methods
+	use Cwd;
+#save the original directory path
+	my $orig_dir = Cwd::abs_path;
+#set the new directory path
+	my($path) = @_;
+#clean the path string
+	chomp($path);
+#change to new directory
+	chdir($path);
+
+#MGLTools Script writes the largest cluster of ligands into a ligand_BC.pdbqt
+	$ARG1="pythonsh /usr/local/MGLTools-1.5.2/mgltools_i86Linux2_1.5.2/MGLToolsPckgs/AutoDockTools/Utilities24/write_largest_cluster_ligand.py";
+	print $ARG1 . "\n";
+	system($ARG1);
+
+#Convert PDBQT format to PDB
+	$ARG2="pythonsh /usr/local/MGLTools-1.5.2/mgltools_i86Linux2_1.5.2/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BC.pdbqt -o ligand_BC.pdb";        
+	print $ARG2 . "\n";        
+	system($ARG2);
+
+#Babel adds protons
+	$ARG3="babel -ipdb ligand_BC.pdb -opdb ligand_BC.pdb -h";
+        system($ARG3);
+        print $ARG3 . "\n";
+
+#Output only LIG residues
+        $ARG4="grep LIG ligand_BC.pdb > Ligand.pdb";
+        system($ARG4);
+        print $ARG4 . "\n";
+	#sleep(10);
+#Acpypi preps the Ligand file for GROMACS
+        $ARG5="acpypi -n 0 -i Ligand.pdb -s 240";
+        print $ARG5 . "\n";
+	system($ARG5);
+
+
+#Copy the Protein file previously preped with Amber
+        $ARG6="cp ".$PROJECT."/bin/ProteinAmber.pdb .";
+        print $ARG6 . "\n";
+        system($ARG6);
+
+#Copy the Protein2.pdb file to working directory
+        $ARG7="cp ".$PROJECT."/bin/Protein2.pdb .";
+        print $ARG7 . "\n";
+        system($ARG7);
+
+#Prep the Protein2.pb useing pdb2gmx
+        $ARG8="pdb2gmx -ff amber99sb -f ProteinAmber.pdb -o Protein2.pdb -p Protein.top -water spce -ignh";
+        print $ARG8 . "\n";
+        system($ARG8);
+
+#Extract the ATOM Residues from Protein2.pdb and Ligand_NEW.pdb and redirect to Complex.pdb
+        $ARG9="grep -h ATOM Protein2.pdb Ligand.acpypi/Ligand_NEW.pdb >| Complex.pdb";
+        print $ARG9 . "\n";
+        system($ARG9);
+
+#Copy the Ligand_GMX.itp to Ligand.itp
+        $ARG10="cp Ligand.acpypi/Ligand_GMX.itp Ligand.itp";
+        print $ARG10 . "\n";
+        system($ARG10);
+
+#Copy the Protein topology file to Complex.top
+        $ARG11="cp Protein.top Complex.top";
+        print $ARG11 . "\n";
+        system($ARG11);
+
+#Copy the Complex.top and insert #include "Ligand.itp" into new file Complex2.top
+        $ARG12="cat Complex.top | sed '/#include\ \\\"ffamber99sb.itp\\\"/a \#include \"Ligand.itp\"' >| Complex2.top";
+        print $ARG12 . "\n";
+        system($ARG12);
+
+#Append Ligand   1 to Complex2.top
+        $ARG13="echo \"Ligand   1\" >> Complex2.top";
+        print $ARG13 . "\n";
+        system($ARG13);
+
+#Rename the Complex2.top to Complex.top
+        $ARG14="mv Complex2.top Complex.top";
+        print $ARG14 . "\n";
+        system($ARG14);
+
+#Copy the em.mdp parameter file to current working directory
+        $ARG15="cp ".$PROJECT."/bin/em.mdp .";
+        print $ARG15 . "\n";
+        system($ARG15);
+
+#Copy the md.mdp to cwd
+        $ARG16="cp ".$PROJECT."/bin/md.mdp .";
+        print $ARG16 . "\n";
+        system($ARG16);
+
+#Run editconf on the Complex.pdb
+        $ARG15="editconf -bt triclinic -f Complex.pdb -o Complex.pdb -d 1.0";
+        print $ARG15 . "\n";
+        system($ARG15);
+
+#Run genbox on Complex.pdb
+        $ARG16="genbox -cp Complex.pdb -cs ffamber_tip3p.gro -o Complex_b4ion.pdb -p Complex.top";
+        print $ARG16 . "\n";
+        system($ARG16);
+
+#Run grompp
+        $ARG17="grompp -f em.mdp -c Complex_b4ion.pdb -p Complex.top -o Complex_b4ion.tpr";
+        print $ARG17 . "\n";
+        system($ARG17);
+
+#copy the Complex.top to Complex_ion.top
+        $ARG18="cp Complex.top Complex_ion.top";
+        print $ARG18 . "\n";
+        system($ARG18);
+
+#Run genion
+        $ARG19="echo 13| genion -s Complex_b4ion.tpr -o Complex_b4em.pdb -neutral -conc 0.15 -p Complex_ion.top -norandom";
+        print $ARG19 . "\n";
+        system($ARG19);
+
+#rename the Complex_ion.top Complex.top
+        $ARG20="mv Complex_ion.top Complex.top";
+        print $ARG20 . "\n";
+        system($ARG20);
+
+#Run the grompp
+        $ARG21="grompp -f em.mdp -c Complex_b4em.pdb -p Complex.top -o em.tpr";
+        print $ARG21 . "\n";
+        system($ARG21);
+
+#Run the mdrun with the minimization parameters		
+        $ARG22="mdrun -v -deffnm em";
+        print $ARG22 . "\n";
+        system($ARG22);
+
+#Prep the molecular dynamics parameters
+        $ARG23="grompp -f md.mdp -c em.gro -p Complex.top -o md.tpr";
+        print $ARG23 . "\n";
+        system($ARG23);
+
+	
+	chdir($orig_dir);
+	}
+
+

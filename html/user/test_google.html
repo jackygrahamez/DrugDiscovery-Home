@@ -1,0 +1,8 @@
+<script src="http://www.google.com/jsapi" language="javascript"></script>
+<script language="javascript">
+if (google.loader.ClientLocation != null) {
+document.write("Your Location Is: " + google.loader.ClientLocation.address.city + ", " + google.loader.ClientLocation.address.region);
+} else {
+document.write("Your Location Was Not Detected By Google Loader");
+}
+</script>

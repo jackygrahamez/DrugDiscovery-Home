@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2179</id>
+    <cpid>b02f4c71455fffd42fe562dcf372adb3</cpid>
+    <create_time>1276806179</create_time>
+    <name>Archetype450</name>
+    <country>Canada</country>
+    <total_credit>3294.16399</total_credit>
+    <expavg_credit>0.059623</expavg_credit>
+    <expavg_time>1307304602.98145</expavg_time>
+    <teamid>788</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4274</id>
+        <create_time>1276806653</create_time>
+        <rpc_seqno>1849</rpc_seqno>
+        <host_cpid>e8dd028d9af5b964863f4e5e4877f37d</host_cpid>
+        <total_credit>2893.621989</total_credit>
+        <expavg_credit>0.080756</expavg_credit>
+        <expavg_time>1303675803.77172</expavg_time>
+        <domain_name>Hellhound</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2544215472.00698</p_fpops>
+        <p_iops>6405654835.8378</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5268</id>
+        <create_time>1283274352</create_time>
+        <rpc_seqno>663</rpc_seqno>
+        <host_cpid>a0dc0dd05370aa7f3572392f097b1c09</host_cpid>
+        <total_credit>400.542001</total_credit>
+        <expavg_credit>0.058319</expavg_credit>
+        <expavg_time>1307304603.1783</expavg_time>
+        <domain_name>flavoie</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1751369327.07355</p_fpops>
+        <p_iops>3581441696.03694</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

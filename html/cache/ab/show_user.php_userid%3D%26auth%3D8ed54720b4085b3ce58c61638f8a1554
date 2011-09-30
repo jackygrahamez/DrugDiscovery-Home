@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3635</id>
+    <cpid>f76cbb582e772799cf6a9f60c1f13c0d</cpid>
+    <create_time>1294281628</create_time>
+    <name>TenthReality</name>
+    <country>United States</country>
+    <total_credit>1556.209236</total_credit>
+    <expavg_credit>0.058066</expavg_credit>
+    <expavg_time>1301256302.80084</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7207</id>
+        <create_time>1294281680</create_time>
+        <rpc_seqno>387</rpc_seqno>
+        <host_cpid>5dc0433d13c9bae1d265618f729e1f19</host_cpid>
+        <total_credit>1202.328574</total_credit>
+        <expavg_credit>0.089895</expavg_credit>
+        <expavg_time>1300651503.47579</expavg_time>
+        <domain_name>TENTHREALITY-PC</domain_name>
+        <p_ncpus>6</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]</p_model>
+        <p_fpops>2643004559.66912</p_fpops>
+        <p_iops>9071982049.59791</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7215</id>
+        <create_time>1294314636</create_time>
+        <rpc_seqno>127</rpc_seqno>
+        <host_cpid>974241a383fb21b0d629491567215b3b</host_cpid>
+        <total_credit>353.880662</total_credit>
+        <expavg_credit>0.052346</expavg_credit>
+        <expavg_time>1300046703.58005</expavg_time>
+        <domain_name>JDM-WS</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz [Intel64 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2828697168.56191</p_fpops>
+        <p_iops>8532664244.51981</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

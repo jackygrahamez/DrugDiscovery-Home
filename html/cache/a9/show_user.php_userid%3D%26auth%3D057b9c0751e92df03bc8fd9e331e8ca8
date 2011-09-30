@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4821</id>
+    <cpid>bb2ac46c84fffaf963f38cffb90493fa</cpid>
+    <create_time>1311746384</create_time>
+    <name>cvt</name>
+    <country>Australia</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1311746384</expavg_time>
+    <teamid>1698</teamid>
+    <url>www.emmertex.com</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9606</id>
+        <create_time>1311778538</create_time>
+        <rpc_seqno>5</rpc_seqno>
+        <host_cpid>fd5761be395a757d42ae23e6a8901f3e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311778538</expavg_time>
+        <domain_name>AndrewDesktopPC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2259485905.42506</p_fpops>
+        <p_iops>7043223333.08276</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9600</id>
+        <create_time>1311746796</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>d02050e6b8b2496692241ffff570cc00</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311746796</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(R) CPU           X5450  @ 3.00GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2291129444.866</p_fpops>
+        <p_iops>6408345539.32704</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

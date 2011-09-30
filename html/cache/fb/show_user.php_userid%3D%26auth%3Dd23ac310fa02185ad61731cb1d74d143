@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4229</id>
+    <cpid>ce4f7f6535ef4ead1ca209493d095832</cpid>
+    <create_time>1298334294</create_time>
+    <name>ENRICOHENKEL</name>
+    <country>Germany</country>
+    <total_credit>46.585368</total_credit>
+    <expavg_credit>0.070374</expavg_credit>
+    <expavg_time>1304885403.58145</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7913</id>
+        <create_time>1298857764</create_time>
+        <rpc_seqno>69</rpc_seqno>
+        <host_cpid>88c5b07d08686bdcd4ff163eb329f78e</host_cpid>
+        <total_credit>46.585368</total_credit>
+        <expavg_credit>0.071225</expavg_credit>
+        <expavg_time>1304885404.86507</expavg_time>
+        <domain_name>NETBOOK</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>693891335.667536</p_fpops>
+        <p_iops>1644125838.66029</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7914</id>
+        <create_time>1298858288</create_time>
+        <rpc_seqno>73</rpc_seqno>
+        <host_cpid>5ad418ac00ba4d76b8eccd0649439f9c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298858288</expavg_time>
+        <domain_name>Media-Center</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2352588216.85817</p_fpops>
+        <p_iops>5304614090.80778</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7918</id>
+        <create_time>1298906296</create_time>
+        <rpc_seqno>60</rpc_seqno>
+        <host_cpid>9dba0854a46ef1fe457b11f3c21d47aa</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1298906296</expavg_time>
+        <domain_name>server</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.06GHz [Family 15 Model 2 Stepping 7]</p_model>
+        <p_fpops>1282249560.63269</p_fpops>
+        <p_iops>2453252093.99348</p_iops>
+        <os_name>Microsoft Windows Server 2003</os_name>
+        <os_version>Home Server x86 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

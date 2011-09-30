@@ -1,0 +1,35 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:3:"324";s:11:"create_time";s:10:"1240405913";s:10:"email_addr";s:21:"christian.mass@gmx.de";s:4:"name";s:14:"Christian Mass";s:13:"authenticator";s:32:"359fd57197463195a6a1e14ba3a089cc";s:7:"country";s:0:"";s:11:"postal_code";s:0:"";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1240405913";s:12:"global_prefs";N;s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"309";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"4d9e8f011455f29cef2a98125d828a7b";s:11:"passwd_hash";s:32:"4b9af0dc087e982bf6a3529cd78abfe7";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:3:"324";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:0:{}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"309";s:11:"create_time";s:10:"1240405913";s:6:"userid";s:3:"324";s:4:"name";s:11:"Crunch@Home";s:7:"name_lc";s:11:"crunch@home";s:3:"url";s:0:"";s:4:"type";s:1:"9";s:9:"name_html";s:0:"";s:11:"description";s:2290:"<i>Was machen wir ?</i><br><br>
+
+Das Team "Crunch@Home" hat sich als Ziel gesetzt Deutschland in der Boincgemeinde zu vertreten. Wir denken wir als eines der großen Industrieländer sollten auch unseren Beitrag zur Krebsforschung leisten. Deshalb sind wir auch ein Rosetta@Home-Team.<br>
+Bei uns kann jeder teilnehmen, es wäre jedoch sinnvoll seinen PC ein Paar Stunden in der Woche anzuhaben und zu "boincen".
+<br><br>
+Ob ihr nun bei Boinc mitmacht um die Stabilität eures Systems z.B. durch übertakten oder aber weil ich euch sagt: "Mein PC läuft eh sehr oft und wenn er läuft dann hat er die Ressourcen frei" dann seit ihr hier genau richtig.
+<br><br>
+
+
+
+<i>Was ist "Distributed Computing"? </i>
+<br>
+<br>
+Für sehr komplizierte und aufwendige Berechnungen der Wissenschaft gibt es zwei Möglichkeiten. Entweder man nutzt riesige Supercomputer oder aber man teilt das große Problem in tausende kleine Teile auf uns lässt Millionen von PCs auf der ganzen Welt diese Teilstücke berechnen. Dabei werden vor allem die sonst brach liegenden Ressourcen genutzt, wenn der PC sonst nichts anderes macht. (Weitere Informationen)
+<br>
+<br>
+Inzwischen gibt es viele Projekte dieser Art, viele werden z.B. "Seti@home" kennen. Wir haben uns für den Anfang für das "Rosetta@Home" Projekt entschieden, ein Projekt aus der Biochemie zur Forschung der Bekämpfung von Krankheiten wie Krebs, HIV oder Malaria. (Weitere Informationen)
+<br><br>
+Das Programm verbraucht nur freie CPU-Ressourcen, d.h. es wird nicht gerechnet, wenn Ihr z.b. am zocken seit. Eure CPU Auslastung wird immer 100% anzeigen, dies wird aber immer sofort wieder freigegeben, sobald andere Programme aktiv werden.
+<br><br>
+<i>Wie kannich helfen?</i><br><br><br>
+1) BOINC Client downloaden und installieren: <br>http://boinc.berkeley.edu/download.php
+<br>
+<br>2) Wähle als Projekt "Rosetta@home"<br>
+(projekt url: http://boinc.bakerlab.org/rosetta/ )<br>
+<br>
+3) Joine dem Crunch@Home Team ( teamid 7794 )<br>
+http://boinc.bakerlab.org/rosetta/team_display.php?teamid=7794<br><br><br>
+
+<br><br>
+Wer von euch noch Anregungen/Ergänzungen hat oder einfach nur Frage zum Team oder zu Boinc hat kann mich gerne im ICQ adden. 
+<br><br>
+ICQ: 204-339-011
+<br><br>
+oder alternativ via E-Mail: Christian.mass@gmx.de";s:6:"nusers";s:1:"0";s:7:"country";s:7:"Germany";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1240405913";s:7:"seti_id";s:3:"715";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

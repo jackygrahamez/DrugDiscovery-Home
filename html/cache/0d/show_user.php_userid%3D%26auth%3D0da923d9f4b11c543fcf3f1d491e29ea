@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2214</id>
+    <cpid>bc6e004cbec95a41d0f27252707c6285</cpid>
+    <create_time>1277305646</create_time>
+    <name>[SG]muk28</name>
+    <country>Germany</country>
+    <total_credit>522.342081</total_credit>
+    <expavg_credit>0.070624</expavg_credit>
+    <expavg_time>1283457602.62978</expavg_time>
+    <teamid>6</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>4388</id>
+        <create_time>1277305695</create_time>
+        <rpc_seqno>65</rpc_seqno>
+        <host_cpid>a43990ce74b06e89fee1c2101cbc664a</host_cpid>
+        <total_credit>522.342081</total_credit>
+        <expavg_credit>0.070624</expavg_credit>
+        <expavg_time>1283457603.21739</expavg_time>
+        <domain_name>Muk-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2188868514.81698</p_fpops>
+        <p_iops>6831792685.22315</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6032</id>
+        <create_time>1288605891</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>f7b812d8c9804d65cb13c3f2a0fab98a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288605891</expavg_time>
+        <domain_name>Bethesda</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 1.60GHz [Family 6 Model 13 Stepping 6]</p_model>
+        <p_fpops>1485374632.73299</p_fpops>
+        <p_iops>2868405996.28985</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

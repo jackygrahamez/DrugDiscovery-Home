@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2815</id>
+    <cpid>dc8c8bbc06e3e92ca6b2e16bfbd92d7f</cpid>
+    <create_time>1286850484</create_time>
+    <name>hofernl</name>
+    <country>United States</country>
+    <total_credit>162.705705</total_credit>
+    <expavg_credit>0.061263</expavg_credit>
+    <expavg_time>1298837103.13175</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5789</id>
+        <create_time>1286851095</create_time>
+        <rpc_seqno>49</rpc_seqno>
+        <host_cpid>911c3783a5c358b9478bb902b7d9fdcd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286851095</expavg_time>
+        <domain_name>Studio1737</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6500  @ 2.10GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2059169755.60325</p_fpops>
+        <p_iops>6143583385.23117</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5790</id>
+        <create_time>1286851340</create_time>
+        <rpc_seqno>11</rpc_seqno>
+        <host_cpid>824c6d51451db2a7c60323dcd934178a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286851340</expavg_time>
+        <domain_name>dimension3k</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1350035618.39005</p_fpops>
+        <p_iops>2725935318.4009</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5791</id>
+        <create_time>1286852979</create_time>
+        <rpc_seqno>590</rpc_seqno>
+        <host_cpid>22577d5593d5bdeaf64c194b217cebbc</host_cpid>
+        <total_credit>162.705705</total_credit>
+        <expavg_credit>0.061263</expavg_credit>
+        <expavg_time>1298837103.81424</expavg_time>
+        <domain_name>eMachine</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) II X2 250u Processor [Family 16 Model 6 Stepping 2]</p_model>
+        <p_fpops>1229632498.32417</p_fpops>
+        <p_iops>3521665244.2042</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

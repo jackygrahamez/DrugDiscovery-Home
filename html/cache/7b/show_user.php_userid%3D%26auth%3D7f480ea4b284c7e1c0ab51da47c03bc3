@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3433</id>
+    <cpid>a738fd0d28eb21b2fa89444787a68c8e</cpid>
+    <create_time>1290920054</create_time>
+    <name>garycheng</name>
+    <country>Taiwan</country>
+    <total_credit>40.172661</total_credit>
+    <expavg_credit>0.051021</expavg_credit>
+    <expavg_time>1310328902.40446</expavg_time>
+    <teamid>0</teamid>
+    <url>www.deepblue.idv.tw</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7310</id>
+        <create_time>1294829658</create_time>
+        <rpc_seqno>135</rpc_seqno>
+        <host_cpid>29d7a0f1498b25f39903f69fe427ec1d</host_cpid>
+        <total_credit>31.240361</total_credit>
+        <expavg_credit>0.069302</expavg_credit>
+        <expavg_time>1309119003.72928</expavg_time>
+        <domain_name>user-beb8c7e197</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]</p_model>
+        <p_fpops>1469129287.59894</p_fpops>
+        <p_iops>2411569837.86466</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6928</id>
+        <create_time>1292632694</create_time>
+        <rpc_seqno>32</rpc_seqno>
+        <host_cpid>ce1da38da0927af5540aa1251007a3ce</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1292632694</expavg_time>
+        <domain_name>deepbluedebian</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>1188078585.80228</p_fpops>
+        <p_iops>2772678717.12329</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.26-2-686</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8982</id>
+        <create_time>1306861485</create_time>
+        <rpc_seqno>225</rpc_seqno>
+        <host_cpid>d96617acbee3df20ffdb2eba56bc5786</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306861485</expavg_time>
+        <domain_name>garycheng-M6500</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 580  @ 2.67GHz [Family 6 Model 37 Stepping 5]</p_model>
+        <p_fpops>3073145022.60694</p_fpops>
+        <p_iops>6828068486.89154</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9086</id>
+        <create_time>1307579329</create_time>
+        <rpc_seqno>97</rpc_seqno>
+        <host_cpid>0df0585d79f29283d09cd334c8e1247d</host_cpid>
+        <total_credit>8.9323</total_credit>
+        <expavg_credit>0.080343</expavg_credit>
+        <expavg_time>1309724102.894</expavg_time>
+        <domain_name>Deepblue</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>2580613125.55164</p_fpops>
+        <p_iops>8534052217.69647</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

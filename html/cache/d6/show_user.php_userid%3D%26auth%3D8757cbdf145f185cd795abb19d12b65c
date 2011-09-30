@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4731</id>
+    <cpid>9e76e2d44c7ad5396796905092153017</cpid>
+    <create_time>1309505184</create_time>
+    <name>Ralph L McDermott</name>
+    <country>New Zealand</country>
+    <total_credit>17.002474</total_credit>
+    <expavg_credit>0.728185</expavg_credit>
+    <expavg_time>1315851902.5675</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9845</id>
+        <create_time>1313814382</create_time>
+        <rpc_seqno>646</rpc_seqno>
+        <host_cpid>b9b8fc457e6ec831293293436cd16759</host_cpid>
+        <total_credit>17.002474</total_credit>
+        <expavg_credit>0.860453</expavg_credit>
+        <expavg_time>1315851902.85575</expavg_time>
+        <domain_name>TomPC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E4600  @ 2.40GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>2127311773.81377</p_fpops>
+        <p_iops>6293756501.28129</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9904</id>
+        <create_time>1314412276</create_time>
+        <rpc_seqno>130</rpc_seqno>
+        <host_cpid>58f3873a6c956a18e178af867e95df76</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1314499268</expavg_time>
+        <domain_name>ACERM3200</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9500 Quad-Core Processor [Family 16 Model 2 Stepping 2]</p_model>
+        <p_fpops>1749888931.66562</p_fpops>
+        <p_iops>5272920992.77812</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

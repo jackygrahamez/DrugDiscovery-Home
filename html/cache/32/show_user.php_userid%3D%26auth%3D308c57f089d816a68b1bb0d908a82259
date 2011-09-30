@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4494</id>
+    <cpid>e5f1d3fc369f3bb1aa78239563abbe4f</cpid>
+    <create_time>1303748307</create_time>
+    <name>Q-Storm</name>
+    <country>Germany</country>
+    <total_credit>18.577459</total_credit>
+    <expavg_credit>0.348126</expavg_credit>
+    <expavg_time>1315605631.43591</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>8563</id>
+        <create_time>1303837300</create_time>
+        <rpc_seqno>25</rpc_seqno>
+        <host_cpid>5a6db8897a6d040fb0a4d63438c2635c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303837300</expavg_time>
+        <domain_name>q-storm-desktop</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2327923600.53281</p_fpops>
+        <p_iops>6951125050.83745</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-8-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8561</id>
+        <create_time>1303819626</create_time>
+        <rpc_seqno>197</rpc_seqno>
+        <host_cpid>053114473855490b2e942cde8c58080c</host_cpid>
+        <total_credit>13.55457</total_credit>
+        <expavg_credit>0.135909</expavg_credit>
+        <expavg_time>1315605631.43607</expavg_time>
+        <domain_name>kain</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU D525   @ 1.80GHz [Family 6 Model 28 Stepping 10]</p_model>
+        <p_fpops>711970787.654576</p_fpops>
+        <p_iops>2608584418.4516</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.4-gentoo</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8560</id>
+        <create_time>1303804658</create_time>
+        <rpc_seqno>265</rpc_seqno>
+        <host_cpid>ec467de9e39fadb3506fa51cd5554019</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1303804658</expavg_time>
+        <domain_name>sreinecke</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T7200  @ 2.00GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1619479721.63083</p_fpops>
+        <p_iops>4829750543.26947</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9246</id>
+        <create_time>1308245036</create_time>
+        <rpc_seqno>172</rpc_seqno>
+        <host_cpid>b08f3e9fb97c91b5d00ea4bacf811738</host_cpid>
+        <total_credit>5.022889</total_credit>
+        <expavg_credit>0.079752</expavg_credit>
+        <expavg_time>1313675844.63531</expavg_time>
+        <domain_name>drake</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) II X4 940 Processor [Family 16 Model 4 Stepping 2]</p_model>
+        <p_fpops>2839045695.1386</p_fpops>
+        <p_iops>14280971722.8094</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>3.0.4-gentoo</os_version>
+        <venue></venue>
+    </host>
+</user>

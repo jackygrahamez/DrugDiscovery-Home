@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2462</id>
+    <cpid>34b5227f57bb2d4c8a0ebaa3ef6ff1cf</cpid>
+    <create_time>1281748249</create_time>
+    <name>MarcusLS</name>
+    <country>Germany</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1281748249</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5045</id>
+        <create_time>1281826759</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>bffaae75744d13acc6f117e41074402c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281826759</expavg_time>
+        <domain_name>CS21S</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6400  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1398345932.4102</p_fpops>
+        <p_iops>4857746609.385</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-24-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5046</id>
+        <create_time>1281826761</create_time>
+        <rpc_seqno>8</rpc_seqno>
+        <host_cpid>1806ab4093c4ecf719698d34bbeb1c83</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281826761</expavg_time>
+        <domain_name>desktop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) CPU        E3300  @ 2.50GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2051331564.10998</p_fpops>
+        <p_iops>5737941570.8476</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-27-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6429</id>
+        <create_time>1290211937</create_time>
+        <rpc_seqno>10</rpc_seqno>
+        <host_cpid>e13bc8c13666629930fa567cc20633a3</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1290211937</expavg_time>
+        <domain_name>CS21S</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T6400  @ 2.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>1441697539.31468</p_fpops>
+        <p_iops>3730121868.02339</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-25-generic-pae</os_version>
+        <venue></venue>
+    </host>
+</user>

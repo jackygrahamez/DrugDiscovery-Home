@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4742</id>
+    <cpid>3dba04654e7938c39fa4f6056be7dc4c</cpid>
+    <create_time>1309798759</create_time>
+    <name>Tyne34</name>
+    <country>United Kingdom</country>
+    <total_credit>7.509807</total_credit>
+    <expavg_credit>0.066049</expavg_credit>
+    <expavg_time>1315247103.31598</expavg_time>
+    <teamid>0</teamid>
+    <url>www.cyberoptic.co.uk</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9405</id>
+        <create_time>1309799415</create_time>
+        <rpc_seqno>39</rpc_seqno>
+        <host_cpid>434b24859653a7a06afab47dd365f10c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1309799415</expavg_time>
+        <domain_name>MD_Lappy</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Celeron(R) Dual-Core CPU       T3500  @ 2.10GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2070535856.10135</p_fpops>
+        <p_iops>6223826359.11527</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9418</id>
+        <create_time>1309936393</create_time>
+        <rpc_seqno>51</rpc_seqno>
+        <host_cpid>a0b78f6d871feab8b5c1cd6ec60bc813</host_cpid>
+        <total_credit>7.509807</total_credit>
+        <expavg_credit>0.06794</expavg_credit>
+        <expavg_time>1315247104.90824</expavg_time>
+        <domain_name>NEW-WS12239</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1923051063.24496</p_fpops>
+        <p_iops>4065198151.05838</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

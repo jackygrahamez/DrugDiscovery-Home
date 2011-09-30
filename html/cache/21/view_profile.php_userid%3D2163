@@ -1,0 +1,32 @@
+O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:4:"2163";s:11:"create_time";s:10:"1276370148";s:10:"email_addr";s:27:"le-petit-soldat@laposte.net";s:4:"name";s:20:"[AF>EDLS] zelandonii";s:13:"authenticator";s:32:"b1612d9460632b1471edf18356e06c3f";s:7:"country";s:6:"France";s:11:"postal_code";s:0:"";s:12:"total_credit";s:9:"78.168926";s:13:"expavg_credit";s:8:"0.086097";s:11:"expavg_time";s:16:"1290168178.83165";s:12:"global_prefs";s:1034:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1276370148</mod_time>
+<cpu_scheduling_period_minutes></cpu_scheduling_period_minutes>
+<idle_time_to_run></idle_time_to_run>
+<suspend_if_no_recent_input></suspend_if_no_recent_input>
+<work_buf_min_days></work_buf_min_days>
+<work_buf_additional_days></work_buf_additional_days>
+<max_cpus></max_cpus>
+<max_ncpus_pct></max_ncpus_pct>
+<cpu_usage_limit></cpu_usage_limit>
+<suspend_cpu_usage></suspend_cpu_usage>
+<disk_interval></disk_interval>
+<disk_max_used_gb></disk_max_used_gb>
+<disk_max_used_pct></disk_max_used_pct>
+<disk_min_free_gb></disk_min_free_gb>
+<vm_max_used_pct></vm_max_used_pct>
+<ram_max_used_busy_pct></ram_max_used_busy_pct>
+<ram_max_used_idle_pct></ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour></start_hour>
+<end_hour></end_hour>
+<net_start_hour></net_start_hour>
+<net_end_hour></net_end_hour>
+<run_if_user_active></run_if_user_active>
+</global_preferences>";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"7";s:5:"venue";s:0:"";s:3:"url";s:29:"www.new.facebook.com/home.php";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"d03794dfb1dcae34afde42dede38e8ae";s:11:"passwd_hash";s:32:"52ab5f56fce74c4aef2975f94242bb0b";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"7";s:11:"create_time";s:10:"1240319426";s:6:"userid";s:2:"18";s:4:"name";s:22:"L'Alliance Francophone";s:7:"name_lc";s:22:"l'alliance francophone";s:3:"url";s:16:"www.boinc-af.org";s:4:"type";s:1:"1";s:9:"name_html";s:48:"<img src="http://www.boinc-af.org/afbanner.png">";s:11:"description";s:46:"<img src="http://www.boinc-af.org/afpres.png">";s:6:"nusers";s:3:"112";s:7:"country";s:13:"International";s:12:"total_credit";s:16:"2422650.52578968";s:13:"expavg_credit";s:10:"441.326711";s:11:"expavg_time";s:16:"1317214607.35364";s:7:"seti_id";s:3:"149";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}

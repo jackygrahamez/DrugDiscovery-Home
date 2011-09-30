@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1926</id>
+    <cpid>c94d4464f687bc83414563c80f2582ae</cpid>
+    <create_time>1272552425</create_time>
+    <name>Dan</name>
+    <country>Australia</country>
+    <total_credit>83.775482</total_credit>
+    <expavg_credit>0.075744</expavg_credit>
+    <expavg_time>1276920002.41133</expavg_time>
+    <teamid>15</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3681</id>
+        <create_time>1272554845</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>cf13b700df1112242d16c8dd0c2275e0</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272554845</expavg_time>
+        <domain_name>Alida.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU E8235 @ 2.80GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>3268247260.6488</p_fpops>
+        <p_iops>7228480389.1691</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3682</id>
+        <create_time>1272554893</create_time>
+        <rpc_seqno>20</rpc_seqno>
+        <host_cpid>8194f70ba2dc5a28ea62776d14630f10</host_cpid>
+        <total_credit>83.775482</total_credit>
+        <expavg_credit>0.075761</expavg_credit>
+        <expavg_time>1276920003.42643</expavg_time>
+        <domain_name>TMG0035-PG</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2387143300.61848</p_fpops>
+        <p_iops>5225792608.31492</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3683</id>
+        <create_time>1272555084</create_time>
+        <rpc_seqno>13</rpc_seqno>
+        <host_cpid>9000086588ec2281fbe1d984a21b2068</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272555084</expavg_time>
+        <domain_name>Black.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1500 @ 2.00GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>1712698416.52337</p_fpops>
+        <p_iops>4118599330.19588</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>3684</id>
+        <create_time>1272557180</create_time>
+        <rpc_seqno>18</rpc_seqno>
+        <host_cpid>8a6d745be52b7e6339710611221adaa4</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1272557180</expavg_time>
+        <domain_name>Dan.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU T8300 @ 2.40GHz [x86 Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>1262856728.62271</p_fpops>
+        <p_iops>3104750660.61979</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.7.0</os_version>
+        <venue></venue>
+    </host>
+</user>

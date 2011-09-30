@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1437</id>
+    <cpid>8dd80f5a2353ed058442d9749a3ed747</cpid>
+    <create_time>1266868234</create_time>
+    <name>link304</name>
+    <country>France</country>
+    <total_credit>7306.21162227115</total_credit>
+    <expavg_credit>0.153789</expavg_credit>
+    <expavg_time>1315851902.55788</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>2558</id>
+        <create_time>1266868251</create_time>
+        <rpc_seqno>7576</rpc_seqno>
+        <host_cpid>32e89eba8ae9b0b29214e2a37b80c276</host_cpid>
+        <total_credit>6976.25243627114</total_credit>
+        <expavg_credit>0.153789</expavg_credit>
+        <expavg_time>1315851902.83913</expavg_time>
+        <domain_name>PC-de-utilisate</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU           T2060  @ 1.60GHz [Family 6 Model 14 Stepping 12]</p_model>
+        <p_fpops>1489437036.07215</p_fpops>
+        <p_iops>2992290215.59543</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7176</id>
+        <create_time>1294174482</create_time>
+        <rpc_seqno>1333</rpc_seqno>
+        <host_cpid>7c64ff48fdeb0ea173834cb0be137bad</host_cpid>
+        <total_credit>329.959186</total_credit>
+        <expavg_credit>0.081146</expavg_credit>
+        <expavg_time>1301861104.03439</expavg_time>
+        <domain_name>priot-fixe-xp</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 9650 Quad-Core Processor [Family 16 Model 2 Stepping 3]</p_model>
+        <p_fpops>2315053080.20147</p_fpops>
+        <p_iops>5116607926.11438</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Home x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

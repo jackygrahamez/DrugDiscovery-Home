@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>974</id>
+    <cpid>d67135998163d96fc517d5ca18b5fc94</cpid>
+    <create_time>1258000703</create_time>
+    <name>Christoph Franzen</name>
+    <country>Germany</country>
+    <total_credit>3800.1618877319</total_credit>
+    <expavg_credit>0.05351</expavg_credit>
+    <expavg_time>1270872002.27157</expavg_time>
+    <teamid>0</teamid>
+    <url>alte-pflasterei.de</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>1117</id>
+        <create_time>1258001541</create_time>
+        <rpc_seqno>829</rpc_seqno>
+        <host_cpid>51126db206e52a7ffcd05076cb50e411</host_cpid>
+        <total_credit>90.173873779292</total_credit>
+        <expavg_credit>0.045095</expavg_credit>
+        <expavg_time>1270267203.44586</expavg_time>
+        <domain_name>christoph9</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Unknown CPU Type [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1477417916.70697</p_fpops>
+        <p_iops>4456837872.97377</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-k7-chf2</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1118</id>
+        <create_time>1258001542</create_time>
+        <rpc_seqno>28729</rpc_seqno>
+        <host_cpid>9a4571679bea8cec1bf7baac00634a9a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258001542</expavg_time>
+        <domain_name>fenster</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2200+ [Family 6 Model 8 Stepping 1]</p_model>
+        <p_fpops>1480272108.84354</p_fpops>
+        <p_iops>2482816576.45544</p_iops>
+        <os_name>Microsoft Windows 2000</os_name>
+        <os_version>Professional x86 Edition, Service Pack 4, (05.00.2195.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1119</id>
+        <create_time>1258001543</create_time>
+        <rpc_seqno>317</rpc_seqno>
+        <host_cpid>f1d02826c3ac479a831edc048b5ace2f</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258001543</expavg_time>
+        <domain_name>pflasterei.franzen.dom</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Duron(tm) processor [Family 6 Model 7 Stepping 0]</p_model>
+        <p_fpops>499635682.314979</p_fpops>
+        <p_iops>1034757186.52547</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.17-11-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1120</id>
+        <create_time>1258001604</create_time>
+        <rpc_seqno>812</rpc_seqno>
+        <host_cpid>ae6740acb50ca3c91022484020a5b679</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1258001604</expavg_time>
+        <domain_name>bormo</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium II (Deschutes) [Family 6 Model 5 Stepping 2]</p_model>
+        <p_fpops>192666199.643799</p_fpops>
+        <p_iops>411332521.800717</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.26-2-686</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>1160</id>
+        <create_time>1258063551</create_time>
+        <rpc_seqno>2106</rpc_seqno>
+        <host_cpid>e7fa3f1afc76bb91cca76b705c360637</host_cpid>
+        <total_credit>3709.98801395259</total_credit>
+        <expavg_credit>0.074051</expavg_credit>
+        <expavg_time>1267995003.11921</expavg_time>
+        <domain_name>christoph11</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Turion(tm) 64 X2 Mobile Technology TL-60 [Family 15 Model 104 Stepping 1]</p_model>
+        <p_fpops>2058358996.5066</p_fpops>
+        <p_iops>3693691351.12421</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

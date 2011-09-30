@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Computers belonging to Slicker [TopGun]</title>
+<link rel=stylesheet type="text/css" href="main.css" media="all" />
+		<link rel=stylesheet type="text/css" href="http://boinc.drugdiscoveryathome.com/white.css">
+        <link rel=alternate type="application/rss+xml" title="DrugDiscovery@Home RSS 2.0" href="http://boinc.drugdiscoveryathome.com/rss_main.php">
+        
+        </head>
+    <body>
+<!-- SVN VERSIONS -->
+<!-- $Id: translation.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id: text_transform.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: stats_sites.inc 17954 2009-04-30 21:48:20Z davea $ -->
+<!-- $Id: team.inc 17456 2009-03-03 21:58:03Z davea $ -->
+<!-- $Id: user.inc 19201 2009-09-28 16:19:20Z davea $ -->
+<!-- $Id: profile.inc 16749 2008-12-29 18:44:11Z jbk $ -->
+<!-- $Id: util.inc 19194 2009-09-28 04:24:18Z davea $ -->
+<!-- $Id: host.inc 19217 2009-09-29 19:46:14Z davea $ -->
+
+        <p>
+        <span class="page_title">Computers belonging to Slicker [TopGun]</span>
+        <p>
+    <p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=0&userid=1681>Only computers active in past 30 days</a><p><table class=bordered width="100%"><tr><th><a href=hosts_user.php?sort=id&rev=0&show_all=1&userid=1681>Computer ID</a></th>
+<th>Rank</th><th><a href=hosts_user.php?sort=expavg_credit&rev=1&show_all=1&userid=1681>Avg. credit</a></th>
+<th><a href=hosts_user.php?sort=total_credit&rev=0&show_all=1&userid=1681>Total credit</a></th>
+<th>BOINC<br>version</th>
+<th><a href=hosts_user.php?sort=cpu&rev=0&show_all=1&userid=1681>CPU</a></th>
+<th>GPU</th>
+<th><a href=hosts_user.php?sort=os&rev=0&show_all=1&userid=1681>Operating System</a></th>
+<th><a href=hosts_user.php?sort=rpc_time&rev=0&show_all=1&userid=1681>Last contact</a></th>
+<tr class=row1><td>ID: 4875
+        <br><a href=show_host_detail.php?hostid=4875>Details</a> |
+        <a href=results.php?hostid=4875>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=a3d31ad3f446a95de4671bbdf8fd7af3><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=a3d31ad3f446a95de4671bbdf8fd7af3><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>1</td>
+
+            <td align=right>0.07</td>
+            <td align=right>81</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 1.70GHz [x86 Family 15 Model 1 Stepping 2]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>18 Aug 2010 7:09:48 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 3113
+        <br><a href=show_host_detail.php?hostid=3113>Details</a> |
+        <a href=results.php?hostid=3113>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=94f2ebceae79c38f2415788e9638c505><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=94f2ebceae79c38f2415788e9638c505><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>2</td>
+
+            <td align=right>0.07</td>
+            <td align=right>588</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     P9700  @ 2.80GHz [x86 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>NVIDIA Quadro NVS 160M (239MB) driver: 25721</td>
+            <td>Microsoft Windows Server 2008<br><span class=note>Standard x86 Edition, Service Pack 2, (06.00.6002.00)</span></td>
+            <td>18 Aug 2010 9:22:59 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4874
+        <br><a href=show_host_detail.php?hostid=4874>Details</a> |
+        <a href=results.php?hostid=4874>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=e328528a2f8f37fc0e200afd86456570><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=e328528a2f8f37fc0e200afd86456570><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>3</td>
+
+            <td align=right>0.06</td>
+            <td align=right>64</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 3.00GHz [x86 Family 15 Model 4 Stepping 1]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>23 Aug 2010 23:21:16 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4879
+        <br><a href=show_host_detail.php?hostid=4879>Details</a> |
+        <a href=results.php?hostid=4879>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=ebc0d654f8c31951db143c8bc56dea85><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=ebc0d654f8c31951db143c8bc56dea85><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>4</td>
+
+            <td align=right>0.05</td>
+            <td align=right>65</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 2.00GHz [x86 Family 15 Model 2 Stepping 7]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>18 Aug 2010 13:16:18 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4878
+        <br><a href=show_host_detail.php?hostid=4878>Details</a> |
+        <a href=results.php?hostid=4878>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=6a611beb039a2e792a27b5fb534e29ae><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=6a611beb039a2e792a27b5fb534e29ae><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>5</td>
+
+            <td align=right>0.05</td>
+            <td align=right>78</td>
+            <td>6.10.56</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 1]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>18 Aug 2010 11:28:39 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4871
+        <br><a href=show_host_detail.php?hostid=4871>Details</a> |
+        <a href=results.php?hostid=4871>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=36895595c3e3ab639444e618f618235a><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=36895595c3e3ab639444e618f618235a><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>6</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 2.66GHz [x86 Family 15 Model 2 Stepping 9]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>18 Aug 2010 8:30:06 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4872
+        <br><a href=show_host_detail.php?hostid=4872>Details</a> |
+        <a href=results.php?hostid=4872>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=8b84897d2dd29aa0f267a7190ec643fb><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=8b84897d2dd29aa0f267a7190ec643fb><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>7</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.32</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) M processor 1.70GHz [x86 Family 6 Model 13 Stepping 6]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>18 Aug 2010 2:31:09 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4873
+        <br><a href=show_host_detail.php?hostid=4873>Details</a> |
+        <a href=results.php?hostid=4873>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=40f6fef98af64f1f83b7209520fe2950><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=40f6fef98af64f1f83b7209520fe2950><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>8</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 2.00GHz [x86 Family 15 Model 2 Stepping 4]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>18 Aug 2010 11:26:58 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4876
+        <br><a href=show_host_detail.php?hostid=4876>Details</a> |
+        <a href=results.php?hostid=4876>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=1e2e3faf5b5e6e30f6baed4524387ea0><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=1e2e3faf5b5e6e30f6baed4524387ea0><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>9</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.56</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 2.66GHz [Family 15 Model 2 Stepping 9]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows Server 2003 "R2"<br><span class=note>Enterprise Server x86 Edition, Service Pack 2, (05.02.3790.00)</span></td>
+            <td>18 Aug 2010 1:49:27 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4877
+        <br><a href=show_host_detail.php?hostid=4877>Details</a> |
+        <a href=results.php?hostid=4877>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=021cfda83cfa6e5e482e0e984f28267d><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=021cfda83cfa6e5e482e0e984f28267d><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>10</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) 4 CPU 3.00GHz [Intel64 Family 15 Model 4 Stepping 3]<br>(2 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows 7<br><span class=note>x64 Edition, (06.01.7600.00)</span></td>
+            <td>18 Aug 2010 1:13:40 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4922
+        <br><a href=show_host_detail.php?hostid=4922>Details</a> |
+        <a href=results.php?hostid=4922>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=55287e3152b12b1f56d2ccae9368cbdd><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=55287e3152b12b1f56d2ccae9368cbdd><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>11</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz [Intel64 Family 6 Model 23 Stepping 10]<br>(2 processors)
+</td>
+            <td>CAL ATI Radeon HD 3800 (RV670) (512MB) driver: 1.4.696</td>
+            <td>Microsoft Windows 7<br><span class=note>x64 Edition, (06.01.7600.00)</span></td>
+            <td>19 Aug 2010 7:42:32 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4923
+        <br><a href=show_host_detail.php?hostid=4923>Details</a> |
+        <a href=results.php?hostid=4923>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=8e88c7a46cdeec8c346fe81259321714><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=8e88c7a46cdeec8c346fe81259321714><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>12</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.43</td>
+            <td>AuthenticAMD<br>AMD Athlon(tm) 64 Processor 4000+ [Family 15 Model 55 Stepping 2]<br>(1 processors)
+</td>
+            <td>CAL ATI Radeon HD 4700/4800 (RV740/RV770) (512MB) driver: 1.4.696</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise N x64 Edition, (06.01.7600.00)</span></td>
+            <td>19 Aug 2010 6:16:46 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4924
+        <br><a href=show_host_detail.php?hostid=4924>Details</a> |
+        <a href=results.php?hostid=4924>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=26723fed5e8b317fb5c97fc74164b300><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=26723fed5e8b317fb5c97fc74164b300><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>13</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.43</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Duo CPU     E6850  @ 3.00GHz [Family 6 Model 15 Stepping 11]<br>(2 processors)
+</td>
+            <td>NVIDIA GeForce 9800 GTX+ (495MB) driver: 25896</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise N x64 Edition, (06.01.7600.00)</span></td>
+            <td>19 Aug 2010 12:36:42 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4925
+        <br><a href=show_host_detail.php?hostid=4925>Details</a> |
+        <a href=results.php?hostid=4925>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=1c696fcd9c4929f37bf9cb5dd7971c41><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=1c696fcd9c4929f37bf9cb5dd7971c41><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>14</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.43</td>
+            <td>GenuineIntel<br>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]<br>(4 processors)
+</td>
+            <td>CAL ATI Radeon HD 4700/4800 (RV740/RV770) (512MB) driver: 1.4.556</td>
+            <td>Microsoft Windows 7<br><span class=note>Enterprise N x64 Edition, (06.01.7600.00)</span></td>
+            <td>19 Aug 2010 12:25:33 UTC</td>
+            </tr>
+<tr class=row1><td>ID: 4926
+        <br><a href=show_host_detail.php?hostid=4926>Details</a> |
+        <a href=results.php?hostid=4926>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=5c92f8a81b421cfb6ec453639ff0d079><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=5c92f8a81b421cfb6ec453639ff0d079><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>15</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.10.18</td>
+            <td>GenuineIntel<br>Intel(R) Pentium(R) M processor 1.70GHz [x86 Family 6 Model 13 Stepping 6]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows 7<br><span class=note>x86 Edition, (06.01.7600.00)</span></td>
+            <td>19 Aug 2010 11:39:30 UTC</td>
+            </tr>
+<tr class=row0><td>ID: 4927
+        <br><a href=show_host_detail.php?hostid=4927>Details</a> |
+        <a href=results.php?hostid=4927>Tasks</a>
+    
+            <br><nobr><span class=note>Cross-project stats:</span></nobr><br><a href=http://boincstats.com/stats/boinc_host_graph.php?pr=bo&id=c744469c913b865596f1e613232f86a9><img border=2 src=img/boincstats_icon.png alt="BOINCstats.com"></a>
+<a href=http://stats.free-dc.org/stats.php?page=hostbycpid&cpid=c744469c913b865596f1e613232f86a9><img border=2 src=img/freedc_icon.png alt="Free-DC"></a>
+
+        </td>
+    <td>16</td>
+
+            <td align=right>0.00</td>
+            <td align=right>0</td>
+            <td>6.2.19</td>
+            <td>GenuineIntel<br>Intel(R) Celeron(R) M processor         1.30GHz [x86 Family 6 Model 13 Stepping 6]<br>(1 processors)
+</td>
+            <td>---</td>
+            <td>Microsoft Windows XP<br><span class=note>Home x86 Editon, Service Pack 3, (05.01.2600.00)</span></td>
+            <td>19 Aug 2010 13:07:16 UTC</td>
+            </tr>
+</table>
+<p>Show: All computers | <a href=hosts_user.php?sort=expavg_credit&rev=0&show_all=0&userid=1681>Only computers active in past 30 days</a><p><br><hr noshade size=1><center><a href="http://drugdiscoveryathome.com/">Home</a> | <a href=index.php>Project</a> | <a href=home.php>My Account</a> | <a href=forum_index.php>Message Boards</a><br>
+<br><br>Copyright &copy; 2011 DRUGDISCOVERY@HOME</center>
+<span class="note">Generated 25 Sep 2011 1:00:40 UTC</span>
+</body>
+        </html>
+    

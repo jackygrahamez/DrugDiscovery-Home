@@ -1,0 +1,15 @@
+--2009-11-30 04:05:42--  ftp://ftp.wwpdb.org/pub/pdb/data/structures/all/pdb/pdb101d.ent.gz
+           => `/home/boincadm/projects/DrugDiscovery/autodock_prep/pdb101d.ent.gz'
+Resolving ftp.wwpdb.org... 198.202.122.61
+Connecting to ftp.wwpdb.org|198.202.122.61|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD /pub/pdb/data/structures/all/pdb ... done.
+==> SIZE pdb101d.ent.gz ... 16767
+==> PASV ... done.    ==> RETR pdb101d.ent.gz ... done.
+Length: 16767 (16K)
+
+     0K .......... ......                                     100%  472K=0.03s
+
+2009-11-30 04:20:25 (472 KB/s) - `/home/boincadm/projects/DrugDiscovery/autodock_prep/pdb101d.ent.gz' saved [16767]
+

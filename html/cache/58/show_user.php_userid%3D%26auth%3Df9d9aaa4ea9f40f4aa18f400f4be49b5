@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>3161</id>
+    <cpid>3206e2af1fd7742665a097481cf8ae23</cpid>
+    <create_time>1289590794</create_time>
+    <name>zalex</name>
+    <country>France</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1289590794</expavg_time>
+    <teamid>7</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>7342</id>
+        <create_time>1295079279</create_time>
+        <rpc_seqno>515</rpc_seqno>
+        <host_cpid>00ec57928d9cb5062c1fbf32509c9593</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1295079279</expavg_time>
+        <domain_name>zalex-MS-7046</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>677869556.456598</p_fpops>
+        <p_iops>1529646957.0538</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6246</id>
+        <create_time>1289590806</create_time>
+        <rpc_seqno>223</rpc_seqno>
+        <host_cpid>a748b20404a2fbd1c5f705069bdd3d2e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1289590806</expavg_time>
+        <domain_name>zalex2-MS-7046</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.20GHz [Family 15 Model 3 Stepping 4]</p_model>
+        <p_fpops>665085818.27905</p_fpops>
+        <p_iops>1526043011.92423</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-23-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8231</id>
+        <create_time>1301218341</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>c590986dc9a282a7abd8a3239de64c8b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301218341</expavg_time>
+        <domain_name>zalex-P55A-UD3R</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>3584135317.14903</p_fpops>
+        <p_iops>13937775046.4691</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8789</id>
+        <create_time>1305450574</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>d578e04a3ca96625de59b06db6b5fd62</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1305450574</expavg_time>
+        <domain_name>zalex-laptop</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2262672129.57889</p_fpops>
+        <p_iops>7743779738.59119</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-31-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

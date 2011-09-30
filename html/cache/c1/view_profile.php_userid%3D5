@@ -1,0 +1,170 @@
+O:8:"stdClass":4:{s:10:"post_count";s:1:"4";s:4:"user";O:9:"BoincUser":28:{s:2:"id";s:1:"5";s:11:"create_time";s:10:"1239482405";s:10:"email_addr";s:14:"beckert@gmx.de";s:4:"name";s:13:"yoyo[Friends]";s:13:"authenticator";s:32:"90f88456a204c245cc6aaf2b20b6b96d";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:4:"3145";s:13:"expavg_credit";s:8:"0.003142";s:11:"expavg_time";s:16:"1250104202.99571";s:12:"global_prefs";s:0:"";s:13:"project_prefs";s:120:"<project_preferences>
+
+
+<resource_share>100</resource_share>
+<allow_beta_work>0</allow_beta_work>
+</project_preferences>";s:6:"teamid";s:1:"1";s:5:"venue";s:0:"";s:3:"url";N;s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"1";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"db2545b9010a74064ac0d65a4cb62d32";s:11:"passwd_hash";s:32:"6651ab920bd745cf76cd1153f5130bdb";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:1:"1";s:11:"create_time";s:10:"1239483580";s:6:"userid";s:1:"5";s:4:"name";s:15:"Rechenkraft.net";s:7:"name_lc";s:15:"rechenkraft.net";s:3:"url";s:19:"www.rechenkraft.net";s:4:"type";s:1:"1";s:9:"name_html";s:117:"<a href="http://www.rechenkraft.net"><img src="http://www.rechenkraft.net/wiki/images/8/87/Banner_apfelring.gif"></a>";s:11:"description";s:1392:"Weltweit erster gemeinnütziger Verein für verteiltes Rechnen - <a href=http://www.rechenkraft.net>Wiki</a>, <a href=http://www.rechenkraft.net/phpBB>Forum</a>, <a href=http://www.rechenkraft.net/wiki/index.php?title=Rechenkraft:Chat>Chat</a> und vieles mehr vorhanden. Schau vorbei und hab Spaß!
+<p>
+2005 wurde der gemeinnützige Verein <a href=http://www.rechenkraft.net/wiki/index.php?title=Verein>Rechenkraft.net e.V.</a> mit Mitgliedern aus ganz Deutschland gegründet, um verteiltes Rechnen bekannter zu machen.
+
+<li> Wir erzählen Anderen in Radio und Zeitungen von DC.
+<li> Wir beantworten Fragen zu DC und seinem wissenschaftlichen Hintergrund in Foren, per Mail und in unserem Chat.
+<li> Die Veröffentlichung eines Buches ist geplant.
+<li> Wir <a href=http://tinyurl.com/yb6222>crunchen</a> mit allem was uns zur Verfügung steht.
+<li> Wir haben Spaß über DC, Wissenschaft und vieles mehr zu diskutieren, und treffen uns auch <a href=http://www.rechenkraft.net/wiki/index.php?title=Rechenkraft.net_Party>im Real Life</a>.
+<p>
+<a href=http://www.rechenkraft.net>Mach mit</a>, wir stehen jedem offen und machen bei so gut wie allen Projekten mit.
+<p>
+<img src=http://www.boincstats.com/signature/team_808_project-1_banner.gif><br> Of course we are open to participants from all over the world. We have an English forum and most of us can understand English perfectly.";s:6:"nusers";s:2:"25";s:7:"country";s:7:"Germany";s:12:"total_credit";s:16:"169383.391713667";s:13:"expavg_credit";s:8:"1.040491";s:11:"expavg_time";s:16:"1316998502.74326";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}s:7:"friends";a:4:{i:0;O:9:"BoincUser":28:{s:2:"id";s:1:"1";s:11:"create_time";s:10:"1239402271";s:10:"email_addr";s:26:"jshultz@hydrogenathome.org";s:4:"name";s:11:"Jack Shultz";s:13:"authenticator";s:32:"d79f0d5253ef4161625bcb14a630970a";s:7:"country";s:13:"United States";s:11:"postal_code";s:5:"20011";s:12:"total_credit";s:15:"119313.60099457";s:13:"expavg_credit";s:8:"7.977015";s:11:"expavg_time";s:16:"1316987600.63739";s:12:"global_prefs";s:1206:"<global_preferences>
+    <source_project>http://boinc.drugdiscoveryathome.com/</source_project>
+    <source_scheduler>http://boinc.drugdiscoveryathome.com/DrugDiscovery_cgi/cgi</source_scheduler>
+<mod_time>1244926647</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"557";s:5:"venue";s:0:"";s:3:"url";s:18:"hydrogenathome.org";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:2:"45";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"4619244adbd630d58d1fe1ece5b0fa0e";s:11:"passwd_hash";s:32:"ddaf246269316d0759fa7c9868f49d4c";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:1;O:9:"BoincUser":28:{s:2:"id";s:3:"545";s:11:"create_time";s:10:"1241489428";s:10:"email_addr";s:24:"2nd-wave-booster@live.de";s:4:"name";s:18:"Bayha Family Power";s:13:"authenticator";s:32:"ffd83d43c5b8377907472c49b0ff8f5e";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"70825";s:12:"total_credit";s:15:"209457.76342408";s:13:"expavg_credit";s:8:"0.097963";s:11:"expavg_time";s:16:"1265412903.60094";s:12:"global_prefs";s:1187:"<global_preferences>
+    <source_project>http://boinc.unsads.com/rsals/</source_project>
+    <source_scheduler>http://boinc.unsads.com/rsals_cgi/cgi</source_scheduler>
+<mod_time>1251028352</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>10</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>95</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>100</ram_max_used_idle_pct>
+<max_bytes_sec_down>1.4E+6</max_bytes_sec_down>
+<max_bytes_sec_up>200000</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>300</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>95</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:2:"30";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"3";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"480ee608eecb3a5b7ebd5f41fb92cf1d";s:11:"passwd_hash";s:32:"8745032c8ad2ec4c780bffefd53f7286";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:2;O:9:"BoincUser":28:{s:2:"id";s:3:"712";s:11:"create_time";s:10:"1241136000";s:10:"email_addr";s:18:"netrider92@aol.com";s:4:"name";s:29:"[AF&gt;EDLS] frederic abussan";s:13:"authenticator";s:32:"71c1bce491a039178ad027b210360f9d";s:7:"country";s:6:"France";s:11:"postal_code";s:5:"92230";s:12:"total_credit";s:14:"840383.0947895";s:13:"expavg_credit";s:8:"0.078311";s:11:"expavg_time";s:16:"1301256302.85897";s:12:"global_prefs";s:1201:"<global_preferences>
+    <source_project>http://milkyway.cs.rpi.edu/milkyway/</source_project>
+    <source_scheduler>http://milkyway.cs.rpi.edu/cgi/cgi</source_scheduler>
+<mod_time>1298808529</mod_time>
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active>0</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<leave_apps_in_memory/>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>3</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>20</disk_max_used_gb>
+<disk_max_used_pct>60</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>75</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>1</dont_verify_images>
+</global_preferences>
+";s:13:"project_prefs";s:178:"<project_preferences>
+<resource_share>100</resource_share>
+<no_cpu>1</no_cpu>
+<project_specific>
+<max_gfx_cpu_pct>10</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:1:"7";s:5:"venue";s:0:"";s:3:"url";s:0:"";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"7";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";s:0:"";s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"8dc007e87d602005f26be87e8544d94a";s:11:"passwd_hash";s:32:"0c215ce287cdf49397601191648ed32f";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}i:3;O:9:"BoincUser":28:{s:2:"id";s:3:"861";s:11:"create_time";s:10:"1256956860";s:10:"email_addr";s:17:"erkan77@gmail.com";s:4:"name";s:12:"Erkan Yilmaz";s:13:"authenticator";s:32:"066b035cc9d3df71a426afa1b7bf8917";s:7:"country";s:7:"Germany";s:11:"postal_code";s:0:"";s:12:"total_credit";s:15:"7018.5514508477";s:13:"expavg_credit";s:8:"0.080459";s:11:"expavg_time";s:16:"1269379502.44825";s:12:"global_prefs";s:2168:"<global_preferences>
+    <source_project>http://cpdnbeta.oerc.ox.ac.uk/</source_project>
+    <source_scheduler>http://cpdnbeta.oerc.ox.ac.uk/beta_cgi/cgi</source_scheduler>
+<mod_time>1259940480</mod_time>
+<run_on_batteries>0</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+<venue name="home">
+<run_on_batteries>1</run_on_batteries>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active>1</run_gpu_if_user_active>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<hangup_if_dialed>0</hangup_if_dialed>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.25</work_buf_additional_days>
+<max_cpus>16</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>100</disk_max_used_gb>
+<disk_max_used_pct>50</disk_max_used_pct>
+<disk_min_free_gb>0.001</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>90</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<dont_verify_images>0</dont_verify_images>
+</venue>
+</global_preferences>
+";s:13:"project_prefs";s:159:"<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<max_gfx_cpu_pct>20</max_gfx_cpu_pct>
+</project_specific>
+</project_preferences>
+";s:6:"teamid";s:3:"557";s:5:"venue";s:0:"";s:3:"url";s:17:"iaskquestions.com";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"0";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"1";s:16:"cross_project_id";s:32:"ef89e24698afe4832350c993c95e89cf";s:11:"passwd_hash";s:32:"8bd9d329c6808c4c5b3413b92a968846";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";}}}

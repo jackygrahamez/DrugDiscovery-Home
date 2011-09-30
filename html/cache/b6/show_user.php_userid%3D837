@@ -1,0 +1,90 @@
+O:8:"stdClass":2:{s:4:"user";O:9:"BoincUser":30:{s:2:"id";s:3:"837";s:11:"create_time";s:10:"1254149663";s:10:"email_addr";s:15:"punky260@web.de";s:4:"name";s:8:"Punky260";s:13:"authenticator";s:32:"34e9b8b926680954b50abc39fdff528e";s:7:"country";s:7:"Germany";s:11:"postal_code";s:5:"34346";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1254149663";s:12:"global_prefs";s:3004:"<global_preferences>
+<source_project>http://bam.boincstats.com/</source_project>
+<mod_time>1267609804</mod_time>
+<cpu_scheduling_period_minutes>777</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.5000000</work_buf_min_days>
+<work_buf_additional_days>1.0000000</work_buf_additional_days>
+<max_cpus>8</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>15</disk_interval>
+<disk_max_used_gb>10.0</disk_max_used_gb>
+<disk_max_used_pct>25</disk_max_used_pct>
+<disk_min_free_gb>5.0</disk_min_free_gb>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>75</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>85</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+<venue name="notmine">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>1</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.1000000</work_buf_min_days>
+<work_buf_additional_days>0.0000000</work_buf_additional_days>
+<max_cpus>4</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>1.0</disk_max_used_gb>
+<disk_max_used_pct>10</disk_max_used_pct>
+<disk_min_free_gb>10.0</disk_min_free_gb>
+<vm_max_used_pct>50</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>25</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>0</run_if_user_active>
+<run_gpu_if_user_active/>
+</venue>
+<venue name="Stick">
+<cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
+<idle_time_to_run>3</idle_time_to_run>
+<suspend_if_no_recent_input>0</suspend_if_no_recent_input>
+<work_buf_min_days>0.0100000</work_buf_min_days>
+<work_buf_additional_days>0.5000000</work_buf_additional_days>
+<max_cpus>2</max_cpus>
+<max_ncpus_pct>100</max_ncpus_pct>
+<cpu_usage_limit>100</cpu_usage_limit>
+<disk_interval>60</disk_interval>
+<disk_max_used_gb>1.0</disk_max_used_gb>
+<disk_max_used_pct>25</disk_max_used_pct>
+<disk_min_free_gb>0.1</disk_min_free_gb>
+<vm_max_used_pct>75</vm_max_used_pct>
+<ram_max_used_busy_pct>0</ram_max_used_busy_pct>
+<ram_max_used_idle_pct>0</ram_max_used_idle_pct>
+<max_bytes_sec_down>0</max_bytes_sec_down>
+<max_bytes_sec_up>0</max_bytes_sec_up>
+<start_hour>0</start_hour>
+<end_hour>0</end_hour>
+<net_start_hour>0</net_start_hour>
+<net_end_hour>0</net_end_hour>
+<run_if_user_active>1</run_if_user_active>
+<run_gpu_if_user_active/>
+</venue>
+</global_preferences>";s:13:"project_prefs";s:0:"";s:6:"teamid";s:3:"266";s:5:"venue";s:0:"";s:3:"url";s:29:"www.esl.eu/de/player/2002036/";s:10:"send_email";s:1:"1";s:10:"show_hosts";s:1:"1";s:5:"posts";s:1:"0";s:7:"seti_id";s:1:"0";s:13:"seti_nresults";s:1:"0";s:21:"seti_last_result_time";s:1:"0";s:14:"seti_total_cpu";s:1:"0";s:9:"signature";N;s:11:"has_profile";s:1:"0";s:16:"cross_project_id";s:32:"dcb9a174d575a071b6f0c990890cd2e2";s:11:"passwd_hash";s:32:"de23ff2b0619819e693367095a03c8ba";s:15:"email_validated";s:1:"0";s:7:"donated";s:1:"0";s:5:"prefs";O:15:"BoincForumPrefs":25:{s:6:"userid";s:3:"837";s:9:"signature";s:0:"";s:5:"posts";s:1:"0";s:9:"last_post";s:1:"0";s:6:"avatar";s:0:"";s:12:"hide_avatars";s:1:"0";s:13:"forum_sorting";s:1:"0";s:14:"thread_sorting";s:1:"8";s:23:"no_signature_by_default";s:1:"1";s:15:"images_as_links";s:1:"0";s:10:"link_popup";s:1:"0";s:22:"mark_as_read_timestamp";s:1:"0";s:12:"special_user";s:1:"0";s:14:"jump_to_unread";s:1:"1";s:15:"hide_signatures";s:1:"0";s:11:"rated_posts";s:0:"";s:20:"low_rating_threshold";s:3:"-25";s:21:"high_rating_threshold";s:1:"5";s:22:"minimum_wrap_postcount";s:3:"100";s:22:"display_wrap_postcount";s:2:"75";s:10:"ignorelist";s:0:"";s:19:"ignore_sticky_posts";s:1:"0";s:14:"banished_until";s:1:"0";s:15:"pm_notification";s:1:"0";s:17:"highlight_special";s:1:"1";}s:8:"projects";a:0:{}}s:3:"clo";O:8:"stdClass":3:{s:10:"post_count";s:1:"0";s:4:"user";r:2;s:4:"team";O:9:"BoincTeam":18:{s:2:"id";s:3:"266";s:11:"create_time";s:10:"1240405854";s:6:"userid";s:3:"281";s:4:"name";s:30:"Electronic Sports League (ESL)";s:7:"name_lc";s:30:"electronic sports league (esl)";s:3:"url";s:10:"www.esl.eu";s:4:"type";s:2:"11";s:9:"name_html";s:91:"<a href='http://www.esl.eu'><img src='http://www.abload.de/img/eslmasterbrandnp41.png'></a>";s:11:"description";s:1284:"<b>Daddelrechner ftw!</b><br><br><br>
+Die <b><i><a href=http://www.esl.eu/de/ target=_blank>Electronic Sports League (ESL)</a></i></b> ist die größte eSport-Liga in Europa.<br> Das "zocken" setzt normalerweise recht gute Hardware voraus, also die idealen Voraussetzungen für ein rechenstarkes BOINC-Team.
+<br><br>
+==============================================<br><br>
+The <b><i><a href=http://www.esl.eu/de/ target=_blank>Electronic Sports League (ESL)</a></i></b> is the biggest eSport-league in Europe.<br> Because it is necassary to have good Hardware for playing computer-games, these are the perfect conditions for a powerful BOINC-team.<br><br>
+<a href="http://www.esl.eu/de/boinc/"><img src="http://www.abload.de/img/teamprofil_bannerf622.jpg" /></a><br><br>
+<a href="http://de.boincstats.com/stats/boinc_team_graph.php?pr=bo&id=161784"><img src="http://www.boincstats.com/signature/team_project_bam39207.png" /></a><br><br>
+
+<u><b>Links:</b></u><br>
+<a href=http://www.esl.eu/de/boinc/ target=_blank>ESL.BOINC</a><br>
+<a href=http://www.esl.eu/de/forum/1206/ target=_blank>ESL.Forum</a><br>
+<a href=http://de.boincstats.com/stats/boinc_team_graph.php?pr=bo&id=161784 target=_blank>Boincstats.com</a><br>
+
+<br><b><i>The league that matters. Since 1997.</i></b>";s:6:"nusers";s:2:"19";s:7:"country";s:13:"International";s:12:"total_credit";s:15:"21864.098347664";s:13:"expavg_credit";s:7:"0.05514";s:11:"expavg_time";s:16:"1282852803.93316";s:7:"seti_id";s:3:"490";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";}}}

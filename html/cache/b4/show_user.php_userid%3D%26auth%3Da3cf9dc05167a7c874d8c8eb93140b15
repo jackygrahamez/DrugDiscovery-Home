@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>1795</id>
+    <cpid>307a87b8513d4d41b0e9f737c2e4ed04</cpid>
+    <create_time>1270839500</create_time>
+    <name>Reset@Alice</name>
+    <country>Japan</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1270839500</expavg_time>
+    <teamid>864</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3502</id>
+        <create_time>1271439124</create_time>
+        <rpc_seqno>94</rpc_seqno>
+        <host_cpid>33b2e1154b6eb029927d82862070c945</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1271439124</expavg_time>
+        <domain_name>Reset-MAIN-PC</domain_name>
+        <p_ncpus>12</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 980  @ 3.33GHz [Family 6 Model 44 Stepping 2]</p_model>
+        <p_fpops>3156522965.2353</p_fpops>
+        <p_iops>9673306062.39221</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4030</id>
+        <create_time>1274970901</create_time>
+        <rpc_seqno>1</rpc_seqno>
+        <host_cpid>8ad2e18dfae4ba82e8d1062457cc603b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1274970901</expavg_time>
+        <domain_name>Alice-Server</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU         965  @ 3.20GHz [Family 6 Model 26 Stepping 4]</p_model>
+        <p_fpops>3023996842.41421</p_fpops>
+        <p_iops>9569305719.43578</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6736</id>
+        <create_time>1291526713</create_time>
+        <rpc_seqno>3</rpc_seqno>
+        <host_cpid>480a3ef61c040445e886ee26494ba36c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1291526713</expavg_time>
+        <domain_name>Dental-Server</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q9650  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3153121738.83388</p_fpops>
+        <p_iops>6434884817.48197</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Business x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,2836 @@
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 473.
+"my" variable $pid masks earlier declaration in same scope at bin/rcs_mdrun.pl line 505.
+Name "main::make_ndx" used only once: possible typo at bin/rcs_mdrun.pl line 53.
+Name "main::rsc_memory_bound" used only once: possible typo at bin/rcs_mdrun.pl line 28.
+Name "main::g_energy" used only once: possible typo at bin/rcs_mdrun.pl line 55.
+Name "main::protein_lig" used only once: possible typo at bin/rcs_mdrun.pl line 54.
+date
+Sun Jan 10 21:45:04 GMT 2010
+11
+Checking if script is running
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp
+mv /home/boincadm/projects/DrugDiscovery/sample_results/rcs_*.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1932179
+Compressed: 97987
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       969287
+Compressed: 48322
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1236250
+Compressed: 65304
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1219093
+Compressed: 63898
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000/*
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25172_ChemDiv_3698-0050_ts_1263029750242135000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000.7z
+
+Extracting  out.dlg
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1760909
+Compressed: 87317
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_27820_ChemDiv_C301-3537_ts_1262675953998324000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1377671
+Compressed: 63093
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_32206_ChemDiv_5954-1048_ts_1262734271284485000
+date
+Sun Jan 10 21:45:05 GMT 2010
+11
+Checking if script is running
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+cp /home/boincadm/projects/DrugDiscovery/bin/receptor.pdb /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+7za e -y -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 15
+Size:       1165465
+Compressed: 59976
+chmod a+r /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000/*
+rm -rf /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/*_score.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.txt
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.txt | sort -k2n -t, > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.sort
+cat all_scores.txt | awk '{ print substr($1, 0, match($0, ", ") - 1) }' | head > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rank.sort
+cp /home/boincadm/projects/DrugDiscovery/sample_results/tmp/all_scores.sort /home/boincadm/projects/DrugDiscovery/sample_results/scores_1263159904584187000.txt
+date
+Sun Jan 10 21:45:05 GMT 2010
+Random Number: 809237
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1932179
+Compressed: 97987
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_37414_ChemDiv_C613-0018_ts_1262761605947782000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 24205_ChemDiv_5754-2873
+ts: 1263004110202172000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263159905420996000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_6.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_6.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_6.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000/ligand_BE.pdbqt
+
+Filesize: 3505
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+85 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+DEBUG: PID: 25278, PIDS: 25278 25281 25283
+==> Timed out! Process 25278 25281 25283 killed, max exec time (120s) exceeded
+ACPYPI FAILED: MOPAC taking too long to finish... aborting!
+  File "/usr/local/bin/acpypi", line 3003, in ?
+    molecule.createACTopol()
+  File "/usr/local/bin/acpypi", line 1199, in createACTopol
+    if self.execTleap():
+  File "/usr/local/bin/acpypi", line 1053, in execTleap
+    if self.execAntechamber():
+  File "/usr/local/bin/acpypi", line 935, in execAntechamber
+    out = p.stdout.read()
+  File "/usr/local/bin/acpypi", line 951, in signal_handler
+    raise Exception("MOPAC taking too long to finish... aborting!")
+Total time of execution: 2m
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Scanning
+
+Updating archive /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+
+
+
+System error:
+E_NOTIMPL                
+7za a /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000
+rm -rf/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263004110202172000.7z
+rm: invalid option -- /
+Try `rm --help' for more information.
+date
+Sun Jan 10 21:47:06 GMT 2010
+Random Number: 280730
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       969287
+Compressed: 48322
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24205_ChemDiv_5754-2873_ts_1263159905420996000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 24411_ChemDiv_N043-0002
+ts: 1263009934628255000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263160026299792000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_1.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_1.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_1.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000/ligand_BE.pdbqt
+
+Filesize: 1891
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+58 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Running: /usr/local/antechamber-1.27/exe/bondtype -i ANTECHAMBER_BOND_TYPE.AC0 -o ANTECHAMBER_BOND_TYPE.AC -f ac -j full
+
+Warning: the assigned bond types may be wrong, please : 
+(1) double check the structure (the connectivity) and/or 
+(2) adjust atom valence penalty parameters in APS.DAT, and/or 
+(3) increase MAXVASTATE in define.h and recompile bondtype.C
+(4) increase PSCUTOFF in define.h and recompile bondtype.C
+    Be cautious, use a large value of PSCUTOFF (>10) will significantly increase the computer time
+Error: cannot run "/usr/local/antechamber-1.27/exe/bondtype -i ANTECHAMBER_BOND_TYPE.AC0 -o ANTECHAMBER_BOND_TYPE.AC -f ac -j full" in judgebondtype() of antechamber.c properly, exit
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Antechamber failed
+DEBUG: /usr/local/antechamber-1.27/exe/parmchk -i Ligand_bcc_gaff.mol2 -f mol2 -o Ligand_AC.frcmod
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Cannot open file Ligand_bcc_gaff.mol2, exit
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Parmchk failed
+ERROR: Tleap failed
+==> ... trying Sleap
+==> Executing Sleap...
+DEBUG: which: no sleap in (/usr/local/gromacs/bin/:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/antechamber-1.27:/usr/local/antechamber-1.27/exe:/home/boincadm/bin) -f sleap.in
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `which: no sleap in (/usr/local/gromacs/bin/:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/antechamber-1.27:/usr/local/antechamber-1.27/exe:/home/boincadm/bin) -f sleap.in'
+
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERROR: Sleap failed
+ACPYPI FAILED: [Errno 2] No such file or directory: 'Ligand_AC.prmtop'
+  File "/usr/local/bin/acpypi", line 3004, in ?
+    molecule.createMolTopol()
+  File "/usr/local/bin/acpypi", line 1214, in createMolTopol
+    self.topFileData = open(self.acTopFileName, 'r').readlines()
+Total time of execution: less than a second
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Scanning
+
+Updating archive /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+
+
+
+System error:
+E_NOTIMPL                
+7za a /home/boincadm/projects/DrugDiscovery/html/ops/complexes//home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000
+rm -rf/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263009934628255000.7z
+rm: invalid option -- /
+Try `rm --help' for more information.
+date
+Sun Jan 10 21:47:07 GMT 2010
+Random Number: 654205
+46% full
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+mkdir /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000
+7za e -o/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000 /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+7-Zip (A) 4.61 beta  Copyright (c) 1999-2008 Igor Pavlov  2008-11-23
+p7zip Version 4.61 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000.7z
+
+Extracting  out_1.dlg
+Extracting  out_2.dlg
+Extracting  out_3.dlg
+Extracting  out_4.dlg
+Extracting  out_5.dlg
+Extracting  out_6.dlg
+Extracting  out_7.dlg
+Extracting  job.xml
+Extracting  score.txt
+Extracting  summary_1.txt
+Extracting  summary_2.txt
+Extracting  summary_3.txt
+Extracting  summary_4.txt
+Extracting  summary_5.txt
+Extracting  summary_6.txt
+Extracting  summary_7.txt
+Extracting  ligand_receptor_1.dpf
+Extracting  ligand_receptor_2.dpf
+Extracting  ligand_receptor_3.dpf
+Extracting  ligand_receptor_4.dpf
+Extracting  ligand_receptor_5.dpf
+Extracting  ligand_receptor_6.dpf
+Extracting  ligand_receptor_7.dpf
+
+Everything is Ok
+
+Files: 23
+Size:       1236250
+Compressed: 65304
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_24411_ChemDiv_N043-0002_ts_1263160026299792000
+bt: Fzd2-MD7-MD8-7.zip
+lig: 25088_ChemDiv_D004-0026
+ts: 1263027527977600000
+
+nsteps_5000000_int_0_-_10000_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263160027078045000
+cat /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/summary_*.txt > /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/all_summary.txt
+sed '/#dlgfn/d' /home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/all_summary.txt | sort -k3n -t, | head -n 1 > top_score.txt
+Top PDBQT: out_7.pdb score index: 5
+cp /home/boincadm/projects/DrugDiscovery/biotarget/out_7.pdb .
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/write_lowest_energy_ligand.py -f out_7.dlg
+setting PYTHONHOME environment
+/home/boincadm/projects/DrugDiscovery/sample_results/tmp/rcs_ga_run_10_bt_Fzd2-MD7-MD8-7.zip_lig_25088_ChemDiv_D004-0026_ts_1263027527977600000/ligand_BE.pdbqt
+
+Filesize: 2309
+/usr/local/bin/pythonsh /usr/local/MGLTools-1.5.4/MGLToolsPckgs/AutoDockTools/Utilities24/pdbqt_to_pdb.py -f ligand_BE.pdbqt -o ligand_BE.pdb
+setting PYTHONHOME environment
+1 molecule converted
+57 audit log messages 
+babel -ipdb ligand_BE.pdb -opdb ligand_BE.pdb -h
+sed -i 's/UNL/LIG/g' ligand_BE.pdb
+grep LIG ligand_BE.pdb > Ligand.pdb
+/usr/local/bin/acpypi -d -n 0 -i Ligand.pdb -s 120
+====================================================================================================
+| ACPYPI: AnteChamber PYthon Parser Interface v. 2009-07-19 21:42:04Z Rev: 251 (c) 2008-2009 AWSdS |
+====================================================================================================
+DEBUG: Max execution time tolerance is 2m
+DEBUG: setResNameCheckCoords done
+==> ... charge set to 0
+==> ... converting pdb input file to mol2 input file
+DEBUG: /usr/local/bin/babel -ipdb Ligand.pdb -omol2 Ligand.mol2
+==> * Babel OK *
+==> Executing Antechamber...
+==> Debugging...
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand.mol2 -fi mol2 -o Ligand_bcc_gaff.mol2 -fo mol2 -c bcc -nc 0 -m 1 -s 2 -df 0 -at gaff -pf n
+==> * Antechamber OK *
+DEBUG: /usr/local/antechamber-1.27/exe/parmchk -i Ligand_bcc_gaff.mol2 -f mol2 -o Ligand_AC.frcmod
+==> * Parmchk OK *
+==> Executing Tleap...
+DEBUG: /usr/local/antechamber-1.27/exe/tleap -f tleap.in
+++++++++++start_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Checking 'LIG'....
+Warning: Close contact of 2.144003 angstroms between .R<LIG 1>.A<O 4> and .R<LIG 1>.A<H4 27>
+Warning: Close contact of 2.107859 angstroms between .R<LIG 1>.A<C1 5> and .R<LIG 1>.A<C7 11>
+Warning: Close contact of 1.772513 angstroms between .R<LIG 1>.A<C5 9> and .R<LIG 1>.A<H1 24>
+Warning: Close contact of 1.800605 angstroms between .R<LIG 1>.A<C6 10> and .R<LIG 1>.A<H4 27>
+Warning: Close contact of 1.300307 angstroms between .R<LIG 1>.A<C8 12> and .R<LIG 1>.A<H5 28>
+Warning: Close contact of 1.363629 angstroms between .R<LIG 1>.A<C9 13> and .R<LIG 1>.A<H5 28>
+Warning: Close contact of 1.717466 angstroms between .R<LIG 1>.A<O2 15> and .R<LIG 1>.A<H 23>
+Warning: Close contact of 1.967171 angstroms between .R<LIG 1>.A<H1 24> and .R<LIG 1>.A<H2 25>
+Warning: Close contact of 2.012075 angstroms between .R<LIG 1>.A<H3 26> and .R<LIG 1>.A<H4 27>
+Checking parameters for unit 'LIG'.
+Checking for bond parameters.
+Checking for angle parameters.
+check:  Warnings: 9
+Unit is OK.
+++++++++++end_quote+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+==> * Tleap OK *
+DEBUG: prmtop and inpcrd files loaded
+DEBUG: basename defined = 'Ligand'
+DEBUG: charge to be balanced: total -0.0000000005
+DEBUG: balanceCharges done
+DEBUG: getCoords done
+DEBUG: getABCOEFs done
+DEBUG: Balanced TotalCharge  0.0000000000
+DEBUG: PBC = 'None
+DEBUG: getAtoms done
+DEBUG: getBonds done
+DEBUG: getAngles done
+DEBUG: getDihedrals done
+==> Writing NEW PDB file
+
+==> Writing CNS/XPLOR files
+
+==> Writing GROMACS files
+
+DEBUG: writing GRO file
+DEBUG: Box size estimated
+DEBUG: atomTypes 14
+DEBUG: GMX atomtypes done
+DEBUG: atoms 33
+DEBUG: GMX atoms done
+DEBUG: bonds 37
+DEBUG: GMX bonds done
+DEBUG: atomPairs 72
+DEBUG: GMX pairs done
+DEBUG: angles 65
+DEBUG: GMX angles done
+DEBUG: setProperDihedralsCoefRB done
+DEBUG: properDihedralsCoefRB 109
+DEBUG: GMX proper dihedrals done
+DEBUG: improperDihedrals 11
+DEBUG: GMX improper dihedrals done
+==> Writing CHARMM files
+
+DEBUG: /usr/local/antechamber-1.27/exe/antechamber -i Ligand_bcc_gaff.mol2 -fi mol2 -o Ligand_CHARMM -fo charmm -s 2 -df 0 -at gaff         -pf n -rn LIG
+==> Writing pickle file Ligand.pkl
+Total time of execution: 13s
+pdb2gmx -ff amber99sb -f out_7.pdb -o Protein2.pdb -p Protein.top -water spce -ignh
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                       GRowing Old MAkes el Chrono Sweat
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                               :-)  pdb2gmx  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f      out_7.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -o   Protein2.pdb  Output       Structure file: gro g96 pdb
+  -p    Protein.top  Output       Topology file
+  -i      posre.itp  Output       Include file for topology
+  -n      clean.ndx  Output, Opt. Index file
+  -q      clean.pdb  Output, Opt. Structure file: gro g96 pdb
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]merge   bool   no      Merge chains into one molecule definition
+-ff          string amber99sb  Force field, interactive by default. Use -h
+                            for information.
+-water       enum   spce    Water model to use: with GROMOS we recommend SPC,
+                            with OPLS, TIP4P: spc, spce, tip3p, tip4p, tip5p
+                            or f3c
+-[no]inter   bool   no      Set the next 8 options to interactive
+-[no]ss      bool   no      Interactive SS bridge selection
+-[no]ter     bool   no      Interactive termini selection, iso charged
+-[no]lys     bool   no      Interactive Lysine selection, iso charged
+-[no]arg     bool   no      Interactive Arganine selection, iso charged
+-[no]asp     bool   no      Interactive Aspartic Acid selection, iso charged
+-[no]glu     bool   no      Interactive Glutamic Acid selection, iso charged
+-[no]gln     bool   no      Interactive Glutamine selection, iso neutral
+-[no]his     bool   no      Interactive Histidine selection, iso checking
+                            H-bonds
+-angle       real   135     Minimum hydrogen-donor-acceptor angle for a
+                            H-bond (degrees)
+-dist        real   0.3     Maximum donor-acceptor distance for a H-bond (nm)
+-[no]una     bool   no      Select aromatic rings with united CH atoms on
+                            Phenylalanine, Tryptophane and Tyrosine
+-[no]ignh    bool   yes     Ignore hydrogen atoms that are in the pdb file
+-[no]missing bool   no      Continue when atoms are missing, dangerous
+-[no]v       bool   no      Be slightly more verbose in messages
+-posrefc     real   1000    Force constant for position restraints
+-vsite       enum   none    Convert atoms to virtual sites: none, hydrogens
+                            or aromatics
+-[no]heavyh  bool   no      Make hydrogen atoms heavy
+-[no]deuterate bool no      Change the mass of hydrogens to 2 amu
+
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/xlateat.dat
+26 out of 26 lines of xlateat.dat converted succesfully
+All occupancy fields zero. This is probably not an X-Ray structure
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.atp
+Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1Atomtype 1
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.rtp
+Residue 1Residue 2Residue 3Residue 4Residue 5Residue 6Residue 7Residue 8Residue 9Residue 10Residue 11Residue 12Residue 13Residue 14Residue 15Residue 16Residue 17Residue 18Residue 19Residue 20Residue 21Residue 22Residue 23Residue 24Residue 25Residue 26Residue 27Residue 28Residue 29Residue 30Residue 31Residue 32Residue 33Residue 34Residue 35Residue 36Residue 37Residue 38Residue 39Residue 40Residue 41Residue 42Residue 43Residue 44Residue 45Residue 46Residue 47Residue 48Residue 49Residue 50Residue 51Residue 52Residue 53Residue 54Residue 55Residue 56Residue 57Residue 58Residue 59Residue 60Residue 61Residue 62Residue 63Residue 64Residue 65Residue 66Residue 67Residue 68Residue 69Residue 70Residue 71Residue 72Residue 73Residue 74Residue 75Residue 76Residue 77Residue 78Residue 79Residue 80Residue 81Residue 82Residue 83Residue 84Residue 85Residue 86Residue 87Residue 88Residue 89Residue 90Residue 91Residue 92Residue 93Residue 94Residue 95Residue 96Residue 97Residue 98Residue 99Residue 100Residue 101Residue 102Residue 103Residue 104Residue 105Residue 106Residue 107Residue 108Residue 109Residue 110Residue 111Residue 112Residue 113Residue 114Residue 115Residue 116Residue 117Residue 118Residue 119Residue 120Residue 121Residue 122Residue 123Residue 124Residue 125Residue 126Residue 127Residue 128Residue 129Residue 130Residue 131Residue 132Residue 133Residue 134Residue 135Residue 136Residue 137Residue 138Residue 139Residue 140Residue 141
+Sorting it all out...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.hdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-n.tdb
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb-c.tdb
+There are 308 donors and 304 acceptors
+There are 376 hydrogen bonds
+Opening library file /usr/local/gromacs/share/gromacs/top/specbond.dat
+7 out of 7 lines of specbond.dat converted succesfully
+Special Atom Distance matrix:
+                   MET19   MET53   MET79  MET123  MET157
+                   SD145   SD418   SD620   SD981  SD1254
+   MET53   SD418   1.357
+   MET79   SD620   2.314   1.129
+  MET123   SD981   3.906   3.903   4.848
+  MET157  SD1254   3.527   3.288   4.116   1.227
+  MET183  SD1456   4.541   3.989   4.567   2.094   1.278
+Making bonds...
+Warning: Long Bond (28-30 = 0.396244 nm)
+Warning: Long Bond (141-143 = 0.410905 nm)
+Warning: Long Bond (371-373 = 0.40186 nm)
+Warning: Long Bond (510-512 = 0.323461 nm)
+Warning: Long Bond (672-674 = 0.403294 nm)
+Warning: Long Bond (814-816 = 0.318088 nm)
+Warning: Long Bond (903-905 = 0.355581 nm)
+Warning: Long Bond (1041-1043 = 0.424275 nm)
+Warning: Long Bond (1095-1097 = 0.347007 nm)
+Warning: Long Bond (1192-1194 = 0.371545 nm)
+Warning: Long Bond (1473-1475 = 0.31877 nm)
+Warning: Long Bond (1488-1490 = 0.360565 nm)
+Warning: Long Bond (1546-1548 = 0.417171 nm)
+Warning: Long Bond (1614-1616 = 0.498261 nm)
+Warning: Long Bond (1668-1670 = 3.44603 nm)
+Warning: Long Bond (1695-1697 = 0.462501 nm)
+Warning: Long Bond (1808-1810 = 0.394043 nm)
+Warning: Long Bond (2038-2040 = 0.429452 nm)
+Warning: Long Bond (2177-2179 = 0.308299 nm)
+Warning: Long Bond (2339-2341 = 0.409908 nm)
+Warning: Long Bond (2481-2483 = 0.330817 nm)
+Warning: Long Bond (2570-2572 = 0.426814 nm)
+Warning: Long Bond (2708-2710 = 0.482843 nm)
+Warning: Long Bond (2762-2764 = 0.325158 nm)
+Warning: Long Bond (2859-2861 = 0.371098 nm)
+Warning: Long Bond (3140-3142 = 0.335143 nm)
+Warning: Long Bond (3155-3157 = 0.354735 nm)
+Warning: Long Bond (3213-3215 = 0.357977 nm)
+Warning: Long Bond (3281-3283 = 0.421817 nm)
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Number of bonds was 3380, now 3379
+Generating angles, dihedrals and pairs...
+Before cleaning: 8910 pairs
+Before cleaning: 9020 dihedrals
+Keeping all generated dihedrals
+There are 9020 dihedrals,  686 impropers, 6125 angles
+          8844 pairs,     3379 bonds and     0 virtual sites
+Total mass 23663.292 a.m.u.
+Total charge -3.000 e
+Writing topology
+
+Writing coordinate file...
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Reading out_7.pdb...
+Read 1672 atoms
+Analyzing pdb file
+There are 1 chains and 0 blocks of water and 208 residues with 1672 atoms
+
+  chain  #res #atoms
+  1 ' '   208   1672  
+
+Reading residue database... (ffamber99sb)
+Processing chain 1 (1672 atoms, 208 residues)
+Checking for duplicate atoms....
+N-terminus: none
+C-terminus: none
+Now there are 208 residues with 3336 atoms
+		--------- PLEASE NOTE ------------
+You have succesfully generated a topology from: out_7.pdb.
+The amber99sb force field and the spce water model are used.
+Note that the default mechanism for selecting a force fields has
+changed, starting from GROMACS version 3.2.0
+		--------- ETON ESAELP ------------
+
+gcq#146: "A Protein is a Set Of Coordinates" (A.P. Heiner)
+
+grep -h ATOM Protein2.pdb Ligand.acpypi/Ligand_NEW.pdb >| Complex.pdb
+cp Ligand.acpypi/Ligand_GMX.itp Ligand.itp
+cp Protein.top Complex.top
+cat Complex.top | sed '/#include \"ffamber99sb.itp\"/a #include "Ligand.itp"' >| Complex2.top
+echo "Ligand   1" >> Complex2.top
+mv Complex2.top Complex.top
+cp /home/boincadm/projects/DrugDiscovery/bin/em.mdp .
+cp /home/boincadm/projects/DrugDiscovery/bin/em_r.mdp .
+cp /home/boincadm/projects/DrugDiscovery/bin/pr.mdp .
+editconf -bt triclinic -f Complex.pdb -o Complex.pdb -d 1.0
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                     Gnomes, ROck Monsters And Chili Sauce
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                               :-)  editconf  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f    Complex.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -o    Complex.pdb  Output, Opt! Structure file: gro g96 pdb
+-mead      mead.pqr  Output, Opt. Coordinate file for MEAD
+ -bf      bfact.dat  Input, Opt.  Generic data file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]w       bool   no      View output xvg, xpm, eps and pdb files
+-[no]ndef    bool   no      Choose output from default index groups
+-bt          enum   triclinic  Box type for -box and -d: triclinic, cubic,
+                            dodecahedron or octahedron
+-box         vector 0 0 0   Box vector lengths (a,b,c)
+-angles      vector 90 90 90  Angles between the box vectors (bc,ac,ab)
+-d           real   1       Distance between the solute and the box
+-[no]c       bool   no      Center molecule in box (implied by -box and -d)
+-center      vector 0 0 0   Coordinates of geometrical center
+-translate   vector 0 0 0   Translation
+-rotate      vector 0 0 0   Rotation around the X, Y and Z axes in degrees
+-[no]princ   bool   no      Orient molecule(s) along their principal axes
+-scale       vector 1 1 1   Scaling factor
+-density     real   1000    Density (g/l) of the output box achieved by
+                            scaling
+-[no]pbc     bool   no      Remove the periodicity (make molecule whole again)
+-[no]grasp   bool   no      Store the charge of the atom in the B-factor
+                            field and the radius of the atom in the occupancy
+                            field
+-rvdw        real   0.12    Default Van der Waals radius (in nm) if one can
+                            not be found in the database or if no parameters
+                            are present in the topology file
+-sig56       real   0       Use rmin/2 (minimum in the Van der Waals
+                            potential) rather than sigma/2 
+-[no]vdwread bool   no      Read the Van der Waals radii from the file
+                            vdwradii.dat rather than computing the radii
+                            based on the force field
+-[no]atom    bool   no      Force B-factor attachment per atom
+-[no]legend  bool   no      Make B-factor legend
+-label       string A       Add chain label for all residues
+
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+
+Back Off! I just backed up Complex.pdb to ./#Complex.pdb.1#
+
+gcq#146: "A Protein is a Set Of Coordinates" (A.P. Heiner)
+
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Read 3369 atoms
+No velocities found
+    system size :  6.415  3.833  5.301 (nm)
+    center      :  4.887  2.916  3.010 (nm)
+    box vectors :  0.000  0.000  0.000 (nm)
+    box angles  :   0.00   0.00   0.00 (degrees)
+    box volume  :   0.00               (nm^3)
+    shift       : -0.679  0.000  0.641 (nm)
+new center      :  4.208  2.916  3.651 (nm)
+new box vectors :  8.415  5.833  7.301 (nm)
+new box angles  :  90.00  90.00  90.00 (degrees)
+new box volume  : 358.39               (nm^3)
+
+WARNING: No boxtype specified - distance condition applied in each dimension.
+If the molecule rotates the actual distance will be smaller. You might want
+to use a cubic box instead, or why not try a dodecahedron today?
+genbox -cp Complex.pdb -cs ffamber_tip3p.gro -o Complex_b4ion.pdb -p Complex.top
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                     Gnomes, ROck Monsters And Chili Sauce
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  genbox  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+ -cp    Complex.pdb  Input, Opt!  Structure file: gro g96 pdb tpr tpb tpa
+ -cs ffamber_tip3p.gro  Input, Opt!, Lib. Structure file: gro g96 pdb tpr tpb
+                                   tpa
+ -ci     insert.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -o Complex_b4ion.pdb  Output       Structure file: gro g96 pdb
+  -p    Complex.top  In/Out, Opt! Topology file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-box         vector 0 0 0   box size
+-nmol        int    0       no of extra molecules to insert
+-try         int    10      try inserting -nmol*-try times
+-seed        int    1997    random generator seed
+-vdwd        real   0.105   default vdwaals distance
+-shell       real   0       thickness of optional water layer around solute
+-maxsol      int    0       maximum number of solvent molecules to add if
+                            they fit in the box. If zero (default) this is
+                            ignored
+-[no]vel     bool   no      keep velocities from input solute and solvent
+
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/atommass.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/vdwradii.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/dgsolv.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/electroneg.dat
+Opening library file /usr/local/gromacs/share/gromacs/top/elements.dat
+Reading solute configuration
+Gnomes, ROck Monsters And Chili Sauce
+Containing 3369 atoms in 209 residues
+Initialising van der waals distances...
+Reading solvent configuration
+"TIP3P "
+solvent configuration contains 1536 atoms in 512 residues
+
+Initialising van der waals distances...
+Will generate new solvent configuration of 4x3x3 boxes
+Generating configuration
+Sorting configuration
+Found 1 molecule type:
+    SOL (   3 atoms): 18432 residues
+Calculating Overlap...
+box_margin = 0.315
+Removed 15498 atoms that were outside the box
+Succesfully made neighbourlist
+nri = 80272, nrj = 2596958
+Checking Protein-Solvent overlap: tested 71957 pairs, removed 3582 atoms.
+Checking Solvent-Solvent overlap: tested 386219 pairs, removed 4149 atoms.
+Added 10689 molecules
+Generated solvent containing 32067 atoms in 10689 residues
+Writing generated configuration to Complex_b4ion.pdb
+Gnomes, ROck Monsters And Chili Sauce
+
+Output configuration contains 35436 atoms in 10898 residues
+Volume                 :     358.387 (nm^3)
+Density                :     1351.52 (g/l)
+Number of SOL molecules:  10689   
+
+Processing topology
+
+Back Off! I just backed up Complex.top to ./#Complex.top.1#
+
+gcq#255: "This is Tense !" (Star Wars Episode I The Phantom Menace)
+
+WARNING: masses will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in atommass.dat: 178
+WARNING: vdwradii will be determined based on residue and atom names,
+         this can deviate from the real mass of the atom type
+Entries in vdwradii.dat: 29
+Entries in dgsolv.dat: 7
+Entries in electroneg.dat: 71
+Entries in elements.dat: 218
+Neighborsearching with a cut-off of 0.48
+Table routines are used for coulomb: FALSE
+Table routines are used for vdw:     FALSE
+Cut-off's:   NS: 0.48   Coulomb: 0.48   LJ: 0.48
+System total charge: 0.000
+Grid: 21 x 15 x 19 cells
+Adding line for 10689 solvent molecules to topology file (Complex.top)
+grompp -f em_r.mdp -c Complex_b4ion.pdb -p Complex.top -o Complex_b4ion.tpr
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f       em_r.mdp  Input, Opt!  grompp input file with MD parameters
+ -po      mdout.mdp  Output       grompp input file with MD parameters
+  -c Complex_b4ion.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -r       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+ -rb       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -p    Complex.top  Input        Topology file
+ -pp  processed.top  Output, Opt. Topology file
+  -o Complex_b4ion.tpr  Output       Run input file: tpr tpb tpa
+  -t       traj.trr  Input, Opt.  Full precision trajectory: trr trj cpt
+  -e       ener.edr  Input, Opt.  Energy file: edr ene
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]v       bool   yes     Be loud and noisy
+-time        real   -1      Take frame at or first after this time.
+-[no]rmvsbds bool   yes     Remove constant bonded interactions with virtual
+                            sites
+-maxwarn     int    0       Number of allowed warnings during input processing
+-[no]zero    bool   no      Set parameters for bonded interactions without
+                            defaults to zero instead of generating an error
+-[no]renum   bool   yes     Renumber atomtypes and minimize number of
+                            atomtypes
+
+checking input for internal consistency...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbnb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbbon.itp
+Generated 3828 of the 3828 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+Generated 3828 of the 3828 1-4 parameter combinations
+Opening library file /usr/local/gromacs/share/gromacs/top/spce.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ions.itp
+Excluding 3 bonded neighbours molecule type 'Protein'
+Excluding 3 bonded neighbours molecule type 'Ligand'
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+NOTE 1 [file Complex.top, line 31452]:
+  System has non-zero total charge: -2.999998e+00
+  
+
+
+processing coordinates...
+double-checking input for internal consistency...
+Reading position restraint coords from Complex_b4ion.pdb
+renumbering atomtypes...
+converting bonded parameters...
+initialising group options...
+processing index file...
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Making dummy/rest group for T-Coupling containing 35436 elements
+Making dummy/rest group for Acceleration containing 35436 elements
+Making dummy/rest group for Freeze containing 35436 elements
+Making dummy/rest group for Energy Mon. containing 35436 elements
+Making dummy/rest group for VCM containing 35436 elements
+Number of degrees of freedom in T-Coupling group rest is 70822.00
+Making dummy/rest group for User1 containing 35436 elements
+Making dummy/rest group for User2 containing 35436 elements
+Making dummy/rest group for XTC containing 35436 elements
+Making dummy/rest group for Or. Res. Fit containing 35436 elements
+Making dummy/rest group for QMMM containing 35436 elements
+T-Coupling       has 1 element(s): rest
+Energy Mon.      has 1 element(s): rest
+Acceleration     has 1 element(s): rest
+Freeze           has 1 element(s): rest
+User1            has 1 element(s): rest
+User2            has 1 element(s): rest
+VCM              has 1 element(s): rest
+XTC              has 1 element(s): rest
+Or. Res. Fit     has 1 element(s): rest
+QMMM             has 1 element(s): rest
+Checking consistency between energy and charge groups...
+Estimate for the relative computational load of the PME mesh part: 0.27
+writing run input file...
+
+There was 1 note
+
+gcq#18: "You Should Sleep Late Man, It's Much Easier On Your Constitution" (Beastie Boys)
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                God Rules Over Mankind, Animals, Cosmos and Such
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  grompp  (-:
+
+processing topology...
+turning all bonds into constraints...
+turning all bonds into constraints...
+turning all bonds into constraints...
+Analysing residue names:
+There are: 10690      OTHER residues
+There are:   208    PROTEIN residues
+There are:     0        DNA residues
+Analysing Protein...
+Analysing Other...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x49x63, spacing 0.117 0.119 0.116
+This run will generate roughly 4 Mb of data
+cp Complex.top Complex_ion.top
+echo 13| genion -s Complex_b4ion.tpr -o Complex_b4em.pdb -neutral -conc 0.15 -p Complex_ion.top -norandom
+                         :-)  G  R  O  M  A  C  S  (-:
+
+               GRoups of Organic Molecules in ACtion for Science
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  genion  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -s Complex_b4ion.tpr  Input        Run input file: tpr tpb tpa
+-table    table.xvg  Input, Opt.  xvgr/xmgr file
+  -n      index.ndx  Input, Opt.  Index file
+  -o Complex_b4em.pdb  Output       Structure file: gro g96 pdb
+  -g     genion.log  Output       Log file
+-pot        pot.pdb  Output, Opt. Protein data bank file
+  -p Complex_ion.top  In/Out, Opt! Topology file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-[no]xvgr    bool   yes     Add specific codes (legends etc.) in the output
+                            xvg files for the xmgrace program
+-np          int    0       Number of positive ions
+-pname       string Na      Name of the positive ion
+-pq          int    1       Charge of the positive ion
+-nn          int    0       Number of negative ions
+-nname       string Cl      Name of the negative ion
+-nq          int    -1      Charge of the negative ion
+-rmin        real   0.6     Minimum distance between ions
+-[no]random  bool   no      Use random placement of ions instead of based on
+                            potential. The rmin option should still work
+-seed        int    1993    Seed for random number generator
+-scale       real   0.001   Scaling factor for the potential for -pot
+-conc        real   0.15    Specify salt concentration (mol/liter). This will
+                            add sufficient ions to reach up to the specified
+                            concentration as computed from the volume of the
+                            cell in the input tpr file. Overrides the -np and
+                            nn options.
+-[no]neutral bool   yes     This option will add enough ions to neutralize
+                            the system. In combination with the concentration
+                            option a neutral system at a given salt
+                            concentration will be generated.
+
+WARNING: turning of free energy, will use lambda=0
+Reading file Complex_b4ion.tpr, VERSION 4.0.5 (single precision)
+Using a coulomb cut-off of 1 nm
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Group     0 (      System) has 35436 elements
+Group     1 (     Protein) has  3336 elements
+Group     2 (   Protein-H) has  1672 elements
+Group     3 (     C-alpha) has   208 elements
+Group     4 (    Backbone) has   624 elements
+Group     5 (   MainChain) has   832 elements
+Group     6 (MainChain+Cb) has  1026 elements
+Group     7 ( MainChain+H) has  1022 elements
+Group     8 (   SideChain) has  2314 elements
+Group     9 ( SideChain-H) has   840 elements
+Group    10 ( Prot-Masses) has  3336 elements
+Group    11 ( Non-Protein) has 32100 elements
+Group    12 (         LIG) has    33 elements
+Group    13 (         SOL) has 32067 elements
+Group    14 (       Other) has 32100 elements
+Select a group: Number of (3-atomic) solvent molecules: 10689
+
+Back Off! I just backed up Complex_ion.top to ./#Complex_ion.top.1#
+Doing single force calculation...
+Replacing solvent molecule 6975 (atom 24294) with Na
+Doing single force calculation...
+Replacing solvent molecule 2970 (atom 12279) with Na
+Doing single force calculation...
+Replacing solvent molecule 5354 (atom 19431) with Na
+Doing single force calculation...
+Replacing solvent molecule 5528 (atom 19953) with Na
+Doing single force calculation...
+Replacing solvent molecule 7926 (atom 27147) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2415 (atom 10614) with Na
+Doing single force calculation...
+Replacing solvent molecule 124 (atom 3741) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8426 (atom 28647) with Na
+Doing single force calculation...
+Replacing solvent molecule 1329 (atom 7356) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2567 (atom 11070) with Na
+Doing single force calculation...
+Replacing solvent molecule 1709 (atom 8496) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8600 (atom 29169) with Na
+Doing single force calculation...
+Replacing solvent molecule 545 (atom 5004) with Cl
+Doing single force calculation...
+Replacing solvent molecule 5702 (atom 20475) with Na
+Doing single force calculation...
+Replacing solvent molecule 925 (atom 6144) with Cl
+Doing single force calculation...
+Replacing solvent molecule 2719 (atom 11526) with Na
+Doing single force calculation...
+Replacing solvent molecule 2095 (atom 9654) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8774 (atom 29691) with Na
+Doing single force calculation...
+Replacing solvent molecule 10611 (atom 35202) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3737 (atom 14580) with Na
+Doing single force calculation...
+Replacing solvent molecule 10523 (atom 34938) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9693 (atom 32448) with Na
+Doing single force calculation...
+Replacing solvent molecule 10436 (atom 34677) with Cl
+Doing single force calculation...
+Replacing solvent molecule 8937 (atom 30180) with Na
+Doing single force calculation...
+Replacing solvent molecule 9703 (atom 32478) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3555 (atom 14034) with Na
+Doing single force calculation...
+Replacing solvent molecule 10215 (atom 34014) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1802 (atom 8775) with Na
+Doing single force calculation...
+Replacing solvent molecule 9959 (atom 33246) with Cl
+Doing single force calculation...
+Replacing solvent molecule 6606 (atom 23187) with Na
+Doing single force calculation...
+Replacing solvent molecule 5660 (atom 20349) with Cl
+Doing single force calculation...
+Replacing solvent molecule 509 (atom 4896) with Na
+Doing single force calculation...
+Replacing solvent molecule 10144 (atom 33801) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9992 (atom 33345) with Na
+Doing single force calculation...
+Replacing solvent molecule 9389 (atom 31536) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3632 (atom 14265) with Na
+Doing single force calculation...
+Replacing solvent molecule 9888 (atom 33033) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3459 (atom 13746) with Na
+Doing single force calculation...
+Replacing solvent molecule 9133 (atom 30768) with Cl
+Doing single force calculation...
+Replacing solvent molecule 4709 (atom 17496) with Na
+Doing single force calculation...
+Replacing solvent molecule 6729 (atom 23556) with Cl
+Doing single force calculation...
+Replacing solvent molecule 798 (atom 5763) with Na
+Doing single force calculation...
+Replacing solvent molecule 7182 (atom 24915) with Cl
+Doing single force calculation...
+Replacing solvent molecule 6720 (atom 23529) with Na
+Doing single force calculation...
+Replacing solvent molecule 6303 (atom 22278) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3525 (atom 13944) with Na
+Doing single force calculation...
+Replacing solvent molecule 4111 (atom 15702) with Cl
+Doing single force calculation...
+Replacing solvent molecule 10082 (atom 33615) with Na
+Doing single force calculation...
+Replacing solvent molecule 3286 (atom 13227) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9071 (atom 30582) with Na
+Doing single force calculation...
+Replacing solvent molecule 9155 (atom 30834) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9826 (atom 32847) with Na
+Doing single force calculation...
+Replacing solvent molecule 9654 (atom 32331) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9327 (atom 31350) with Na
+Doing single force calculation...
+Replacing solvent molecule 9411 (atom 31602) with Cl
+Doing single force calculation...
+Replacing solvent molecule 10329 (atom 34356) with Na
+Doing single force calculation...
+Replacing solvent molecule 3665 (atom 14364) with Cl
+Doing single force calculation...
+Replacing solvent molecule 9574 (atom 32091) with Na
+Doing single force calculation...
+Replacing solvent molecule 7823 (atom 26838) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3418 (atom 13623) with Na
+Doing single force calculation...
+Replacing solvent molecule 4507 (atom 16890) with Cl
+Doing single force calculation...
+Replacing solvent molecule 3344 (atom 13401) with Na
+Doing single force calculation...
+Replacing solvent molecule 8947 (atom 30210) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1699 (atom 8466) with Na
+Doing single force calculation...
+Replacing solvent molecule 9460 (atom 31749) with Cl
+Doing single force calculation...
+Replacing solvent molecule 1250 (atom 7119) with Na
+Doing single force calculation...
+Replacing solvent molecule 9204 (atom 30981) with Cl
+
+
+gcq#145: "I Solve Problems" (Pulp Fiction)
+
+Will try to add 35 Na ions and 32 Cl ions.
+Select a continuous group of solvent molecules
+Selected 13: 'SOL'
+
+Processing topology
+Replacing 10622 solute molecules in topology file (Complex_ion.top)  by 35 Na and 32 Cl ions.
+mv Complex_ion.top Complex.top
+grompp -f em_r.mdp -c Complex_b4em.pdb -p Complex.top -o em_r.tpr
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -f       em_r.mdp  Input, Opt!  grompp input file with MD parameters
+ -po      mdout.mdp  Output       grompp input file with MD parameters
+  -c Complex_b4em.pdb  Input        Structure file: gro g96 pdb tpr tpb tpa
+  -r       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+ -rb       conf.gro  Input, Opt.  Structure file: gro g96 pdb tpr tpb tpa
+  -n      index.ndx  Input, Opt.  Index file
+  -p    Complex.top  Input        Topology file
+ -pp  processed.top  Output, Opt. Topology file
+  -o       em_r.tpr  Output       Run input file: tpr tpb tpa
+  -t       traj.trr  Input, Opt.  Full precision trajectory: trr trj cpt
+  -e       ener.edr  Input, Opt.  Energy file: edr ene
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    0       Set the nicelevel
+-[no]v       bool   yes     Be loud and noisy
+-time        real   -1      Take frame at or first after this time.
+-[no]rmvsbds bool   yes     Remove constant bonded interactions with virtual
+                            sites
+-maxwarn     int    0       Number of allowed warnings during input processing
+-[no]zero    bool   no      Set parameters for bonded interactions without
+                            defaults to zero instead of generating an error
+-[no]renum   bool   yes     Renumber atomtypes and minimize number of
+                            atomtypes
+
+
+Back Off! I just backed up mdout.mdp to ./#mdout.mdp.1#
+checking input for internal consistency...
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbnb.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ffamber99sbbon.itp
+Generated 3828 of the 3828 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 0.5
+Generated 3828 of the 3828 1-4 parameter combinations
+Opening library file /usr/local/gromacs/share/gromacs/top/spce.itp
+Opening library file /usr/local/gromacs/share/gromacs/top/ions.itp
+Excluding 3 bonded neighbours molecule type 'Protein'
+Excluding 3 bonded neighbours molecule type 'Ligand'
+Excluding 2 bonded neighbours molecule type 'SOL'
+Excluding 1 bonded neighbours molecule type 'Na'
+Excluding 1 bonded neighbours molecule type 'Cl'
+processing coordinates...
+double-checking input for internal consistency...
+Reading position restraint coords from Complex_b4em.pdb
+renumbering atomtypes...
+converting bonded parameters...
+initialising group options...
+processing index file...
+Opening library file /usr/local/gromacs/share/gromacs/top/aminoacids.dat
+Making dummy/rest group for T-Coupling containing 35302 elements
+Making dummy/rest group for Acceleration containing 35302 elements
+Making dummy/rest group for Freeze containing 35302 elements
+Making dummy/rest group for Energy Mon. containing 35302 elements
+Making dummy/rest group for VCM containing 35302 elements
+Number of degrees of freedom in T-Coupling group rest is 70621.00
+Making dummy/rest group for User1 containing 35302 elements
+Making dummy/rest group for User2 containing 35302 elements
+Making dummy/rest group for XTC containing 35302 elements
+Making dummy/rest group for Or. Res. Fit containing 35302 elements
+Making dummy/rest group for QMMM containing 35302 elements
+T-Coupling       has 1 element(s): rest
+Energy Mon.      has 1 element(s): rest
+Acceleration     has 1 element(s): rest
+Freeze           has 1 element(s): rest
+User1            has 1 element(s): rest
+User2            has 1 element(s): rest
+VCM              has 1 element(s): rest
+XTC              has 1 element(s): rest
+Or. Res. Fit     has 1 element(s): rest
+QMMM             has 1 element(s): rest
+Checking consistency between energy and charge groups...
+Estimate for the relative computational load of the PME mesh part: 0.27
+writing run input file...
+
+gcq#253: "Disturb the Peace of a John Q Citizen" (Urban Dance Squad)
+
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                 Good ROcking Metal Altar for Chronical Sinners
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  grompp  (-:
+
+processing topology...
+turning all bonds into constraints...
+turning all bonds into constraints...
+turning all bonds into constraints...
+turning all bonds into constraints...
+turning all bonds into constraints...
+Analysing residue names:
+There are: 10690      OTHER residues
+There are:   208    PROTEIN residues
+There are:     0        DNA residues
+Analysing Protein...
+Analysing Other...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x49x63, spacing 0.117 0.119 0.116
+This run will generate roughly 4 Mb of data
+                         :-)  G  R  O  M  A  C  S  (-:
+
+                God Rules Over Mankind, Animals, Cosmos and Such
+
+                            :-)  VERSION 4.0.5  (-:
+
+
+      Written by David van der Spoel, Erik Lindahl, Berk Hess, and others.
+       Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+             Copyright (c) 2001-2008, The GROMACS development team,
+            check out http://www.gromacs.org for more information.
+
+         This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU General Public License
+         as published by the Free Software Foundation; either version 2
+             of the License, or (at your option) any later version.
+
+                                :-)  mdrun  (-:
+
+Option     Filename  Type         Description
+------------------------------------------------------------
+  -s       em_r.tpr  Input        Run input file: tpr tpb tpa
+  -o       em_r.trr  Output       Full precision trajectory: trr trj cpt
+  -x       em_r.xtc  Output, Opt. Compressed trajectory (portable xdr format)
+-cpi       em_r.cpt  Input, Opt.  Checkpoint file
+-cpo       em_r.cpt  Output, Opt. Checkpoint file
+  -c       em_r.gro  Output       Structure file: gro g96 pdb
+  -e       em_r.edr  Output       Energy file: edr ene
+  -g       em_r.log  Output       Log file
+-dgdl      em_r.xvg  Output, Opt. xvgr/xmgr file
+-field     em_r.xvg  Output, Opt. xvgr/xmgr file
+-table     em_r.xvg  Input, Opt.  xvgr/xmgr file
+-tablep    em_r.xvg  Input, Opt.  xvgr/xmgr file
+-tableb    em_r.xvg  Input, Opt.  xvgr/xmgr file
+-rerun     em_r.xtc  Input, Opt.  Trajectory: xtc trr trj gro g96 pdb cpt
+-tpi       em_r.xvg  Output, Opt. xvgr/xmgr file
+-tpid      em_r.xvg  Output, Opt. xvgr/xmgr file
+ -ei       em_r.edi  Input, Opt.  ED sampling input
+ -eo       em_r.edo  Output, Opt. ED sampling output
+  -j       em_r.gct  Input, Opt.  General coupling stuff
+ -jo       em_r.gct  Output, Opt. General coupling stuff
+-ffout     em_r.xvg  Output, Opt. xvgr/xmgr file
+-devout    em_r.xvg  Output, Opt. xvgr/xmgr file
+-runav     em_r.xvg  Output, Opt. xvgr/xmgr file
+ -px       em_r.xvg  Output, Opt. xvgr/xmgr file
+ -pf       em_r.xvg  Output, Opt. xvgr/xmgr file
+-mtx       em_r.mtx  Output, Opt. Hessian matrix
+ -dn       em_r.ndx  Output, Opt. Index file
+
+Option       Type   Value   Description
+------------------------------------------------------
+-[no]h       bool   no      Print help info and quit
+-nice        int    19      Set the nicelevel
+-deffnm      string em_r    Set the default filename for all file options
+-[no]xvgr    bool   yes     Add specific codes (legends etc.) in the output
+                            xvg files for the xmgrace program
+-[no]pd      bool   no      Use particle decompostion
+-dd          vector 0 0 0   Domain decomposition grid, 0 is optimize
+-npme        int    -1      Number of separate nodes to be used for PME, -1
+                            is guess
+-ddorder     enum   interleave  DD node order: interleave, pp_pme or cartesian
+-[no]ddcheck bool   yes     Check for all bonded interactions with DD
+-rdd         real   0       The maximum distance for bonded interactions with
+                            DD (nm), 0 is determine from initial coordinates
+-rcon        real   0       Maximum distance for P-LINCS (nm), 0 is estimate
+-dlb         enum   auto    Dynamic load balancing (with DD): auto, no or yes
+-dds         real   0.8     Minimum allowed dlb scaling of the DD cell size
+-[no]sum     bool   yes     Sum the energies at every step
+-[no]v       bool   yes     Be loud and noisy
+-[no]compact bool   yes     Write a compact log file
+-[no]seppot  bool   no      Write separate V and dVdl terms for each
+                            interaction type and node to the log file(s)
+-pforce      real   -1      Print all forces larger than this (kJ/mol nm)
+-[no]reprod  bool   no      Try to avoid optimizations that affect binary
+                            reproducibility
+-cpt         real   15      Checkpoint interval (minutes)
+-[no]append  bool   no      Append to previous output files when continuing
+                            from checkpoint
+-[no]addpart bool   yes     Add the simulation part number to all output
+                            files when continuing from checkpoint
+-maxh        real   1       Terminate after 0.99 times this time (hours)
+-multi       int    0       Do multiple simulations in parallel
+-replex      int    0       Attempt replica exchange every # steps
+-reseed      int    -1      Seed for replica exchange, -1 is generate a seed
+-[no]glas    bool   no      Do glass simulation with special long range
+                            corrections
+-[no]ionize  bool   no      Do a simulation including the effect of an X-Ray
+                            bombardment on your system
+
+Getting Loaded...
+Reading file em_r.tpr, VERSION 4.0.5 (single precision)
+Loaded with Money
+
+
+Step -1, time -0.001 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.461520, max 14.428611 (between atoms 1668 and 1669)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+Steepest Descents:
+   Tolerance (Fmax)   =  1.00000e+04
+   Number of steps    =          100
+Warning: 1-4 interaction between 1658 and 1672 at distance 2.655 which is larger than the 1-4 table size 2.400 nm
+These are ignored for the rest of the simulation
+This usually means your system is exploding,
+if not, you should increase table-extension in your mdp file
+or with user tables increase the table size
+Step=    0, Dmax= 1.0e-02 nm, Epot=  1.09364e+09 Fmax= 2.21154e+11, atom= 3292
+Step 1, time 0.001 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.680509, max 22.293625 (between atoms 1668 and 1670)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+   3299   3300   38.8    0.1043   0.1527      0.1010
+   3297   3299  163.8    0.1458   0.0737      0.1335
+   3297   3298   57.1    0.1341   0.1348      0.1229
+   3287   3293   47.5    0.1645   0.1361      0.1526
+   3287   3289   50.1    0.1648   0.1239      0.1526
+   3287   3288  136.1    0.1229   0.0693      0.1090
+   3283   3285  166.4    0.1360   0.3113      0.1449
+   3283   3284  166.6    0.1158   0.1821      0.1010
+   3281   3283   43.7    0.1919   0.4487      0.1335
+   3281   3282   53.9    0.1821   0.0663      0.1229
+   3266   3281  109.9    0.1750   0.1075      0.1522
+   3266   3267   33.4    0.1846   0.1837      0.1090
+   3264   3266   33.3    0.2136   0.2438      0.1449
+   3220   3221   37.0    0.1299   0.0437      0.1229
+   3215   3217  172.0    0.1247   0.2878      0.1449
+   3215   3216  166.5    0.0926   0.1844      0.1010
+   3213   3215   32.3    0.1683   0.4719      0.1335
+   3213   3214   70.3    0.1353   0.1144      0.1229
+   3193   3213  160.0    0.1476   0.1380      0.1522
+   3157   3158   42.5    0.1059   0.0728      0.1010
+   3155   3157   35.3    0.1680   0.2007      0.1335
+   3155   3156   30.2    0.1513   0.1208      0.1229
+   2874   2875   33.9    0.1304   0.0455      0.1229
+   2865   2868   36.2    0.1609   0.0490      0.1526
+   2865   2867   44.8    0.1180   0.0993      0.1090
+   2865   2866   45.4    0.1180   0.0978      0.1090
+   2861   2863  178.1    0.1457   0.3120      0.1449
+   2861   2862  161.0    0.1069   0.2069      0.1010
+   2859   2861   41.6    0.1750   0.5239      0.1335
+   2859   2860  150.4    0.1311   0.0829      0.1229
+   2856   2859  169.5    0.1532   0.1802      0.1522
+   2732   2734   56.4    0.1534   0.1159      0.1335
+   2732   2733  152.0    0.1411   0.0821      0.1229
+   2717   2719   41.6    0.1128   0.1746      0.1090
+   2717   2718   43.1    0.1128   0.1729      0.1090
+   2714   2717  147.4    0.1739   0.1128      0.1526
+   2714   2716   88.7    0.1333   0.1271      0.1090
+   2714   2715   93.7    0.1333   0.1254      0.1090
+   2710   2712  163.7    0.1393   0.2820      0.1449
+   2710   2711  156.7    0.1380   0.2131      0.1010
+   2708   2709  149.4    0.1717   0.1801      0.1229
+   2706   2708  163.5    0.1600   0.1887      0.1522
+   2703   2705  130.4    0.1360   0.0823      0.1090
+   2703   2704   62.7    0.1360   0.1108      0.1090
+   2700   2703   71.7    0.1741   0.0907      0.1526
+   2696   2697   84.3    0.1704   0.0646      0.1449
+   2694   2696   59.0    0.1619   0.0938      0.1335
+   2584   2586   46.8    0.1485   0.1210      0.1335
+   2584   2585  155.0    0.1353   0.0767      0.1229
+   2576   2582   49.7    0.1563   0.1301      0.1410
+   2576   2578   49.8    0.1664   0.1296      0.1526
+   2576   2577  154.9    0.1244   0.0892      0.1090
+   2572   2574  164.3    0.1251   0.2530      0.1449
+   2572   2573  170.1    0.1122   0.1557      0.1010
+   2570   2572   35.5    0.1881   0.4245      0.1335
+   2570   2571   80.0    0.1766   0.0642      0.1229
+   2558   2570  113.3    0.1811   0.1091      0.1522
+   2558   2559   30.7    0.1928   0.1933      0.1090
+   2556   2558   33.4    0.2214   0.2641      0.1449
+   2556   2557   43.4    0.1173   0.0645      0.1010
+   2350   2352  148.5    0.1454   0.0810      0.1335
+   2350   2351   68.4    0.1337   0.1455      0.1229
+   2345   2348  160.6    0.1536   0.1267      0.1410
+   2345   2347   96.0    0.1219   0.1470      0.1090
+   2345   2346   82.0    0.1220   0.1587      0.1090
+   2341   2343  175.7    0.1474   0.6206      0.1449
+   2341   2342  171.0    0.1192   0.3526      0.1010
+   2339   2341   31.2    0.1720   0.6828      0.1335
+   2339   2340  153.5    0.1133   0.1410      0.1229
+   2326   2339  161.5    0.1561   0.1679      0.1522
+   2326   2328   32.6    0.2115   0.2298      0.1526
+   2326   2327   41.6    0.1708   0.1917      0.1090
+   2324   2326   35.3    0.2035   0.2848      0.1449
+   2324   2325   30.4    0.1120   0.0812      0.1010
+   2052   2053   84.5    0.1365   0.0302      0.1229
+   2044   2045  116.9    0.1267   0.0339      0.1090
+   2040   2042  169.3    0.1273   0.1156      0.1449
+   2040   2041  157.8    0.1020   0.0978      0.1010
+   2038   2040   32.7    0.1823   0.3408      0.1335
+   2038   2039   81.3    0.1715   0.0826      0.1229
+   2035   2038  110.3    0.1769   0.1114      0.1522
+   2033   2035   30.2    0.2238   0.2665      0.1449
+   2033   2034   63.9    0.1178   0.0532      0.1010
+   1822   1824   46.5    0.1443   0.0288      0.1335
+   1822   1823   38.4    0.1320   0.1137      0.1229
+   1814   1820   36.1    0.1506   0.1158      0.1410
+   1814   1816   40.7    0.1615   0.0472      0.1526
+   1814   1815   40.8    0.1189   0.1166      0.1090
+   1810   1812  176.1    0.1500   0.2862      0.1449
+   1810   1811  151.2    0.1104   0.1573      0.1010
+   1808   1810   43.5    0.1896   0.3842      0.1335
+   1793   1808   57.6    0.1577   0.0953      0.1522
+   1712   1714  157.0    0.1518   0.0639      0.1335
+   1712   1713   51.0    0.1388   0.1295      0.1229
+   1701   1704   62.2    0.1719   0.1058      0.1526
+   1701   1703  143.4    0.1297   0.0926      0.1090
+   1701   1702   72.2    0.1297   0.1098      0.1090
+   1697   1699  162.0    0.1279   0.1818      0.1449
+   1697   1698  157.1    0.1248   0.1319      0.1010
+   1695   1697   34.8    0.1852   0.4065      0.1335
+   1695   1696  111.0    0.1831   0.1044      0.1229
+   1681   1684  125.4    0.1728   0.0987      0.1510
+   1681   1683   84.3    0.1335   0.0903      0.1090
+   1681   1682   80.2    0.1335   0.0913      0.1090
+   1679   1695  127.1    0.1877   0.1274      0.1522
+   1677   1678   86.8    0.1185   0.0751      0.1010
+   1672   1675  101.0    0.1375   1.0497      0.1522
+   1672   1674   83.0    0.0685   1.0557      0.1090
+   1672   1673  115.4    0.0685   0.9219      0.1090
+   1670   1672  173.8    1.8982   1.0982      0.1449
+   1670   1671  154.5    1.4500   1.2761      0.1010
+   1668   1670  118.0    0.7922   3.1097      0.1335
+   1668   1669  153.3    1.8962   0.7899      0.1229
+   1660   1663   48.3    0.1552   0.1802      0.1522
+   1660   1662   46.3    0.1801   0.1311      0.1090
+   1660   1661   47.8    0.1801   0.1332      0.1090
+   1658   1668  169.9    1.3714   0.8545      0.1522
+   1658   1660   99.4    0.7567   0.6358      0.1526
+   1658   1659   83.9    0.7774   0.8738      0.1090
+   1656   1658   79.8    0.7757   0.8620      0.1449
+   1656   1657   90.5    0.0693   0.3477      0.1010
+   1654   1656  102.5    0.1024   0.2848      0.1335
+   1632   1633   41.2    0.1071   0.1566      0.1010
+   1630   1632  164.0    0.1594   0.1052      0.1335
+   1630   1631   74.1    0.1479   0.1389      0.1229
+   1622   1625   33.9    0.1138   0.1439      0.1090
+   1622   1624   32.3    0.1138   0.1466      0.1090
+   1620   1626   93.7    0.1778   0.1645      0.1526
+   1620   1622  122.9    0.1774   0.1487      0.1526
+   1620   1621  135.5    0.1385   0.1865      0.1090
+   1616   1618  165.6    0.1141   0.3747      0.1449
+   1616   1617  158.1    0.1288   0.2635      0.1010
+   1614   1615  152.7    0.1812   0.2227      0.1229
+   1603   1606   35.4    0.1128   0.1466      0.1090
+   1603   1605   34.5    0.1128   0.1482      0.1090
+   1601   1607   66.9    0.1788   0.1099      0.1526
+   1601   1603  115.1    0.1778   0.0712      0.1526
+   1601   1602   73.7    0.1380   0.1112      0.1090
+   1599   1614  164.8    0.1963   0.2217      0.1522
+   1599   1600   33.5    0.2010   0.3085      0.1090
+   1597   1599   33.6    0.2274   0.4144      0.1449
+   1597   1598   75.4    0.1252   0.0707      0.1010
+   1595   1597   76.1    0.1553   0.0388      0.1335
+   1550   1552   31.6    0.1761   0.2685      0.1090
+   1550   1551   38.0    0.1761   0.2445      0.1090
+   1548   1550  171.0    0.1339   0.2136      0.1449
+   1548   1549  161.7    0.1015   0.2109      0.1010
+   1546   1547  153.8    0.1252   0.2752      0.1229
+   1528   1531   66.4    0.1653   0.1540      0.1526
+   1528   1530  155.5    0.1239   0.1431      0.1090
+   1528   1529   89.9    0.1239   0.1357      0.1090
+   1526   1546  175.2    0.1422   0.4815      0.1522
+   1524   1525  107.0    0.1128   0.1362      0.1010
+   1522   1524  150.6    0.1455   0.1135      0.1335
+   1522   1523   30.3    0.1276   0.1723      0.1229
+   1488   1490   36.0    0.1709   0.1699      0.1335
+   1194   1196  173.6    0.1446   0.1842      0.1449
+   1194   1195  139.5    0.1026   0.1089      0.1010
+   1192   1194   41.1    0.1720   0.3764      0.1335
+   1192   1193   46.7    0.1498   0.0537      0.1229
+   1189   1192   93.0    0.1669   0.0501      0.1522
+   1065   1067   65.2    0.1498   0.1162      0.1335
+   1065   1066  151.2    0.1366   0.1015      0.1229
+   1050   1052   39.2    0.1119   0.1773      0.1090
+   1050   1051   43.9    0.1119   0.1714      0.1090
+   1047   1050  146.3    0.1664   0.1215      0.1526
+   1047   1049  113.1    0.1239   0.1380      0.1090
+   1047   1048   70.5    0.1239   0.1580      0.1090
+   1043   1045  167.3    0.1184   0.3344      0.1449
+   1043   1044  168.9    0.1149   0.1999      0.1010
+   1041   1043   33.4    0.1877   0.4790      0.1335
+   1041   1042  133.1    0.1612   0.0792      0.1229
+   1039   1041  123.5    0.1553   0.1038      0.1522
+   1036   1038   36.4    0.1255   0.0448      0.1090
+    905    906   56.5    0.1054   0.0566      0.1010
+    903    905   31.7    0.1664   0.2360      0.1335
+    891    903   38.2    0.1679   0.1011      0.1522
+    683    685   88.0    0.1447   0.0169      0.1335
+    683    684   40.6    0.1330   0.1378      0.1229
+    678    681  124.5    0.1529   0.0383      0.1410
+    678    680   71.0    0.1205   0.0888      0.1090
+    678    679   51.6    0.1205   0.1173      0.1090
+    674    676  167.4    0.1463   0.3359      0.1449
+    674    675  176.2    0.1129   0.2048      0.1010
+    672    674   32.3    0.1679   0.4600      0.1335
+    672    673   56.8    0.1264   0.0425      0.1229
+    659    672   93.1    0.1683   0.0819      0.1522
+    659    660   31.8    0.1690   0.1275      0.1090
+    657    659   35.8    0.2005   0.2131      0.1449
+    385    387   32.2    0.1479   0.1244      0.1335
+    385    386  143.3    0.1357   0.0482      0.1229
+    377    383   45.9    0.1555   0.0989      0.1410
+    377    379   43.6    0.1661   0.1190      0.1526
+    377    378  138.3    0.1239   0.0696      0.1090
+    373    375  129.3    0.1117   0.0880      0.1449
+    373    374  107.4    0.0965   0.0623      0.1010
+    371    372   63.1    0.1176   0.0495      0.1229
+    368    370  167.7    0.1696   0.2427      0.1090
+    368    369  152.6    0.1696   0.2651      0.1090
+    366    368  125.5    0.2043   0.2598      0.1449
+    366    367   77.8    0.1120   0.1390      0.1010
+    364    366   45.7    0.1449   0.1853      0.1335
+    155    157  115.8    0.1467   0.0492      0.1335
+    155    156   58.7    0.1348   0.1287      0.1229
+    149    152   32.8    0.1115   0.1503      0.1090
+    149    151   31.3    0.1115   0.1534      0.1090
+    147    153   62.2    0.1538   0.1536      0.1410
+    147    149  136.9    0.1636   0.0816      0.1526
+    147    148   81.2    0.1215   0.1339      0.1090
+    143    145  179.7    0.1477   0.5594      0.1449
+    143    144  168.5    0.1270   0.3179      0.1010
+    141    143   36.8    0.1780   0.6543      0.1335
+    141    142  163.7    0.1255   0.1549      0.1229
+    128    130   96.1    0.1237   0.0394      0.1090
+    128    129   36.9    0.1237   0.0840      0.1090
+    126    141  172.4    0.1381   0.1696      0.1522
+     45     47   61.5    0.1459   0.0226      0.1335
+     34     36   34.0    0.1216   0.0437      0.1090
+     30     32  171.9    0.1095   0.1498      0.1449
+     30     31  161.3    0.0888   0.1417      0.1010
+     28     29  140.6    0.1407   0.1297      0.1229
+     14     17   34.2    0.1618   0.1271      0.1510
+     14     16   44.6    0.1207   0.1022      0.1090
+     14     15   81.5    0.1207   0.0329      0.1090
+     12     28  163.7    0.1551   0.2011      0.1522
+     10     11   49.4    0.1114   0.0930      0.1010
+      8     10   83.4    0.1433   0.0216      0.1335
+   3343   3347  158.0    0.1339   0.0658      0.1499
+   3342   3347  164.5    0.1327   0.0873      0.1499
+   3342   3343  145.4    0.1338   0.0401      0.1499
+   3341   3342   59.5    0.1480   0.1077      0.1503
+Step=    1, Dmax= 1.0e-02 nm, Epot=  9.19020e+09 Fmax= 1.23881e+13, atom= 1526
+Step 2, time 0.002 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.680886, max 22.323700 (between atoms 1668 and 1670)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+   3299   3300   38.7    0.1043   0.1525      0.1010
+   3297   3299  163.7    0.1458   0.0731      0.1335
+   3297   3298   57.0    0.1341   0.1345      0.1229
+   3287   3293   47.4    0.1645   0.1360      0.1526
+   3287   3289   50.2    0.1648   0.1249      0.1526
+   3287   3288  135.9    0.1229   0.0691      0.1090
+   3283   3285  166.4    0.1360   0.3109      0.1449
+   3283   3284  166.6    0.1158   0.1819      0.1010
+   3281   3283   43.7    0.1919   0.4485      0.1335
+   3281   3282   53.9    0.1821   0.0663      0.1229
+   3266   3281  109.8    0.1750   0.1075      0.1522
+   3266   3267   33.4    0.1846   0.1837      0.1090
+   3264   3266   33.3    0.2136   0.2438      0.1449
+   3220   3221   37.0    0.1299   0.0437      0.1229
+   3215   3217  172.0    0.1247   0.2878      0.1449
+   3215   3216  166.5    0.0926   0.1844      0.1010
+   3213   3215   32.3    0.1683   0.4719      0.1335
+   3213   3214   70.3    0.1353   0.1144      0.1229
+   3193   3213  160.0    0.1476   0.1380      0.1522
+   3157   3158   42.5    0.1059   0.0728      0.1010
+   3155   3157   35.3    0.1680   0.2007      0.1335
+   3155   3156   30.2    0.1513   0.1208      0.1229
+   2874   2875   33.9    0.1304   0.0455      0.1229
+   2865   2868   36.2    0.1609   0.0490      0.1526
+   2865   2867   44.8    0.1180   0.0993      0.1090
+   2865   2866   45.4    0.1180   0.0978      0.1090
+   2861   2863  178.1    0.1457   0.3120      0.1449
+   2861   2862  161.0    0.1069   0.2069      0.1010
+   2859   2861   41.6    0.1750   0.5239      0.1335
+   2859   2860  150.4    0.1311   0.0829      0.1229
+   2856   2859  169.5    0.1532   0.1802      0.1522
+   2732   2734   56.4    0.1534   0.1159      0.1335
+   2732   2733  152.0    0.1411   0.0821      0.1229
+   2717   2719   41.6    0.1128   0.1746      0.1090
+   2717   2718   43.1    0.1128   0.1729      0.1090
+   2714   2717  147.4    0.1739   0.1128      0.1526
+   2714   2716   88.7    0.1333   0.1271      0.1090
+   2714   2715   93.7    0.1333   0.1254      0.1090
+   2710   2712  163.7    0.1393   0.2820      0.1449
+   2710   2711  156.7    0.1380   0.2131      0.1010
+   2708   2709  149.4    0.1717   0.1801      0.1229
+   2706   2708  163.5    0.1600   0.1887      0.1522
+   2703   2705  130.4    0.1360   0.0823      0.1090
+   2703   2704   62.7    0.1360   0.1108      0.1090
+   2700   2703   71.7    0.1741   0.0907      0.1526
+   2696   2697   84.3    0.1704   0.0646      0.1449
+   2694   2696   59.0    0.1619   0.0938      0.1335
+   2584   2586   46.8    0.1485   0.1210      0.1335
+   2584   2585  155.0    0.1353   0.0767      0.1229
+   2576   2582   49.7    0.1563   0.1301      0.1410
+   2576   2578   49.8    0.1664   0.1296      0.1526
+   2576   2577  154.9    0.1244   0.0892      0.1090
+   2572   2574  164.3    0.1251   0.2530      0.1449
+   2572   2573  170.1    0.1122   0.1557      0.1010
+   2570   2572   35.5    0.1881   0.4245      0.1335
+   2570   2571   80.0    0.1766   0.0642      0.1229
+   2558   2570  113.3    0.1811   0.1091      0.1522
+   2558   2559   30.7    0.1928   0.1933      0.1090
+   2556   2558   33.4    0.2214   0.2641      0.1449
+   2556   2557   43.4    0.1173   0.0645      0.1010
+   2350   2352  148.5    0.1454   0.0810      0.1335
+   2350   2351   68.4    0.1337   0.1455      0.1229
+   2345   2348  160.6    0.1536   0.1267      0.1410
+   2345   2347   96.0    0.1219   0.1470      0.1090
+   2345   2346   82.0    0.1220   0.1587      0.1090
+   2341   2343  175.7    0.1474   0.6206      0.1449
+   2341   2342  171.0    0.1192   0.3526      0.1010
+   2339   2341   31.2    0.1720   0.6828      0.1335
+   2339   2340  153.5    0.1133   0.1410      0.1229
+   2326   2339  161.5    0.1561   0.1679      0.1522
+   2326   2328   32.6    0.2115   0.2298      0.1526
+   2326   2327   41.6    0.1708   0.1917      0.1090
+   2324   2326   35.3    0.2035   0.2848      0.1449
+   2324   2325   30.4    0.1120   0.0812      0.1010
+   2052   2053   84.5    0.1365   0.0302      0.1229
+   2044   2045  116.9    0.1267   0.0339      0.1090
+   2040   2042  169.3    0.1273   0.1156      0.1449
+   2040   2041  157.8    0.1020   0.0978      0.1010
+   2038   2040   32.7    0.1823   0.3408      0.1335
+   2038   2039   81.3    0.1715   0.0826      0.1229
+   2035   2038  110.3    0.1769   0.1114      0.1522
+   2033   2035   30.2    0.2238   0.2665      0.1449
+   2033   2034   63.9    0.1178   0.0532      0.1010
+   1822   1824   46.5    0.1443   0.0288      0.1335
+   1822   1823   38.4    0.1320   0.1137      0.1229
+   1814   1820   36.1    0.1506   0.1158      0.1410
+   1814   1816   40.7    0.1615   0.0472      0.1526
+   1814   1815   40.8    0.1189   0.1166      0.1090
+   1810   1812  176.1    0.1500   0.2862      0.1449
+   1810   1811  151.2    0.1104   0.1573      0.1010
+   1808   1810   43.5    0.1896   0.3842      0.1335
+   1793   1808   57.6    0.1577   0.0953      0.1522
+   1712   1714  157.0    0.1518   0.0639      0.1335
+   1712   1713   51.0    0.1388   0.1295      0.1229
+   1701   1704   62.2    0.1719   0.1058      0.1526
+   1701   1703  143.4    0.1297   0.0926      0.1090
+   1701   1702   72.2    0.1297   0.1099      0.1090
+   1697   1699  162.0    0.1279   0.1818      0.1449
+   1697   1698  157.1    0.1248   0.1319      0.1010
+   1695   1697   34.9    0.1852   0.4066      0.1335
+   1695   1696  111.0    0.1831   0.1044      0.1229
+   1681   1684  125.3    0.1728   0.0988      0.1510
+   1681   1683   84.4    0.1335   0.0903      0.1090
+   1681   1682   80.3    0.1335   0.0913      0.1090
+   1679   1695  127.0    0.1877   0.1275      0.1522
+   1677   1678   86.7    0.1185   0.0752      0.1010
+   1672   1675  101.1    0.1375   1.0484      0.1522
+   1672   1674   83.0    0.0685   1.0545      0.1090
+   1672   1673  115.5    0.0685   0.9210      0.1090
+   1670   1672  173.9    1.8982   1.0994      0.1449
+   1670   1671  154.4    1.4500   1.2787      0.1010
+   1668   1670  118.0    0.7922   3.1137      0.1335
+   1668   1669  153.2    1.8962   0.7914      0.1229
+   1660   1663   48.2    0.1552   0.1801      0.1522
+   1660   1662   46.3    0.1801   0.1312      0.1090
+   1660   1661   47.8    0.1801   0.1332      0.1090
+   1658   1668  170.0    1.3714   0.8559      0.1522
+   1658   1660   99.3    0.7567   0.6358      0.1526
+   1658   1659   83.8    0.7774   0.8737      0.1090
+   1656   1658   79.7    0.7757   0.8619      0.1449
+   1656   1657   90.5    0.0693   0.3472      0.1010
+   1654   1656  102.4    0.1024   0.2845      0.1335
+   1632   1633   41.2    0.1071   0.1566      0.1010
+   1630   1632  164.0    0.1594   0.1052      0.1335
+   1630   1631   74.1    0.1479   0.1389      0.1229
+   1622   1625   33.9    0.1138   0.1439      0.1090
+   1622   1624   32.3    0.1138   0.1466      0.1090
+   1620   1626   93.7    0.1778   0.1645      0.1526
+   1620   1622  122.9    0.1774   0.1487      0.1526
+   1620   1621  135.5    0.1385   0.1865      0.1090
+   1616   1618  165.6    0.1141   0.3747      0.1449
+   1616   1617  158.1    0.1288   0.2635      0.1010
+   1614   1615  152.7    0.1812   0.2227      0.1229
+   1603   1606   35.4    0.1128   0.1466      0.1090
+   1603   1605   34.5    0.1128   0.1482      0.1090
+   1601   1607   66.9    0.1788   0.1099      0.1526
+   1601   1603  115.1    0.1778   0.0712      0.1526
+   1601   1602   73.7    0.1380   0.1112      0.1090
+   1599   1614  164.8    0.1963   0.2217      0.1522
+   1599   1600   33.5    0.2010   0.3085      0.1090
+   1597   1599   33.6    0.2274   0.4144      0.1449
+   1597   1598   75.4    0.1252   0.0707      0.1010
+   1595   1597   76.1    0.1553   0.0388      0.1335
+   1550   1552   31.6    0.1761   0.2685      0.1090
+   1550   1551   38.0    0.1761   0.2445      0.1090
+   1548   1550  171.0    0.1339   0.2136      0.1449
+   1548   1549  161.7    0.1015   0.2109      0.1010
+   1546   1547  153.8    0.1252   0.2752      0.1229
+   1528   1531   66.4    0.1653   0.1540      0.1526
+   1528   1530  155.5    0.1239   0.1431      0.1090
+   1528   1529   89.9    0.1239   0.1357      0.1090
+   1526   1546  175.2    0.1422   0.4815      0.1522
+   1524   1525  107.0    0.1128   0.1362      0.1010
+   1522   1524  150.6    0.1455   0.1135      0.1335
+   1522   1523   30.3    0.1276   0.1723      0.1229
+   1488   1490   36.0    0.1709   0.1699      0.1335
+   1194   1196  173.6    0.1446   0.1842      0.1449
+   1194   1195  139.5    0.1026   0.1089      0.1010
+   1192   1194   41.1    0.1720   0.3764      0.1335
+   1192   1193   46.7    0.1498   0.0537      0.1229
+   1189   1192   93.0    0.1669   0.0501      0.1522
+   1065   1067   65.2    0.1498   0.1162      0.1335
+   1065   1066  151.2    0.1366   0.1015      0.1229
+   1050   1052   39.2    0.1119   0.1773      0.1090
+   1050   1051   43.9    0.1119   0.1714      0.1090
+   1047   1050  146.3    0.1664   0.1215      0.1526
+   1047   1049  113.1    0.1239   0.1380      0.1090
+   1047   1048   70.5    0.1239   0.1580      0.1090
+   1043   1045  167.3    0.1184   0.3344      0.1449
+   1043   1044  168.9    0.1149   0.1999      0.1010
+   1041   1043   33.4    0.1877   0.4790      0.1335
+   1041   1042  133.1    0.1612   0.0792      0.1229
+   1039   1041  123.5    0.1553   0.1038      0.1522
+   1036   1038   36.4    0.1255   0.0448      0.1090
+    905    906   56.5    0.1054   0.0566      0.1010
+    903    905   31.7    0.1664   0.2360      0.1335
+    891    903   38.2    0.1679   0.1011      0.1522
+    683    685   88.0    0.1447   0.0169      0.1335
+    683    684   40.6    0.1330   0.1378      0.1229
+    678    681  124.5    0.1529   0.0383      0.1410
+    678    680   71.0    0.1205   0.0888      0.1090
+    678    679   51.6    0.1205   0.1173      0.1090
+    674    676  167.4    0.1463   0.3359      0.1449
+    674    675  176.2    0.1129   0.2048      0.1010
+    672    674   32.3    0.1679   0.4600      0.1335
+    672    673   56.8    0.1264   0.0425      0.1229
+    659    672   93.1    0.1683   0.0819      0.1522
+    659    660   31.8    0.1690   0.1275      0.1090
+    657    659   35.8    0.2005   0.2131      0.1449
+    385    387   32.2    0.1479   0.1244      0.1335
+    385    386  143.3    0.1357   0.0482      0.1229
+    377    383   45.9    0.1555   0.0989      0.1410
+    377    379   43.6    0.1661   0.1190      0.1526
+    377    378  138.3    0.1239   0.0696      0.1090
+    373    375  129.3    0.1117   0.0880      0.1449
+    373    374  107.4    0.0965   0.0623      0.1010
+    371    372   63.1    0.1176   0.0495      0.1229
+    368    370  167.7    0.1696   0.2427      0.1090
+    368    369  152.6    0.1696   0.2651      0.1090
+    366    368  125.5    0.2043   0.2598      0.1449
+    366    367   77.8    0.1120   0.1390      0.1010
+    364    366   45.7    0.1449   0.1853      0.1335
+    155    157  115.8    0.1467   0.0492      0.1335
+    155    156   58.7    0.1348   0.1287      0.1229
+    149    152   32.8    0.1115   0.1503      0.1090
+    149    151   31.3    0.1115   0.1534      0.1090
+    147    153   62.2    0.1538   0.1536      0.1410
+    147    149  136.9    0.1636   0.0816      0.1526
+    147    148   81.2    0.1215   0.1339      0.1090
+    143    145  179.7    0.1477   0.5594      0.1449
+    143    144  168.5    0.1270   0.3179      0.1010
+    141    143   36.8    0.1780   0.6543      0.1335
+    141    142  163.7    0.1255   0.1549      0.1229
+    128    130   96.1    0.1237   0.0394      0.1090
+    128    129   36.9    0.1237   0.0840      0.1090
+    126    141  172.4    0.1381   0.1696      0.1522
+     45     47   61.5    0.1459   0.0226      0.1335
+     34     36   34.0    0.1216   0.0437      0.1090
+     30     32  171.9    0.1095   0.1498      0.1449
+     30     31  161.3    0.0888   0.1417      0.1010
+     28     29  140.6    0.1407   0.1297      0.1229
+     14     17   34.2    0.1618   0.1271      0.1510
+     14     16   44.6    0.1207   0.1022      0.1090
+     14     15   81.5    0.1207   0.0329      0.1090
+     12     28  163.7    0.1551   0.2011      0.1522
+     10     11   49.4    0.1114   0.0930      0.1010
+      8     10   83.4    0.1433   0.0216      0.1335
+   3343   3347  158.0    0.1339   0.0658      0.1499
+   3342   3347  164.5    0.1327   0.0873      0.1499
+   3342   3343  145.4    0.1338   0.0401      0.1499
+   3341   3342   59.5    0.1480   0.1077      0.1503
+Step=    2, Dmax= 5.0e-03 nm, Epot=  9.19016e+09 Fmax= 1.23881e+13, atom= 1526
+Step 3, time 0.003 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.681075, max 22.338737 (between atoms 1668 and 1670)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+   3299   3300   38.7    0.1043   0.1524      0.1010
+   3297   3299  163.6    0.1458   0.0728      0.1335
+   3297   3298   56.9    0.1341   0.1344      0.1229
+   3287   3293   47.4    0.1645   0.1360      0.1526
+   3287   3289   50.3    0.1648   0.1255      0.1526
+   3287   3288  135.8    0.1229   0.0690      0.1090
+   3283   3285  166.4    0.1360   0.3108      0.1449
+   3283   3284  166.6    0.1158   0.1818      0.1010
+   3281   3283   43.7    0.1919   0.4484      0.1335
+   3281   3282   53.9    0.1821   0.0664      0.1229
+   3266   3281  109.8    0.1750   0.1076      0.1522
+   3266   3267   33.4    0.1846   0.1837      0.1090
+   3264   3266   33.3    0.2136   0.2438      0.1449
+   3220   3221   37.0    0.1299   0.0437      0.1229
+   3215   3217  172.0    0.1247   0.2878      0.1449
+   3215   3216  166.5    0.0926   0.1844      0.1010
+   3213   3215   32.3    0.1683   0.4719      0.1335
+   3213   3214   70.3    0.1353   0.1144      0.1229
+   3193   3213  160.0    0.1476   0.1380      0.1522
+   3157   3158   42.5    0.1059   0.0728      0.1010
+   3155   3157   35.3    0.1680   0.2007      0.1335
+   3155   3156   30.2    0.1513   0.1208      0.1229
+   2874   2875   33.9    0.1304   0.0455      0.1229
+   2865   2868   36.2    0.1609   0.0490      0.1526
+   2865   2867   44.8    0.1180   0.0993      0.1090
+   2865   2866   45.4    0.1180   0.0978      0.1090
+   2861   2863  178.1    0.1457   0.3120      0.1449
+   2861   2862  161.0    0.1069   0.2069      0.1010
+   2859   2861   41.6    0.1750   0.5239      0.1335
+   2859   2860  150.4    0.1311   0.0829      0.1229
+   2856   2859  169.5    0.1532   0.1802      0.1522
+   2732   2734   56.4    0.1534   0.1159      0.1335
+   2732   2733  152.0    0.1411   0.0821      0.1229
+   2717   2719   41.6    0.1128   0.1746      0.1090
+   2717   2718   43.1    0.1128   0.1729      0.1090
+   2714   2717  147.4    0.1739   0.1128      0.1526
+   2714   2716   88.7    0.1333   0.1271      0.1090
+   2714   2715   93.7    0.1333   0.1254      0.1090
+   2710   2712  163.7    0.1393   0.2820      0.1449
+   2710   2711  156.7    0.1380   0.2131      0.1010
+   2708   2709  149.4    0.1717   0.1801      0.1229
+   2706   2708  163.5    0.1600   0.1887      0.1522
+   2703   2705  130.4    0.1360   0.0823      0.1090
+   2703   2704   62.7    0.1360   0.1108      0.1090
+   2700   2703   71.7    0.1741   0.0907      0.1526
+   2696   2697   84.3    0.1704   0.0646      0.1449
+   2694   2696   59.0    0.1619   0.0938      0.1335
+   2584   2586   46.8    0.1485   0.1210      0.1335
+   2584   2585  155.0    0.1353   0.0767      0.1229
+   2576   2582   49.7    0.1563   0.1301      0.1410
+   2576   2578   49.8    0.1664   0.1296      0.1526
+   2576   2577  154.9    0.1244   0.0892      0.1090
+   2572   2574  164.3    0.1251   0.2530      0.1449
+   2572   2573  170.1    0.1122   0.1557      0.1010
+   2570   2572   35.5    0.1881   0.4245      0.1335
+   2570   2571   80.0    0.1766   0.0642      0.1229
+   2558   2570  113.3    0.1811   0.1091      0.1522
+   2558   2559   30.7    0.1928   0.1933      0.1090
+   2556   2558   33.4    0.2214   0.2641      0.1449
+   2556   2557   43.4    0.1173   0.0645      0.1010
+   2350   2352  148.5    0.1454   0.0810      0.1335
+   2350   2351   68.4    0.1337   0.1455      0.1229
+   2345   2348  160.6    0.1536   0.1267      0.1410
+   2345   2347   96.0    0.1219   0.1470      0.1090
+   2345   2346   82.0    0.1220   0.1587      0.1090
+   2341   2343  175.7    0.1474   0.6206      0.1449
+   2341   2342  171.0    0.1192   0.3526      0.1010
+   2339   2341   31.2    0.1720   0.6828      0.1335
+   2339   2340  153.5    0.1133   0.1410      0.1229
+   2326   2339  161.5    0.1561   0.1679      0.1522
+   2326   2328   32.6    0.2115   0.2298      0.1526
+   2326   2327   41.6    0.1708   0.1917      0.1090
+   2324   2326   35.3    0.2035   0.2848      0.1449
+   2324   2325   30.4    0.1120   0.0812      0.1010
+   2052   2053   84.5    0.1365   0.0302      0.1229
+   2044   2045  116.9    0.1267   0.0339      0.1090
+   2040   2042  169.3    0.1273   0.1156      0.1449
+   2040   2041  157.8    0.1020   0.0978      0.1010
+   2038   2040   32.7    0.1823   0.3408      0.1335
+   2038   2039   81.3    0.1715   0.0826      0.1229
+   2035   2038  110.3    0.1769   0.1114      0.1522
+   2033   2035   30.2    0.2238   0.2665      0.1449
+   2033   2034   63.9    0.1178   0.0532      0.1010
+   1822   1824   46.5    0.1443   0.0288      0.1335
+   1822   1823   38.4    0.1320   0.1137      0.1229
+   1814   1820   36.1    0.1506   0.1158      0.1410
+   1814   1816   40.7    0.1615   0.0472      0.1526
+   1814   1815   40.8    0.1189   0.1166      0.1090
+   1810   1812  176.1    0.1500   0.2862      0.1449
+   1810   1811  151.2    0.1104   0.1573      0.1010
+   1808   1810   43.5    0.1896   0.3842      0.1335
+   1793   1808   57.6    0.1577   0.0953      0.1522
+   1712   1714  157.0    0.1518   0.0639      0.1335
+   1712   1713   51.0    0.1388   0.1295      0.1229
+   1701   1704   62.2    0.1719   0.1058      0.1526
+   1701   1703  143.4    0.1297   0.0926      0.1090
+   1701   1702   72.2    0.1297   0.1099      0.1090
+   1697   1699  162.0    0.1279   0.1818      0.1449
+   1697   1698  157.1    0.1248   0.1319      0.1010
+   1695   1697   34.9    0.1852   0.4066      0.1335
+   1695   1696  111.1    0.1831   0.1044      0.1229
+   1681   1684  125.3    0.1728   0.0988      0.1510
+   1681   1683   84.4    0.1335   0.0903      0.1090
+   1681   1682   80.3    0.1335   0.0913      0.1090
+   1679   1695  127.0    0.1877   0.1275      0.1522
+   1677   1678   86.7    0.1185   0.0752      0.1010
+   1672   1675  101.1    0.1375   1.0478      0.1522
+   1672   1674   83.0    0.0685   1.0539      0.1090
+   1672   1673  115.5    0.0685   0.9206      0.1090
+   1670   1672  173.9    1.8982   1.1000      0.1449
+   1670   1671  154.3    1.4500   1.2799      0.1010
+   1668   1670  118.0    0.7922   3.1157      0.1335
+   1668   1669  153.2    1.8962   0.7921      0.1229
+   1660   1663   48.2    0.1552   0.1801      0.1522
+   1660   1662   46.3    0.1801   0.1312      0.1090
+   1660   1661   47.8    0.1801   0.1332      0.1090
+   1658   1668  170.0    1.3714   0.8566      0.1522
+   1658   1660   99.3    0.7567   0.6358      0.1526
+   1658   1659   83.8    0.7774   0.8737      0.1090
+   1656   1658   79.7    0.7757   0.8619      0.1449
+   1656   1657   90.5    0.0693   0.3470      0.1010
+   1654   1656  102.4    0.1024   0.2843      0.1335
+   1632   1633   41.2    0.1071   0.1566      0.1010
+   1630   1632  164.0    0.1594   0.1052      0.1335
+   1630   1631   74.1    0.1479   0.1389      0.1229
+   1622   1625   33.9    0.1138   0.1439      0.1090
+   1622   1624   32.3    0.1138   0.1466      0.1090
+   1620   1626   93.7    0.1778   0.1645      0.1526
+   1620   1622  122.9    0.1774   0.1487      0.1526
+   1620   1621  135.5    0.1385   0.1865      0.1090
+   1616   1618  165.6    0.1141   0.3747      0.1449
+   1616   1617  158.1    0.1288   0.2635      0.1010
+   1614   1615  152.7    0.1812   0.2227      0.1229
+   1603   1606   35.4    0.1128   0.1466      0.1090
+   1603   1605   34.5    0.1128   0.1482      0.1090
+   1601   1607   66.9    0.1788   0.1099      0.1526
+   1601   1603  115.1    0.1778   0.0712      0.1526
+   1601   1602   73.7    0.1380   0.1112      0.1090
+   1599   1614  164.8    0.1963   0.2217      0.1522
+   1599   1600   33.5    0.2010   0.3085      0.1090
+   1597   1599   33.6    0.2274   0.4144      0.1449
+   1597   1598   75.4    0.1252   0.0707      0.1010
+   1595   1597   76.1    0.1553   0.0388      0.1335
+   1550   1552   31.6    0.1761   0.2685      0.1090
+   1550   1551   38.0    0.1761   0.2445      0.1090
+   1548   1550  171.0    0.1339   0.2136      0.1449
+   1548   1549  161.7    0.1015   0.2109      0.1010
+   1546   1547  153.8    0.1252   0.2752      0.1229
+   1528   1531   66.4    0.1653   0.1540      0.1526
+   1528   1530  155.5    0.1239   0.1431      0.1090
+   1528   1529   89.9    0.1239   0.1357      0.1090
+   1526   1546  175.2    0.1422   0.4815      0.1522
+   1524   1525  107.0    0.1128   0.1362      0.1010
+   1522   1524  150.6    0.1455   0.1135      0.1335
+   1522   1523   30.3    0.1276   0.1723      0.1229
+   1488   1490   36.0    0.1709   0.1699      0.1335
+   1194   1196  173.6    0.1446   0.1842      0.1449
+   1194   1195  139.5    0.1026   0.1089      0.1010
+   1192   1194   41.1    0.1720   0.3764      0.1335
+   1192   1193   46.7    0.1498   0.0537      0.1229
+   1189   1192   93.0    0.1669   0.0501      0.1522
+   1065   1067   65.2    0.1498   0.1162      0.1335
+   1065   1066  151.2    0.1366   0.1015      0.1229
+   1050   1052   39.2    0.1119   0.1773      0.1090
+   1050   1051   43.9    0.1119   0.1714      0.1090
+   1047   1050  146.3    0.1664   0.1215      0.1526
+   1047   1049  113.1    0.1239   0.1380      0.1090
+   1047   1048   70.5    0.1239   0.1580      0.1090
+   1043   1045  167.3    0.1184   0.3344      0.1449
+   1043   1044  168.9    0.1149   0.1999      0.1010
+   1041   1043   33.4    0.1877   0.4790      0.1335
+   1041   1042  133.1    0.1612   0.0792      0.1229
+   1039   1041  123.5    0.1553   0.1038      0.1522
+   1036   1038   36.4    0.1255   0.0448      0.1090
+    905    906   56.5    0.1054   0.0566      0.1010
+    903    905   31.7    0.1664   0.2360      0.1335
+    891    903   38.2    0.1679   0.1011      0.1522
+    683    685   88.0    0.1447   0.0169      0.1335
+    683    684   40.6    0.1330   0.1378      0.1229
+    678    681  124.5    0.1529   0.0383      0.1410
+    678    680   71.0    0.1205   0.0888      0.1090
+    678    679   51.6    0.1205   0.1173      0.1090
+    674    676  167.4    0.1463   0.3359      0.1449
+    674    675  176.2    0.1129   0.2048      0.1010
+    672    674   32.3    0.1679   0.4600      0.1335
+    672    673   56.8    0.1264   0.0425      0.1229
+    659    672   93.1    0.1683   0.0819      0.1522
+    659    660   31.8    0.1690   0.1275      0.1090
+    657    659   35.8    0.2005   0.2131      0.1449
+    385    387   32.2    0.1479   0.1244      0.1335
+    385    386  143.3    0.1357   0.0482      0.1229
+    377    383   45.9    0.1555   0.0989      0.1410
+    377    379   43.6    0.1661   0.1190      0.1526
+    377    378  138.3    0.1239   0.0696      0.1090
+    373    375  129.3    0.1117   0.0880      0.1449
+    373    374  107.4    0.0965   0.0623      0.1010
+    371    372   63.1    0.1176   0.0495      0.1229
+    368    370  167.7    0.1696   0.2427      0.1090
+    368    369  152.6    0.1696   0.2651      0.1090
+    366    368  125.5    0.2043   0.2598      0.1449
+    366    367   77.8    0.1120   0.1390      0.1010
+    364    366   45.7    0.1449   0.1853      0.1335
+    155    157  115.8    0.1467   0.0492      0.1335
+    155    156   58.7    0.1348   0.1287      0.1229
+    149    152   32.8    0.1115   0.1503      0.1090
+    149    151   31.3    0.1115   0.1534      0.1090
+    147    153   62.2    0.1538   0.1536      0.1410
+    147    149  136.9    0.1636   0.0816      0.1526
+    147    148   81.2    0.1215   0.1339      0.1090
+    143    145  179.7    0.1477   0.5594      0.1449
+    143    144  168.5    0.1270   0.3179      0.1010
+    141    143   36.8    0.1780   0.6543      0.1335
+    141    142  163.7    0.1255   0.1549      0.1229
+    128    130   96.1    0.1237   0.0394      0.1090
+    128    129   36.9    0.1237   0.0840      0.1090
+    126    141  172.4    0.1381   0.1696      0.1522
+     45     47   61.5    0.1459   0.0226      0.1335
+     34     36   34.0    0.1216   0.0437      0.1090
+     30     32  171.9    0.1095   0.1498      0.1449
+     30     31  161.3    0.0888   0.1417      0.1010
+     28     29  140.6    0.1407   0.1297      0.1229
+     14     17   34.2    0.1618   0.1271      0.1510
+     14     16   44.6    0.1207   0.1022      0.1090
+     14     15   81.5    0.1207   0.0329      0.1090
+     12     28  163.7    0.1551   0.2011      0.1522
+     10     11   49.4    0.1114   0.0930      0.1010
+      8     10   83.4    0.1433   0.0216      0.1335
+   3343   3347  158.0    0.1339   0.0658      0.1499
+   3342   3347  164.5    0.1327   0.0873      0.1499
+   3342   3343  145.4    0.1338   0.0401      0.1499
+   3341   3342   59.5    0.1480   0.1077      0.1503
+Step=    3, Dmax= 2.5e-03 nm, Epot=  9.19014e+09 Fmax= 1.23881e+13, atom= 1526
+Step 4, time 0.004 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.681170, max 22.346260 (between atoms 1668 and 1670)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+   3299   3300   38.6    0.1043   0.1523      0.1010
+   3297   3299  163.6    0.1458   0.0727      0.1335
+   3297   3298   56.9    0.1341   0.1344      0.1229
+   3287   3293   47.4    0.1645   0.1360      0.1526
+   3287   3289   50.3    0.1648   0.1257      0.1526
+   3287   3288  135.7    0.1229   0.0690      0.1090
+   3283   3285  166.4    0.1360   0.3107      0.1449
+   3283   3284  166.6    0.1158   0.1818      0.1010
+   3281   3283   43.7    0.1919   0.4483      0.1335
+   3281   3282   53.9    0.1821   0.0664      0.1229
+   3266   3281  109.8    0.1750   0.1076      0.1522
+   3266   3267   33.4    0.1846   0.1837      0.1090
+   3264   3266   33.3    0.2136   0.2438      0.1449
+   3220   3221   37.0    0.1299   0.0437      0.1229
+   3215   3217  172.0    0.1247   0.2878      0.1449
+   3215   3216  166.5    0.0926   0.1844      0.1010
+   3213   3215   32.3    0.1683   0.4719      0.1335
+   3213   3214   70.3    0.1353   0.1144      0.1229
+   3193   3213  160.0    0.1476   0.1380      0.1522
+   3157   3158   42.5    0.1059   0.0728      0.1010
+   3155   3157   35.3    0.1680   0.2007      0.1335
+   3155   3156   30.2    0.1513   0.1208      0.1229
+   2874   2875   33.9    0.1304   0.0455      0.1229
+   2865   2868   36.2    0.1609   0.0490      0.1526
+   2865   2867   44.8    0.1180   0.0993      0.1090
+   2865   2866   45.4    0.1180   0.0978      0.1090
+   2861   2863  178.1    0.1457   0.3120      0.1449
+   2861   2862  161.0    0.1069   0.2069      0.1010
+   2859   2861   41.6    0.1750   0.5239      0.1335
+   2859   2860  150.4    0.1311   0.0829      0.1229
+   2856   2859  169.5    0.1532   0.1802      0.1522
+   2732   2734   56.4    0.1534   0.1159      0.1335
+   2732   2733  152.0    0.1411   0.0821      0.1229
+   2717   2719   41.6    0.1128   0.1746      0.1090
+   2717   2718   43.1    0.1128   0.1729      0.1090
+   2714   2717  147.4    0.1739   0.1128      0.1526
+   2714   2716   88.7    0.1333   0.1271      0.1090
+   2714   2715   93.7    0.1333   0.1254      0.1090
+   2710   2712  163.7    0.1393   0.2820      0.1449
+   2710   2711  156.7    0.1380   0.2131      0.1010
+   2708   2709  149.4    0.1717   0.1801      0.1229
+   2706   2708  163.5    0.1600   0.1887      0.1522
+   2703   2705  130.4    0.1360   0.0823      0.1090
+   2703   2704   62.7    0.1360   0.1108      0.1090
+   2700   2703   71.7    0.1741   0.0907      0.1526
+   2696   2697   84.3    0.1704   0.0646      0.1449
+   2694   2696   59.0    0.1619   0.0938      0.1335
+   2584   2586   46.8    0.1485   0.1210      0.1335
+   2584   2585  155.0    0.1353   0.0767      0.1229
+   2576   2582   49.7    0.1563   0.1301      0.1410
+   2576   2578   49.8    0.1664   0.1296      0.1526
+   2576   2577  154.9    0.1244   0.0892      0.1090
+   2572   2574  164.3    0.1251   0.2530      0.1449
+   2572   2573  170.1    0.1122   0.1557      0.1010
+   2570   2572   35.5    0.1881   0.4245      0.1335
+   2570   2571   80.0    0.1766   0.0642      0.1229
+   2558   2570  113.3    0.1811   0.1091      0.1522
+   2558   2559   30.7    0.1928   0.1933      0.1090
+   2556   2558   33.4    0.2214   0.2641      0.1449
+   2556   2557   43.4    0.1173   0.0645      0.1010
+   2350   2352  148.5    0.1454   0.0810      0.1335
+   2350   2351   68.4    0.1337   0.1455      0.1229
+   2345   2348  160.6    0.1536   0.1267      0.1410
+   2345   2347   96.0    0.1219   0.1470      0.1090
+   2345   2346   82.0    0.1220   0.1587      0.1090
+   2341   2343  175.7    0.1474   0.6206      0.1449
+   2341   2342  171.0    0.1192   0.3526      0.1010
+   2339   2341   31.2    0.1720   0.6828      0.1335
+   2339   2340  153.5    0.1133   0.1410      0.1229
+   2326   2339  161.5    0.1561   0.1679      0.1522
+   2326   2328   32.6    0.2115   0.2298      0.1526
+   2326   2327   41.6    0.1708   0.1917      0.1090
+   2324   2326   35.3    0.2035   0.2848      0.1449
+   2324   2325   30.4    0.1120   0.0812      0.1010
+   2052   2053   84.5    0.1365   0.0302      0.1229
+   2044   2045  116.9    0.1267   0.0339      0.1090
+   2040   2042  169.3    0.1273   0.1156      0.1449
+   2040   2041  157.8    0.1020   0.0978      0.1010
+   2038   2040   32.7    0.1823   0.3408      0.1335
+   2038   2039   81.3    0.1715   0.0826      0.1229
+   2035   2038  110.3    0.1769   0.1114      0.1522
+   2033   2035   30.2    0.2238   0.2665      0.1449
+   2033   2034   63.9    0.1178   0.0532      0.1010
+   1822   1824   46.5    0.1443   0.0288      0.1335
+   1822   1823   38.4    0.1320   0.1137      0.1229
+   1814   1820   36.1    0.1506   0.1158      0.1410
+   1814   1816   40.7    0.1615   0.0472      0.1526
+   1814   1815   40.8    0.1189   0.1166      0.1090
+   1810   1812  176.1    0.1500   0.2862      0.1449
+   1810   1811  151.2    0.1104   0.1573      0.1010
+   1808   1810   43.5    0.1896   0.3842      0.1335
+   1793   1808   57.6    0.1577   0.0953      0.1522
+   1712   1714  157.0    0.1518   0.0639      0.1335
+   1712   1713   51.0    0.1388   0.1295      0.1229
+   1701   1704   62.2    0.1719   0.1058      0.1526
+   1701   1703  143.4    0.1297   0.0926      0.1090
+   1701   1702   72.2    0.1297   0.1099      0.1090
+   1697   1699  162.0    0.1279   0.1818      0.1449
+   1697   1698  157.1    0.1248   0.1319      0.1010
+   1695   1697   34.9    0.1852   0.4066      0.1335
+   1695   1696  111.1    0.1831   0.1045      0.1229
+   1681   1684  125.3    0.1728   0.0988      0.1510
+   1681   1683   84.5    0.1335   0.0903      0.1090
+   1681   1682   80.3    0.1335   0.0913      0.1090
+   1679   1695  127.0    0.1877   0.1275      0.1522
+   1677   1678   86.7    0.1185   0.0752      0.1010
+   1672   1675  101.1    0.1375   1.0475      0.1522
+   1672   1674   83.0    0.0685   1.0537      0.1090
+   1672   1673  115.5    0.0685   0.9204      0.1090
+   1670   1672  174.0    1.8982   1.1003      0.1449
+   1670   1671  154.3    1.4500   1.2806      0.1010
+   1668   1670  118.0    0.7922   3.1167      0.1335
+   1668   1669  153.2    1.8962   0.7925      0.1229
+   1660   1663   48.2    0.1552   0.1801      0.1522
+   1660   1662   46.3    0.1801   0.1312      0.1090
+   1660   1661   47.8    0.1801   0.1332      0.1090
+   1658   1668  170.0    1.3714   0.8569      0.1522
+   1658   1660   99.3    0.7567   0.6358      0.1526
+   1658   1659   83.8    0.7774   0.8737      0.1090
+   1656   1658   79.6    0.7757   0.8619      0.1449
+   1656   1657   90.5    0.0693   0.3469      0.1010
+   1654   1656  102.4    0.1024   0.2842      0.1335
+   1632   1633   41.2    0.1071   0.1566      0.1010
+   1630   1632  164.0    0.1594   0.1052      0.1335
+   1630   1631   74.1    0.1479   0.1389      0.1229
+   1622   1625   33.9    0.1138   0.1439      0.1090
+   1622   1624   32.3    0.1138   0.1466      0.1090
+   1620   1626   93.7    0.1778   0.1645      0.1526
+   1620   1622  122.9    0.1774   0.1487      0.1526
+   1620   1621  135.5    0.1385   0.1865      0.1090
+   1616   1618  165.6    0.1141   0.3747      0.1449
+   1616   1617  158.1    0.1288   0.2635      0.1010
+   1614   1615  152.7    0.1812   0.2227      0.1229
+   1603   1606   35.4    0.1128   0.1466      0.1090
+   1603   1605   34.5    0.1128   0.1482      0.1090
+   1601   1607   66.9    0.1788   0.1099      0.1526
+   1601   1603  115.1    0.1778   0.0712      0.1526
+   1601   1602   73.7    0.1380   0.1112      0.1090
+   1599   1614  164.8    0.1963   0.2217      0.1522
+   1599   1600   33.5    0.2010   0.3085      0.1090
+   1597   1599   33.6    0.2274   0.4144      0.1449
+   1597   1598   75.4    0.1252   0.0707      0.1010
+   1595   1597   76.1    0.1553   0.0388      0.1335
+   1550   1552   31.6    0.1761   0.2685      0.1090
+   1550   1551   38.0    0.1761   0.2445      0.1090
+   1548   1550  171.0    0.1339   0.2136      0.1449
+   1548   1549  161.7    0.1015   0.2109      0.1010
+   1546   1547  153.8    0.1252   0.2752      0.1229
+   1528   1531   66.4    0.1653   0.1540      0.1526
+   1528   1530  155.5    0.1239   0.1431      0.1090
+   1528   1529   89.9    0.1239   0.1357      0.1090
+   1526   1546  175.2    0.1422   0.4815      0.1522
+   1524   1525  107.0    0.1128   0.1362      0.1010
+   1522   1524  150.6    0.1455   0.1135      0.1335
+   1522   1523   30.3    0.1276   0.1723      0.1229
+   1488   1490   36.0    0.1709   0.1699      0.1335
+   1194   1196  173.6    0.1446   0.1842      0.1449
+   1194   1195  139.5    0.1026   0.1089      0.1010
+   1192   1194   41.1    0.1720   0.3764      0.1335
+   1192   1193   46.7    0.1498   0.0537      0.1229
+   1189   1192   93.0    0.1669   0.0501      0.1522
+   1065   1067   65.2    0.1498   0.1162      0.1335
+   1065   1066  151.2    0.1366   0.1015      0.1229
+   1050   1052   39.2    0.1119   0.1773      0.1090
+   1050   1051   43.9    0.1119   0.1714      0.1090
+   1047   1050  146.3    0.1664   0.1215      0.1526
+   1047   1049  113.1    0.1239   0.1380      0.1090
+   1047   1048   70.5    0.1239   0.1580      0.1090
+   1043   1045  167.3    0.1184   0.3344      0.1449
+   1043   1044  168.9    0.1149   0.1999      0.1010
+   1041   1043   33.4    0.1877   0.4790      0.1335
+   1041   1042  133.1    0.1612   0.0792      0.1229
+   1039   1041  123.5    0.1553   0.1038      0.1522
+   1036   1038   36.4    0.1255   0.0448      0.1090
+    905    906   56.5    0.1054   0.0566      0.1010
+    903    905   31.7    0.1664   0.2360      0.1335
+    891    903   38.2    0.1679   0.1011      0.1522
+    683    685   88.0    0.1447   0.0169      0.1335
+    683    684   40.6    0.1330   0.1378      0.1229
+    678    681  124.5    0.1529   0.0383      0.1410
+    678    680   71.0    0.1205   0.0888      0.1090
+    678    679   51.6    0.1205   0.1173      0.1090
+    674    676  167.4    0.1463   0.3359      0.1449
+    674    675  176.2    0.1129   0.2048      0.1010
+    672    674   32.3    0.1679   0.4600      0.1335
+    672    673   56.8    0.1264   0.0425      0.1229
+    659    672   93.1    0.1683   0.0819      0.1522
+    659    660   31.8    0.1690   0.1275      0.1090
+    657    659   35.8    0.2005   0.2131      0.1449
+    385    387   32.2    0.1479   0.1244      0.1335
+    385    386  143.3    0.1357   0.0482      0.1229
+    377    383   45.9    0.1555   0.0989      0.1410
+    377    379   43.6    0.1661   0.1190      0.1526
+    377    378  138.3    0.1239   0.0696      0.1090
+    373    375  129.3    0.1117   0.0880      0.1449
+    373    374  107.4    0.0965   0.0623      0.1010
+    371    372   63.1    0.1176   0.0495      0.1229
+    368    370  167.7    0.1696   0.2427      0.1090
+    368    369  152.6    0.1696   0.2651      0.1090
+    366    368  125.5    0.2043   0.2598      0.1449
+    366    367   77.8    0.1120   0.1390      0.1010
+    364    366   45.7    0.1449   0.1853      0.1335
+    155    157  115.8    0.1467   0.0492      0.1335
+    155    156   58.7    0.1348   0.1287      0.1229
+    149    152   32.8    0.1115   0.1503      0.1090
+    149    151   31.3    0.1115   0.1534      0.1090
+    147    153   62.2    0.1538   0.1536      0.1410
+    147    149  136.9    0.1636   0.0816      0.1526
+    147    148   81.2    0.1215   0.1339      0.1090
+    143    145  179.7    0.1477   0.5594      0.1449
+    143    144  168.5    0.1270   0.3179      0.1010
+    141    143   36.8    0.1780   0.6543      0.1335
+    141    142  163.7    0.1255   0.1549      0.1229
+    128    130   96.1    0.1237   0.0394      0.1090
+    128    129   36.9    0.1237   0.0840      0.1090
+    126    141  172.4    0.1381   0.1696      0.1522
+     45     47   61.5    0.1459   0.0226      0.1335
+     34     36   34.0    0.1216   0.0437      0.1090
+     30     32  171.9    0.1095   0.1498      0.1449
+     30     31  161.3    0.0888   0.1417      0.1010
+     28     29  140.6    0.1407   0.1297      0.1229
+     14     17   34.2    0.1618   0.1271      0.1510
+     14     16   44.6    0.1207   0.1022      0.1090
+     14     15   81.5    0.1207   0.0329      0.1090
+     12     28  163.7    0.1551   0.2011      0.1522
+     10     11   49.4    0.1114   0.0930      0.1010
+      8     10   83.4    0.1433   0.0216      0.1335
+   3343   3347  158.0    0.1339   0.0658      0.1499
+   3342   3347  164.5    0.1327   0.0873      0.1499
+   3342   3343  145.4    0.1338   0.0401      0.1499
+   3341   3342   59.5    0.1480   0.1077      0.1503
+Step=    4, Dmax= 1.2e-03 nm, Epot=  9.19013e+09 Fmax= 1.23881e+13, atom= 1526
+Step 5, time 0.005 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.681218, max 22.350018 (between atoms 1668 and 1670)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+   3299   3300   38.6    0.1043   0.1523      0.1010
+   3297   3299  163.6    0.1458   0.0726      0.1335
+   3297   3298   56.9    0.1341   0.1343      0.1229
+   3287   3293   47.4    0.1645   0.1360      0.1526
+   3287   3289   50.4    0.1648   0.1259      0.1526
+   3287   3288  135.7    0.1229   0.0689      0.1090
+   3283   3285  166.4    0.1360   0.3106      0.1449
+   3283   3284  166.6    0.1158   0.1817      0.1010
+   3281   3283   43.7    0.1919   0.4483      0.1335
+   3281   3282   53.9    0.1821   0.0664      0.1229
+   3266   3281  109.8    0.1750   0.1076      0.1522
+   3266   3267   33.4    0.1846   0.1837      0.1090
+   3264   3266   33.3    0.2136   0.2438      0.1449
+   3220   3221   37.0    0.1299   0.0437      0.1229
+   3215   3217  172.0    0.1247   0.2878      0.1449
+   3215   3216  166.5    0.0926   0.1844      0.1010
+   3213   3215   32.3    0.1683   0.4719      0.1335
+   3213   3214   70.3    0.1353   0.1144      0.1229
+   3193   3213  160.0    0.1476   0.1380      0.1522
+   3157   3158   42.5    0.1059   0.0728      0.1010
+   3155   3157   35.3    0.1680   0.2007      0.1335
+   3155   3156   30.2    0.1513   0.1208      0.1229
+   2874   2875   33.9    0.1304   0.0455      0.1229
+   2865   2868   36.2    0.1609   0.0490      0.1526
+   2865   2867   44.8    0.1180   0.0993      0.1090
+   2865   2866   45.4    0.1180   0.0978      0.1090
+   2861   2863  178.1    0.1457   0.3120      0.1449
+   2861   2862  161.0    0.1069   0.2069      0.1010
+   2859   2861   41.6    0.1750   0.5239      0.1335
+   2859   2860  150.4    0.1311   0.0829      0.1229
+   2856   2859  169.5    0.1532   0.1802      0.1522
+   2732   2734   56.4    0.1534   0.1159      0.1335
+   2732   2733  152.0    0.1411   0.0821      0.1229
+   2717   2719   41.6    0.1128   0.1746      0.1090
+   2717   2718   43.1    0.1128   0.1729      0.1090
+   2714   2717  147.4    0.1739   0.1128      0.1526
+   2714   2716   88.7    0.1333   0.1271      0.1090
+   2714   2715   93.7    0.1333   0.1254      0.1090
+   2710   2712  163.7    0.1393   0.2820      0.1449
+   2710   2711  156.7    0.1380   0.2131      0.1010
+   2708   2709  149.4    0.1717   0.1801      0.1229
+   2706   2708  163.5    0.1600   0.1887      0.1522
+   2703   2705  130.4    0.1360   0.0823      0.1090
+   2703   2704   62.7    0.1360   0.1108      0.1090
+   2700   2703   71.7    0.1741   0.0907      0.1526
+   2696   2697   84.3    0.1704   0.0646      0.1449
+   2694   2696   59.0    0.1619   0.0938      0.1335
+   2584   2586   46.8    0.1485   0.1210      0.1335
+   2584   2585  155.0    0.1353   0.0767      0.1229
+   2576   2582   49.7    0.1563   0.1301      0.1410
+   2576   2578   49.8    0.1664   0.1296      0.1526
+   2576   2577  154.9    0.1244   0.0892      0.1090
+   2572   2574  164.3    0.1251   0.2530      0.1449
+   2572   2573  170.1    0.1122   0.1557      0.1010
+   2570   2572   35.5    0.1881   0.4245      0.1335
+   2570   2571   80.0    0.1766   0.0642      0.1229
+   2558   2570  113.3    0.1811   0.1091      0.1522
+   2558   2559   30.7    0.1928   0.1933      0.1090
+   2556   2558   33.4    0.2214   0.2641      0.1449
+   2556   2557   43.4    0.1173   0.0645      0.1010
+   2350   2352  148.5    0.1454   0.0810      0.1335
+   2350   2351   68.4    0.1337   0.1455      0.1229
+   2345   2348  160.6    0.1536   0.1267      0.1410
+   2345   2347   96.0    0.1219   0.1470      0.1090
+   2345   2346   82.0    0.1220   0.1587      0.1090
+   2341   2343  175.7    0.1474   0.6206      0.1449
+   2341   2342  171.0    0.1192   0.3526      0.1010
+   2339   2341   31.2    0.1720   0.6828      0.1335
+   2339   2340  153.5    0.1133   0.1410      0.1229
+   2326   2339  161.5    0.1561   0.1679      0.1522
+   2326   2328   32.6    0.2115   0.2298      0.1526
+   2326   2327   41.6    0.1708   0.1917      0.1090
+   2324   2326   35.3    0.2035   0.2848      0.1449
+   2324   2325   30.4    0.1120   0.0812      0.1010
+   2052   2053   84.5    0.1365   0.0302      0.1229
+   2044   2045  116.9    0.1267   0.0339      0.1090
+   2040   2042  169.3    0.1273   0.1156      0.1449
+   2040   2041  157.8    0.1020   0.0978      0.1010
+   2038   2040   32.7    0.1823   0.3408      0.1335
+   2038   2039   81.3    0.1715   0.0826      0.1229
+   2035   2038  110.3    0.1769   0.1114      0.1522
+   2033   2035   30.2    0.2238   0.2665      0.1449
+   2033   2034   63.9    0.1178   0.0532      0.1010
+   1822   1824   46.5    0.1443   0.0288      0.1335
+   1822   1823   38.4    0.1320   0.1137      0.1229
+   1814   1820   36.1    0.1506   0.1158      0.1410
+   1814   1816   40.7    0.1615   0.0472      0.1526
+   1814   1815   40.8    0.1189   0.1166      0.1090
+   1810   1812  176.1    0.1500   0.2862      0.1449
+   1810   1811  151.2    0.1104   0.1573      0.1010
+   1808   1810   43.5    0.1896   0.3842      0.1335
+   1793   1808   57.6    0.1577   0.0953      0.1522
+   1712   1714  157.0    0.1518   0.0639      0.1335
+   1712   1713   51.0    0.1388   0.1295      0.1229
+   1701   1704   62.2    0.1719   0.1058      0.1526
+   1701   1703  143.4    0.1297   0.0926      0.1090
+   1701   1702   72.2    0.1297   0.1099      0.1090
+   1697   1699  162.0    0.1279   0.1818      0.1449
+   1697   1698  157.1    0.1248   0.1319      0.1010
+   1695   1697   34.9    0.1852   0.4066      0.1335
+   1695   1696  111.1    0.1831   0.1045      0.1229
+   1681   1684  125.3    0.1728   0.0988      0.1510
+   1681   1683   84.5    0.1335   0.0903      0.1090
+   1681   1682   80.3    0.1335   0.0913      0.1090
+   1679   1695  127.0    0.1877   0.1275      0.1522
+   1677   1678   86.7    0.1185   0.0752      0.1010
+   1672   1675  101.1    0.1375   1.0473      0.1522
+   1672   1674   83.0    0.0685   1.0535      0.1090
+   1672   1673  115.5    0.0685   0.9203      0.1090
+   1670   1672  174.0    1.8982   1.1004      0.1449
+   1670   1671  154.3    1.4500   1.2809      0.1010
+   1668   1670  118.0    0.7922   3.1172      0.1335
+   1668   1669  153.2    1.8962   0.7927      0.1229
+   1660   1663   48.2    0.1552   0.1801      0.1522
+   1660   1662   46.3    0.1801   0.1312      0.1090
+   1660   1661   47.8    0.1801   0.1332      0.1090
+   1658   1668  170.0    1.3714   0.8571      0.1522
+   1658   1660   99.3    0.7567   0.6358      0.1526
+   1658   1659   83.8    0.7774   0.8737      0.1090
+   1656   1658   79.6    0.7757   0.8619      0.1449
+   1656   1657   90.5    0.0693   0.3469      0.1010
+   1654   1656  102.4    0.1024   0.2841      0.1335
+   1632   1633   41.2    0.1071   0.1566      0.1010
+   1630   1632  164.0    0.1594   0.1052      0.1335
+   1630   1631   74.1    0.1479   0.1389      0.1229
+   1622   1625   33.9    0.1138   0.1439      0.1090
+   1622   1624   32.3    0.1138   0.1466      0.1090
+   1620   1626   93.7    0.1778   0.1645      0.1526
+   1620   1622  122.9    0.1774   0.1487      0.1526
+   1620   1621  135.5    0.1385   0.1865      0.1090
+   1616   1618  165.6    0.1141   0.3747      0.1449
+   1616   1617  158.1    0.1288   0.2635      0.1010
+   1614   1615  152.7    0.1812   0.2227      0.1229
+   1603   1606   35.4    0.1128   0.1466      0.1090
+   1603   1605   34.5    0.1128   0.1482      0.1090
+   1601   1607   66.9    0.1788   0.1099      0.1526
+   1601   1603  115.1    0.1778   0.0712      0.1526
+   1601   1602   73.7    0.1380   0.1112      0.1090
+   1599   1614  164.8    0.1963   0.2217      0.1522
+   1599   1600   33.5    0.2010   0.3085      0.1090
+   1597   1599   33.6    0.2274   0.4144      0.1449
+   1597   1598   75.4    0.1252   0.0707      0.1010
+   1595   1597   76.1    0.1553   0.0388      0.1335
+   1550   1552   31.6    0.1761   0.2685      0.1090
+   1550   1551   38.0    0.1761   0.2445      0.1090
+   1548   1550  171.0    0.1339   0.2136      0.1449
+   1548   1549  161.7    0.1015   0.2109      0.1010
+   1546   1547  153.8    0.1252   0.2752      0.1229
+   1528   1531   66.4    0.1653   0.1540      0.1526
+   1528   1530  155.5    0.1239   0.1431      0.1090
+   1528   1529   89.9    0.1239   0.1357      0.1090
+   1526   1546  175.2    0.1422   0.4815      0.1522
+   1524   1525  107.0    0.1128   0.1362      0.1010
+   1522   1524  150.6    0.1455   0.1135      0.1335
+   1522   1523   30.3    0.1276   0.1723      0.1229
+   1488   1490   36.0    0.1709   0.1699      0.1335
+   1194   1196  173.6    0.1446   0.1842      0.1449
+   1194   1195  139.5    0.1026   0.1089      0.1010
+   1192   1194   41.1    0.1720   0.3764      0.1335
+   1192   1193   46.7    0.1498   0.0537      0.1229
+   1189   1192   93.0    0.1669   0.0501      0.1522
+   1065   1067   65.2    0.1498   0.1162      0.1335
+   1065   1066  151.2    0.1366   0.1015      0.1229
+   1050   1052   39.2    0.1119   0.1773      0.1090
+   1050   1051   43.9    0.1119   0.1714      0.1090
+   1047   1050  146.3    0.1664   0.1215      0.1526
+   1047   1049  113.1    0.1239   0.1380      0.1090
+   1047   1048   70.5    0.1239   0.1580      0.1090
+   1043   1045  167.3    0.1184   0.3344      0.1449
+   1043   1044  168.9    0.1149   0.1999      0.1010
+   1041   1043   33.4    0.1877   0.4790      0.1335
+   1041   1042  133.1    0.1612   0.0792      0.1229
+   1039   1041  123.5    0.1553   0.1038      0.1522
+   1036   1038   36.4    0.1255   0.0448      0.1090
+    905    906   56.5    0.1054   0.0566      0.1010
+    903    905   31.7    0.1664   0.2360      0.1335
+    891    903   38.2    0.1679   0.1011      0.1522
+    683    685   88.0    0.1447   0.0169      0.1335
+    683    684   40.6    0.1330   0.1378      0.1229
+    678    681  124.5    0.1529   0.0383      0.1410
+    678    680   71.0    0.1205   0.0888      0.1090
+    678    679   51.6    0.1205   0.1173      0.1090
+    674    676  167.4    0.1463   0.3359      0.1449
+    674    675  176.2    0.1129   0.2048      0.1010
+    672    674   32.3    0.1679   0.4600      0.1335
+    672    673   56.8    0.1264   0.0425      0.1229
+    659    672   93.1    0.1683   0.0819      0.1522
+    659    660   31.8    0.1690   0.1275      0.1090
+    657    659   35.8    0.2005   0.2131      0.1449
+    385    387   32.2    0.1479   0.1244      0.1335
+    385    386  143.3    0.1357   0.0482      0.1229
+    377    383   45.9    0.1555   0.0989      0.1410
+    377    379   43.6    0.1661   0.1190      0.1526
+    377    378  138.3    0.1239   0.0696      0.1090
+    373    375  129.3    0.1117   0.0880      0.1449
+    373    374  107.4    0.0965   0.0623      0.1010
+    371    372   63.1    0.1176   0.0495      0.1229
+    368    370  167.7    0.1696   0.2427      0.1090
+    368    369  152.6    0.1696   0.2651      0.1090
+    366    368  125.5    0.2043   0.2598      0.1449
+    366    367   77.8    0.1120   0.1390      0.1010
+    364    366   45.7    0.1449   0.1853      0.1335
+    155    157  115.8    0.1467   0.0492      0.1335
+    155    156   58.7    0.1348   0.1287      0.1229
+    149    152   32.8    0.1115   0.1503      0.1090
+    149    151   31.3    0.1115   0.1534      0.1090
+    147    153   62.2    0.1538   0.1536      0.1410
+    147    149  136.9    0.1636   0.0816      0.1526
+    147    148   81.2    0.1215   0.1339      0.1090
+    143    145  179.7    0.1477   0.5594      0.1449
+    143    144  168.5    0.1270   0.3179      0.1010
+    141    143   36.8    0.1780   0.6543      0.1335
+    141    142  163.7    0.1255   0.1549      0.1229
+    128    130   96.1    0.1237   0.0394      0.1090
+    128    129   36.9    0.1237   0.0840      0.1090
+    126    141  172.4    0.1381   0.1696      0.1522
+     45     47   61.5    0.1459   0.0226      0.1335
+     34     36   34.0    0.1216   0.0437      0.1090
+     30     32  171.9    0.1095   0.1498      0.1449
+     30     31  161.3    0.0888   0.1417      0.1010
+     28     29  140.6    0.1407   0.1297      0.1229
+     14     17   34.2    0.1618   0.1271      0.1510
+     14     16   44.6    0.1207   0.1022      0.1090
+     14     15   81.5    0.1207   0.0329      0.1090
+     12     28  163.7    0.1551   0.2011      0.1522
+     10     11   49.4    0.1114   0.0930      0.1010
+      8     10   83.4    0.1433   0.0216      0.1335
+   3343   3347  158.0    0.1339   0.0658      0.1499
+   3342   3347  164.5    0.1327   0.0873      0.1499
+   3342   3343  145.4    0.1338   0.0401      0.1499
+   3341   3342   59.5    0.1480   0.1077      0.1503
+
+-------------------------------------------------------
+Program mdrun, VERSION 4.0.5
+Source code file: constr.c, line: 136
+
+Fatal error:
+Too many LINCS warnings (1155)
+If you know what you are doing you can adjust the lincs warning threshold in your mdp file
+or set the environment variable GMX_MAXCONSTRWARN to -1,
+but normally it is better to fix the problem
+-------------------------------------------------------
+
+"Got Coffee, Got Donuts, Got Wasted" (F. Black)
+

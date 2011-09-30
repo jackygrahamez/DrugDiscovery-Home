@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2164</id>
+    <cpid>0b528fcba06c263e2458b09e6a8faa16</cpid>
+    <create_time>1276376139</create_time>
+    <name>jon b.</name>
+    <country>United States</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1276376139</expavg_time>
+    <teamid>975</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>4217</id>
+        <create_time>1276376150</create_time>
+        <rpc_seqno>414</rpc_seqno>
+        <host_cpid>2e35d0a1d155d8368b01cee50865643c</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1276376150</expavg_time>
+        <domain_name>Im-Already-There.local</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>Power Macintosh</p_vendor>
+        <p_model>Power Macintosh [Power Macintosh Model PowerBook6,7] [AltiVec]</p_model>
+        <p_fpops>908722932.397296</p_fpops>
+        <p_iops>2790457910.02939</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>8.11.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5733</id>
+        <create_time>1286317715</create_time>
+        <rpc_seqno>60</rpc_seqno>
+        <host_cpid>6fbab28b9a5f6ff48b3eca65959e9d1a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1286317715</expavg_time>
+        <domain_name>Holly-Orrs-iMac.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU E7600 @ 3.06GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3569209259.23895</p_fpops>
+        <p_iops>7418290046.79108</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.4.0</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2883</id>
+    <cpid>ec8bf01ca4486fbbadf248662dd947b9</cpid>
+    <create_time>1288469868</create_time>
+    <name>Scrnet</name>
+    <country>Italy</country>
+    <total_credit>35.753356</total_credit>
+    <expavg_credit>0.06294</expavg_credit>
+    <expavg_time>1314404107.93139</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>6018</id>
+        <create_time>1288474039</create_time>
+        <rpc_seqno>214</rpc_seqno>
+        <host_cpid>49e139f3477881dbc9bcdf15b90e43bc</host_cpid>
+        <total_credit>35.753356</total_credit>
+        <expavg_credit>0.06294</expavg_credit>
+        <expavg_time>1314404107.94865</expavg_time>
+        <domain_name>99025695H</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2334054477.44492</p_fpops>
+        <p_iops>6877822254.05784</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Enterprise x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6017</id>
+        <create_time>1288470936</create_time>
+        <rpc_seqno>81</rpc_seqno>
+        <host_cpid>b1e63c48fb6be571e9119d7174b2983a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1288470936</expavg_time>
+        <domain_name>Scrnet-PC</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2321344232.6948</p_fpops>
+        <p_iops>6601433701.04516</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7094</id>
+        <create_time>1293582987</create_time>
+        <rpc_seqno>7</rpc_seqno>
+        <host_cpid>539bc1bfd530996aa79f18af5e8edd98</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1293582987</expavg_time>
+        <domain_name>scrnet-VGN-NR11S-S</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     T5250  @ 1.50GHz [Family 6 Model 15 Stepping 13]</p_model>
+        <p_fpops>1382421254.22762</p_fpops>
+        <p_iops>7773634174.81136</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-24-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

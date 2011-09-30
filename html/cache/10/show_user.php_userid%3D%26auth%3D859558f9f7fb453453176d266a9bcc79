@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2216</id>
+    <cpid>533cb72aeceb220f29dc1de926233ce2</cpid>
+    <create_time>1277317928</create_time>
+    <name>thedarkshaman</name>
+    <country>France</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1277317928</expavg_time>
+    <teamid>0</teamid>
+    <url>thedarkshaman@free.fr</url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5051</id>
+        <create_time>1281872010</create_time>
+        <rpc_seqno>137</rpc_seqno>
+        <host_cpid>54881cbd9a866871835402b9fbd154cd</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1281872010</expavg_time>
+        <domain_name>merlin</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.00GHz [Family 15 Model 4 Stepping 3]</p_model>
+        <p_fpops>999937503.906006</p_fpops>
+        <p_iops>2991978769.63325</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-5-amd64</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>7527</id>
+        <create_time>1296171332</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>786a1f3ba4f9bc8c9512e37e1a0c723d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1296171332</expavg_time>
+        <domain_name>VJcollectifV</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) XP 2500+ [Family 6 Model 10 Stepping 0]</p_model>
+        <p_fpops>1777777777.77778</p_fpops>
+        <p_iops>2942936106.28272</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

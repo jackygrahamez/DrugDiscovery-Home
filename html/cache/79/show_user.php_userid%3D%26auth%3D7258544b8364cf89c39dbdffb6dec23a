@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4822</id>
+    <cpid>873a74e6c9facc42faf6e459609e6a7d</cpid>
+    <create_time>1311758856</create_time>
+    <name>alanthecelt</name>
+    <country>United Kingdom</country>
+    <total_credit>0</total_credit>
+    <expavg_credit>0</expavg_credit>
+    <expavg_time>1311758856</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9601</id>
+        <create_time>1311761927</create_time>
+        <rpc_seqno>24</rpc_seqno>
+        <host_cpid>ff4c5f36a6193c647622b02563578c1d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311761927</expavg_time>
+        <domain_name>ubuntu</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz [Family 6 Model 23 Stepping 6]</p_model>
+        <p_fpops>2072349214.96744</p_fpops>
+        <p_iops>6252066332.50154</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-28-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9603</id>
+        <create_time>1311765200</create_time>
+        <rpc_seqno>56</rpc_seqno>
+        <host_cpid>6dbe4c636d1d15a4e161ce80d7857875</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311765200</expavg_time>
+        <domain_name>C1-IT-03</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E6750  @ 2.66GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2549078641.0762</p_fpops>
+        <p_iops>5597305420.07062</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, (06.01.7600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9613</id>
+        <create_time>1311876931</create_time>
+        <rpc_seqno>9</rpc_seqno>
+        <host_cpid>ad2301e833632c2e53366af1ffb4d02e</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1311876931</expavg_time>
+        <domain_name>user-PC</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3023467852.80936</p_fpops>
+        <p_iops>6375600138.61225</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Professional x86 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

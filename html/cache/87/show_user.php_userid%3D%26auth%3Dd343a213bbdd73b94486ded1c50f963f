@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4115</id>
+    <cpid>b8a517298cde72ecca0b58c7d3f9f64d</cpid>
+    <create_time>1296306413</create_time>
+    <name>stasieks80_PL</name>
+    <country>Poland</country>
+    <total_credit>47.947945</total_credit>
+    <expavg_credit>1.474484</expavg_credit>
+    <expavg_time>1315568466.26493</expavg_time>
+    <teamid>103</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9017</id>
+        <create_time>1307048402</create_time>
+        <rpc_seqno>748</rpc_seqno>
+        <host_cpid>5d59a04a1a182f4d44a2275bc3cb00b5</host_cpid>
+        <total_credit>47.947945</total_credit>
+        <expavg_credit>1.490803</expavg_credit>
+        <expavg_time>1315568466.26518</expavg_time>
+        <domain_name>Piotr-VAIO</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i5 CPU       M 430  @ 2.27GHz [Family 6 Model 37 Stepping 2]</p_model>
+        <p_fpops>2251215413.93775</p_fpops>
+        <p_iops>7751052510.61458</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9991</id>
+        <create_time>1315236789</create_time>
+        <rpc_seqno>2</rpc_seqno>
+        <host_cpid>a872ada8a7c8f7fc959ccaac5d01b03d</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1315236789</expavg_time>
+        <domain_name>LaptopHP</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz [Family 6 Model 15 Stepping 6]</p_model>
+        <p_fpops>1590226492.63096</p_fpops>
+        <p_iops>3284339870.11082</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Basic x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

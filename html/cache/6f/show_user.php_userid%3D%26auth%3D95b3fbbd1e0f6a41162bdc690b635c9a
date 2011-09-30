@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4661</id>
+    <cpid>db1fe40fa52b6a284d45df26d463aac0</cpid>
+    <create_time>1307653582</create_time>
+    <name>Colin9455</name>
+    <country>Canada</country>
+    <total_credit>103.084478</total_credit>
+    <expavg_credit>0.045726</expavg_credit>
+    <expavg_time>1315247103.24815</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9092</id>
+        <create_time>1307653902</create_time>
+        <rpc_seqno>241</rpc_seqno>
+        <host_cpid>c070c2aff16cea663cf867daa9028b24</host_cpid>
+        <total_credit>92.571357</total_credit>
+        <expavg_credit>0.079929</expavg_credit>
+        <expavg_time>1314562503.77842</expavg_time>
+        <domain_name>PHOENIX1</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Xeon(TM) CPU 2.80GHz [Family 15 Model 4 Stepping 8]</p_model>
+        <p_fpops>1260934719.23109</p_fpops>
+        <p_iops>3571802585.57606</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x64 Edition, Service Pack 2, (05.02.3790.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9290</id>
+        <create_time>1308756618</create_time>
+        <rpc_seqno>20183</rpc_seqno>
+        <host_cpid>025ac6e33de1a60d2243d6666ef0ecdc</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1308756618</expavg_time>
+        <domain_name>colinm6500</domain_name>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7 CPU       X 940  @ 2.13GHz [Family 6 Model 30 Stepping 5]</p_model>
+        <p_fpops>1931182579.82886</p_fpops>
+        <p_iops>10610207564.0734</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Ultimate x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9291</id>
+        <create_time>1308760569</create_time>
+        <rpc_seqno>41</rpc_seqno>
+        <host_cpid>a0c45f8a920e760adab5496974f44f3c</host_cpid>
+        <total_credit>10.513121</total_credit>
+        <expavg_credit>0.064618</expavg_credit>
+        <expavg_time>1312748102.98327</expavg_time>
+        <domain_name>ColinM70</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) M processor 2.13GHz [Family 6 Model 13 Stepping 8]</p_model>
+        <p_fpops>1690256410.25641</p_fpops>
+        <p_iops>3284544244.6888</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

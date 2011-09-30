@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>4887</id>
+    <cpid>56ccc0f5e438ae29bcbfb6e9bad39ee0</cpid>
+    <create_time>1313284352</create_time>
+    <name>rhoff</name>
+    <country>United States</country>
+    <total_credit>40.117035</total_credit>
+    <expavg_credit>0.507111</expavg_credit>
+    <expavg_time>1315851902.56691</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>9774</id>
+        <create_time>1313286013</create_time>
+        <rpc_seqno>79</rpc_seqno>
+        <host_cpid>3b2e5ede86c90278063e5a4390aa067d</host_cpid>
+        <total_credit>26.825799</total_credit>
+        <expavg_credit>0.425491</expavg_credit>
+        <expavg_time>1315851902.85191</expavg_time>
+        <domain_name>annyong</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz [Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>2138527150.77261</p_fpops>
+        <p_iops>6469805634.18427</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9783</id>
+        <create_time>1313350695</create_time>
+        <rpc_seqno>81</rpc_seqno>
+        <host_cpid>0b662c1370f2656f6a7b1c59d2e60f9c</host_cpid>
+        <total_credit>13.291236</total_credit>
+        <expavg_credit>0.078401</expavg_credit>
+        <expavg_time>1315851902.7819</expavg_time>
+        <domain_name>fatammy</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Sempron(tm) Processor 2800+ [Family 15 Model 44 Stepping 2]</p_model>
+        <p_fpops>1297405189.62076</p_fpops>
+        <p_iops>6851722796.76028</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-25-generic</os_version>
+        <venue></venue>
+    </host>
+</user>

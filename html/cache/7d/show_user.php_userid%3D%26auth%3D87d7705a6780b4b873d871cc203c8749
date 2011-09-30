@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>755</id>
+    <cpid>48920a563a7812450c3c7423213bf881</cpid>
+    <create_time>1251314860</create_time>
+    <name>WTBroughton</name>
+    <country>United Kingdom</country>
+    <total_credit>3579.255121376</total_credit>
+    <expavg_credit>0.082643602595681</expavg_credit>
+    <expavg_time>1314642007</expavg_time>
+    <teamid>574</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>933</id>
+        <create_time>1254861696</create_time>
+        <rpc_seqno>92</rpc_seqno>
+        <host_cpid>27e88f82990d74013a66f3e3f8e08fff</host_cpid>
+        <total_credit>263.20105689931</total_credit>
+        <expavg_credit>0.063624</expavg_credit>
+        <expavg_time>1262006702.99979</expavg_time>
+        <domain_name>WTB14</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Celeron(R) D CPU 3.20GHz [Family 15 Model 6 Stepping 5]</p_model>
+        <p_fpops>1801506930.18462</p_fpops>
+        <p_iops>4896047947.30224</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.24-24-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6430</id>
+        <create_time>1290211940</create_time>
+        <rpc_seqno>52</rpc_seqno>
+        <host_cpid>8e6024a502fc5e0097b97c706a3d449f</host_cpid>
+        <total_credit>1967.2451534767</total_credit>
+        <expavg_credit>0.082643602591948</expavg_credit>
+        <expavg_time>1314642007</expavg_time>
+        <domain_name>WTB15</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2348103315.6801</p_fpops>
+        <p_iops>4756952314.22954</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>6443</id>
+        <create_time>1290275729</create_time>
+        <rpc_seqno>12</rpc_seqno>
+        <host_cpid>d21c7fe50196f8651304c737adfb2324</host_cpid>
+        <total_credit>1348.808911</total_credit>
+        <expavg_credit>0.073966</expavg_credit>
+        <expavg_time>1294518303.15483</expavg_time>
+        <domain_name>WTB16</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Phenom(tm) 8600 Triple-Core Processor [Family 16 Model 2 Stepping 2]</p_model>
+        <p_fpops>2311170713.38306</p_fpops>
+        <p_iops>5355672213.47814</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8924</id>
+        <create_time>1306352937</create_time>
+        <rpc_seqno>6</rpc_seqno>
+        <host_cpid>aff95d0b198793b8ed1a384628eac66a</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1306352937</expavg_time>
+        <domain_name>WTB15</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2339693943.97285</p_fpops>
+        <p_iops>5073993713.76416</p_iops>
+        <os_name>Microsoft Windows Vista</os_name>
+        <os_version>Home Premium x86 Edition, Service Pack 2, (06.00.6002.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>776</id>
+    <cpid>1a7f2ed669c9a015aaefb9e365fcf805</cpid>
+    <create_time>1251345498</create_time>
+    <name>merlinl</name>
+    <country>China</country>
+    <total_credit>288.30464695713</total_credit>
+    <expavg_credit>0.069959</expavg_credit>
+    <expavg_time>1261264802.7805</expavg_time>
+    <teamid>41</teamid>
+    <url></url>
+    <has_profile>1</has_profile>
+   <venue></venue>
+    <host>
+        <id>597</id>
+        <create_time>1251856989</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>724005c6569edd4af0a79a853a252de9</host_cpid>
+        <total_credit>227.853688</total_credit>
+        <expavg_credit>0.071675</expavg_credit>
+        <expavg_time>1260641403.37632</expavg_time>
+        <domain_name>LiJZ</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3298376442.99031</p_fpops>
+        <p_iops>6214243882.20558</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>624</id>
+        <create_time>1251905289</create_time>
+        <rpc_seqno>54</rpc_seqno>
+        <host_cpid>4b8667a6485389f16dcb1f276219726e</host_cpid>
+        <total_credit>60.450958957137</total_credit>
+        <expavg_credit>0.080966</expavg_credit>
+        <expavg_time>1260499802.77754</expavg_time>
+        <domain_name>homein</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>AMD Athlon(tm) 64 X2 Dual Core Processor 4000+ [x86 Family 15 Model 107 Stepping 1]</p_model>
+        <p_fpops>2072114280.46484</p_fpops>
+        <p_iops>4241573388.98375</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 2, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+</user>

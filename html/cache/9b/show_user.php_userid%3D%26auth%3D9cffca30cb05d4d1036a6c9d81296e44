@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>2764</id>
+    <cpid>088d4f9eea90821ccc165c7bfed11f2f</cpid>
+    <create_time>1285869817</create_time>
+    <name>tradergt</name>
+    <country>United States</country>
+    <total_credit>5430.417163</total_credit>
+    <expavg_credit>0.075343</expavg_credit>
+    <expavg_time>1300046703.23124</expavg_time>
+    <teamid>0</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>5675</id>
+        <create_time>1285870273</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>b3ac088ce62cf68b2407c7c640003cbd</host_cpid>
+        <total_credit>5430.417163</total_credit>
+        <expavg_credit>0.075343</expavg_credit>
+        <expavg_time>1300046703.55878</expavg_time>
+        <domain_name>jsmelser-chi.chi.corp.google.com</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 8214 HE [Family 15 Model 65 Stepping 2]</p_model>
+        <p_fpops>1749547539.52128</p_fpops>
+        <p_iops>5506417191.5641</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-gg508-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5676</id>
+        <create_time>1285870579</create_time>
+        <rpc_seqno>23</rpc_seqno>
+        <host_cpid>8422858a9e9b781c2500a9f43abda26b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285870579</expavg_time>
+        <domain_name>-macbookpro.local</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Genuine Intel(R) CPU 1600 @ 2.16GHz [x86 Family 6 Model 14 Stepping 8]</p_model>
+        <p_fpops>2076393726.10544</p_fpops>
+        <p_iops>4700316398.11634</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>9.8.0</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>5678</id>
+        <create_time>1285872858</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>0aba5b354ca9bdd1421aec9ce2b0d891</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1285872858</expavg_time>
+        <domain_name>wpgntau-ubiq10.hot.corp.google.com</domain_name>
+        <p_ncpus>3</p_ncpus>
+        <p_vendor>AuthenticAMD</p_vendor>
+        <p_model>Dual-Core AMD Opteron(tm) Processor 8214 HE [Family 15 Model 65 Stepping 2]</p_model>
+        <p_fpops>1702875313.75065</p_fpops>
+        <p_iops>5426254726.23445</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.32-gg508-ganetixenu</os_version>
+        <venue>Default</venue>
+    </host>
+    <host>
+        <id>5832</id>
+        <create_time>1287179741</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>6e63d2811f27bdde5b7afeb767f4bde1</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1287179741</expavg_time>
+        <domain_name>butters</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) XEON(TM) CPU 1.80GHz [Family 15 Model 2 Stepping 4]</p_model>
+        <p_fpops>74010183.558108</p_fpops>
+        <p_iops>686304615.432828</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-22-generic-pae</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>9498</id>
+        <create_time>1310602808</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>61666b837fae4f260a81bfca53faa446</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1310602808</expavg_time>
+        <domain_name>dhcp-172-31-47-219.chi.corp.google.com</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz [x86 Family 6 Model 23 Stepping 10]</p_model>
+        <p_fpops>3106307795.65847</p_fpops>
+        <p_iops>6455215390.80812</p_iops>
+        <os_name>Darwin</os_name>
+        <os_version>10.8.0</os_version>
+        <venue></venue>
+    </host>
+</user>

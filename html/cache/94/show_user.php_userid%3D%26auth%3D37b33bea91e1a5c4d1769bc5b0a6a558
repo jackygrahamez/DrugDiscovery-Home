@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<user>
+    <id>426</id>
+    <cpid>88a8c749f3099261b980a1e9f7223479</cpid>
+    <create_time>1240406008</create_time>
+    <name>Chris Duke</name>
+    <country>United States</country>
+    <total_credit>2624.1072094625</total_credit>
+    <expavg_credit>0.250944</expavg_credit>
+    <expavg_time>1315851902.56225</expavg_time>
+    <teamid>411</teamid>
+    <url></url>
+    <has_profile>0</has_profile>
+   <venue></venue>
+    <host>
+        <id>3161</id>
+        <create_time>1269767200</create_time>
+        <rpc_seqno>2243</rpc_seqno>
+        <host_cpid>afa2d16386f324967dad2ac92ec5c19f</host_cpid>
+        <total_credit>2191.7571184625</total_credit>
+        <expavg_credit>0.250944</expavg_credit>
+        <expavg_time>1315851902.84599</expavg_time>
+        <domain_name>Systemax-Quad</domain_name>
+        <p_ncpus>4</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz [Family 6 Model 15 Stepping 11]</p_model>
+        <p_fpops>2232188260.05569</p_fpops>
+        <p_iops>6572781741.82727</p_iops>
+        <os_name>Microsoft Windows 7</os_name>
+        <os_version>Home Premium x64 Edition, Service Pack 1, (06.01.7601.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>4861</id>
+        <create_time>1280634602</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>81629e0fafe4f3ccc36daf9ec8582f35</host_cpid>
+        <total_credit>432.350091</total_credit>
+        <expavg_credit>0.07186</expavg_credit>
+        <expavg_time>1293308703.45508</expavg_time>
+        <domain_name>PCV-RX660</domain_name>
+        <p_ncpus>1</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 1.80GHz [Family 15 Model 1 Stepping 2]</p_model>
+        <p_fpops>581359134.605402</p_fpops>
+        <p_iops>1669680141.10359</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.35-27-generic</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8218</id>
+        <create_time>1301156589</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>dbc3b1e8dac08013c12e3c800879dd48</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301156589</expavg_time>
+        <domain_name>ultra-p4</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Pentium(R) 4 CPU 3.06GHz [Family 15 Model 2 Stepping 9]</p_model>
+        <p_fpops>1612598425.19685</p_fpops>
+        <p_iops>3065021814.51364</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>8219</id>
+        <create_time>1301156847</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>b35ffeeb1b2de3d303c547af9d623526</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1301156847</expavg_time>
+        <domain_name>tyan-tiger-133</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>[Family 6 Model 8 Stepping 6]</p_model>
+        <p_fpops>838293135.435993</p_fpops>
+        <p_iops>1275383498.2163</p_iops>
+        <os_name>Microsoft Windows XP</os_name>
+        <os_version>Professional x86 Edition, Service Pack 3, (05.01.2600.00)</os_version>
+        <venue></venue>
+    </host>
+    <host>
+        <id>10108</id>
+        <create_time>1316129647</create_time>
+        <rpc_seqno>0</rpc_seqno>
+        <host_cpid>e568390f7df4b31596dd5ef209bd144b</host_cpid>
+        <total_credit>0</total_credit>
+        <expavg_credit>0</expavg_credit>
+        <expavg_time>1316129647</expavg_time>
+        <domain_name>LENOVO-S10</domain_name>
+        <p_ncpus>2</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Atom(TM) CPU N270   @ 1.60GHz [Family 6 Model 28 Stepping 2]</p_model>
+        <p_fpops>383205452.92996</p_fpops>
+        <p_iops>1494612584.6464</p_iops>
+        <os_name>Linux</os_name>
+        <os_version>2.6.38-11-generic</os_version>
+        <venue></venue>
+    </host>
+</user>
